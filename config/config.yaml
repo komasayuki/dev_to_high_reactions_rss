@@ -1,0 +1,11 @@
+min_reactions: 30
+lookback_days: 7
+per_page: 100
+max_pages: 5
+max_feed_entries: 200
+max_stored_days: 60
+max_stored_items: 1000
+site_title: "DEV Top filtered"
+site_description: "DEV Top articles filtered by reactions threshold"
+site_url: ""
+feed_path: "feed.xml"

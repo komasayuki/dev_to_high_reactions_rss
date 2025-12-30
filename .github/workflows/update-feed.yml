@@ -1,0 +1,68 @@
+name: Update feed
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      MIN_REACTIONS: ${{ vars.MIN_REACTIONS }}
+      LOOKBACK_DAYS: ${{ vars.LOOKBACK_DAYS }}
+      SITE_URL: ${{ vars.SITE_URL }}
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: public
+          fetch-depth: 0
+
+      - name: Setup Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache cargo
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cargo-
+
+      - name: Build and run
+        run: |
+          cargo run --release --bin devto-feed -- \
+            --config config/config.yaml \
+            --state public/state/articles.json \
+            --out public/feed.xml \
+            --index public/index.html \
+            --last-build public/last_build.txt
+
+      - name: Commit and push
+        run: |
+          cd public
+          touch .nojekyll
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(feed): update"
+          git push
