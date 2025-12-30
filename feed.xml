@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2025-12-29T11:19:03+00:00</updated>
+  <updated>2025-12-30T06:30:23+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -40,6 +40,13 @@
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3117474</id>
+    <title>The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job</title>
+    <link rel="alternate" href="https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn"/>
+    <updated>2025-12-30T06:30:23+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T06:30:23Z&lt;br/&gt;Tags: softwareengineering, career, leetcode, aws&lt;br/&gt;Description: The tech job market is brutal. Let’s not sugarcoat it. It can feel like sending your resume into a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2025:3122739</id>
