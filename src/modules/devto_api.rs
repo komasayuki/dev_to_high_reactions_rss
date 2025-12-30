@@ -1,6 +1,7 @@
 use crate::config::AppConfig;
 use crate::error::AppError;
 use reqwest::blocking::Client;
+use reqwest::header::{HeaderMap, HeaderValue, ACCEPT};
 use reqwest::StatusCode;
 use serde::Deserialize;
 use std::thread::sleep;
@@ -9,6 +10,7 @@ use std::time::Duration;
 const BASE_URL: &str = "https://dev.to/api/articles";
 const MAX_RETRIES: usize = 3;
 const TIMEOUT_SECS: u64 = 15;
+const USER_AGENT: &str = "devto-feed/0.1 (+https://github.com)";
 
 #[derive(Debug, Clone, Deserialize)]
 pub struct Article {
@@ -20,10 +22,17 @@ pub struct Article {
     pub published_timestamp: Option<String>,
     pub published_at: Option<String>,
     pub edited_at: Option<String>,
-    pub public_reactions_count: Option<u32>,
-    pub positive_reactions_count: Option<u32>,
-    pub tag_list: Option<String>,
+    pub public_reactions_count: Option<i64>,
+    pub positive_reactions_count: Option<i64>,
+    pub tag_list: Option<TagList>,
     pub user: Option<User>,
+}
+
+#[derive(Debug, Clone, Deserialize)]
+#[serde(untagged)]
+pub enum TagList {
+    String(String),
+    List(Vec<String>),
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -33,8 +42,12 @@ pub struct User {
 }
 
 pub fn fetch_articles(config: &AppConfig) -> Result<Vec<Article>, AppError> {
+    let mut headers = HeaderMap::new();
+    headers.insert(ACCEPT, HeaderValue::from_static("application/json"));
     let client = Client::builder()
         .timeout(Duration::from_secs(TIMEOUT_SECS))
+        .user_agent(USER_AGENT)
+        .default_headers(headers)
         .build()
         .map_err(|e| AppError::network(format!("HTTP クライアント作成失敗: {}", e)))?;
 

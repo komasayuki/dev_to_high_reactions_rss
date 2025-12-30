@@ -43,7 +43,7 @@ fn run() -> Result<(), AppError> {
     let articles = fetch_articles(&config)?;
     let filtered: Vec<_> = articles
         .into_iter()
-        .filter(|item| item.public_reactions_count.unwrap_or(0) >= config.min_reactions)
+        .filter(|item| item.public_reactions_count.unwrap_or(0) >= config.min_reactions as i64)
         .collect();
 
     let merged = state.merge_from_api(&filtered, now);

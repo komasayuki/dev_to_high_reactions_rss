@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "key": "3119796",
+      "id": 3119796,
+      "canonical_url": "https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k",
+      "url": "https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k",
+      "title": "Technical Debt Is a Myth Created By Bad Managers",
+      "description": "Hot take incoming. Buckle up.     I've spent quite some time writing about technical debt, preaching...",
+      "published_timestamp": "2025-12-23T03:05:47Z",
+      "published_at": "2025-12-23T03:05:47Z",
+      "edited_at": null,
+      "public_reactions_count": 69,
+      "positive_reactions_count": 69,
+      "tag_list": [
+        "productivity",
+        "management",
+        "webdev",
+        "software"
+      ],
+      "user_name": "Adam - The Developer",
+      "user_username": "adamthedeveloper",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3121699",
+      "id": 3121699,
+      "canonical_url": "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k",
+      "url": "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k",
+      "title": "Where we're going, we don't need chatbots: introducing the Antigravity IDE 🚀",
+      "description": "Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...",
+      "published_timestamp": "2025-12-23T02:19:15Z",
+      "published_at": "2025-12-23T02:19:15Z",
+      "edited_at": "2025-12-23T02:20:03Z",
+      "public_reactions_count": 38,
+      "positive_reactions_count": 38,
+      "tag_list": [
+        "programming",
+        "ai",
+        "productivity",
+        "webdev"
+      ],
+      "user_name": "Paige Bailey",
+      "user_username": "dynamicwebpaige",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3122739",
+      "id": 3122739,
+      "canonical_url": "https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj",
+      "url": "https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj",
+      "title": "I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+)",
+      "description": "TL;DR   I deployed a semantic search system on Cloudflare's edge that costs $5-10/month...",
+      "published_timestamp": "2025-12-24T13:55:43Z",
+      "published_at": "2025-12-24T13:55:43Z",
+      "edited_at": "2025-12-25T01:24:10Z",
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
+      "tag_list": [
+        "webdev",
+        "ai",
+        "cloudflare",
+        "architecture"
+      ],
+      "user_name": "Daniel Nwaneri",
+      "user_username": "dannwaneri",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3123504",
+      "id": 3123504,
+      "canonical_url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "published_timestamp": "2025-12-23T20:27:40Z",
+      "published_at": "2025-12-23T20:27:40Z",
+      "edited_at": null,
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "top7",
+        "discuss"
+      ],
+      "user_name": "Jess Lee",
+      "user_username": "jess",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3123641",
+      "id": 3123641,
+      "canonical_url": "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk",
+      "url": "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk",
+      "title": "From Genin to Kage - Understanding the Test Pyramid with Naruto",
+      "description": "It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...",
+      "published_timestamp": "2025-12-23T23:35:23Z",
+      "published_at": "2025-12-23T23:35:23Z",
+      "edited_at": "2025-12-23T23:36:41Z",
+      "public_reactions_count": 61,
+      "positive_reactions_count": 61,
+      "tag_list": [
+        "testing",
+        "beginners",
+        "basic",
+        "automation"
+      ],
+      "user_name": "Alicia Marianne 🇧🇷 ",
+      "user_username": "m4rri4nne",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3125095",
+      "id": 3125095,
+      "canonical_url": "https://composio.dev/blog/tool-calling-with-ministral-3b",
+      "url": "https://dev.to/composiodev/ministral-3-3b-local-setup-guide-with-mcp-tool-calling-icm",
+      "title": "Ministral 3 3B Local Setup Guide with MCP Tool Calling 🔥",
+      "description": "Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let's test it...",
+      "published_timestamp": "2025-12-24T16:26:00Z",
+      "published_at": "2025-12-24T16:26:00Z",
+      "edited_at": null,
+      "public_reactions_count": 37,
+      "positive_reactions_count": 37,
+      "tag_list": [
+        "ai",
+        "mcp",
+        "productivity",
+        "tutorial"
+      ],
+      "user_name": "Shrijal Acharya",
+      "user_username": "shricodev",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3125588",
+      "id": 3125588,
+      "canonical_url": "https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko",
+      "url": "https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko",
+      "title": "Coding Without Pressure: How Slowing Down Helped Me Learn Faster",
+      "description": "For a long time, I thought learning to code had to feel intense. Daily goals. Long hours. Constant...",
+      "published_timestamp": "2025-12-25T06:40:23Z",
+      "published_at": "2025-12-25T06:40:23Z",
+      "edited_at": null,
+      "public_reactions_count": 193,
+      "positive_reactions_count": 193,
+      "tag_list": [
+        "webdev",
+        "productivity",
+        "learning",
+        "programming"
+      ],
+      "user_name": "Hadil Ben Abdallah",
+      "user_username": "hadil",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3127403",
+      "id": 3127403,
+      "canonical_url": "https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm",
+      "url": "https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm",
+      "title": "DevOps From Scratch: Entry #01",
+      "description": "Linux Foundation: The \"Cockpit\" of the Cloud   I have used windows all my life, my very...",
+      "published_timestamp": "2025-12-26T03:02:42Z",
+      "published_at": "2025-12-26T03:02:42Z",
+      "edited_at": "2025-12-27T05:56:11Z",
+      "public_reactions_count": 38,
+      "positive_reactions_count": 38,
+      "tag_list": [
+        "devops",
+        "linux",
+        "learning"
+      ],
+      "user_name": "Maame Afua A. P. Fordjour ",
+      "user_username": "maame-codes",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    },
+    {
+      "key": "3131509",
+      "id": 3131509,
+      "canonical_url": "https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om",
+      "url": "https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om",
+      "title": "Skills They Don't Teach You in Tutorials but Companies Actually Pay For",
+      "description": "I've been writing code professionally for over a decade now, and somewhere around year three, I had...",
+      "published_timestamp": "2025-12-28T13:49:16Z",
+      "published_at": "2025-12-28T13:49:16Z",
+      "edited_at": null,
+      "public_reactions_count": 55,
+      "positive_reactions_count": 55,
+      "tag_list": [
+        "discuss",
+        "programming",
+        "productivity",
+        "codenewbie"
+      ],
+      "user_name": "TheBitForge",
+      "user_username": "thebitforge",
+      "last_seen": "2025-12-30T01:44:21.674365+00:00"
+    }
+  ]
+}

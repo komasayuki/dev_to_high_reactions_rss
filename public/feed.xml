@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:dev.to,2025:devto-feed</id>
+  <title>DEV Top filtered</title>
+  <updated>2025-12-28T13:49:16+00:00</updated>
+  <link rel="self" href="feed.xml"/>
+  <link rel="alternate" href="index.html"/>
+  <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
+  <entry>
+    <id>tag:dev.to,2025:3125588</id>
+    <title>Coding Without Pressure: How Slowing Down Helped Me Learn Faster</title>
+    <link rel="alternate" href="https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko"/>
+    <updated>2025-12-25T06:40:23+00:00</updated>
+    <summary type="html">Reactions: public 193 / positive 193&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2025-12-25T06:40:23Z&lt;br/&gt;Tags: webdev, productivity, learning, programming&lt;br/&gt;Description: For a long time, I thought learning to code had to feel intense. Daily goals. Long hours. Constant...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3119796</id>
+    <title>Technical Debt Is a Myth Created By Bad Managers</title>
+    <link rel="alternate" href="https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k"/>
+    <updated>2025-12-23T03:05:47+00:00</updated>
+    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3123641</id>
+    <title>From Genin to Kage - Understanding the Test Pyramid with Naruto</title>
+    <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
+    <updated>2025-12-23T23:36:41+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3131509</id>
+    <title>Skills They Don&apos;t Teach You in Tutorials but Companies Actually Pay For</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om"/>
+    <updated>2025-12-28T13:49:16+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: I&apos;ve been writing code professionally for over a decade now, and somewhere around year three, I had...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3122739</id>
+    <title>I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+)</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj"/>
+    <updated>2025-12-25T01:24:10+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T13:55:43Z&lt;br/&gt;Tags: webdev, ai, cloudflare, architecture&lt;br/&gt;Description: TL;DR   I deployed a semantic search system on Cloudflare&apos;s edge that costs $5-10/month...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3127403</id>
+    <title>DevOps From Scratch: Entry #01</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm"/>
+    <updated>2025-12-27T05:56:11+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3121699</id>
+    <title>Where we&apos;re going, we don&apos;t need chatbots: introducing the Antigravity IDE 🚀</title>
+    <link rel="alternate" href="https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"/>
+    <updated>2025-12-23T02:20:03+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T02:19:15Z&lt;br/&gt;Tags: programming, ai, productivity, webdev&lt;br/&gt;Description: Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3125095</id>
+    <title>Ministral 3 3B Local Setup Guide with MCP Tool Calling 🔥</title>
+    <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
+    <updated>2025-12-24T16:26:00+00:00</updated>
+    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3123504</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"/>
+    <updated>2025-12-23T20:27:40+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+</feed>

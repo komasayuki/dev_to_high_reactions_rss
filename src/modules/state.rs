@@ -1,4 +1,4 @@
-use crate::devto_api::Article;
+use crate::devto_api::{Article, TagList};
 use crate::error::AppError;
 use chrono::{DateTime, Duration, FixedOffset, Utc};
 use serde::{Deserialize, Serialize};
@@ -68,8 +68,8 @@ impl StateStore {
                 published_timestamp: article.published_timestamp.clone(),
                 published_at: article.published_at.clone(),
                 edited_at: article.edited_at.clone(),
-                public_reactions_count: article.public_reactions_count.unwrap_or(0),
-                positive_reactions_count: article.positive_reactions_count.unwrap_or(0),
+                public_reactions_count: normalize_reactions(article.public_reactions_count),
+                positive_reactions_count: normalize_reactions(article.positive_reactions_count),
                 tag_list: parse_tag_list(&article.tag_list),
                 user_name: article.user.as_ref().and_then(|u| u.name.clone()),
                 user_username: article.user.as_ref().and_then(|u| u.username.clone()),
@@ -158,14 +158,27 @@ pub fn select_updated_time(item: &StoredArticle) -> Option<DateTime<FixedOffset>
     }
 }
 
-fn parse_tag_list(value: &Option<String>) -> Vec<String> {
+fn parse_tag_list(value: &Option<TagList>) -> Vec<String> {
     match value {
-        Some(tags) => tags
+        Some(TagList::String(tags)) => tags
             .split(',')
             .map(|t| t.trim())
             .filter(|t| !t.is_empty())
             .map(|t| t.to_string())
             .collect(),
+        Some(TagList::List(tags)) => tags
+            .iter()
+            .map(|t| t.trim())
+            .filter(|t| !t.is_empty())
+            .map(|t| t.to_string())
+            .collect(),
         None => Vec::new(),
+    }
+}
+
+fn normalize_reactions(value: Option<i64>) -> u32 {
+    match value {
+        Some(v) if v > 0 => v.min(u32::MAX as i64) as u32,
+        _ => 0,
     }
 }
