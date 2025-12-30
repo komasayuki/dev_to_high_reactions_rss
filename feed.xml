@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2025-12-30T12:22:21+00:00</updated>
+  <updated>2025-12-30T13:24:39+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -10,8 +10,8 @@
     <id>tag:dev.to,2025:3125588</id>
     <title>Coding Without Pressure: How Slowing Down Helped Me Learn Faster</title>
     <link rel="alternate" href="https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko"/>
-    <updated>2025-12-25T06:40:23+00:00</updated>
-    <summary type="html">Reactions: public 204 / positive 204&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2025-12-25T06:40:23Z&lt;br/&gt;Tags: webdev, productivity, learning, programming&lt;br/&gt;Description: For a long time, I thought learning to code had to feel intense. Daily goals. Long hours. Constant...</summary>
+    <updated>2025-12-30T13:24:39+00:00</updated>
+    <summary type="html">Reactions: public 204 / positive 204&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2025-12-25T06:40:23Z&lt;br/&gt;Tags: webdev, productivity, programming, codenewbie&lt;br/&gt;Description: For a long time, I thought learning to code had to feel intense. Daily goals. Long hours. Constant...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2025:3119796</id>
@@ -35,18 +35,18 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: I&apos;ve been writing code professionally for over a decade now, and somewhere around year three, I had...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2025:3117474</id>
+    <title>The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job</title>
+    <link rel="alternate" href="https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn"/>
+    <updated>2025-12-30T06:30:23+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T06:30:23Z&lt;br/&gt;Tags: softwareengineering, career, leetcode, aws&lt;br/&gt;Description: The tech job market is brutal. Let’s not sugarcoat it. It can feel like sending your resume into a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2025:3131464</id>
     <title>We&apos;re launching on ProductHunt. You can help us! 🐈‍⬛</title>
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2025:3117474</id>
-    <title>The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job</title>
-    <link rel="alternate" href="https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn"/>
-    <updated>2025-12-30T06:30:23+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T06:30:23Z&lt;br/&gt;Tags: softwareengineering, career, leetcode, aws&lt;br/&gt;Description: The tech job market is brutal. Let’s not sugarcoat it. It can feel like sending your resume into a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2025:3122739</id>
@@ -60,7 +60,7 @@
     <title>DevOps From Scratch: Entry #01</title>
     <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm"/>
     <updated>2025-12-27T05:56:11+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2025:3121699</id>
