@@ -3,25 +3,39 @@ set -euo pipefail
 
 branch="gh-pages"
 current_branch="$(git rev-parse --abbrev-ref HEAD)"
-
-if git show-ref --verify --quiet "refs/heads/${branch}"; then
-  echo "${branch} ブランチは既に存在します。"
-  exit 0
-fi
+stashed=false
 
 timestamp="$(date -u "+%Y-%m-%dT%H:%M:%SZ")"
 
-git checkout --orphan "${branch}"
-
-git rm -rf . >/dev/null 2>&1 || true
+if git show-ref --verify --quiet "refs/heads/${branch}"; then
+  echo "${branch} ブランチは既に存在します。再実行モードで続行します。"
+  if [ "${current_branch}" != "${branch}" ]; then
+    if [ -n "$(git status --porcelain)" ]; then
+      git stash push -u -m "bootstrap gh-pages"
+      stashed=true
+    fi
+    git checkout "${branch}"
+  fi
+else
+  if [ -n "$(git status --porcelain)" ]; then
+    git stash push -u -m "bootstrap gh-pages"
+    stashed=true
+  fi
+  git checkout --orphan "${branch}"
+  git rm -rf . >/dev/null 2>&1 || true
+fi
 
 mkdir -p state
 
-echo "{\"items\":[]}" > state/articles.json
+if [ ! -f state/articles.json ]; then
+  echo "{\"items\":[]}" > state/articles.json
+fi
 
 echo "${timestamp}" > last_build.txt
 
-echo "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><title>DEV feed</title></head><body><p><a href=\"feed.xml\">feed.xml</a></p></body></html>" > index.html
+if [ ! -f index.html ]; then
+  echo "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><title>DEV feed</title></head><body><p><a href=\"feed.xml\">feed.xml</a></p></body></html>" > index.html
+fi
 
 : > .nojekyll
 
@@ -32,12 +46,20 @@ fi
 
 git add -A
 
-git commit -m "chore: bootstrap gh-pages"
+if git diff --cached --quiet; then
+  echo "変更がないためコミットをスキップします。"
+else
+  git commit -m "chore: bootstrap gh-pages"
+fi
 
 git push -u origin "${branch}"
 
-if [ "${current_branch}" != "${branch}" ]; then
+if [ "${current_branch}" != "${branch}" ] && [ "${current_branch}" != "HEAD" ]; then
   git checkout "${current_branch}"
 fi
 
-echo "${branch} ブランチを作成しました。"
+if [ "${stashed}" = true ]; then
+  git stash pop
+fi
+
+echo "${branch} ブランチの準備が完了しました。"
