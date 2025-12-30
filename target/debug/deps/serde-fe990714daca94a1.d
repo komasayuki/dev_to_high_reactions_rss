@@ -1,0 +1,14 @@
+/Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/deps/serde-fe990714daca94a1.d: /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/build/serde-2beb76a2a4a45d11/out/private.rs
+
+/Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/deps/libserde-fe990714daca94a1.rlib: /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/build/serde-2beb76a2a4a45d11/out/private.rs
+
+/Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/deps/libserde-fe990714daca94a1.rmeta: /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/build/serde-2beb76a2a4a45d11/out/private.rs
+
+/Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/komasayuki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/build/serde-2beb76a2a4a45d11/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/komasayuki/Desktop/dev_to_high_reactions_rss/target/debug/build/serde-2beb76a2a4a45d11/out
