@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2025-12-30T15:59:39+00:00</updated>
+  <updated>2025-12-31T19:24:20+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -103,6 +103,13 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"/>
     <updated>2025-12-23T20:27:40+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2025:3138862</id>
+    <title>Happy New Year! 🎉 | Your Code from Last Year Still Doesn&apos;t Work 😂</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8"/>
+    <updated>2025-12-31T19:24:20+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T19:16:45Z&lt;br/&gt;Tags: programming, newyearchallenge, productivity, jokes&lt;br/&gt;Description: Or: How I Learned to Stop Worrying and Love the Semicolon I Forgot Six Months Ago     So here we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2025:3136225</id>
