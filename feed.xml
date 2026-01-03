@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-02T17:53:21+00:00</updated>
+  <updated>2026-01-03T05:04:54+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -138,5 +138,12 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"/>
     <updated>2025-12-23T20:27:40+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3145249</id>
+    <title>The Complete Full-Stack Developer Roadmap for 2026 🚀</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/the-complete-full-stack-developer-roadmap-for-2026-2i0j"/>
+    <updated>2026-01-03T05:04:54+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T04:32:15Z&lt;br/&gt;Tags: mongodb, webdev, programming, discuss&lt;br/&gt;Description: Look, I&apos;m going to be honest with you from the start.  Becoming a full-stack developer in 2026 is...</summary>
   </entry>
 </feed>
