@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-04T11:29:38+00:00</updated>
+  <updated>2026-01-04T13:59:20+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -49,6 +49,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3145249</id>
+    <title>The Complete Full-Stack Developer Roadmap for 2026 🚀</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/the-complete-full-stack-developer-roadmap-for-2026-2i0j"/>
+    <updated>2026-01-04T11:26:57+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T04:32:15Z&lt;br/&gt;Tags: mongodb, webdev, programming, discuss&lt;br/&gt;Description: hanzla-beig.netlify.app                                       Look,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3123641</id>
     <title>From Genin to Kage - Understanding the Test Pyramid with Naruto</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
@@ -61,13 +68,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8"/>
     <updated>2026-01-04T11:28:59+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T19:16:45Z&lt;br/&gt;Tags: programming, newyearchallenge, productivity, jokes&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3145249</id>
-    <title>The Complete Full-Stack Developer Roadmap for 2026 🚀</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/the-complete-full-stack-developer-roadmap-for-2026-2i0j"/>
-    <updated>2026-01-04T11:26:57+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T04:32:15Z&lt;br/&gt;Tags: mongodb, webdev, programming, discuss&lt;br/&gt;Description: hanzla-beig.netlify.app                                       Look,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3136225</id>
@@ -136,7 +136,7 @@
     <id>tag:dev.to,2026:3145711</id>
     <title>A Perfect Moment to Rethink Your Automation Strategy</title>
     <link rel="alternate" href="https://dev.to/alifar/makecom-is-down-a-perfect-moment-to-rethink-your-automation-strategy-3a3"/>
-    <updated>2026-01-03T13:58:11+00:00</updated>
+    <updated>2026-01-04T13:59:20+00:00</updated>
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T09:30:59Z&lt;br/&gt;Tags: makecom, ai, tooling, n8nbrightdatachallenge&lt;br/&gt;Description: Automation platforms like Make have evolved far beyond simple task chaining. They now sit at the core...</summary>
   </entry>
   <entry>
