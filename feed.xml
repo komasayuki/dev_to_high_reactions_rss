@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-07T18:30:00+00:00</updated>
+  <updated>2026-01-07T18:57:45+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -46,7 +46,7 @@
     <title>My 2026 Tech Stack is Boring as Hell (And That is the Point)</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1"/>
     <updated>2026-01-02T06:48:46+00:00</updated>
-    <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-02T06:48:46Z&lt;br/&gt;Tags: career, architecture, discuss, webdev&lt;br/&gt;Description: I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...</summary>
+    <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-02T06:48:46Z&lt;br/&gt;Tags: career, architecture, discuss, webdev&lt;br/&gt;Description: I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3134373</id>
@@ -222,5 +222,12 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3151212</id>
+    <title>Join the Algolia Agent Studio Challenge: $3,000 in Prizes!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli"/>
+    <updated>2026-01-07T18:57:45+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
   </entry>
 </feed>
