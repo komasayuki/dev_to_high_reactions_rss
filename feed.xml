@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-07T18:57:45+00:00</updated>
+  <updated>2026-01-08T00:44:32+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -217,6 +217,13 @@
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:50:30Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3156698</id>
+    <title>Optimizing JSON for LLMs</title>
+    <link rel="alternate" href="https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf"/>
+    <updated>2026-01-08T00:44:32+00:00</updated>
+    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3102509</id>
     <title>JavaScript Frameworks - Heading into 2026</title>
     <link rel="alternate" href="https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel"/>
@@ -231,17 +238,17 @@
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3151212</id>
+    <title>Join the Algolia Agent Studio Challenge: $3,000 in Prizes!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli"/>
+    <updated>2026-01-07T18:57:45+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146555</id>
     <title>DEV Worldwide Show and Tell Challenge · Best Use of Mux 🎥 Projura</title>
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3151212</id>
-    <title>Join the Algolia Agent Studio Challenge: $3,000 in Prizes!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli"/>
-    <updated>2026-01-07T18:57:45+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
   </entry>
 </feed>
