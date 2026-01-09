@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-08T15:22:19+00:00</updated>
+  <updated>2026-01-08T18:24:43+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -25,7 +25,7 @@
     <title>I built an app in every frontend framework</title>
     <link rel="alternate" href="https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g"/>
     <updated>2026-01-07T15:12:38+00:00</updated>
-    <summary type="html">Reactions: public 161 / positive 161&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lissy93&quot;&gt;Alicia Sykes&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:20:00Z&lt;br/&gt;Tags: performance, webdev, javascript, frontend&lt;br/&gt;Description: A detailed comparison of performance, dev experience and viability of frontend web frameworks in 2026</summary>
+    <summary type="html">Reactions: public 162 / positive 162&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lissy93&quot;&gt;Alicia Sykes&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:20:00Z&lt;br/&gt;Tags: performance, webdev, javascript, frontend&lt;br/&gt;Description: A detailed comparison of performance, dev experience and viability of frontend web frameworks in 2026</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3145249</id>
@@ -39,7 +39,7 @@
     <title>Bifrost: The fastest way to build AI applications that never go down</title>
     <link rel="alternate" href="https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9"/>
     <updated>2026-01-06T21:02:54+00:00</updated>
-    <summary type="html">Reactions: public 122 / positive 122&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T21:01:44Z&lt;br/&gt;Tags: webdev, ai, programming, opensource&lt;br/&gt;Description: LLM applications are rapidly becoming a critical part of production today. But behind the scenes,...</summary>
+    <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T21:01:44Z&lt;br/&gt;Tags: webdev, ai, programming, opensource&lt;br/&gt;Description: LLM applications are rapidly becoming a critical part of production today. But behind the scenes,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3142361</id>
@@ -257,6 +257,13 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"/>
     <updated>2025-12-23T20:27:40+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3158675</id>
+    <title>When is a side project worth committing to?</title>
+    <link rel="alternate" href="https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"/>
+    <updated>2026-01-08T18:24:43+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3149179</id>
