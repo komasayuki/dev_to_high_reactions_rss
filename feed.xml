@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-09T16:23:08+00:00</updated>
+  <updated>2026-01-10T14:31:48+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -238,6 +238,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3162468</id>
+    <title>Stop Overengineering: How to Write Clean Code That Actually Ships 🚀</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni"/>
+    <updated>2026-01-10T10:48:43+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146467</id>
     <title>I Built a Zero-Miss Cancer Screening Model Using Routine Blood Tests</title>
     <link rel="alternate" href="https://dev.to/arjuncodess/i-built-a-zero-miss-cancer-screening-model-using-routine-blood-tests-5703"/>
@@ -282,8 +289,15 @@
   <entry>
     <id>tag:dev.to,2026:3154810</id>
     <title>I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)</title>
-    <link rel="alternate" href="https://dev.to/montmont20z/building-a-game-engine-from-scratch-using-c-my-breakout-clone-journey-20d1"/>
-    <updated>2026-01-07T10:56:37+00:00</updated>
+    <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
+    <updated>2026-01-10T14:31:48+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3154237</id>
+    <title>I Am 38, I Am a Nurse, and I Have Always Wanted to Learn Coding</title>
+    <link rel="alternate" href="https://dev.to/rustypea/i-am-38-i-am-a-nurse-and-i-have-always-wanted-to-learn-coding-2375"/>
+    <updated>2026-01-07T01:43:40+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rustypea&quot;&gt;Rusty Pea&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:43:40Z&lt;br/&gt;Tags: career, learning, beginners, coding&lt;br/&gt;Description: I am a nurse. I am 38 years old. And I have not started coding yet.  But I have always wanted...</summary>
   </entry>
 </feed>
