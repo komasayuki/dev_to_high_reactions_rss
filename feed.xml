@@ -67,7 +67,7 @@
     <title>I Didn’t “Become” a Senior Developer. I Accumulated Damage.</title>
     <link rel="alternate" href="https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd"/>
     <updated>2026-01-10T16:23:32+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T16:53:11Z&lt;br/&gt;Tags: programming, ai, career, discuss&lt;br/&gt;Description: There’s a strange myth in tech that one day you wake up and—boom—you’re a senior developer.  You get...</summary>
+    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T16:53:11Z&lt;br/&gt;Tags: programming, ai, career, discuss&lt;br/&gt;Description: There’s a strange myth in tech that one day you wake up and—boom—you’re a senior developer.  You get...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146663</id>
@@ -119,18 +119,18 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3159341</id>
+    <title>Prompt Engineering Won’t Fix Your Architecture</title>
+    <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
+    <updated>2026-01-10T16:23:16+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3156698</id>
     <title>Optimizing JSON for LLMs</title>
     <link rel="alternate" href="https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf"/>
     <updated>2026-01-08T00:44:32+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3159341</id>
-    <title>Prompt Engineering Won’t Fix Your Architecture</title>
-    <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
-    <updated>2026-01-10T16:23:16+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -320,5 +320,12 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3160537</id>
+    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
+    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
+    <updated>2026-01-09T12:47:52+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
 </feed>
