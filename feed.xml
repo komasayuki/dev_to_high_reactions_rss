@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-11T21:50:53+00:00</updated>
+  <updated>2026-01-13T09:06:43+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -46,14 +46,14 @@
     <title>I Didn’t “Become” a Senior Developer. I Accumulated Damage.</title>
     <link rel="alternate" href="https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd"/>
     <updated>2026-01-10T16:23:32+00:00</updated>
-    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T16:53:11Z&lt;br/&gt;Tags: programming, ai, career, discuss&lt;br/&gt;Description: There’s a strange myth in tech that one day you wake up and—boom—you’re a senior developer.  You get...</summary>
+    <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T16:53:11Z&lt;br/&gt;Tags: programming, ai, career, discuss&lt;br/&gt;Description: There’s a strange myth in tech that one day you wake up and—boom—you’re a senior developer.  You get...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3159341</id>
     <title>Prompt Engineering Won’t Fix Your Architecture</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
     <updated>2026-01-10T16:23:16+00:00</updated>
-    <summary type="html">Reactions: public 119 / positive 119&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
+    <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3142361</id>
@@ -306,6 +306,13 @@
     <link rel="alternate" href="https://sliplane.io/blog/the-tech-stack-to-build-a-cloud-provider-2026?utm_source=techstack2026"/>
     <updated>2026-01-09T16:26:30+00:00</updated>
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3168526</id>
+    <title>Moving on from Terraform CDK</title>
+    <link rel="alternate" href="https://encore.dev/blog/terraform-cdk-alternative?2"/>
+    <updated>2026-01-13T09:06:43+00:00</updated>
+    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcuskohlberg&quot;&gt;Marcus Kohlberg&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:06:02Z&lt;br/&gt;Tags: terraform, devops, cloud, backend&lt;br/&gt;Description: HashiCorp is sunsetting Terraform CDK. Terraform CDK let you write infrastructure in TypeScript...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3149179</id>
