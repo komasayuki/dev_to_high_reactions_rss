@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-13T09:06:43+00:00</updated>
+  <updated>2026-01-13T13:29:11+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -39,7 +39,7 @@
     <title>Prompt Engineering Won’t Fix Your Architecture</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
     <updated>2026-01-10T16:23:16+00:00</updated>
-    <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
+    <summary type="html">Reactions: public 131 / positive 131&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156073</id>
@@ -147,6 +147,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3160537</id>
+    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
+    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
+    <updated>2026-01-09T12:47:52+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146913</id>
     <title>Yes, true + true === 2. And No, JavaScript Isn’t Broken</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7"/>
@@ -161,18 +168,18 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3158872</id>
+    <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
+    <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
+    <updated>2026-01-13T13:29:11+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3131464</id>
     <title>We&apos;re launching on ProductHunt. You can help us! 🐈‍⬛</title>
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3160537</id>
-    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
-    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
-    <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3106358</id>
