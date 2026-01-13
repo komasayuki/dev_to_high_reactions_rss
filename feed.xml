@@ -126,6 +126,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3160537</id>
+    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
+    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
+    <updated>2026-01-09T12:47:52+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3138862</id>
     <title>Happy New Year! 🎉 | Your Code from Last Year Still Doesn&apos;t Work 😂</title>
     <link rel="alternate" href="https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8"/>
@@ -145,13 +152,6 @@
     <link rel="alternate" href="https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf"/>
     <updated>2026-01-08T00:44:32+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3160537</id>
-    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
-    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
-    <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -273,6 +273,13 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3156386</id>
+    <title>The First Week at a Startup Taught Me More Than I Expected</title>
+    <link rel="alternate" href="https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a"/>
+    <updated>2026-01-09T08:29:58+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3130414</id>
     <title>What was your win this week???</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-8d7"/>
@@ -285,13 +292,6 @@
     <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
     <updated>2026-01-10T14:31:48+00:00</updated>
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3156386</id>
-    <title>The First Week at a Startup Taught Me More Than I Expected</title>
-    <link rel="alternate" href="https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a"/>
-    <updated>2026-01-09T08:29:58+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3154237</id>
@@ -350,6 +350,13 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T05:56:07Z&lt;br/&gt;Tags: programming, beginners, productivity, discuss&lt;br/&gt;Description: Let’s be honest for a second. GitHub contribution graphs are not a productivity metric. They are a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3167937</id>
+    <title>I Debug Code Like I Debug Life (Spoiler: Both Throw Exceptions)</title>
+    <link rel="alternate" href="https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69"/>
+    <updated>2026-01-13T05:01:46+00:00</updated>
+    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kawano_aiyuki&quot;&gt;Alyssa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T05:00:28Z&lt;br/&gt;Tags: discuss, career, programming, beginners&lt;br/&gt;Description: Being a software developer is a lot like being human. Being a woman software developer is like being...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3156178</id>
     <title>Congrats to the AI Agents Intensive Course Writing Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-ai-agents-intensive-course-writing-challenge-winners-1969"/>
@@ -369,13 +376,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6"/>
     <updated>2026-01-13T15:43:43+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3167937</id>
-    <title>I Debug Code Like I Debug Life (Spoiler: Both Throw Exceptions)</title>
-    <link rel="alternate" href="https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69"/>
-    <updated>2026-01-13T05:01:46+00:00</updated>
-    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kawano_aiyuki&quot;&gt;Alyssa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T05:00:28Z&lt;br/&gt;Tags: discuss, career, programming, beginners&lt;br/&gt;Description: Being a software developer is a lot like being human. Being a woman software developer is like being...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3165035</id>
