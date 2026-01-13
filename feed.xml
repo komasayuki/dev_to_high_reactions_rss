@@ -67,7 +67,7 @@
     <title>Join the Algolia Agent Studio Challenge: $3,000 in Prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli"/>
     <updated>2026-01-09T16:23:08+00:00</updated>
-    <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
+    <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3134373</id>
@@ -140,6 +140,13 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3160537</id>
+    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
+    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
+    <updated>2026-01-09T12:47:52+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3123641</id>
     <title>From Genin to Kage - Understanding the Test Pyramid with Naruto</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
@@ -147,11 +154,11 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3160537</id>
-    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
-    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
-    <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+    <id>tag:dev.to,2026:3158872</id>
+    <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
+    <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
+    <updated>2026-01-13T13:29:11+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146913</id>
@@ -166,13 +173,6 @@
     <link rel="alternate" href="https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"/>
     <updated>2026-01-08T18:24:43+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3158872</id>
-    <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
-    <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
-    <updated>2026-01-13T13:29:11+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3131464</id>
@@ -371,18 +371,18 @@
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3142740</id>
+    <title>When React Starts Acting Like jQuery (and You Can Totally Tell 😅)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe"/>
+    <updated>2026-01-08T13:00:12+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146555</id>
     <title>DEV Worldwide Show and Tell Challenge · Best Use of Mux 🎥 Projura</title>
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3142740</id>
-    <title>When React Starts Acting Like jQuery (and You Can Totally Tell 😅)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe"/>
-    <updated>2026-01-08T13:00:12+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3135773</id>
