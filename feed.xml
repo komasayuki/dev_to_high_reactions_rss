@@ -39,14 +39,14 @@
     <title>Prompt Engineering Won’t Fix Your Architecture</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
     <updated>2026-01-10T16:23:16+00:00</updated>
-    <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
+    <summary type="html">Reactions: public 140 / positive 140&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156073</id>
     <title>I Didn’t “Become” a Senior Developer. I Accumulated Damage.</title>
     <link rel="alternate" href="https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd"/>
     <updated>2026-01-10T16:23:32+00:00</updated>
-    <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T16:53:11Z&lt;br/&gt;Tags: programming, ai, career, discuss&lt;br/&gt;Description: There’s a strange myth in tech that one day you wake up and—boom—you’re a senior developer.  You get...</summary>
+    <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T16:53:11Z&lt;br/&gt;Tags: programming, ai, career, discuss&lt;br/&gt;Description: There’s a strange myth in tech that one day you wake up and—boom—you’re a senior developer.  You get...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3153473</id>
@@ -77,18 +77,18 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T20:22:07Z&lt;br/&gt;Tags: discuss&lt;br/&gt;Description: Soo... 2025 is basically over. How&apos;d it go for you?   Here are two of my own DEV-centric highlights...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3160537</id>
+    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
+    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
+    <updated>2026-01-09T12:47:52+00:00</updated>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3158872</id>
     <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
     <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
     <updated>2026-01-13T13:29:11+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3160537</id>
-    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
-    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
-    <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3162468</id>
@@ -133,6 +133,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3164939</id>
+    <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
+    <updated>2026-01-13T11:42:28+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3156698</id>
     <title>Optimizing JSON for LLMs</title>
     <link rel="alternate" href="https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf"/>
@@ -152,13 +159,6 @@
     <link rel="alternate" href="https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6"/>
     <updated>2025-12-31T10:04:43+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3164939</id>
-    <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
-    <updated>2026-01-13T11:42:28+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -252,18 +252,18 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3130414</id>
+    <title>What was your win this week???</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-8d7"/>
+    <updated>2026-01-09T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3154810</id>
     <title>I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)</title>
     <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
     <updated>2026-01-10T14:31:48+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3130414</id>
-    <title>What was your win this week???</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-8d7"/>
-    <updated>2026-01-09T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3122739</id>
@@ -294,6 +294,13 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3169546</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6"/>
+    <updated>2026-01-13T15:43:43+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3154237</id>
     <title>I Am 38, I Am a Nurse, and I Have Always Wanted to Learn Coding</title>
     <link rel="alternate" href="https://dev.to/rustypea/i-am-38-i-am-a-nurse-and-i-have-always-wanted-to-learn-coding-2375"/>
@@ -306,13 +313,6 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3169546</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6"/>
-    <updated>2026-01-13T15:43:43+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3160474</id>
