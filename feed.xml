@@ -77,18 +77,18 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T20:22:07Z&lt;br/&gt;Tags: discuss&lt;br/&gt;Description: Soo... 2025 is basically over. How&apos;d it go for you?   Here are two of my own DEV-centric highlights...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3160537</id>
+    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
+    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
+    <updated>2026-01-09T12:47:52+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3162468</id>
     <title>Stop Overengineering: How to Write Clean Code That Actually Ships 🚀</title>
     <link rel="alternate" href="https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni"/>
     <updated>2026-01-10T10:48:43+00:00</updated>
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3160537</id>
-    <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
-    <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
-    <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146663</id>
@@ -249,7 +249,7 @@
     <title>The First Week at a Startup Taught Me More Than I Expected</title>
     <link rel="alternate" href="https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a"/>
     <updated>2026-01-09T08:29:58+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3122739</id>
