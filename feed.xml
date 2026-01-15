@@ -53,7 +53,7 @@
     <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
     <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
     <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 136 / positive 136&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+    <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3170044</id>
@@ -91,18 +91,18 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3158872</id>
+    <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
+    <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
+    <updated>2026-01-13T13:29:11+00:00</updated>
+    <summary type="html">Reactions: public 96 / positive 96&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3134373</id>
     <title>How was your 2025?</title>
     <link rel="alternate" href="https://dev.to/devteam/how-was-your-2025-5gdn"/>
     <updated>2025-12-29T20:22:07+00:00</updated>
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T20:22:07Z&lt;br/&gt;Tags: discuss&lt;br/&gt;Description: Soo... 2025 is basically over. How&apos;d it go for you?   Here are two of my own DEV-centric highlights...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3158872</id>
-    <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
-    <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
-    <updated>2026-01-13T13:29:11+00:00</updated>
-    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3162468</id>
@@ -123,7 +123,7 @@
     <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
     <updated>2026-01-13T11:42:28+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -385,6 +385,13 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcuskohlberg&quot;&gt;Marcus Kohlberg&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T09:06:02Z&lt;br/&gt;Tags: terraform, devops, cloud, backend&lt;br/&gt;Description: HashiCorp is sunsetting Terraform CDK. Terraform CDK let you write infrastructure in TypeScript...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3142214</id>
+    <title>🙀How to Create a CRAZY Roller Coaster Builder (🎢RollerCoaster.js + React Three Fiber + AI)</title>
+    <link rel="alternate" href="https://dev.to/webdeveloperhyper/how-to-create-a-crazy-roller-coaster-builder-rollercoasterjs-react-three-fiber-ai-5c5e"/>
+    <updated>2026-01-13T12:01:32+00:00</updated>
+    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T11:07:41Z&lt;br/&gt;Tags: ai, webdev, vue, angular&lt;br/&gt;Description: Update (2026/01/13): Added CRAZY Roller Coaster Builder Rainbow Version🌈           Intro🚀   Last...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3149179</id>
     <title>I Built a Desktop App That Commits to GitHub So I Don’t Have To Lie About Consistency</title>
     <link rel="alternate" href="https://dev.to/trojanmocx/i-built-a-desktop-app-that-commits-to-github-so-i-dont-have-to-lie-about-consistency-3jd5"/>
@@ -392,18 +399,18 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T05:56:07Z&lt;br/&gt;Tags: programming, beginners, productivity, discuss&lt;br/&gt;Description: Let’s be honest for a second. GitHub contribution graphs are not a productivity metric. They are a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3172225</id>
+    <title>The Death of Vanilla JavaScript (And Why It&apos;s Actually Stronger Than Ever)</title>
+    <link rel="alternate" href="https://dev.to/hanzla/the-death-of-vanilla-javascript-and-why-its-actually-stronger-than-ever-i70"/>
+    <updated>2026-01-14T17:18:57+00:00</updated>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hanzla&quot;&gt;Hanzla Baig&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:18:57Z&lt;br/&gt;Tags: webdev, javascript, programming, sharepointframework&lt;br/&gt;Description: Every few months, someone on Twitter declares that Vanilla JavaScript is dead. They&apos;ll post a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3170064</id>
     <title>Building a Production-Grade AI Web App in 2026: Architecture, Trade-offs, and Hard-Won Lessons</title>
     <link rel="alternate" href="https://dev.to/art_light/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg"/>
     <updated>2026-01-13T21:36:47+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3142214</id>
-    <title>🙀How to Create a CRAZY Roller Coaster Builder (🎢RollerCoaster.js + React Three Fiber + AI)</title>
-    <link rel="alternate" href="https://dev.to/webdeveloperhyper/how-to-create-a-crazy-roller-coaster-builder-rollercoasterjs-react-three-fiber-ai-5c5e"/>
-    <updated>2026-01-13T12:01:32+00:00</updated>
-    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T11:07:41Z&lt;br/&gt;Tags: ai, webdev, vue, angular&lt;br/&gt;Description: Update (2026/01/13): Added CRAZY Roller Coaster Builder Rainbow Version🌈           Intro🚀   Last...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3165035</id>
@@ -453,12 +460,5 @@
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3172225</id>
-    <title>The Death of Vanilla JavaScript (And Why It&apos;s Actually Stronger Than Ever)</title>
-    <link rel="alternate" href="https://dev.to/hanzla/the-death-of-vanilla-javascript-and-why-its-actually-stronger-than-ever-i70"/>
-    <updated>2026-01-14T17:18:57+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hanzla&quot;&gt;Hanzla Baig&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:18:57Z&lt;br/&gt;Tags: webdev, javascript, programming, sharepointframework&lt;br/&gt;Description: Every few months, someone on Twitter declares that Vanilla JavaScript is dead. They&apos;ll post a...</summary>
   </entry>
 </feed>
