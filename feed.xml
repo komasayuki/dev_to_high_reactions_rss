@@ -32,7 +32,7 @@
     <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
     <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
     <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3159341</id>
@@ -95,7 +95,7 @@
     <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
     <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
     <updated>2026-01-13T13:29:11+00:00</updated>
-    <summary type="html">Reactions: public 96 / positive 96&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
+    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3134373</id>
@@ -116,7 +116,7 @@
     <title>Stop Overengineering: How to Write Clean Code That Actually Ships 🚀</title>
     <link rel="alternate" href="https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni"/>
     <updated>2026-01-10T10:48:43+00:00</updated>
-    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146663</id>
@@ -210,18 +210,18 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3156386</id>
+    <title>The First Week at a Startup Taught Me More Than I Expected</title>
+    <link rel="alternate" href="https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a"/>
+    <updated>2026-01-09T08:29:58+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3131008</id>
     <title>A short talk at CloudNexus made me rethink how students are using AI</title>
     <link rel="alternate" href="https://dev.to/abdullah_haroon_092cf10d3/a-short-talk-at-cloudnexus-made-me-rethink-how-students-are-using-ai-4o01"/>
     <updated>2025-12-28T05:31:07+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3156386</id>
-    <title>The First Week at a Startup Taught Me More Than I Expected</title>
-    <link rel="alternate" href="https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a"/>
-    <updated>2026-01-09T08:29:58+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3130414</id>
