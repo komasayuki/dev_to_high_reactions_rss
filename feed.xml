@@ -32,7 +32,7 @@
     <title>I Replaced Redis with PostgreSQL (And It&apos;s Faster)</title>
     <link rel="alternate" href="https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"/>
     <updated>2026-01-09T12:47:52+00:00</updated>
-    <summary type="html">Reactions: public 147 / positive 147&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
+    <summary type="html">Reactions: public 149 / positive 149&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3159341</id>
@@ -105,6 +105,13 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T20:22:07Z&lt;br/&gt;Tags: discuss&lt;br/&gt;Description: Soo... 2025 is basically over. How&apos;d it go for you?   Here are two of my own DEV-centric highlights...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3164939</id>
+    <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
+    <updated>2026-01-13T11:42:28+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3162468</id>
     <title>Stop Overengineering: How to Write Clean Code That Actually Ships 🚀</title>
     <link rel="alternate" href="https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni"/>
@@ -117,13 +124,6 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8"/>
     <updated>2026-01-03T21:23:08+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3164939</id>
-    <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
-    <updated>2026-01-13T11:42:28+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -221,7 +221,7 @@
     <title>The First Week at a Startup Taught Me More Than I Expected</title>
     <link rel="alternate" href="https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a"/>
     <updated>2026-01-09T08:29:58+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3130414</id>
@@ -259,6 +259,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:54:51Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3169546</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6"/>
+    <updated>2026-01-13T15:43:43+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3167937</id>
     <title>I Debug Code Like I Debug Life (Spoiler: Both Throw Exceptions)</title>
     <link rel="alternate" href="https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69"/>
@@ -273,13 +280,6 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3169546</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6"/>
-    <updated>2026-01-13T15:43:43+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3153364</id>
     <title>🎀 The 80/20 Rule of Learning Programming</title>
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
@@ -287,11 +287,25 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3166739</id>
+    <title>Meme Monday</title>
+    <link rel="alternate" href="https://dev.to/ben/meme-monday-2if1"/>
+    <updated>2026-01-12T13:55:30+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T13:55:30Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3154810</id>
     <title>I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)</title>
     <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
     <updated>2026-01-10T14:31:48+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3172275</id>
+    <title>The &apos;Senior Developer&apos; is now the new &apos;Entry Level&apos;</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1"/>
+    <updated>2026-01-14T17:48:39+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3122739</id>
@@ -322,11 +336,11 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3172275</id>
-    <title>The &apos;Senior Developer&apos; is now the new &apos;Entry Level&apos;</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1"/>
-    <updated>2026-01-14T17:48:39+00:00</updated>
-    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
+    <id>tag:dev.to,2026:3160474</id>
+    <title>Tech Stack Lessons from scaling 20x in a year</title>
+    <link rel="alternate" href="https://sliplane.io/blog/the-tech-stack-to-build-a-cloud-provider-2026?utm_source=techstack2026"/>
+    <updated>2026-01-09T16:26:30+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3154237</id>
@@ -341,20 +355,6 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3160474</id>
-    <title>Tech Stack Lessons from scaling 20x in a year</title>
-    <link rel="alternate" href="https://sliplane.io/blog/the-tech-stack-to-build-a-cloud-provider-2026?utm_source=techstack2026"/>
-    <updated>2026-01-09T16:26:30+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3166739</id>
-    <title>Meme Monday</title>
-    <link rel="alternate" href="https://dev.to/ben/meme-monday-2if1"/>
-    <updated>2026-01-12T13:55:30+00:00</updated>
-    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T13:55:30Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146467</id>
@@ -417,7 +417,7 @@
     <title>We Didn’t “Align” — We Argued (and Shipped a Better System)</title>
     <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
     <updated>2026-01-11T21:50:53+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156178</id>
