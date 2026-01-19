@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-18T19:58:27+00:00</updated>
+  <updated>2026-01-19T04:22:07+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -35,18 +35,18 @@
     <summary type="html">Reactions: public 179 / positive 179&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lissy93&quot;&gt;Alicia Sykes&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:20:00Z&lt;br/&gt;Tags: performance, webdev, javascript, frontend&lt;br/&gt;Description: A detailed comparison of performance, dev experience and viability of frontend web frameworks in 2026</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3164939</id>
+    <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
+    <updated>2026-01-13T11:42:28+00:00</updated>
+    <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3159341</id>
     <title>Prompt Engineering Won’t Fix Your Architecture</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
     <updated>2026-01-10T16:23:16+00:00</updated>
     <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3164939</id>
-    <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
-    <updated>2026-01-13T11:42:28+00:00</updated>
-    <summary type="html">Reactions: public 147 / positive 147&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -81,7 +81,7 @@
     <title>The &apos;Senior Developer&apos; is now the new &apos;Entry Level&apos;</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1"/>
     <updated>2026-01-14T17:48:39+00:00</updated>
-    <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
+    <summary type="html">Reactions: public 131 / positive 131&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156073</id>
@@ -133,18 +133,18 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3179178</id>
+    <title>Prompt Engineering Is a Symptom (And That’s Okay)</title>
+    <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l"/>
+    <updated>2026-01-18T19:58:27+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146663</id>
     <title>From Swagger to Tests: Building an AI-Powered API Test Generator with Python</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8"/>
     <updated>2026-01-03T21:23:08+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3179178</id>
-    <title>Prompt Engineering Is a Symptom (And That’s Okay)</title>
-    <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l"/>
-    <updated>2026-01-18T19:58:27+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -395,8 +395,8 @@
     <id>tag:dev.to,2026:3180700</id>
     <title>Why Most Developer Startups Fail Before Launch: The Brutal Truths Nobody Tells You</title>
     <link rel="alternate" href="https://dev.to/thebitforge/why-most-developer-startups-fail-before-launch-the-brutal-truths-nobody-tells-you-1848"/>
-    <updated>2026-01-18T17:12:02+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T17:12:02Z&lt;br/&gt;Tags: react, programming, node, webdev&lt;br/&gt;Description: I&apos;ve watched hundreds of developer startups die quiet deaths. Not dramatic explosions covered by...</summary>
+    <updated>2026-01-19T04:22:07+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T17:12:02Z&lt;br/&gt;Tags: react, programming, node, webdev&lt;br/&gt;Description: 🌐 Follow Us &amp;amp; Stay in the Loop      Platform Handle / Profile Link     📸...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3174240</id>
