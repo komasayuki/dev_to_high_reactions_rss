@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-19T05:55:08+00:00</updated>
+  <updated>2026-01-19T14:51:47+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -35,6 +35,13 @@
     <summary type="html">Reactions: public 179 / positive 179&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lissy93&quot;&gt;Alicia Sykes&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:20:00Z&lt;br/&gt;Tags: performance, webdev, javascript, frontend&lt;br/&gt;Description: A detailed comparison of performance, dev experience and viability of frontend web frameworks in 2026</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3172275</id>
+    <title>The &apos;Senior Developer&apos; is now the new &apos;Entry Level&apos;</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1"/>
+    <updated>2026-01-14T17:48:39+00:00</updated>
+    <summary type="html">Reactions: public 161 / positive 161&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3164939</id>
     <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
@@ -42,18 +49,11 @@
     <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3172275</id>
-    <title>The &apos;Senior Developer&apos; is now the new &apos;Entry Level&apos;</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1"/>
-    <updated>2026-01-14T17:48:39+00:00</updated>
-    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3180295</id>
     <title>🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅</title>
     <link rel="alternate" href="https://www.tensorlake.ai/blog/gpt5.2-codex-high-vs-opus-4.5-vs-gemini-3-pro"/>
     <updated>2026-01-18T12:41:12+00:00</updated>
-    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
+    <summary type="html">Reactions: public 151 / positive 151&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3159341</id>
@@ -466,7 +466,7 @@
     <title>The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"/>
     <updated>2026-01-15T06:20:54+00:00</updated>
-    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
+    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3168526</id>
@@ -551,5 +551,12 @@
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3182809</id>
+    <title>Meme Monday</title>
+    <link rel="alternate" href="https://dev.to/ben/meme-monday-dcl"/>
+    <updated>2026-01-19T14:51:47+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T14:51:47Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
 </feed>
