@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-19T04:22:07+00:00</updated>
+  <updated>2026-01-19T05:55:08+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -39,7 +39,7 @@
     <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
     <updated>2026-01-13T11:42:28+00:00</updated>
-    <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
+    <summary type="html">Reactions: public 157 / positive 157&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -81,7 +81,7 @@
     <title>The &apos;Senior Developer&apos; is now the new &apos;Entry Level&apos;</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1"/>
     <updated>2026-01-14T17:48:39+00:00</updated>
-    <summary type="html">Reactions: public 134 / positive 134&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
+    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156073</id>
@@ -151,7 +151,7 @@
     <title>Microservices Are Killing Your Performance (And Here&apos;s the Math)</title>
     <link rel="alternate" href="https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"/>
     <updated>2026-01-14T12:57:58+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -399,6 +399,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T17:12:02Z&lt;br/&gt;Tags: react, programming, node, webdev&lt;br/&gt;Description: 🌐 Follow Us &amp;amp; Stay in the Loop      Platform Handle / Profile Link     📸...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3174797</id>
+    <title>CSS Optical Illusions</title>
+    <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
+    <updated>2026-01-15T16:52:03+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:52:03Z&lt;br/&gt;Tags: css, html, webdev, showdev&lt;br/&gt;Description: A collection of optical illusions created with CSS</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3174240</id>
     <title>The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np"/>
@@ -425,13 +432,6 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3174797</id>
-    <title>CSS Optical Illusions</title>
-    <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
-    <updated>2026-01-15T16:52:03+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:52:03Z&lt;br/&gt;Tags: css, html, webdev, showdev&lt;br/&gt;Description: A collection of optical illusions created with CSS</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146467</id>
@@ -481,6 +481,13 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe"/>
     <updated>2026-01-08T13:00:12+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3181466</id>
+    <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
+    <updated>2026-01-19T05:55:08+00:00</updated>
+    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3176667</id>
@@ -537,5 +544,12 @@
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3130412</id>
+    <title>What was your win this week??</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-3k8n"/>
+    <updated>2026-01-16T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
 </feed>
