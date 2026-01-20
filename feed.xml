@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-20T12:39:26+00:00</updated>
+  <updated>2026-01-20T14:22:27+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -18,7 +18,7 @@
     <title>The &apos;Senior Developer&apos; is now the new &apos;Entry Level&apos;</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-senior-developer-is-now-the-new-entry-level-49d1"/>
     <updated>2026-01-20T12:39:26+00:00</updated>
-    <summary type="html">Reactions: public 199 / positive 199&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
+    <summary type="html">Reactions: public 205 / positive 205&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:48:39Z&lt;br/&gt;Tags: career, productivity, ai, discuss&lt;br/&gt;Description: I do think most of us can attest to the fact that, entry level roles are not &apos;entry&apos; anymore, I do...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3160537</id>
@@ -137,7 +137,7 @@
     <title>Prompt Engineering Is a Symptom (And That’s Okay)</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l"/>
     <updated>2026-01-18T19:58:27+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3171681</id>
@@ -168,18 +168,18 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3183821</id>
+    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
+    <updated>2026-01-20T02:33:52+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3136225</id>
     <title>I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34"/>
     <updated>2025-12-30T15:59:39+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T15:59:39Z&lt;br/&gt;Tags: opensource, saas, webdev, beginners&lt;br/&gt;Description: So here&apos;s the thing - I was helping my friend set up his portfolio site last weekend. Everything was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183821</id>
-    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
-    <updated>2026-01-20T02:33:52+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3119796</id>
@@ -322,6 +322,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3173312</id>
+    <title>The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"/>
+    <updated>2026-01-15T06:20:54+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3166739</id>
     <title>Meme Monday</title>
     <link rel="alternate" href="https://dev.to/ben/meme-monday-2if1"/>
@@ -334,13 +341,6 @@
     <link rel="alternate" href="https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel"/>
     <updated>2026-01-05T21:53:53+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3173312</id>
-    <title>The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"/>
-    <updated>2026-01-15T06:20:54+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3157308</id>
@@ -462,6 +462,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3180743</id>
+    <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
+    <updated>2026-01-18T20:31:43+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3178926</id>
     <title>Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality</title>
     <link rel="alternate" href="https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1"/>
@@ -511,6 +518,13 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T05:56:07Z&lt;br/&gt;Tags: programming, beginners, productivity, discuss&lt;br/&gt;Description: Let’s be honest for a second. GitHub contribution graphs are not a productivity metric. They are a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3171515</id>
+    <title>How to build a Frontend for LangChain Deep Agents with CopilotKit!</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd"/>
+    <updated>2026-01-20T14:22:27+00:00</updated>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:22:27Z&lt;br/&gt;Tags: react, programming, python, tutorial&lt;br/&gt;Description: LangChain recently introduced Deep Agents: a new way to build structured, multi-agent systems that...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3172385</id>
     <title>How I Use AI Agents + MCP to Fully Automate My Website’s Content</title>
     <link rel="alternate" href="https://dev.to/debs_obrien/how-i-use-ai-agents-mcp-to-fully-automate-my-websites-content-3ekj"/>
@@ -523,13 +537,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe"/>
     <updated>2026-01-08T13:00:12+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3180743</id>
-    <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
-    <updated>2026-01-18T20:31:43+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3176667</id>
