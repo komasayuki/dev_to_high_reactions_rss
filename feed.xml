@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-20T17:19:09+00:00</updated>
+  <updated>2026-01-20T21:44:56+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -105,6 +105,13 @@
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-02T06:48:46Z&lt;br/&gt;Tags: career, architecture, discuss, webdev&lt;br/&gt;Description: I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3171515</id>
+    <title>How to build a Frontend for LangChain Deep Agents with CopilotKit!</title>
+    <link rel="alternate" href="https://www.copilotkit.ai/blog/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit"/>
+    <updated>2026-01-20T21:44:56+00:00</updated>
+    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:22:27Z&lt;br/&gt;Tags: react, programming, python, tutorial&lt;br/&gt;Description: LangChain recently introduced Deep Agents: a new way to build structured, multi-agent systems that...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3158872</id>
     <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
     <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
@@ -151,7 +158,7 @@
     <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
     <updated>2026-01-20T02:33:52+00:00</updated>
-    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146663</id>
@@ -165,7 +172,7 @@
     <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
     <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
     <updated>2026-01-20T06:06:19+00:00</updated>
-    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -203,6 +210,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3181466</id>
+    <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
+    <updated>2026-01-19T05:55:08+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3138862</id>
     <title>Happy New Year! 🎉 | Your Code from Last Year Still Doesn&apos;t Work 😂</title>
     <link rel="alternate" href="https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8"/>
@@ -215,20 +229,6 @@
     <link rel="alternate" href="https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6"/>
     <updated>2025-12-31T10:04:43+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3181466</id>
-    <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
-    <updated>2026-01-19T05:55:08+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3171515</id>
-    <title>How to build a Frontend for LangChain Deep Agents with CopilotKit!</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd"/>
-    <updated>2026-01-20T14:22:27+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:22:27Z&lt;br/&gt;Tags: react, programming, python, tutorial&lt;br/&gt;Description: LangChain recently introduced Deep Agents: a new way to build structured, multi-agent systems that...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -280,6 +280,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3173312</id>
+    <title>The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"/>
+    <updated>2026-01-15T06:20:54+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3156386</id>
     <title>The First Week at a Startup Taught Me More Than I Expected</title>
     <link rel="alternate" href="https://dev.to/itsugo/the-first-week-at-a-startup-taught-me-more-than-i-expected-158a"/>
@@ -320,13 +327,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-8d7"/>
     <updated>2026-01-09T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3173312</id>
-    <title>The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"/>
-    <updated>2026-01-15T06:20:54+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3148068</id>
@@ -448,6 +448,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3178926</id>
+    <title>Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality</title>
+    <link rel="alternate" href="https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1"/>
+    <updated>2026-01-18T04:51:27+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T03:26:09Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI            ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3174240</id>
     <title>The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np"/>
@@ -474,13 +481,6 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3178926</id>
-    <title>Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality</title>
-    <link rel="alternate" href="https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1"/>
-    <updated>2026-01-18T04:51:27+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T03:26:09Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI            ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3130412</id>
