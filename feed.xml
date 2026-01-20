@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-20T14:22:27+00:00</updated>
+  <updated>2026-01-20T15:13:12+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -154,6 +154,13 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3183821</id>
+    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
+    <updated>2026-01-20T02:33:52+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3117474</id>
     <title>The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job</title>
     <link rel="alternate" href="https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn"/>
@@ -166,13 +173,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om"/>
     <updated>2026-01-04T11:29:38+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183821</id>
-    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
-    <updated>2026-01-20T02:33:52+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3136225</id>
@@ -214,7 +214,7 @@
     <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
     <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
     <updated>2026-01-19T05:55:08+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -222,6 +222,13 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
     <updated>2025-12-23T23:36:41+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3172071</id>
+    <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
+    <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
+    <updated>2026-01-20T06:06:19+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3170064</id>
@@ -236,13 +243,6 @@
     <link rel="alternate" href="https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"/>
     <updated>2026-01-08T18:24:43+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3172071</id>
-    <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
-    <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
-    <updated>2026-01-20T06:06:19+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3169546</id>
@@ -315,18 +315,18 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3173312</id>
+    <title>The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"/>
+    <updated>2026-01-15T06:20:54+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3148068</id>
     <title>Hello 2026: This Will Only Take Two Weeks</title>
     <link rel="alternate" href="https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj"/>
     <updated>2026-01-04T17:08:25+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3173312</id>
-    <title>The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi"/>
-    <updated>2026-01-15T06:20:54+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T06:20:54Z&lt;br/&gt;Tags: architecture, cloud, devops, saas&lt;br/&gt;Description: We have normalized paying $100/month for infrastructure before acquiring a single customer. It is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3166739</id>
@@ -476,6 +476,13 @@
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T03:26:09Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI            ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3130412</id>
+    <title>What was your win this week??</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-3k8n"/>
+    <updated>2026-01-16T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146467</id>
     <title>I Built a Zero-Miss Cancer Screening Model Using Routine Blood Tests</title>
     <link rel="alternate" href="https://dev.to/arjuncodess/i-built-a-zero-miss-cancer-screening-model-using-routine-blood-tests-5703"/>
@@ -497,11 +504,11 @@
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T02:19:15Z&lt;br/&gt;Tags: programming, ai, productivity, webdev&lt;br/&gt;Description: Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3130412</id>
-    <title>What was your win this week??</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-3k8n"/>
-    <updated>2026-01-16T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+    <id>tag:dev.to,2026:3181900</id>
+    <title>🎙️We’ve Built the Fastest Way to Run LLMs in Production (50x faster than LiteLLM)🔥</title>
+    <link rel="alternate" href="https://dev.to/anthonymax/weve-built-the-fastest-way-to-run-llms-in-production-50x-faster-than-litellm-450n"/>
+    <updated>2026-01-20T15:13:12+00:00</updated>
+    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:52:24Z&lt;br/&gt;Tags: webdev, programming, javascript, opensource&lt;br/&gt;Description: Today, AI applications are rapidly becoming more complex. Modern systems no longer rely on a single...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3168526</id>
