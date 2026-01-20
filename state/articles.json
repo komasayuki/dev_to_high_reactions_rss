@@ -271,15 +271,15 @@
       "published_timestamp": "2026-01-16T05:00:00Z",
       "published_at": "2026-01-16T05:00:00Z",
       "edited_at": null,
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
+      "public_reactions_count": 34,
+      "positive_reactions_count": 34,
       "tag_list": [
         "weeklyretro",
         "discuss"
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3130414",
@@ -1130,7 +1130,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3159341",
@@ -1239,7 +1239,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3165035",
@@ -1348,7 +1348,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3170044",
@@ -1392,7 +1392,7 @@
       ],
       "user_name": "Art light",
       "user_username": "art_light",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3171263",
@@ -1435,7 +1435,7 @@
       ],
       "user_name": "Polliog",
       "user_username": "polliog",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3172225",
@@ -1457,7 +1457,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3172275",
@@ -1469,8 +1469,8 @@
       "published_timestamp": "2026-01-14T17:48:39Z",
       "published_at": "2026-01-14T17:48:39Z",
       "edited_at": null,
-      "public_reactions_count": 189,
-      "positive_reactions_count": 189,
+      "public_reactions_count": 191,
+      "positive_reactions_count": 191,
       "tag_list": [
         "career",
         "productivity",
@@ -1479,7 +1479,7 @@
       ],
       "user_name": "Maame Afua A. P. Fordjour ",
       "user_username": "maame-codes",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3172385",
@@ -1491,8 +1491,8 @@
       "published_timestamp": "2026-01-14T19:29:47Z",
       "published_at": "2026-01-14T19:29:47Z",
       "edited_at": null,
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
       "tag_list": [
         "ai",
         "mcp",
@@ -1501,7 +1501,29 @@
       ],
       "user_name": "Debbie O'Brien",
       "user_username": "debs_obrien",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
+    },
+    {
+      "key": "3173180",
+      "id": 3173180,
+      "canonical_url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68",
+      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-promise-4h68",
+      "title": "The Secret Life of JavaScript: The Promise",
+      "description": "From Callback Hell to Async/Await — A visual evolution     Timothy stood at the chalkboard, his hand...",
+      "published_timestamp": "2026-01-15T05:06:30Z",
+      "published_at": "2026-01-15T05:06:30Z",
+      "edited_at": "2026-01-15T05:31:24Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "javascript",
+        "coding",
+        "programming",
+        "softwaredevelopment"
+      ],
+      "user_name": "Aaron Rose",
+      "user_username": "aaron_rose_0787cc8b4775a0",
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3173312",
@@ -1513,8 +1535,8 @@
       "published_timestamp": "2026-01-15T06:20:54Z",
       "published_at": "2026-01-15T06:20:54Z",
       "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "architecture",
         "cloud",
@@ -1523,7 +1545,7 @@
       ],
       "user_name": "NorthernDev",
       "user_username": "the_nortern_dev",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3173880",
@@ -1545,7 +1567,7 @@
       ],
       "user_name": "Nigel Tape",
       "user_username": "nigel_t",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3174240",
@@ -1589,7 +1611,7 @@
       ],
       "user_name": "Alvaro Montoro",
       "user_username": "alvaromontoro",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3176667",
@@ -1611,7 +1633,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3178926",
@@ -1633,7 +1655,7 @@
       ],
       "user_name": "depa panjie purnama",
       "user_username": "depapp",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3179178",
@@ -1655,7 +1677,7 @@
       ],
       "user_name": "Art light",
       "user_username": "art_light",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3180295",
@@ -1677,7 +1699,7 @@
       ],
       "user_name": "Shrijal Acharya",
       "user_username": "shricodev",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3180700",
@@ -1689,8 +1711,8 @@
       "published_timestamp": "2026-01-18T17:12:02Z",
       "published_at": "2026-01-18T17:12:02Z",
       "edited_at": "2026-01-19T04:22:07Z",
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
+      "public_reactions_count": 44,
+      "positive_reactions_count": 44,
       "tag_list": [
         "react",
         "programming",
@@ -1699,7 +1721,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3181466",
@@ -1711,8 +1733,8 @@
       "published_timestamp": "2026-01-19T05:55:08Z",
       "published_at": "2026-01-19T05:55:08Z",
       "edited_at": null,
-      "public_reactions_count": 54,
-      "positive_reactions_count": 54,
+      "public_reactions_count": 59,
+      "positive_reactions_count": 59,
       "tag_list": [
         "chatgpt",
         "programming",
@@ -1721,7 +1743,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3182809",
@@ -1742,7 +1764,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     },
     {
       "key": "3183821",
@@ -1754,8 +1776,8 @@
       "published_timestamp": "2026-01-20T02:33:52Z",
       "published_at": "2026-01-20T02:33:52Z",
       "edited_at": null,
-      "public_reactions_count": 60,
-      "positive_reactions_count": 60,
+      "public_reactions_count": 65,
+      "positive_reactions_count": 65,
       "tag_list": [
         "discuss",
         "watercooler",
@@ -1764,7 +1786,7 @@
       ],
       "user_name": "Maame Afua A. P. Fordjour ",
       "user_username": "maame-codes",
-      "last_seen": "2026-01-20T06:17:32.968596870+00:00"
+      "last_seen": "2026-01-20T07:17:35.417172226+00:00"
     }
   ]
 }
