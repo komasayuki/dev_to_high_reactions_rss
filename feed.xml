@@ -46,7 +46,7 @@
     <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
     <updated>2026-01-13T11:42:28+00:00</updated>
-    <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
+    <summary type="html">Reactions: public 159 / positive 159&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -140,18 +140,18 @@
     <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3171681</id>
+    <title>Microservices Are Killing Your Performance (And Here&apos;s the Math)</title>
+    <link rel="alternate" href="https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"/>
+    <updated>2026-01-14T12:57:58+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146663</id>
     <title>From Swagger to Tests: Building an AI-Powered API Test Generator with Python</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8"/>
     <updated>2026-01-03T21:23:08+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3171681</id>
-    <title>Microservices Are Killing Your Performance (And Here&apos;s the Math)</title>
-    <link rel="alternate" href="https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"/>
-    <updated>2026-01-14T12:57:58+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -266,6 +266,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3181466</id>
+    <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
+    <updated>2026-01-19T05:55:08+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3167937</id>
     <title>I Debug Code Like I Debug Life (Spoiler: Both Throw Exceptions)</title>
     <link rel="alternate" href="https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69"/>
@@ -278,13 +285,6 @@
     <link rel="alternate" href="https://dev.to/abdullah_haroon_092cf10d3/a-short-talk-at-cloudnexus-made-me-rethink-how-students-are-using-ai-4o01"/>
     <updated>2025-12-28T05:31:07+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3181466</id>
-    <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
-    <updated>2026-01-19T05:55:08+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3142214</id>
@@ -343,6 +343,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3174797</id>
+    <title>CSS Optical Illusions</title>
+    <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
+    <updated>2026-01-15T16:52:03+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:52:03Z&lt;br/&gt;Tags: css, html, webdev, showdev&lt;br/&gt;Description: A collection of optical illusions created with CSS</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3153364</id>
     <title>🎀 The 80/20 Rule of Learning Programming</title>
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
@@ -399,20 +406,6 @@
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3180700</id>
-    <title>Why Most Developer Startups Fail Before Launch: The Brutal Truths Nobody Tells You</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/why-most-developer-startups-fail-before-launch-the-brutal-truths-nobody-tells-you-1848"/>
-    <updated>2026-01-19T04:22:07+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T17:12:02Z&lt;br/&gt;Tags: react, programming, node, webdev&lt;br/&gt;Description: 🌐 Follow Us &amp;amp; Stay in the Loop      Platform Handle / Profile Link     📸...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3174797</id>
-    <title>CSS Optical Illusions</title>
-    <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
-    <updated>2026-01-15T16:52:03+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:52:03Z&lt;br/&gt;Tags: css, html, webdev, showdev&lt;br/&gt;Description: A collection of optical illusions created with CSS</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3174240</id>
     <title>The Real Cost of a High Learning Curve: Why DeveloperHub Wins for Cross-Functional Documentation</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/the-real-cost-of-a-high-learning-curve-why-developerhub-wins-for-cross-functional-documentation-35np"/>
@@ -439,6 +432,13 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3180700</id>
+    <title>Why Most Developer Startups Fail Before Launch: The Brutal Truths Nobody Tells You</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/why-most-developer-startups-fail-before-launch-the-brutal-truths-nobody-tells-you-1848"/>
+    <updated>2026-01-19T04:22:07+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T17:12:02Z&lt;br/&gt;Tags: react, programming, node, webdev&lt;br/&gt;Description: 🌐 Follow Us &amp;amp; Stay in the Loop      Platform Handle / Profile Link     📸...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146467</id>
