@@ -368,7 +368,7 @@
     <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
     <updated>2026-01-18T20:31:43+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3130412</id>
@@ -460,6 +460,13 @@
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
     <updated>2026-01-06T15:44:45+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3188967</id>
+    <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
+    <link rel="alternate" href="https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j"/>
+    <updated>2026-01-22T15:17:21+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:17:21Z&lt;br/&gt;Tags: ai, gemini, devto, security&lt;br/&gt;Description: Eliminating spam has been a massive priority for us at DEV (and the wider Forem ecosystem). If you’ve...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3168703</id>
@@ -665,18 +672,18 @@
     <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T08:51:05Z&lt;br/&gt;Tags: tensorflow, azure, foundry, microsoft&lt;br/&gt;Description: Most machine learning systems fail long before model quality becomes a problem. They fail due to cost...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3188967</id>
-    <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
-    <link rel="alternate" href="https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j"/>
-    <updated>2026-01-22T15:17:21+00:00</updated>
-    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:17:21Z&lt;br/&gt;Tags: ai, gemini, devto, security&lt;br/&gt;Description: Eliminating spam has been a massive priority for us at DEV (and the wider Forem ecosystem). If you’ve...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3123504</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"/>
     <updated>2025-12-23T20:27:40+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3191601</id>
+    <title>how we prevent ai agent&apos;s drift &amp; code slop generation</title>
+    <link rel="alternate" href="https://dev.to/singhdevhub/how-we-prevent-ai-agents-drift-code-slop-generation-2eb7"/>
+    <updated>2026-01-22T18:17:55+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/singhdevhub&quot;&gt;SinghDevHub&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:17:55Z&lt;br/&gt;Tags: genai, ai, llm, mcp&lt;br/&gt;Description: At TraycerAI we reduced hallucinations, code slop generation and solved agent&apos;s drift. Finally you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180777</id>
@@ -698,13 +705,6 @@
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3191601</id>
-    <title>how we prevent ai agent&apos;s drift &amp; code slop generation</title>
-    <link rel="alternate" href="https://dev.to/singhdevhub/how-we-prevent-ai-agents-drift-code-slop-generation-2eb7"/>
-    <updated>2026-01-22T18:17:55+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/singhdevhub&quot;&gt;SinghDevHub&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T18:17:55Z&lt;br/&gt;Tags: genai, ai, llm, mcp&lt;br/&gt;Description: At TraycerAI we reduced hallucinations, code slop generation and solved agent&apos;s drift. Finally you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3183385</id>
