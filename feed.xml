@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-21T16:48:13+00:00</updated>
+  <updated>2026-01-22T14:05:49+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -109,7 +109,7 @@
     <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
     <updated>2026-01-21T02:06:29+00:00</updated>
-    <summary type="html">Reactions: public 111 / positive 111&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
+    <summary type="html">Reactions: public 112 / positive 112&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3171515</id>
@@ -179,7 +179,7 @@
     <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
     <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
     <updated>2026-01-19T05:55:08+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
+    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3186317</id>
@@ -187,6 +187,13 @@
     <link rel="alternate" href="https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f"/>
     <updated>2026-01-21T01:09:15+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3181098</id>
+    <title>My Chrome Tabs Tell a Story We Haven&apos;t Processed Yet</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
+    <updated>2026-01-20T09:42:34+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -208,13 +215,6 @@
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34"/>
     <updated>2025-12-30T15:59:39+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T15:59:39Z&lt;br/&gt;Tags: opensource, saas, webdev, beginners&lt;br/&gt;Description: So here&apos;s the thing - I was helping my friend set up his portfolio site last weekend. Everything was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3181098</id>
-    <title>My Chrome Tabs Tell a Story We Haven&apos;t Processed Yet</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
-    <updated>2026-01-20T09:42:34+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3119796</id>
@@ -294,6 +294,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T12:19:52Z&lt;br/&gt;Tags: javascript, node, webdev, beginners&lt;br/&gt;Description: JavaScript has been my main work language for years now (and of course these days it’s mostly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3188213</id>
+    <title>5 Open-Source Resume Builders That&apos;ll Help Get You Hired in 2026</title>
+    <link rel="alternate" href="https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92"/>
+    <updated>2026-01-21T15:53:41+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/srbhr&quot;&gt;𝚂𝚊𝚞𝚛𝚊𝚋𝚑 𝚁𝚊𝚒&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T15:53:41Z&lt;br/&gt;Tags: opensource, webdev, programming, javascript&lt;br/&gt;Description: 75% of resumes get deleted by software before a human sees them. Not rejected. Deleted. The recruiter...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3165035</id>
     <title>We Didn’t “Align” — We Argued (and Shipped a Better System)</title>
     <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
@@ -343,13 +350,6 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3188213</id>
-    <title>5 Open-Source Resume Builders That&apos;ll Help Get You Hired in 2026</title>
-    <link rel="alternate" href="https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92"/>
-    <updated>2026-01-21T15:53:41+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/srbhr&quot;&gt;𝚂𝚊𝚞𝚛𝚊𝚋𝚑 𝚁𝚊𝚒&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T15:53:41Z&lt;br/&gt;Tags: opensource, webdev, programming, javascript&lt;br/&gt;Description: 75% of resumes get deleted by software before a human sees them. Not rejected. Deleted. The recruiter...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3180743</id>
     <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
@@ -378,18 +378,18 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3182809</id>
+    <title>Meme Monday</title>
+    <link rel="alternate" href="https://dev.to/ben/meme-monday-dcl"/>
+    <updated>2026-01-19T14:51:47+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T14:51:47Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3148068</id>
     <title>Hello 2026: This Will Only Take Two Weeks</title>
     <link rel="alternate" href="https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj"/>
     <updated>2026-01-04T17:08:25+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3182809</id>
-    <title>Meme Monday</title>
-    <link rel="alternate" href="https://dev.to/ben/meme-monday-dcl"/>
-    <updated>2026-01-19T14:51:47+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T14:51:47Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3166739</id>
@@ -663,6 +663,13 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3189132</id>
+    <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af"/>
+    <updated>2026-01-22T14:05:49+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3135773</id>
