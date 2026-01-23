@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-23T06:24:15+00:00</updated>
+  <updated>2026-01-23T09:31:38+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -116,7 +116,7 @@
     <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af"/>
     <updated>2026-01-22T22:38:13+00:00</updated>
-    <summary type="html">Reactions: public 115 / positive 115&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
+    <summary type="html">Reactions: public 118 / positive 118&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3171515</id>
@@ -186,7 +186,7 @@
     <title>My Chrome Tabs Tell a Story We Haven&apos;t Processed Yet</title>
     <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
     <updated>2026-01-20T09:42:34+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146663</id>
@@ -247,8 +247,8 @@
   <entry>
     <id>tag:dev.to,2026:3168703</id>
     <title>Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h"/>
-    <updated>2026-01-22T15:53:18+00:00</updated>
+    <link rel="alternate" href="https://www.copilotkit.ai/blog/bring-mcp-apps-into-your-own-app-with-copilotkit-and-ag-ui"/>
+    <updated>2026-01-23T09:31:38+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:06:34Z&lt;br/&gt;Tags: mcp, programming, react, ai&lt;br/&gt;Description: Agent frameworks have become very good at calling tools and returning structured data.  The gap...</summary>
   </entry>
   <entry>
@@ -277,7 +277,7 @@
     <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
     <link rel="alternate" href="https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j"/>
     <updated>2026-01-22T15:17:21+00:00</updated>
-    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:17:21Z&lt;br/&gt;Tags: ai, gemini, devto, security&lt;br/&gt;Description: Eliminating spam has been a massive priority for us at DEV (and the wider Forem ecosystem). If you’ve...</summary>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:17:21Z&lt;br/&gt;Tags: ai, gemini, devto, security&lt;br/&gt;Description: Eliminating spam has been a massive priority for us at DEV (and the wider Forem ecosystem). If you’ve...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -336,25 +336,25 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3131464</id>
-    <title>We&apos;re launching on ProductHunt. You can help us! 🐈‍⬛</title>
-    <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
-    <updated>2025-12-28T13:01:19+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3183543</id>
     <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
     <updated>2026-01-21T12:54:52+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180743</id>
     <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
     <updated>2026-01-18T20:31:43+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3131464</id>
+    <title>We&apos;re launching on ProductHunt. You can help us! 🐈‍⬛</title>
+    <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
+    <updated>2025-12-28T13:01:19+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156386</id>
