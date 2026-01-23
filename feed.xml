@@ -91,6 +91,20 @@
     <summary type="html">Reactions: public 134 / positive 134&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3172071</id>
+    <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
+    <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
+    <updated>2026-01-20T06:06:19+00:00</updated>
+    <summary type="html">Reactions: public 133 / positive 133&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3183821</id>
+    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
+    <updated>2026-01-21T02:06:29+00:00</updated>
+    <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3156073</id>
     <title>I Didn’t “Become” a Senior Developer. I Accumulated Damage.</title>
     <link rel="alternate" href="https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd"/>
@@ -98,25 +112,11 @@
     <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T16:53:11Z&lt;br/&gt;Tags: programming, ai, career, discuss&lt;br/&gt;Description: There’s a strange myth in tech that one day you wake up and—boom—you’re a senior developer.  You get...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3172071</id>
-    <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
-    <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
-    <updated>2026-01-20T06:06:19+00:00</updated>
-    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3153473</id>
     <title>Bifrost: The fastest way to build AI applications that never go down</title>
     <link rel="alternate" href="https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9"/>
     <updated>2026-01-06T21:02:54+00:00</updated>
     <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T21:01:44Z&lt;br/&gt;Tags: webdev, ai, programming, opensource&lt;br/&gt;Description: LLM applications are rapidly becoming a critical part of production today. But behind the scenes,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183821</id>
-    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
-    <updated>2026-01-21T02:06:29+00:00</updated>
-    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3171515</id>
@@ -245,6 +245,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:23:38Z&lt;br/&gt;Tags: webdev, programming, ai, javascript&lt;br/&gt;Description: Somewhere along the way, many teams quietly adopted a harmful assumption:  Technical writers are...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3180743</id>
+    <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
+    <updated>2026-01-18T20:31:43+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3156698</id>
     <title>Optimizing JSON for LLMs</title>
     <link rel="alternate" href="https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf"/>
@@ -280,13 +287,6 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3180743</id>
-    <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
-    <updated>2026-01-18T20:31:43+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3188967</id>
     <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
     <link rel="alternate" href="https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j"/>
@@ -308,18 +308,18 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3183543</id>
+    <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
+    <updated>2026-01-21T12:54:52+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3158675</id>
     <title>When is a side project worth committing to?</title>
     <link rel="alternate" href="https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"/>
     <updated>2026-01-08T18:24:43+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183543</id>
-    <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
-    <updated>2026-01-21T12:54:52+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3173312</id>
@@ -560,6 +560,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T06:25:57Z&lt;br/&gt;Tags: devops, rust, observa, ai&lt;br/&gt;Description: Production observability for AI systems is broken. We fixed it by moving below the application...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3180777</id>
+    <title>Learning Starts After Graduation</title>
+    <link rel="alternate" href="https://dev.to/itsugo/learning-starts-after-graduation-2ie4"/>
+    <updated>2026-01-20T18:30:58+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:30:58Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: Many of us have heard this quote before: Real Learning Starts After Graduation For me it started just...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3185522</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jd"/>
@@ -600,13 +607,6 @@
     <link rel="alternate" href="https://dev.to/techstratos/building-remote-companies-the-hard-way-5of"/>
     <updated>2026-01-23T03:59:37+00:00</updated>
     <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T03:59:37Z&lt;br/&gt;Tags: remotework, startup, entrepreneurship, leadership&lt;br/&gt;Description: Lessons That Only Appear After Years of Trial and Error   Remote work is often marketed as...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3180777</id>
-    <title>Learning Starts After Graduation</title>
-    <link rel="alternate" href="https://dev.to/itsugo/learning-starts-after-graduation-2ie4"/>
-    <updated>2026-01-20T18:30:58+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:30:58Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: Many of us have heard this quote before: Real Learning Starts After Graduation For me it started just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146467</id>
@@ -740,6 +740,13 @@
     <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok"/>
     <updated>2026-01-21T03:46:54+00:00</updated>
     <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T03:46:54Z&lt;br/&gt;Tags: javascript, coding, programming, softwaredevelopment&lt;br/&gt;Description: How memory leaks happen and how the Mark-and-Sweep algorithm works.     Timothy was staring at the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3185771</id>
+    <title>SQL Nulls Finally Made Sense: COALESCE, NULLIF, and Safer Calculations</title>
+    <link rel="alternate" href="https://dev.to/mazinocodes/sql-nulls-finally-made-sense-coalesce-nullif-and-safer-calculations-440e"/>
+    <updated>2026-01-20T17:18:42+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mazinocodes&quot;&gt;Jessica Aki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T16:52:44Z&lt;br/&gt;Tags: sql, postgres, database, beginners&lt;br/&gt;Description: This was one of those learning days where SQL didn’t look hard… but kept quietly breaking my...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3183385</id>
