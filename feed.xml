@@ -95,7 +95,7 @@
     <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
     <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
     <updated>2026-01-20T06:06:19+00:00</updated>
-    <summary type="html">Reactions: public 133 / positive 133&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
+    <summary type="html">Reactions: public 134 / positive 134&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3183821</id>
@@ -539,6 +539,13 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3180777</id>
+    <title>Learning Starts After Graduation</title>
+    <link rel="alternate" href="https://dev.to/itsugo/learning-starts-after-graduation-2ie4"/>
+    <updated>2026-01-20T18:30:58+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:30:58Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: Many of us have heard this quote before: Real Learning Starts After Graduation For me it started just...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3178926</id>
     <title>Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality</title>
     <link rel="alternate" href="https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1"/>
@@ -558,13 +565,6 @@
     <link rel="alternate" href="https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc"/>
     <updated>2026-01-21T06:25:57+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T06:25:57Z&lt;br/&gt;Tags: devops, rust, observa, ai&lt;br/&gt;Description: Production observability for AI systems is broken. We fixed it by moving below the application...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3180777</id>
-    <title>Learning Starts After Graduation</title>
-    <link rel="alternate" href="https://dev.to/itsugo/learning-starts-after-graduation-2ie4"/>
-    <updated>2026-01-20T18:30:58+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:30:58Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: Many of us have heard this quote before: Real Learning Starts After Graduation For me it started just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3185522</id>
@@ -728,18 +728,18 @@
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mazinocodes&quot;&gt;Jessica Aki&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T09:20:00Z&lt;br/&gt;Tags: sql, database, postgres, beginners&lt;br/&gt;Description: Up until now, SQL felt very… solid.  Numbers are numbers. Strings are strings. GROUP BY either works...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3186498</id>
+    <title>The Secret Life of JavaScript: The Garbage Collector</title>
+    <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok"/>
+    <updated>2026-01-21T03:46:54+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T03:46:54Z&lt;br/&gt;Tags: javascript, coding, programming, softwaredevelopment&lt;br/&gt;Description: How memory leaks happen and how the Mark-and-Sweep algorithm works.     Timothy was staring at the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3135773</id>
     <title>An Honest Review of Google Antigravity</title>
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3186498</id>
-    <title>The Secret Life of JavaScript: The Garbage Collector</title>
-    <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok"/>
-    <updated>2026-01-21T03:46:54+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T03:46:54Z&lt;br/&gt;Tags: javascript, coding, programming, softwaredevelopment&lt;br/&gt;Description: How memory leaks happen and how the Mark-and-Sweep algorithm works.     Timothy was staring at the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3185771</id>
