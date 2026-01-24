@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-23T14:58:25+00:00</updated>
+  <updated>2026-01-24T06:26:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -161,6 +161,13 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T20:22:07Z&lt;br/&gt;Tags: discuss&lt;br/&gt;Description: Soo... 2025 is basically over. How&apos;d it go for you?   Here are two of my own DEV-centric highlights...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3181098</id>
+    <title>My Chrome Tabs Tell a Story We Haven&apos;t Processed Yet</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
+    <updated>2026-01-20T09:42:34+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3171681</id>
     <title>Microservices Are Killing Your Performance (And Here&apos;s the Math)</title>
     <link rel="alternate" href="https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"/>
@@ -168,18 +175,18 @@
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3181098</id>
-    <title>My Chrome Tabs Tell a Story We Haven&apos;t Processed Yet</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
-    <updated>2026-01-20T09:42:34+00:00</updated>
-    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3162468</id>
     <title>Stop Overengineering: How to Write Clean Code That Actually Ships 🚀</title>
     <link rel="alternate" href="https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni"/>
     <updated>2026-01-10T10:48:43+00:00</updated>
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3180743</id>
+    <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
+    <updated>2026-01-18T20:31:43+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3186317</id>
@@ -194,13 +201,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
     <updated>2026-01-19T05:55:08+00:00</updated>
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3180743</id>
-    <title>When DEV.to Stats Aren&apos;t Enough: Building My Own Memory</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid"/>
-    <updated>2026-01-18T20:31:43+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T20:27:16Z&lt;br/&gt;Tags: devto, analytics, python, opensource&lt;br/&gt;Description: One Tuesday morning at 9:14 AM, my six-month-old article got 37 views in 20 minutes. DEV.to&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146663</id>
@@ -252,6 +252,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:24:15Z&lt;br/&gt;Tags: googlecloud, career, productivity, discuss&lt;br/&gt;Description: First of all, if you haven’t participated in the google AI challenge, please do so right now. Not for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3188967</id>
+    <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
+    <link rel="alternate" href="https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j"/>
+    <updated>2026-01-22T15:17:21+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:17:21Z&lt;br/&gt;Tags: ai, gemini, devto, security&lt;br/&gt;Description: Eliminating spam has been a massive priority for us at DEV (and the wider Forem ecosystem). If you’ve...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3168703</id>
     <title>Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/bring-mcp-apps-into-your-own-app-with-copilotkit-and-ag-ui"/>
@@ -273,13 +280,6 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3188967</id>
-    <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
-    <link rel="alternate" href="https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j"/>
-    <updated>2026-01-22T15:17:21+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:17:21Z&lt;br/&gt;Tags: ai, gemini, devto, security&lt;br/&gt;Description: Eliminating spam has been a massive priority for us at DEV (and the wider Forem ecosystem). If you’ve...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3138862</id>
     <title>Happy New Year! 🎉 | Your Code from Last Year Still Doesn&apos;t Work 😂</title>
     <link rel="alternate" href="https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8"/>
@@ -294,18 +294,18 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3183543</id>
+    <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
+    <updated>2026-01-21T12:54:52+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3123641</id>
     <title>From Genin to Kage - Understanding the Test Pyramid with Naruto</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
     <updated>2025-12-23T23:36:41+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183543</id>
-    <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
-    <updated>2026-01-21T12:54:52+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3170064</id>
@@ -469,6 +469,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3180777</id>
+    <title>Learning Starts After Graduation</title>
+    <link rel="alternate" href="https://dev.to/itsugo/learning-starts-after-graduation-2ie4"/>
+    <updated>2026-01-20T18:30:58+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:30:58Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: Many of us have heard this quote before: Real Learning Starts After Graduation For me it started just...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3183805</id>
     <title>It Is 2026. Some Tech Jobs Quietly Disappeared.</title>
     <link rel="alternate" href="https://dev.to/techstratos/it-is-2026-some-tech-jobs-quietly-disappeared-5607"/>
@@ -488,13 +495,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
     <updated>2026-01-06T15:44:45+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3180777</id>
-    <title>Learning Starts After Graduation</title>
-    <link rel="alternate" href="https://dev.to/itsugo/learning-starts-after-graduation-2ie4"/>
-    <updated>2026-01-20T18:30:58+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:30:58Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: Many of us have heard this quote before: Real Learning Starts After Graduation For me it started just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3154810</id>
@@ -719,6 +719,13 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3194992</id>
+    <title>This portfolio isn’t perfect, but it’s 100% mine</title>
+    <link rel="alternate" href="https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5"/>
+    <updated>2026-01-24T06:26:18+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/random_ti&quot;&gt;Random&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T06:26:18Z&lt;br/&gt;Tags: webdev, programming, javascript, buildinpublic&lt;br/&gt;Description: Hey devs 👋 its me Taqui  Just wanted to share the story behind my last portfolio.  I already had a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3185810</id>
