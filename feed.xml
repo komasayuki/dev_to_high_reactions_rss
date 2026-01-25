@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-24T22:24:30+00:00</updated>
+  <updated>2026-01-25T17:30:59+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -49,18 +49,18 @@
     <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3189132</id>
+    <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af"/>
+    <updated>2026-01-22T22:38:13+00:00</updated>
+    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3180295</id>
     <title>🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅</title>
     <link rel="alternate" href="https://www.tensorlake.ai/blog/gpt5.2-codex-high-vs-opus-4.5-vs-gemini-3-pro"/>
     <updated>2026-01-18T12:41:12+00:00</updated>
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3189132</id>
-    <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af"/>
-    <updated>2026-01-22T22:38:13+00:00</updated>
-    <summary type="html">Reactions: public 150 / positive 150&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3159341</id>
@@ -70,18 +70,18 @@
     <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3172071</id>
+    <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
+    <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
+    <updated>2026-01-20T06:06:19+00:00</updated>
+    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3145249</id>
     <title>The Complete Full-Stack Developer Roadmap for 2026 🚀</title>
     <link rel="alternate" href="https://dev.to/thebitforge/the-complete-full-stack-developer-roadmap-for-2026-2i0j"/>
     <updated>2026-01-04T11:26:57+00:00</updated>
     <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T04:32:15Z&lt;br/&gt;Tags: mongodb, webdev, programming, discuss&lt;br/&gt;Description: hanzla-beig.netlify.app                                       Look,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3172071</id>
-    <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
-    <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
-    <updated>2026-01-20T06:06:19+00:00</updated>
-    <summary type="html">Reactions: public 141 / positive 141&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3171263</id>
@@ -91,18 +91,18 @@
     <summary type="html">Reactions: public 140 / positive 140&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/diptanu_gonchoudhury_23e&quot;&gt;Diptanu Gon Choudhury&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T11:31:43Z&lt;br/&gt;Tags: ai, rag, programming&lt;br/&gt;Description: Unlocking Visual Data: Introducing Agentic Chart Extraction   At Tensorlake, we&apos;re excited...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3183821</id>
+    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
+    <updated>2026-01-21T02:06:29+00:00</updated>
+    <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3170044</id>
     <title>Claude Cowork: Architecture, Capabilities, and Usage Overview</title>
     <link rel="alternate" href="https://www.tensorlake.ai/blog/claude-cowork-architecture-overview"/>
     <updated>2026-01-13T20:50:51+00:00</updated>
     <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arindam_1729&quot;&gt;Arindam Majumder &lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:50:51Z&lt;br/&gt;Tags: ai, programming, webdev, beginners&lt;br/&gt;Description: TL;DR    Understand what Cowork is and how it extends Claude Code’s agentic capabilities to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183821</id>
-    <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
-    <updated>2026-01-21T02:06:29+00:00</updated>
-    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T02:33:52Z&lt;br/&gt;Tags: discuss, watercooler, career, networking&lt;br/&gt;Description: The &quot;Alien&quot; Phase   For a long time, I felt like an alien.  I’m naturally reserved. I’m not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156073</id>
@@ -133,6 +133,13 @@
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-02T06:48:46Z&lt;br/&gt;Tags: career, architecture, discuss, webdev&lt;br/&gt;Description: I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3181098</id>
+    <title>My Chrome Tabs Tell a Story We Haven&apos;t Processed Yet</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
+    <updated>2026-01-20T09:42:34+00:00</updated>
+    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3158872</id>
     <title>Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)</title>
     <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
@@ -140,18 +147,18 @@
     <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3181098</id>
-    <title>My Chrome Tabs Tell a Story We Haven&apos;t Processed Yet</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
-    <updated>2026-01-20T09:42:34+00:00</updated>
-    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3151212</id>
     <title>Join the Algolia Agent Studio Challenge: $3,000 in Prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli"/>
     <updated>2026-01-09T16:23:08+00:00</updated>
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3168703</id>
+    <title>Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI</title>
+    <link rel="alternate" href="https://www.copilotkit.ai/blog/bring-mcp-apps-into-your-own-app-with-copilotkit-and-ag-ui"/>
+    <updated>2026-01-23T14:58:25+00:00</updated>
+    <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:06:34Z&lt;br/&gt;Tags: mcp, programming, react, ai&lt;br/&gt;Description: Agent frameworks have become very good at calling tools and returning structured data.  The gap...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3179178</id>
@@ -255,15 +262,8 @@
     <id>tag:dev.to,2026:3192566</id>
     <title>The HIDDEN Gem in the Google AI Challenge💎</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh"/>
-    <updated>2026-01-23T06:24:15+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:24:15Z&lt;br/&gt;Tags: googlecloud, career, productivity, discuss&lt;br/&gt;Description: First of all, if you haven’t participated in the google AI challenge, please do so right now. Not for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3168703</id>
-    <title>Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI</title>
-    <link rel="alternate" href="https://www.copilotkit.ai/blog/bring-mcp-apps-into-your-own-app-with-copilotkit-and-ag-ui"/>
-    <updated>2026-01-23T14:58:25+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:06:34Z&lt;br/&gt;Tags: mcp, programming, react, ai&lt;br/&gt;Description: Agent frameworks have become very good at calling tools and returning structured data.  The gap...</summary>
+    <updated>2026-01-25T17:30:59+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:24:15Z&lt;br/&gt;Tags: googlecloud, career, productivity&lt;br/&gt;Description: First of all, if you haven’t participated in the google AI challenge, please do so right now. Not for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3187961</id>
