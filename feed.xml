@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-26T12:00:58+00:00</updated>
+  <updated>2026-01-26T12:49:48+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -42,18 +42,18 @@
     <summary type="html">Reactions: public 179 / positive 179&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lissy93&quot;&gt;Alicia Sykes&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:20:00Z&lt;br/&gt;Tags: performance, webdev, javascript, frontend&lt;br/&gt;Description: A detailed comparison of performance, dev experience and viability of frontend web frameworks in 2026</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3189132</id>
+    <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af"/>
+    <updated>2026-01-22T22:38:13+00:00</updated>
+    <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3164939</id>
     <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
     <updated>2026-01-13T11:42:28+00:00</updated>
     <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3189132</id>
-    <title>Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af"/>
-    <updated>2026-01-22T22:38:13+00:00</updated>
-    <summary type="html">Reactions: public 159 / positive 159&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:05:49Z&lt;br/&gt;Tags: githubchallenge, devchallenge, cli, githubcopilot&lt;br/&gt;Description: We&apos;re excited to announce our newest challenge with GitHub!   Running through February 15, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -231,6 +231,13 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3183543</id>
+    <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
+    <updated>2026-01-21T12:54:52+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3117474</id>
     <title>The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job</title>
     <link rel="alternate" href="https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn"/>
@@ -243,13 +250,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om"/>
     <updated>2026-01-04T11:29:38+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183543</id>
-    <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
-    <updated>2026-01-21T12:54:52+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3136225</id>
@@ -411,6 +411,13 @@
     <link rel="alternate" href="https://dev.to/abdullah_haroon_092cf10d3/a-short-talk-at-cloudnexus-made-me-rethink-how-students-are-using-ai-4o01"/>
     <updated>2025-12-28T05:31:07+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3199100</id>
+    <title>How I Automate API Testing Using Claude Code</title>
+    <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
+    <updated>2026-01-26T12:49:48+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3130412</id>
@@ -658,13 +665,6 @@
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:52:24Z&lt;br/&gt;Tags: webdev, programming, javascript, opensource&lt;br/&gt;Description: Today, AI applications are rapidly becoming more complex. Modern systems no longer rely on a single...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3199100</id>
-    <title>How I Automate API Testing Using Claude Code</title>
-    <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
-    <updated>2026-01-26T12:00:58+00:00</updated>
-    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests can be a real headache. You open a folder, scroll through dozens of scripts, copy...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3193832</id>
     <title>Best TypeScript Backend Frameworks in 2026</title>
     <link rel="alternate" href="https://encore.dev/articles/best-typescript-backend-frameworks?=devto"/>
@@ -775,6 +775,13 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
     <updated>2026-01-25T15:11:47+00:00</updated>
     <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:11:47Z&lt;br/&gt;Tags: javascript, node, frontend&lt;br/&gt;Description: No, JavaScript Isn’t Broken (Again)   I’ll admit it — sometimes I like publishing a post on...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3192241</id>
+    <title>AI Workflows vs AI Agents, Explained with LEGOs</title>
+    <link rel="alternate" href="https://dev.to/shlokaguptaa/ai-workflows-vs-ai-agents-explained-with-legos-581g"/>
+    <updated>2026-01-23T02:58:04+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shlokaguptaa&quot;&gt;Shloka&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T02:58:04Z&lt;br/&gt;Tags: ai, agents, lego, explainlikeimfive&lt;br/&gt;Description: Ever dumped a pile of LEGOs on the floor?  Yes?  Well then, you are already a step closer to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3189401</id>
