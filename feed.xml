@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-27T08:36:54+00:00</updated>
+  <updated>2026-01-27T15:42:37+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -143,7 +143,7 @@
     <id>tag:dev.to,2026:3168703</id>
     <title>Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/bring-mcp-apps-into-your-own-app-with-copilotkit-and-ag-ui"/>
-    <updated>2026-01-23T14:58:25+00:00</updated>
+    <updated>2026-01-27T15:26:10+00:00</updated>
     <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:06:34Z&lt;br/&gt;Tags: mcp, programming, react, ai&lt;br/&gt;Description: Agent frameworks have become very good at calling tools and returning structured data.  The gap...</summary>
   </entry>
   <entry>
@@ -364,18 +364,18 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3179318</id>
+    <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
+    <updated>2026-01-25T15:11:47+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:11:47Z&lt;br/&gt;Tags: javascript, node, frontend&lt;br/&gt;Description: No, JavaScript Isn’t Broken (Again)   I’ll admit it — sometimes I like publishing a post on...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3131464</id>
     <title>We&apos;re launching on ProductHunt. You can help us! 🐈‍⬛</title>
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3179318</id>
-    <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
-    <updated>2026-01-25T15:11:47+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:11:47Z&lt;br/&gt;Tags: javascript, node, frontend&lt;br/&gt;Description: No, JavaScript Isn’t Broken (Again)   I’ll admit it — sometimes I like publishing a post on...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3186504</id>
@@ -462,6 +462,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3186253</id>
+    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
+    <updated>2026-01-27T01:59:58+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3166739</id>
     <title>Meme Monday</title>
     <link rel="alternate" href="https://dev.to/ben/meme-monday-2if1"/>
@@ -544,13 +551,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
     <updated>2026-01-06T15:44:45+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3186253</id>
-    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
-    <updated>2026-01-27T01:59:58+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3154810</id>
@@ -843,7 +843,7 @@
     <id>tag:dev.to,2026:3191037</id>
     <title>CSS Optical Illusions: 50+ Visual Illusions Built with Pure CSS and HTML</title>
     <link rel="alternate" href="https://alvaromontoro.com/blog/68091/css-optical-illusions"/>
-    <updated>2026-01-22T15:36:32+00:00</updated>
+    <updated>2026-01-27T15:42:37+00:00</updated>
     <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T15:36:32Z&lt;br/&gt;Tags: css, html, showdev, webdev&lt;br/&gt;Description: A collection of 50+ optical illusions coded with CSS and HTML.</summary>
   </entry>
   <entry>
