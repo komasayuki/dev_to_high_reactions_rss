@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-27T15:42:37+00:00</updated>
+  <updated>2026-01-27T16:02:04+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -308,6 +308,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3186253</id>
+    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
+    <updated>2026-01-27T01:59:58+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3180777</id>
     <title>Learning Starts After Graduation</title>
     <link rel="alternate" href="https://dev.to/itsugo/learning-starts-after-graduation-2ie4"/>
@@ -357,6 +364,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T12:19:52Z&lt;br/&gt;Tags: javascript, node, webdev, beginners&lt;br/&gt;Description: JavaScript has been my main work language for years now (and of course these days it’s mostly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3179318</id>
+    <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
+    <updated>2026-01-25T15:11:47+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:11:47Z&lt;br/&gt;Tags: javascript, node, frontend&lt;br/&gt;Description: No, JavaScript Isn’t Broken (Again)   I’ll admit it — sometimes I like publishing a post on...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3186504</id>
     <title>Are We All Just Copying Code and Pretending We Know What We&apos;re Doing?</title>
     <link rel="alternate" href="https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk"/>
@@ -369,20 +383,6 @@
     <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
     <updated>2026-01-11T21:50:53+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3186253</id>
-    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
-    <updated>2026-01-27T01:59:58+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3179318</id>
-    <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
-    <updated>2026-01-25T15:11:47+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:11:47Z&lt;br/&gt;Tags: javascript, node, frontend&lt;br/&gt;Description: No, JavaScript Isn’t Broken (Again)   I’ll admit it — sometimes I like publishing a post on...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3131464</id>
@@ -749,6 +749,13 @@
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3201461</id>
+    <title>From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&apos;s Hottest AI Project</title>
+    <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
+    <updated>2026-01-27T16:02:04+00:00</updated>
+    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3191146</id>
     <title>From Local MCP Server to AWS Deployment in Two Commands</title>
     <link rel="alternate" href="https://dev.to/aws/from-local-mcp-server-to-aws-deployment-in-two-commands-ag4"/>
@@ -782,6 +789,13 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-use-the-nanobanana-api-without-breaking-the-bank-2eo"/>
     <updated>2026-01-27T08:36:54+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T08:27:29Z&lt;br/&gt;Tags: webdev, programming, ai&lt;br/&gt;Description: AI image generation is getting cheaper, but it’s still very easy to burn money without noticing...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3200961</id>
+    <title>GitHub Copilot CLI Challenge: &apos;The Linux Compass&apos;</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/github-copilot-cli-challenge-the-linux-compass-3j9o"/>
+    <updated>2026-01-27T07:21:14+00:00</updated>
+    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T07:21:14Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built The Linux...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3200433</id>
@@ -819,6 +833,13 @@
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3186306</id>
+    <title>From Vibe Coding to Engineering: Building a Production-Ready Next.js 15 Blog with AI</title>
+    <link rel="alternate" href="https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9"/>
+    <updated>2026-01-22T22:14:16+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:00:00Z&lt;br/&gt;Tags: webdev, ai, vibecoding, beginners&lt;br/&gt;Description: Dusting off the room because it has been a minute or two since I was in here last!   Through last...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3185810</id>
     <title>SQL Dates Finally Made Sense: NOW, AGE, EXTRACT, and Why Time Is Weird</title>
     <link rel="alternate" href="https://dev.to/mazinocodes/sql-dates-finally-made-sense-now-age-extract-and-why-time-is-weird-39on"/>
@@ -852,13 +873,6 @@
     <link rel="alternate" href="https://dev.to/techstratos/what-15-years-in-the-tech-world-really-taught-me-19ff"/>
     <updated>2026-01-22T03:59:00+00:00</updated>
     <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T03:59:00Z&lt;br/&gt;Tags: career, technology, growth, lessons&lt;br/&gt;Description: I have been in tech long enough to remember when shipping fast was considered reckless, not heroic....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3186306</id>
-    <title>From Vibe Coding to Engineering: Building a Production-Ready Next.js 15 Blog with AI</title>
-    <link rel="alternate" href="https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9"/>
-    <updated>2026-01-22T22:14:16+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T10:00:00Z&lt;br/&gt;Tags: webdev, ai, vibecoding, beginners&lt;br/&gt;Description: Dusting off the room because it has been a minute or two since I was in here last!   Through last...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3185771</id>
