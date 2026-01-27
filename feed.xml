@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-27T16:02:04+00:00</updated>
+  <updated>2026-01-27T16:03:24+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -287,6 +287,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3186253</id>
+    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
+    <updated>2026-01-27T01:59:58+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3138862</id>
     <title>Happy New Year! 🎉 | Your Code from Last Year Still Doesn&apos;t Work 😂</title>
     <link rel="alternate" href="https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8"/>
@@ -299,13 +306,6 @@
     <link rel="alternate" href="https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6"/>
     <updated>2025-12-31T10:04:43+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3186253</id>
-    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
-    <updated>2026-01-27T01:59:58+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -602,6 +602,13 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3201461</id>
+    <title>From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&apos;s Hottest AI Project</title>
+    <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
+    <updated>2026-01-27T16:02:04+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3178926</id>
     <title>Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality</title>
     <link rel="alternate" href="https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1"/>
@@ -649,13 +656,6 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3201461</id>
-    <title>From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&apos;s Hottest AI Project</title>
-    <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
-    <updated>2026-01-27T16:02:04+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199880</id>
@@ -812,6 +812,13 @@
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T08:27:29Z&lt;br/&gt;Tags: webdev, programming, ai&lt;br/&gt;Description: AI image generation is getting cheaper, but it’s still very easy to burn money without noticing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3130408</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4ig9"/>
+    <updated>2026-01-23T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3123504</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"/>
@@ -826,11 +833,18 @@
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T20:08:21Z&lt;br/&gt;Tags: api, csharp, automation, testing&lt;br/&gt;Description: Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3130408</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4ig9"/>
-    <updated>2026-01-23T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+    <id>tag:dev.to,2026:3198441</id>
+    <title>You Don&apos;t Need a Mac Mini to Run Clawdbot - Here&apos;s How to Run It Anywhere</title>
+    <link rel="alternate" href="https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l"/>
+    <updated>2026-01-27T16:03:24+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3196490</id>
+    <title>Why We Suddenly Have Developers Who Can&apos;t Think in Systems</title>
+    <link rel="alternate" href="https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj"/>
+    <updated>2026-01-25T01:45:33+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146555</id>
@@ -838,13 +852,6 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3196490</id>
-    <title>Why We Suddenly Have Developers Who Can&apos;t Think in Systems</title>
-    <link rel="alternate" href="https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj"/>
-    <updated>2026-01-25T01:45:33+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3186306</id>
