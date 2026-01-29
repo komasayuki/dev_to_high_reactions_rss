@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-29T05:07:53+00:00</updated>
+  <updated>2026-01-29T15:04:54+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -77,18 +77,18 @@
     <summary type="html">Reactions: public 147 / positive 147&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3186253</id>
+    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
+    <updated>2026-01-27T01:59:58+00:00</updated>
+    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3145249</id>
     <title>The Complete Full-Stack Developer Roadmap for 2026 🚀</title>
     <link rel="alternate" href="https://dev.to/thebitforge/the-complete-full-stack-developer-roadmap-for-2026-2i0j"/>
     <updated>2026-01-04T11:26:57+00:00</updated>
     <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T04:32:15Z&lt;br/&gt;Tags: mongodb, webdev, programming, discuss&lt;br/&gt;Description: hanzla-beig.netlify.app                                       Look,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3186253</id>
-    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
-    <updated>2026-01-27T01:59:58+00:00</updated>
-    <summary type="html">Reactions: public 144 / positive 144&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3183821</id>
@@ -245,6 +245,13 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3196490</id>
+    <title>Why We Suddenly Have Developers Who Can&apos;t Think in Systems</title>
+    <link rel="alternate" href="https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj"/>
+    <updated>2026-01-25T01:45:33+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3117474</id>
     <title>The 2026 Software Developer Roadmap: From Rejections to a Dream Tech Job</title>
     <link rel="alternate" href="https://dev.to/finalroundai/the-2026-software-developer-roadmap-from-rejections-to-a-dream-tech-job-5bbn"/>
@@ -259,25 +266,18 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3179318</id>
+    <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
+    <updated>2026-01-25T15:11:47+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:11:47Z&lt;br/&gt;Tags: javascript, node, frontend&lt;br/&gt;Description: No, JavaScript Isn’t Broken (Again)   I’ll admit it — sometimes I like publishing a post on...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3136225</id>
     <title>I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34"/>
     <updated>2025-12-30T15:59:39+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T15:59:39Z&lt;br/&gt;Tags: opensource, saas, webdev, beginners&lt;br/&gt;Description: So here&apos;s the thing - I was helping my friend set up his portfolio site last weekend. Everything was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3179318</id>
-    <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
-    <updated>2026-01-25T15:11:47+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T15:11:47Z&lt;br/&gt;Tags: javascript, node, frontend&lt;br/&gt;Description: No, JavaScript Isn’t Broken (Again)   I’ll admit it — sometimes I like publishing a post on...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3196490</id>
-    <title>Why We Suddenly Have Developers Who Can&apos;t Think in Systems</title>
-    <link rel="alternate" href="https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj"/>
-    <updated>2026-01-25T01:45:33+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3119796</id>
@@ -326,7 +326,7 @@
     <title>From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&apos;s Hottest AI Project</title>
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
     <updated>2026-01-27T16:02:04+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -413,6 +413,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3194861</id>
+    <title>The Anti-Resume: Why I Hid My Portfolio in the Dark</title>
+    <link rel="alternate" href="https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee"/>
+    <updated>2026-01-24T04:05:48+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3192241</id>
     <title>AI Workflows vs AI Agents, Explained with LEGOs</title>
     <link rel="alternate" href="https://dev.to/shlokaguptaa/ai-workflows-vs-ai-agents-explained-with-legos-581g"/>
@@ -432,13 +439,6 @@
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5"/>
     <updated>2025-12-30T12:22:21+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3194861</id>
-    <title>The Anti-Resume: Why I Hid My Portfolio in the Dark</title>
-    <link rel="alternate" href="https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee"/>
-    <updated>2026-01-24T04:05:48+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3174797</id>
@@ -567,6 +567,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3199880</id>
+    <title>Personal Branding for Introverted Developers (Yes, It&apos;s Possible) 🚀</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp"/>
+    <updated>2026-01-26T19:07:28+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3185522</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jd"/>
@@ -593,13 +600,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
     <updated>2026-01-06T15:44:45+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3199880</id>
-    <title>Personal Branding for Introverted Developers (Yes, It&apos;s Possible) 🚀</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp"/>
-    <updated>2026-01-26T19:07:28+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3198441</id>
@@ -784,6 +784,13 @@
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:52:24Z&lt;br/&gt;Tags: webdev, programming, javascript, opensource&lt;br/&gt;Description: Today, AI applications are rapidly becoming more complex. Modern systems no longer rely on a single...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3199330</id>
+    <title>The Developer&apos;s Guide to Generative UI in 2026</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3"/>
+    <updated>2026-01-29T14:41:12+00:00</updated>
+    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T14:41:12Z&lt;br/&gt;Tags: programming, ai, opensource, tutorial&lt;br/&gt;Description: AI agents have become much better at reasoning and planning. The UI layer has mostly stayed the same,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3193832</id>
     <title>Best TypeScript Backend Frameworks in 2026</title>
     <link rel="alternate" href="https://encore.dev/articles/best-typescript-backend-frameworks?=devto"/>
@@ -843,8 +850,8 @@
     <id>tag:dev.to,2026:3205876</id>
     <title>Creating a Chatbot that actually Stands Out! (vibe coded version)🦖</title>
     <link rel="alternate" href="https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake"/>
-    <updated>2026-01-29T05:07:53+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohan_sharma&quot;&gt;Rohan Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T05:04:47Z&lt;br/&gt;Tags: webdev, programming, javascript, vibecoding&lt;br/&gt;Description: Hi there,  As I promised at the start of this year, I&apos;m fulfilling my commitment. 😆  In this blog, I...</summary>
+    <updated>2026-01-29T15:04:54+00:00</updated>
+    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohan_sharma&quot;&gt;Rohan Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T05:04:47Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Hi there,  As I promised at the start of this year, I&apos;m fulfilling my commitment. 😆  In this blog, I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3173880</id>
