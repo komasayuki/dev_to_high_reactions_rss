@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-28T16:48:51+00:00</updated>
+  <updated>2026-01-29T05:07:53+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -84,6 +84,13 @@
     <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T04:32:15Z&lt;br/&gt;Tags: mongodb, webdev, programming, discuss&lt;br/&gt;Description: hanzla-beig.netlify.app                                       Look,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3186253</id>
+    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
+    <updated>2026-01-27T01:59:58+00:00</updated>
+    <summary type="html">Reactions: public 141 / positive 141&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3183821</id>
     <title>The Introvert’s Guide to Networking: How I Stopped Faking It and Started Growing</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-introverts-guide-to-networking-how-i-stopped-faking-it-and-started-growing-4b2h"/>
@@ -103,13 +110,6 @@
     <link rel="alternate" href="https://www.tensorlake.ai/blog/claude-cowork-architecture-overview"/>
     <updated>2026-01-13T20:50:51+00:00</updated>
     <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arindam_1729&quot;&gt;Arindam Majumder &lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:50:51Z&lt;br/&gt;Tags: ai, programming, webdev, beginners&lt;br/&gt;Description: TL;DR    Understand what Cowork is and how it extends Claude Code’s agentic capabilities to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3186253</id>
-    <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
-    <updated>2026-01-27T01:59:58+00:00</updated>
-    <summary type="html">Reactions: public 136 / positive 136&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3156073</id>
@@ -319,7 +319,7 @@
     <title>Why We Suddenly Have Developers Who Can&apos;t Think in Systems</title>
     <link rel="alternate" href="https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj"/>
     <updated>2026-01-25T01:45:33+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3201461</id>
@@ -721,6 +721,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3121688</id>
+    <title>What Coders Could Offer Instead of Writing Lines of Code If AI Takes Over</title>
+    <link rel="alternate" href="https://canro91.github.io/2025/12/21/Offerings/"/>
+    <updated>2026-01-27T15:10:12+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T05:00:00Z&lt;br/&gt;Tags: career, coding, programming, ai&lt;br/&gt;Description: What happens when AI codes better than we do?  For a second, let&apos;s forget AI is more like a sloppy...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3130408</id>
     <title>What was your win this week?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4ig9"/>
@@ -749,6 +756,13 @@
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T02:19:15Z&lt;br/&gt;Tags: programming, ai, productivity, webdev&lt;br/&gt;Description: Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3199636</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e8p"/>
+    <updated>2026-01-27T19:55:48+00:00</updated>
+    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T19:55:48Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3198972</id>
     <title>Why Using AI Chatbots Feels Like a Mistake: Risks and Dangers</title>
     <link rel="alternate" href="https://scalevise.com/resources/ai-chatbot-risks-and-dangers/"/>
@@ -756,11 +770,11 @@
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T10:43:16Z&lt;br/&gt;Tags: ai, chatgpt, gemini, webdev&lt;br/&gt;Description: AI chatbots were supposed to simplify knowledge work.  They promised faster writing, instant answers,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3121688</id>
-    <title>What Coders Could Offer Instead of Writing Lines of Code If AI Takes Over</title>
-    <link rel="alternate" href="https://canro91.github.io/2025/12/21/Offerings/"/>
-    <updated>2026-01-27T15:10:12+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T05:00:00Z&lt;br/&gt;Tags: career, coding, programming, ai&lt;br/&gt;Description: What happens when AI codes better than we do?  For a second, let&apos;s forget AI is more like a sloppy...</summary>
+    <id>tag:dev.to,2026:3191146</id>
+    <title>From Local MCP Server to AWS Deployment in Two Commands</title>
+    <link rel="alternate" href="https://dev.to/aws/from-local-mcp-server-to-aws-deployment-in-two-commands-ag4"/>
+    <updated>2026-01-26T17:35:32+00:00</updated>
+    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:26:41Z&lt;br/&gt;Tags: mcp, ai, aws&lt;br/&gt;Description: This is a full tutorial with detailed explanations. For a quick walkthrough, see the code-only...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181900</id>
@@ -770,25 +784,11 @@
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:52:24Z&lt;br/&gt;Tags: webdev, programming, javascript, opensource&lt;br/&gt;Description: Today, AI applications are rapidly becoming more complex. Modern systems no longer rely on a single...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3199636</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e8p"/>
-    <updated>2026-01-27T19:55:48+00:00</updated>
-    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T19:55:48Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3193832</id>
     <title>Best TypeScript Backend Frameworks in 2026</title>
     <link rel="alternate" href="https://encore.dev/articles/best-typescript-backend-frameworks?=devto"/>
     <updated>2026-01-23T14:42:24+00:00</updated>
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcuskohlberg&quot;&gt;Marcus Kohlberg&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T14:42:24Z&lt;br/&gt;Tags: typescript, node, javascript, backend&lt;br/&gt;Description: TypeScript has become the default choice for backend development in the Node.js ecosystem. The...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3191146</id>
-    <title>From Local MCP Server to AWS Deployment in Two Commands</title>
-    <link rel="alternate" href="https://dev.to/aws/from-local-mcp-server-to-aws-deployment-in-two-commands-ag4"/>
-    <updated>2026-01-26T17:35:32+00:00</updated>
-    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T14:26:41Z&lt;br/&gt;Tags: mcp, ai, aws&lt;br/&gt;Description: This is a full tutorial with detailed explanations. For a quick walkthrough, see the code-only...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3186498</id>
@@ -812,6 +812,13 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T05:56:07Z&lt;br/&gt;Tags: programming, beginners, productivity, discuss&lt;br/&gt;Description: Let’s be honest for a second. GitHub contribution graphs are not a productivity metric. They are a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3205511</id>
+    <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
+    <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
+    <updated>2026-01-28T16:48:51+00:00</updated>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:50:06Z&lt;br/&gt;Tags: webdev, ai, javascript&lt;br/&gt;Description: When Anthropic introduced the Model Context Protocol (MCP) in late 2024, it felt like a turning...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3176667</id>
     <title>React Is Not Slow — Your Architecture Is</title>
     <link rel="alternate" href="https://dev.to/hanzla/react-is-not-slow-your-architecture-is-5d5d"/>
@@ -833,13 +840,6 @@
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3205511</id>
-    <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
-    <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
-    <updated>2026-01-28T16:48:51+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:50:06Z&lt;br/&gt;Tags: webdev, ai, javascript&lt;br/&gt;Description: When Anthropic introduced the Model Context Protocol (MCP) in late 2024, it felt like a turning...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3173880</id>
     <title>A Practical Performance Comparison of Top Internal Tool Builders</title>
     <link rel="alternate" href="https://medium.com/@EnterpriseToolingInsights/retool-vs-tooljet-vs-appsmith-and-drona-a-practical-performance-comparison-f42cc139dffa"/>
@@ -859,6 +859,13 @@
     <link rel="alternate" href="https://scalevise.com/resources/tensorflow-azure-ml-pretrained-models/"/>
     <updated>2026-01-10T09:43:09+00:00</updated>
     <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T08:51:05Z&lt;br/&gt;Tags: tensorflow, azure, foundry, microsoft&lt;br/&gt;Description: Most machine learning systems fail long before model quality becomes a problem. They fail due to cost...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3205876</id>
+    <title>Creating a Chatbot that actually Stands Out! (vibe coded version)🦖</title>
+    <link rel="alternate" href="https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake"/>
+    <updated>2026-01-29T05:07:53+00:00</updated>
+    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohan_sharma&quot;&gt;Rohan Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T05:04:47Z&lt;br/&gt;Tags: webdev, programming, javascript, vibecoding&lt;br/&gt;Description: Hi there,  As I promised at the start of this year, I&apos;m fulfilling my commitment. 😆  In this blog, I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3201110</id>
