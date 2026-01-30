@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-01-29T18:37:41+00:00</updated>
+  <updated>2026-01-30T07:09:05+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -60,7 +60,7 @@
     <title>We&apos;re Creating a Knowledge Collapse and No One&apos;s Talking About It</title>
     <link rel="alternate" href="https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d"/>
     <updated>2026-01-27T01:59:58+00:00</updated>
-    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
+    <summary type="html">Reactions: public 159 / positive 159&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -228,7 +228,7 @@
     <title>Why We Suddenly Have Developers Who Can&apos;t Think in Systems</title>
     <link rel="alternate" href="https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj"/>
     <updated>2026-01-25T01:45:33+00:00</updated>
-    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3179318</id>
@@ -318,7 +318,7 @@
     <id>tag:dev.to,2026:3201461</id>
     <title>From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&apos;s Hottest AI Project</title>
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
-    <updated>2026-01-27T16:02:04+00:00</updated>
+    <updated>2026-01-30T07:09:05+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
   </entry>
   <entry>
@@ -511,6 +511,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3205431</id>
+    <title>Is Learning CSS a Waste of Time in 2026?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3"/>
+    <updated>2026-01-29T11:07:18+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3200961</id>
     <title>GitHub Copilot CLI Challenge: &apos;The Linux Compass&apos;</title>
     <link rel="alternate" href="https://dev.to/maame-codes/github-copilot-cli-challenge-the-linux-compass-3j9o"/>
@@ -530,13 +537,6 @@
     <link rel="alternate" href="https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj"/>
     <updated>2026-01-04T17:08:25+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3205431</id>
-    <title>Is Learning CSS a Waste of Time in 2026?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3"/>
-    <updated>2026-01-29T11:07:18+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3194992</id>
@@ -861,6 +861,13 @@
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:50:06Z&lt;br/&gt;Tags: webdev, ai, javascript&lt;br/&gt;Description: When Anthropic introduced the Model Context Protocol (MCP) in late 2024, it felt like a turning...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3199094</id>
+    <title>Clawdbot: The AI Assistant That&apos;s Breaking the Internet</title>
+    <link rel="alternate" href="https://dev.to/sivarampg/clawdbot-the-ai-assistant-thats-breaking-the-internet-1a47"/>
+    <updated>2026-01-27T16:03:02+00:00</updated>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:58:51Z&lt;br/&gt;Tags: productivity, ai, clawd, opensource&lt;br/&gt;Description: What is Clawdbot?  Clawdbot is an open-source, self-hosted personal AI assistant created by Peter...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3176667</id>
     <title>React Is Not Slow — Your Architecture Is</title>
     <link rel="alternate" href="https://dev.to/hanzla/react-is-not-slow-your-architecture-is-5d5d"/>
@@ -887,13 +894,6 @@
     <link rel="alternate" href="https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake"/>
     <updated>2026-01-29T15:04:54+00:00</updated>
     <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohan_sharma&quot;&gt;Rohan Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T05:04:47Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Hi there,  As I promised at the start of this year, I&apos;m fulfilling my commitment. 😆  In this blog, I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3199094</id>
-    <title>Clawdbot: The AI Assistant That&apos;s Breaking the Internet</title>
-    <link rel="alternate" href="https://dev.to/sivarampg/clawdbot-the-ai-assistant-thats-breaking-the-internet-1a47"/>
-    <updated>2026-01-27T16:03:02+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:58:51Z&lt;br/&gt;Tags: productivity, ai, clawd, opensource&lt;br/&gt;Description: What is Clawdbot?  Clawdbot is an open-source, self-hosted personal AI assistant created by Peter...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3173880</id>
