@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-01T10:56:01+00:00</updated>
+  <updated>2026-02-01T13:30:45+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -112,6 +112,13 @@
     <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arindam_1729&quot;&gt;Arindam Majumder &lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T20:50:51Z&lt;br/&gt;Tags: ai, programming, webdev, beginners&lt;br/&gt;Description: TL;DR    Understand what Cowork is and how it extends Claude Code’s agentic capabilities to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3205431</id>
+    <title>Is Learning CSS a Waste of Time in 2026?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3"/>
+    <updated>2026-01-29T11:07:18+00:00</updated>
+    <summary type="html">Reactions: public 132 / positive 132&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3156073</id>
     <title>I Didn’t “Become” a Senior Developer. I Accumulated Damage.</title>
     <link rel="alternate" href="https://dev.to/art_light/i-didnt-become-a-senior-developer-i-accumulated-damage-7hd"/>
@@ -124,13 +131,6 @@
     <link rel="alternate" href="https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9"/>
     <updated>2026-01-06T21:02:54+00:00</updated>
     <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T21:01:44Z&lt;br/&gt;Tags: webdev, ai, programming, opensource&lt;br/&gt;Description: LLM applications are rapidly becoming a critical part of production today. But behind the scenes,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3205431</id>
-    <title>Is Learning CSS a Waste of Time in 2026?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3"/>
-    <updated>2026-01-29T11:07:18+00:00</updated>
-    <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3171515</id>
@@ -238,11 +238,25 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3207153</id>
+    <title>The Internet’s Addiction to Being Contrary</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni"/>
+    <updated>2026-01-29T17:00:22+00:00</updated>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T17:00:22Z&lt;br/&gt;Tags: discuss, community&lt;br/&gt;Description: Lately, I&apos;ve noticed that many online discussions don&apos;t really feel like discussions anymore. Instead...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3183543</id>
     <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
     <updated>2026-01-21T12:54:52+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3214650</id>
+    <title>🔥I Built an Awwwards-Style Portfolio Using Antigravity🌀</title>
+    <link rel="alternate" href="https://dev.to/dev_kiran/i-built-an-awwwards-style-portfolio-using-antigravity-49lk"/>
+    <updated>2026-02-01T10:56:01+00:00</updated>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T10:53:04Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3188213</id>
@@ -257,20 +271,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f"/>
     <updated>2026-01-21T01:09:15+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3214650</id>
-    <title>🔥I Built an Awwwards-Style Portfolio Using Antigravity🌀</title>
-    <link rel="alternate" href="https://dev.to/dev_kiran/i-built-an-awwwards-style-portfolio-using-antigravity-49lk"/>
-    <updated>2026-02-01T10:56:01+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T10:53:04Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3207153</id>
-    <title>The Internet’s Addiction to Being Contrary</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni"/>
-    <updated>2026-01-29T17:00:22+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T17:00:22Z&lt;br/&gt;Tags: discuss, community&lt;br/&gt;Description: Lately, I&apos;ve noticed that many online discussions don&apos;t really feel like discussions anymore. Instead...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181466</id>
@@ -420,6 +420,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3216141</id>
+    <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
+    <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
+    <updated>2026-02-01T08:16:04+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205511</id>
     <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
@@ -530,13 +537,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3216141</id>
-    <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
-    <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
-    <updated>2026-02-01T08:16:04+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3198441</id>
@@ -985,6 +985,13 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"/>
     <updated>2025-12-23T20:27:40+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3216965</id>
+    <title>Do We Even Need Backend Developers Anymore?</title>
+    <link rel="alternate" href="https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg"/>
+    <updated>2026-02-01T13:30:45+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T13:30:45Z&lt;br/&gt;Tags: programming, backend, developer, discuss&lt;br/&gt;Description: Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199733</id>
