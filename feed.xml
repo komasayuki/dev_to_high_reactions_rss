@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-01T13:30:45+00:00</updated>
+  <updated>2026-02-02T09:15:20+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -217,6 +217,13 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T10:53:04Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3216141</id>
+    <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
+    <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
+    <updated>2026-02-01T08:16:04+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3188967</id>
     <title>Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community</title>
     <link rel="alternate" href="https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j"/>
@@ -229,13 +236,6 @@
     <link rel="alternate" href="https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"/>
     <updated>2026-01-14T12:57:58+00:00</updated>
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3216141</id>
-    <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
-    <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
-    <updated>2026-02-01T08:16:04+00:00</updated>
-    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3179318</id>
@@ -837,7 +837,7 @@
     <title>The Valley of Code: A Learning Resource</title>
     <link rel="alternate" href="https://dev.to/richardpascoe/the-valley-of-code-a-learning-resource-303o"/>
     <updated>2026-01-30T11:46:37+00:00</updated>
-    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: I first came across Flavio Copes a few years ago while searching for clear, practical guides on web...</summary>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: I first came across Flavio Copes a few years ago while searching for clear, practical guides on web...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205876</id>
@@ -1029,6 +1029,13 @@
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRDev 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T15:35:22Z&lt;br/&gt;Tags: devjournal, programming, discuss, community&lt;br/&gt;Description: Monthly Discovery 🔍    Dev.to Website :) Clawdbot. The biggest security risk of all time (If...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3130402</id>
+    <title>Welcome Thread - v362</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v362-il4"/>
+    <updated>2026-01-28T14:00:00+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T14:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3193886</id>
     <title>The 66% Problem</title>
     <link rel="alternate" href="https://dev.to/evanlausier/the-66-problem-1c3m"/>
@@ -1062,6 +1069,13 @@
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3220868</id>
+    <title>Following Back: My Approach</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/following-back-my-approach-33ai"/>
+    <updated>2026-02-02T09:15:20+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T09:15:20Z&lt;br/&gt;Tags: discuss, community&lt;br/&gt;Description: Disclaimer: I genuinely appreciate every new follower and every positive interaction on my posts. I&apos;m...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199437</id>
