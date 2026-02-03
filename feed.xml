@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-03T14:09:26+00:00</updated>
+  <updated>2026-02-03T15:49:30+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -721,6 +721,13 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3205876</id>
+    <title>Creating a Chatbot that actually Stands Out! (vibe coded version)🦖</title>
+    <link rel="alternate" href="https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake"/>
+    <updated>2026-01-29T15:04:54+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohan_sharma&quot;&gt;Rohan Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T05:04:47Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Hi there,  As I promised at the start of this year, I&apos;m fulfilling my commitment. 😆  In this blog, I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3199094</id>
     <title>Clawdbot: The AI Assistant That&apos;s Breaking the Internet</title>
     <link rel="alternate" href="https://dev.to/sivarampg/clawdbot-the-ai-assistant-thats-breaking-the-internet-1a47"/>
@@ -798,6 +805,13 @@
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3203785</id>
+    <title>The Valley of Code: A Learning Resource</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/the-valley-of-code-a-learning-resource-303o"/>
+    <updated>2026-01-30T11:46:37+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: I first came across Flavio Copes a few years ago while searching for clear, practical guides on web...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3186805</id>
     <title>How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code</title>
     <link rel="alternate" href="https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc"/>
@@ -833,25 +847,18 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3222763</id>
+    <title>How to Build a LangGraph Research Agent that Embeds Dynamic Charts via MCP Apps (CopilotKit &amp; Tako)</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-langgraph-research-agent-that-embeds-dynamic-charts-via-mcp-apps-copilotkit-tako-3ihi"/>
+    <updated>2026-02-03T15:49:30+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T15:49:30Z&lt;br/&gt;Tags: mcp, programming, python, tutorial&lt;br/&gt;Description: AI research assistants are getting smarter, but turning that reasoning into something usable is still...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3144034</id>
     <title>What was your win this week?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1916"/>
     <updated>2026-01-30T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3203785</id>
-    <title>The Valley of Code: A Learning Resource</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/the-valley-of-code-a-learning-resource-303o"/>
-    <updated>2026-01-30T11:46:37+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T10:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: I first came across Flavio Copes a few years ago while searching for clear, practical guides on web...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3205876</id>
-    <title>Creating a Chatbot that actually Stands Out! (vibe coded version)🦖</title>
-    <link rel="alternate" href="https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake"/>
-    <updated>2026-01-29T15:04:54+00:00</updated>
-    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohan_sharma&quot;&gt;Rohan Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T05:04:47Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Hi there,  As I promised at the start of this year, I&apos;m fulfilling my commitment. 😆  In this blog, I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3198175</id>
@@ -980,6 +987,13 @@
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3220868</id>
+    <title>Following Back: My Approach</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/following-back-my-approach-33ai"/>
+    <updated>2026-02-02T09:15:20+00:00</updated>
+    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T09:15:20Z&lt;br/&gt;Tags: discuss, community&lt;br/&gt;Description: Disclaimer: I genuinely appreciate every new follower and every positive interaction on my posts. I&apos;m...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3130402</id>
     <title>Welcome Thread - v362</title>
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v362-il4"/>
@@ -1043,13 +1057,6 @@
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3220868</id>
-    <title>Following Back: My Approach</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/following-back-my-approach-33ai"/>
-    <updated>2026-02-02T09:15:20+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T09:15:20Z&lt;br/&gt;Tags: discuss, community&lt;br/&gt;Description: Disclaimer: I genuinely appreciate every new follower and every positive interaction on my posts. I&apos;m...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3208937</id>
     <title>5 Books Every Backend Developer Should Read in 2026</title>
     <link rel="alternate" href="https://dev.to/somadevtoo/5-books-every-backend-developer-should-read-in-2026-1h4d"/>
@@ -1097,6 +1104,13 @@
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3219540</id>
+    <title>Beyond Simple Showcases: An Accessible, AI-Powered Portfolio</title>
+    <link rel="alternate" href="https://dev.to/safvantsy/beyond-simple-showcases-an-accessible-ai-powered-portfolio-cf5"/>
+    <updated>2026-02-02T06:58:55+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/safvantsy&quot;&gt;Muhammed Safvan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T05:09:21Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199437</id>
