@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-04T04:47:03+00:00</updated>
+  <updated>2026-02-04T08:36:23+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -67,7 +67,7 @@
     <title>Is Learning CSS a Waste of Time in 2026?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3"/>
     <updated>2026-01-29T11:07:18+00:00</updated>
-    <summary type="html">Reactions: public 153 / positive 153&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
+    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -245,6 +245,13 @@
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3208863</id>
+    <title>Unpopular Opinion: I stopped coding on weekends and my career got better.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el"/>
+    <updated>2026-01-29T23:00:28+00:00</updated>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:00:28Z&lt;br/&gt;Tags: career, discuss, productivity, mentalhealth&lt;br/&gt;Description: For years, I lived with a constant, low-level hum of guilt. ​You know the feeling. It’s Saturday...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3179318</id>
     <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
@@ -264,13 +271,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni"/>
     <updated>2026-01-10T10:48:43+00:00</updated>
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3208863</id>
-    <title>Unpopular Opinion: I stopped coding on weekends and my career got better.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el"/>
-    <updated>2026-01-29T23:00:28+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:00:28Z&lt;br/&gt;Tags: career, discuss, productivity, mentalhealth&lt;br/&gt;Description: For years, I lived with a constant, low-level hum of guilt. ​You know the feeling. It’s Saturday...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3183543</id>
@@ -826,11 +826,25 @@
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3230345</id>
+    <title>I Tried OpenClaw as a Virtual Assistant Here’s My Honest Take</title>
+    <link rel="alternate" href="https://dev.to/therealmrmumba/i-tried-openclaw-as-a-virtual-assistant-heres-my-honest-take-265o"/>
+    <updated>2026-02-04T08:36:23+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:21:37Z&lt;br/&gt;Tags: webdev, ai, programming, devops&lt;br/&gt;Description: When you read about agentic AI frameworks, they all promise the same thing: “Your AI, but...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3220577</id>
     <title>Practical Developer Wisdom You Cannot Google Easily</title>
     <link rel="alternate" href="https://dev.to/techstratos/practical-developer-wisdom-you-cannot-google-easily-1ibp"/>
     <updated>2026-02-03T03:30:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T03:30:00Z&lt;br/&gt;Tags: career, programming, devlife, softwareengineering&lt;br/&gt;Description: Most developer advice sounds helpful until you actually try to use it.  Google can tell you how to...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3204403</id>
+    <title>About Wizards &amp; Warlocks, Programmers &amp; Vibe Coders</title>
+    <link rel="alternate" href="https://dev.to/manuartero/about-wizards-warlocks-programmers-vibe-coders-4p6n"/>
+    <updated>2026-01-28T10:40:41+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/manuartero&quot;&gt;Manuel Artero Anguita 🟨&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T10:39:32Z&lt;br/&gt;Tags: programming, ai, vibecoding, career&lt;br/&gt;Description: We used to be similar to wizards.  Wizards have no intrinsic power by themselves: they must earn it....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3186805</id>
@@ -873,13 +887,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1916"/>
     <updated>2026-01-30T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3204403</id>
-    <title>About Wizards &amp; Warlocks, Programmers &amp; Vibe Coders</title>
-    <link rel="alternate" href="https://dev.to/manuartero/about-wizards-warlocks-programmers-vibe-coders-4p6n"/>
-    <updated>2026-01-28T10:40:41+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/manuartero&quot;&gt;Manuel Artero Anguita 🟨&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T10:39:32Z&lt;br/&gt;Tags: programming, ai, vibecoding, career&lt;br/&gt;Description: We used to be similar to wizards.  Wizards have no intrinsic power by themselves: they must earn it....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3198175</id>
@@ -1092,6 +1099,13 @@
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/btarbox&quot;&gt;Brian Tarbox&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T14:20:01Z&lt;br/&gt;Tags: ai, discuss, llm, programming&lt;br/&gt;Description: I have been writing code for 45 years. I started when &quot;memory&quot; was something you counted in bytes,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3221910</id>
+    <title>Meme Monday</title>
+    <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
+    <updated>2026-02-02T13:20:52+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T13:20:52Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3219540</id>
     <title>Beyond Simple Showcases: An Accessible, AI-Powered Portfolio</title>
     <link rel="alternate" href="https://dev.to/safvantsy/beyond-simple-showcases-an-accessible-ai-powered-portfolio-cf5"/>
@@ -1118,13 +1132,6 @@
     <link rel="alternate" href="https://dev.to/surocham/analise-de-correspondencia-o-que-e-e-como-fazer-com-python-usando-naruto-como-exemplo-3phd"/>
     <updated>2026-02-02T21:44:04+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/surocham&quot;&gt;Suami Medeiros&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T21:21:21Z&lt;br/&gt;Tags: datascience, analytics, python, tutorial&lt;br/&gt;Description: Dentro desse artigo vamos explorar diferentes técnicas para análise de dados categóricos, para...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3221910</id>
-    <title>Meme Monday</title>
-    <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
-    <updated>2026-02-02T13:20:52+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T13:20:52Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205815</id>
