@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-04T08:40:48+00:00</updated>
+  <updated>2026-02-04T11:05:13+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -144,7 +144,7 @@
     <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
     <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
     <updated>2026-02-01T08:16:04+00:00</updated>
-    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
+    <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3171515</id>
@@ -609,6 +609,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3204272</id>
+    <title>Online Community Demise and why DEV is Different (at least a little bit, I hope)</title>
+    <link rel="alternate" href="https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km"/>
+    <updated>2026-02-02T12:49:57+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ingosteinke&quot;&gt;Ingo Steinke, web developer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T12:47:08Z&lt;br/&gt;Tags: watercooler&lt;br/&gt;Description: I recently claimed that we might look back on the 2010s decade and early 2020 years as a golden age...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3194992</id>
     <title>This portfolio isn’t perfect, but it’s 100% mine</title>
     <link rel="alternate" href="https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5"/>
@@ -635,13 +642,6 @@
     <link rel="alternate" href="https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel"/>
     <updated>2026-01-05T21:53:53+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3204272</id>
-    <title>Online Community Demise and why DEV is Different (at least a little bit, I hope)</title>
-    <link rel="alternate" href="https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km"/>
-    <updated>2026-02-02T12:49:57+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ingosteinke&quot;&gt;Ingo Steinke, web developer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T12:47:08Z&lt;br/&gt;Tags: watercooler&lt;br/&gt;Description: I recently claimed that we might look back on the 2010s decade and early 2020 years as a golden age...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3121688</id>
@@ -1139,6 +1139,13 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3228463</id>
+    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
+    <updated>2026-02-04T11:05:13+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3226841</id>
