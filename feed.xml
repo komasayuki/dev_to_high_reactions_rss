@@ -403,7 +403,7 @@
     <title>Your Side Project Didn’t Fail — It Just Reached Reality</title>
     <link rel="alternate" href="https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76"/>
     <updated>2026-02-04T04:47:03+00:00</updated>
-    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T04:47:03Z&lt;br/&gt;Tags: webdev, javascript, career, ai&lt;br/&gt;Description: When I started my side project, everything felt smooth. The code was clean. The architecture made...</summary>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T04:47:03Z&lt;br/&gt;Tags: webdev, javascript, career, ai&lt;br/&gt;Description: When I started my side project, everything felt smooth. The code was clean. The architecture made...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -546,6 +546,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3228463</id>
+    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
+    <updated>2026-02-04T11:05:13+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3174797</id>
     <title>CSS Optical Illusions</title>
     <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
@@ -572,13 +579,6 @@
     <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
     <updated>2026-02-04T21:24:34+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3228463</id>
-    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
-    <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199100</id>
@@ -980,6 +980,20 @@
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3221910</id>
+    <title>Meme Monday</title>
+    <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
+    <updated>2026-02-02T13:20:52+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T13:20:52Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3215864</id>
+    <title>The Secret Life of JavaScript: The Generator</title>
+    <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-generator-1fi5"/>
+    <updated>2026-02-01T06:49:26+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T05:58:03Z&lt;br/&gt;Tags: javascript, coding, programming, softwaredevelopment&lt;br/&gt;Description: How to pause, resume, and control the flow of execution.     Timothy was staring at a frozen screen....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3198175</id>
     <title>Getting Started with Clawdbot: The Complete Step-by-Step Guide</title>
     <link rel="alternate" href="https://www.ajeetraina.com/getting-started-with-clawdbot/"/>
@@ -1013,20 +1027,6 @@
     <link rel="alternate" href="https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"/>
     <updated>2025-12-23T02:20:03+00:00</updated>
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T02:19:15Z&lt;br/&gt;Tags: programming, ai, productivity, webdev&lt;br/&gt;Description: Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3221910</id>
-    <title>Meme Monday</title>
-    <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
-    <updated>2026-02-02T13:20:52+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T13:20:52Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3215864</id>
-    <title>The Secret Life of JavaScript: The Generator</title>
-    <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-generator-1fi5"/>
-    <updated>2026-02-01T06:49:26+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T05:58:03Z&lt;br/&gt;Tags: javascript, coding, programming, softwaredevelopment&lt;br/&gt;Description: How to pause, resume, and control the flow of execution.     Timothy was staring at a frozen screen....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3190029</id>
@@ -1092,6 +1092,13 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T05:56:07Z&lt;br/&gt;Tags: programming, beginners, productivity, discuss&lt;br/&gt;Description: Let’s be honest for a second. GitHub contribution graphs are not a productivity metric. They are a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3222247</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao"/>
+    <updated>2026-02-03T15:39:39+00:00</updated>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T15:39:39Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3206289</id>
     <title>Is the language war even real?</title>
     <link rel="alternate" href="https://dev.to/ujja/is-the-language-war-even-real-13n0"/>
@@ -1118,13 +1125,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe"/>
     <updated>2026-01-08T13:00:12+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3222247</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao"/>
-    <updated>2026-02-03T15:39:39+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T15:39:39Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216852</id>
