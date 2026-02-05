@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-05T07:41:07+00:00</updated>
+  <updated>2026-02-05T13:05:27+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -74,7 +74,7 @@
     <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
     <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
     <updated>2026-02-05T06:13:07+00:00</updated>
-    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
+    <summary type="html">Reactions: public 153 / positive 153&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -308,6 +308,13 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3228463</id>
+    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
+    <updated>2026-02-04T11:05:13+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3201461</id>
     <title>From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&apos;s Hottest AI Project</title>
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
@@ -341,13 +348,6 @@
     <link rel="alternate" href="https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k"/>
     <updated>2025-12-23T03:05:47+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3228463</id>
-    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
-    <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216965</id>
@@ -411,6 +411,13 @@
     <link rel="alternate" href="https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76"/>
     <updated>2026-02-04T04:47:03+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T04:47:03Z&lt;br/&gt;Tags: webdev, javascript, career, ai&lt;br/&gt;Description: When I started my side project, everything felt smooth. The code was clean. The architecture made...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3211686</id>
+    <title>8 formas de fazer networking em Tecnologia</title>
+    <link rel="alternate" href="https://dev.to/vitoriazzp/8-formas-de-fazer-networking-em-tecnologia-2ane"/>
+    <updated>2026-01-30T21:24:47+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;Vitória Zoche&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T21:24:47Z&lt;br/&gt;Tags: productivity, networking, tutorial, braziliandevs&lt;br/&gt;Description: Sempre fui bem tímida, do tipo que ensaia mentalmente antes de puxar qualquer conversa. Também tenho...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3123641</id>
@@ -700,6 +707,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3230200</id>
+    <title>Moltbook Is Not an AI Society</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d"/>
+    <updated>2026-02-04T08:45:13+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:45:13Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3208530</id>
     <title>Cursor AI vs GitHub Copilot: Which 2026 Code Editor Wins Your Workflow? 👑</title>
     <link rel="alternate" href="https://dev.to/thebitforge/cursor-ai-vs-github-copilot-which-2026-code-editor-wins-your-workflow-1019"/>
@@ -747,13 +761,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
     <updated>2026-01-06T15:44:45+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3230200</id>
-    <title>Moltbook Is Not an AI Society</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d"/>
-    <updated>2026-02-04T08:45:13+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:45:13Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3197052</id>
@@ -1043,13 +1050,6 @@
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T15:39:39Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3190029</id>
-    <title>Starting Without a Perfect Plan</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/starting-without-a-perfect-plan-4d4d"/>
-    <updated>2026-01-31T09:30:58+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T09:30:58Z&lt;br/&gt;Tags: learning, devjournal&lt;br/&gt;Description: On the last day of each month, I take a moment to pause and reflect. This post kicks off a monthly...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3198972</id>
     <title>Why Using AI Chatbots Feels Like a Mistake: Risks and Dangers</title>
     <link rel="alternate" href="https://scalevise.com/resources/ai-chatbot-risks-and-dangers/"/>
@@ -1069,6 +1069,13 @@
     <link rel="alternate" href="https://dev.to/anthonymax/weve-built-the-fastest-way-to-run-llms-in-production-50x-faster-than-litellm-450n"/>
     <updated>2026-01-20T15:13:12+00:00</updated>
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:52:24Z&lt;br/&gt;Tags: webdev, programming, javascript, opensource&lt;br/&gt;Description: Today, AI applications are rapidly becoming more complex. Modern systems no longer rely on a single...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3190029</id>
+    <title>Starting Without a Perfect Plan</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/starting-without-a-perfect-plan-4d4d"/>
+    <updated>2026-01-31T09:30:58+00:00</updated>
+    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T09:30:58Z&lt;br/&gt;Tags: learning, devjournal&lt;br/&gt;Description: On the last day of each month, I take a moment to pause and reflect. This post kicks off a monthly...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3130402</id>
@@ -1132,6 +1139,13 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe"/>
     <updated>2026-01-08T13:00:12+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3234944</id>
+    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
+    <updated>2026-02-05T13:05:27+00:00</updated>
+    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216852</id>
