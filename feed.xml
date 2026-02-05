@@ -63,18 +63,18 @@
     <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3216141</id>
+    <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
+    <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
+    <updated>2026-02-05T06:13:07+00:00</updated>
+    <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205431</id>
     <title>Is Learning CSS a Waste of Time in 2026?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3"/>
     <updated>2026-01-29T11:07:18+00:00</updated>
     <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3216141</id>
-    <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
-    <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
-    <updated>2026-02-05T06:13:07+00:00</updated>
-    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -210,18 +210,18 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3228463</id>
+    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
+    <updated>2026-02-04T11:05:13+00:00</updated>
+    <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3179178</id>
     <title>Prompt Engineering Is a Symptom (And That’s Okay)</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l"/>
     <updated>2026-01-18T19:58:27+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3228463</id>
-    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
-    <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3208863</id>
@@ -714,6 +714,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3227855</id>
+    <title>Why do you write?</title>
+    <link rel="alternate" href="https://dev.to/itsugo/why-do-you-write-5bkf"/>
+    <updated>2026-02-04T05:41:16+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T05:41:16Z&lt;br/&gt;Tags: discuss, programming, learning, mentalhealth&lt;br/&gt;Description: A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3208530</id>
     <title>Cursor AI vs GitHub Copilot: Which 2026 Code Editor Wins Your Workflow? 👑</title>
     <link rel="alternate" href="https://dev.to/thebitforge/cursor-ai-vs-github-copilot-which-2026-code-editor-wins-your-workflow-1019"/>
@@ -763,13 +770,6 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3227855</id>
-    <title>Why do you write?</title>
-    <link rel="alternate" href="https://dev.to/itsugo/why-do-you-write-5bkf"/>
-    <updated>2026-02-04T05:41:16+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T05:41:16Z&lt;br/&gt;Tags: discuss, programming, learning, mentalhealth&lt;br/&gt;Description: A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3197052</id>
     <title>Why I Sometimes Leave Tech Events Feeling Smaller</title>
     <link rel="alternate" href="https://dev.to/itsugo/why-i-sometimes-leave-tech-events-feeling-smaller-3p55"/>
@@ -812,6 +812,13 @@
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T13:55:43Z&lt;br/&gt;Tags: webdev, ai, cloudflare, architecture&lt;br/&gt;Description: TL;DR   I deployed a semantic search system on Cloudflare&apos;s edge that costs $5-10/month...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3204123</id>
+    <title>Above the API: What Developers Contribute When AI Can Code</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025"/>
+    <updated>2026-02-03T04:48:49+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3221910</id>
     <title>Meme Monday</title>
     <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
@@ -852,13 +859,6 @@
     <link rel="alternate" href="https://dev.to/elshadhu/i-built-a-tool-to-stop-wasting-time-on-toxic-open-source-projects-5h12"/>
     <updated>2025-12-29T05:10:12+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3204123</id>
-    <title>Above the API: What Developers Contribute When AI Can Code</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025"/>
-    <updated>2026-02-03T04:48:49+00:00</updated>
-    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3220577</id>
@@ -973,6 +973,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3234944</id>
+    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
+    <updated>2026-02-05T13:05:27+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3230425</id>
     <title>Why Tailwind Won (And What That Means for Traditional CSS) 🐍</title>
     <link rel="alternate" href="https://dev.to/thebitforge/why-tailwind-won-and-what-that-means-for-traditional-css-51d8"/>
@@ -992,13 +999,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1916"/>
     <updated>2026-01-30T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3234944</id>
-    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
-    <updated>2026-02-05T13:05:27+00:00</updated>
-    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3231683</id>
@@ -1204,6 +1204,13 @@
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/btarbox&quot;&gt;Brian Tarbox&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T14:20:01Z&lt;br/&gt;Tags: ai, discuss, llm, programming&lt;br/&gt;Description: I have been writing code for 45 years. I started when &quot;memory&quot; was something you counted in bytes,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3208937</id>
+    <title>5 Books Every Backend Developer Should Read in 2026</title>
+    <link rel="alternate" href="https://dev.to/somadevtoo/5-books-every-backend-developer-should-read-in-2026-1h4d"/>
+    <updated>2026-01-30T01:46:38+00:00</updated>
+    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T01:46:38Z&lt;br/&gt;Tags: none&lt;br/&gt;Description: These are the best books backend developers can read to learn software architecture, AI Engineering, and performance. </summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3201110</id>
     <title>How I Use the NanoBanana API Without Breaking the Bank</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-use-the-nanobanana-api-without-breaking-the-bank-2eo"/>
@@ -1230,13 +1237,6 @@
     <link rel="alternate" href="https://dev.to/surocham/analise-de-correspondencia-o-que-e-e-como-fazer-com-python-usando-naruto-como-exemplo-3phd"/>
     <updated>2026-02-02T21:44:04+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/surocham&quot;&gt;Suami Medeiros&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T21:21:21Z&lt;br/&gt;Tags: datascience, analytics, python, tutorial&lt;br/&gt;Description: Dentro desse artigo vamos explorar diferentes técnicas para análise de dados categóricos, para...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3208937</id>
-    <title>5 Books Every Backend Developer Should Read in 2026</title>
-    <link rel="alternate" href="https://dev.to/somadevtoo/5-books-every-backend-developer-should-read-in-2026-1h4d"/>
-    <updated>2026-01-30T01:46:38+00:00</updated>
-    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T01:46:38Z&lt;br/&gt;Tags: none&lt;br/&gt;Description: These are the best books backend developers can read to learn software architecture, AI Engineering, and performance. </summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146555</id>
