@@ -74,7 +74,7 @@
     <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
     <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
     <updated>2026-02-05T06:13:07+00:00</updated>
-    <summary type="html">Reactions: public 153 / positive 153&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
+    <summary type="html">Reactions: public 154 / positive 154&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -312,7 +312,7 @@
     <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
     <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3201461</id>
@@ -410,7 +410,7 @@
     <title>Your Side Project Didn’t Fail — It Just Reached Reality</title>
     <link rel="alternate" href="https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76"/>
     <updated>2026-02-04T04:47:03+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T04:47:03Z&lt;br/&gt;Tags: webdev, javascript, career, ai&lt;br/&gt;Description: When I started my side project, everything felt smooth. The code was clean. The architecture made...</summary>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T04:47:03Z&lt;br/&gt;Tags: webdev, javascript, career, ai&lt;br/&gt;Description: When I started my side project, everything felt smooth. The code was clean. The architecture made...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3211686</id>
@@ -469,6 +469,13 @@
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3233006</id>
+    <title>Your Microservices Aren’t Scalable. Your Database Is Just Crying.</title>
+    <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
+    <updated>2026-02-04T21:24:34+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3200433</id>
     <title>How I Actually Use AI as a Developer (And Where It Still Breaks)</title>
     <link rel="alternate" href="https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih"/>
@@ -502,13 +509,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7"/>
     <updated>2026-01-04T12:19:52+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T12:19:52Z&lt;br/&gt;Tags: javascript, node, webdev, beginners&lt;br/&gt;Description: JavaScript has been my main work language for years now (and of course these days it’s mostly...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3233006</id>
-    <title>Your Microservices Aren’t Scalable. Your Database Is Just Crying.</title>
-    <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
-    <updated>2026-02-04T21:24:34+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3202891</id>
@@ -763,6 +763,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3227855</id>
+    <title>Why do you write?</title>
+    <link rel="alternate" href="https://dev.to/itsugo/why-do-you-write-5bkf"/>
+    <updated>2026-02-04T05:41:16+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T05:41:16Z&lt;br/&gt;Tags: discuss, programming, learning, mentalhealth&lt;br/&gt;Description: A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3197052</id>
     <title>Why I Sometimes Leave Tech Events Feeling Smaller</title>
     <link rel="alternate" href="https://dev.to/itsugo/why-i-sometimes-leave-tech-events-feeling-smaller-3p55"/>
@@ -775,13 +782,6 @@
     <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
     <updated>2026-01-10T14:31:48+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3227855</id>
-    <title>Why do you write?</title>
-    <link rel="alternate" href="https://dev.to/itsugo/why-do-you-write-5bkf"/>
-    <updated>2026-02-04T05:41:16+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T05:41:16Z&lt;br/&gt;Tags: discuss, programming, learning, mentalhealth&lt;br/&gt;Description: A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205876</id>
@@ -1113,6 +1113,13 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T05:56:07Z&lt;br/&gt;Tags: programming, beginners, productivity, discuss&lt;br/&gt;Description: Let’s be honest for a second. GitHub contribution graphs are not a productivity metric. They are a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3234944</id>
+    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
+    <updated>2026-02-05T13:05:27+00:00</updated>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3206289</id>
     <title>Is the language war even real?</title>
     <link rel="alternate" href="https://dev.to/ujja/is-the-language-war-even-real-13n0"/>
@@ -1139,13 +1146,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/when-react-starts-acting-like-jquery-and-you-can-totally-tell--3kpe"/>
     <updated>2026-01-08T13:00:12+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T13:00:12Z&lt;br/&gt;Tags: react, webdev, javascript, beginners&lt;br/&gt;Description: I’m not a fangirl of any single framework. For me, frameworks are tools. Just like I prefer a good,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3234944</id>
-    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
-    <updated>2026-02-05T13:05:27+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216852</id>
@@ -1181,6 +1181,13 @@
     <link rel="alternate" href="https://dev.to/techstratos/the-bug-that-made-me-question-reality-for-a-few-hours-4k74"/>
     <updated>2026-02-05T02:30:00+00:00</updated>
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T02:30:00Z&lt;br/&gt;Tags: debugging, programming, webdev, learning&lt;br/&gt;Description: Everything worked. Which, in hindsight, was the problem.  I had just shipped a small backend change....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3231683</id>
+    <title>Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here&apos;s Why)</title>
+    <link rel="alternate" href="https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l"/>
+    <updated>2026-02-04T13:06:39+00:00</updated>
+    <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T13:06:39Z&lt;br/&gt;Tags: javascript, webdev, programming, discuss&lt;br/&gt;Description: Everyone defaults to WebSockets for real-time features. Most shouldn&apos;t.  The reality: 95% of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3226841</id>
@@ -1230,13 +1237,6 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3231683</id>
-    <title>Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here&apos;s Why)</title>
-    <link rel="alternate" href="https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l"/>
-    <updated>2026-02-04T13:06:39+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T13:06:39Z&lt;br/&gt;Tags: javascript, webdev, programming, discuss&lt;br/&gt;Description: Everyone defaults to WebSockets for real-time features. Most shouldn&apos;t.  The reality: 95% of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3218068</id>
