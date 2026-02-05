@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-05T05:25:24+00:00</updated>
+  <updated>2026-02-05T06:13:07+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -94,7 +94,7 @@
     <id>tag:dev.to,2026:3216141</id>
     <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
     <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
-    <updated>2026-02-05T05:25:24+00:00</updated>
+    <updated>2026-02-05T06:13:07+00:00</updated>
     <summary type="html">Reactions: public 146 / positive 146&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
@@ -189,6 +189,13 @@
     <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3214650</id>
+    <title>🔥I Built an Awwwards-Style Portfolio Using Antigravity🌀</title>
+    <link rel="alternate" href="https://dev.to/dev_kiran/i-built-an-awwwards-style-portfolio-using-antigravity-49lk"/>
+    <updated>2026-02-01T10:56:01+00:00</updated>
+    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T10:53:04Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3199330</id>
     <title>The Developer&apos;s Guide to Generative UI in 2026</title>
     <link rel="alternate" href="https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3"/>
@@ -208,13 +215,6 @@
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l"/>
     <updated>2026-01-18T19:58:27+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3214650</id>
-    <title>🔥I Built an Awwwards-Style Portfolio Using Antigravity🌀</title>
-    <link rel="alternate" href="https://dev.to/dev_kiran/i-built-an-awwwards-style-portfolio-using-antigravity-49lk"/>
-    <updated>2026-02-01T10:56:01+00:00</updated>
-    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T10:53:04Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3208863</id>
@@ -343,6 +343,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3216965</id>
+    <title>Do We Even Need Backend Developers Anymore?</title>
+    <link rel="alternate" href="https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg"/>
+    <updated>2026-02-01T13:30:45+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T13:30:45Z&lt;br/&gt;Tags: programming, backend, developer, discuss&lt;br/&gt;Description: Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3192566</id>
     <title>The HIDDEN Gem in the Google AI Challenge💎</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh"/>
@@ -362,13 +369,6 @@
     <link rel="alternate" href="https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf"/>
     <updated>2026-01-08T00:44:32+00:00</updated>
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3216965</id>
-    <title>Do We Even Need Backend Developers Anymore?</title>
-    <link rel="alternate" href="https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg"/>
-    <updated>2026-02-01T13:30:45+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T13:30:45Z&lt;br/&gt;Tags: programming, backend, developer, discuss&lt;br/&gt;Description: Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3138862</id>
@@ -504,18 +504,18 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3204272</id>
+    <title>Online Community Demise and why DEV is Different (at least a little bit, I hope)</title>
+    <link rel="alternate" href="https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km"/>
+    <updated>2026-02-02T12:49:57+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ingosteinke&quot;&gt;Ingo Steinke, web developer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T12:47:08Z&lt;br/&gt;Tags: watercooler&lt;br/&gt;Description: I recently claimed that we might look back on the 2010s decade and early 2020 years as a golden age...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3131464</id>
     <title>We&apos;re launching on ProductHunt. You can help us! 🐈‍⬛</title>
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3204272</id>
-    <title>Online Community Demise and why DEV is Different (at least a little bit, I hope)</title>
-    <link rel="alternate" href="https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km"/>
-    <updated>2026-02-02T12:49:57+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ingosteinke&quot;&gt;Ingo Steinke, web developer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T12:47:08Z&lt;br/&gt;Tags: watercooler&lt;br/&gt;Description: I recently claimed that we might look back on the 2010s decade and early 2020 years as a golden age...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3194861</id>
@@ -651,6 +651,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3228463</id>
+    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
+    <updated>2026-02-04T11:05:13+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3121688</id>
     <title>What Coders Could Offer Instead of Writing Lines of Code If AI Takes Over</title>
     <link rel="alternate" href="https://canro91.github.io/2025/12/21/Offerings/"/>
@@ -677,13 +684,6 @@
     <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
     <updated>2026-02-04T21:24:34+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3228463</id>
-    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
-    <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3127403</id>
@@ -945,6 +945,13 @@
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:45:13Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3204123</id>
+    <title>Above the API: What Developers Contribute When AI Can Code</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025"/>
+    <updated>2026-02-03T04:48:49+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3198175</id>
     <title>Getting Started with Clawdbot: The Complete Step-by-Step Guide</title>
     <link rel="alternate" href="https://www.ajeetraina.com/getting-started-with-clawdbot/"/>
@@ -978,13 +985,6 @@
     <link rel="alternate" href="https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"/>
     <updated>2025-12-23T02:20:03+00:00</updated>
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T02:19:15Z&lt;br/&gt;Tags: programming, ai, productivity, webdev&lt;br/&gt;Description: Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3204123</id>
-    <title>Above the API: What Developers Contribute When AI Can Code</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025"/>
-    <updated>2026-02-03T04:48:49+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3215864</id>
