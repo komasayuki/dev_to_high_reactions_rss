@@ -77,18 +77,18 @@
     <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3228463</id>
+    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
+    <updated>2026-02-04T11:05:13+00:00</updated>
+    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3180295</id>
     <title>🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅</title>
     <link rel="alternate" href="https://www.tensorlake.ai/blog/gpt5.2-codex-high-vs-opus-4.5-vs-gemini-3-pro"/>
     <updated>2026-01-18T12:41:12+00:00</updated>
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3228463</id>
-    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
-    <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 150 / positive 150&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3159341</id>
@@ -378,6 +378,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3233006</id>
+    <title>Your Microservices Aren’t Scalable. Your Database Is Just Crying.</title>
+    <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
+    <updated>2026-02-04T21:24:34+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3192566</id>
     <title>The HIDDEN Gem in the Google AI Challenge💎</title>
     <link rel="alternate" href="https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh"/>
@@ -397,13 +404,6 @@
     <link rel="alternate" href="https://dev.to/mattlewandowski93/optimizing-json-for-llms-1dgf"/>
     <updated>2026-01-08T00:44:32+00:00</updated>
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3233006</id>
-    <title>Your Microservices Aren’t Scalable. Your Database Is Just Crying.</title>
-    <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
-    <updated>2026-02-04T21:24:34+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3138862</id>
@@ -735,6 +735,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:54:51Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3221910</id>
+    <title>Meme Monday</title>
+    <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
+    <updated>2026-02-02T13:20:52+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T13:20:52Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3127403</id>
     <title>DevOps From Scratch: Entry #01</title>
     <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm"/>
@@ -789,13 +796,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
     <updated>2026-01-06T15:44:45+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3221910</id>
-    <title>Meme Monday</title>
-    <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
-    <updated>2026-02-02T13:20:52+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T13:20:52Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3197052</id>
@@ -1253,6 +1253,13 @@
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3235693</id>
+    <title>Dunning-Kruger Effect and Imposter Syndrome: Developer&apos;s Hidden Caveat that is Rarely Spoken Off.</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/dunning-kruger-effect-and-imposter-syndrome-developers-hidden-caveat-that-is-rarely-spoken-off-41jg"/>
+    <updated>2026-02-05T19:39:30+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRDev 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T19:10:43Z&lt;br/&gt;Tags: discuss, community, mentalhealth, programming&lt;br/&gt;Description: Yesterday (Feb 4), my database Professor mentions about the &quot;Dunning-Kruger Effect&quot; early on in our...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3218068</id>
     <title>Análise de correspondência, o que é e como fazer com Python, usando Naruto como exemplo</title>
     <link rel="alternate" href="https://dev.to/surocham/analise-de-correspondencia-o-que-e-e-como-fazer-com-python-usando-naruto-como-exemplo-3phd"/>
@@ -1267,11 +1274,11 @@
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3235693</id>
-    <title>Dunning-Kruger Effect and Imposter Syndrome: Developer&apos;s Hidden Caveat that is Rarely Spoken Off.</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/dunning-kruger-effect-and-imposter-syndrome-developers-hidden-caveat-that-is-rarely-spoken-off-41jg"/>
-    <updated>2026-02-05T19:39:30+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRDev 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T19:10:43Z&lt;br/&gt;Tags: discuss, community, mentalhealth, programming&lt;br/&gt;Description: Yesterday (Feb 4), my database Professor mentions about the &quot;Dunning-Kruger Effect&quot; early on in our...</summary>
+    <id>tag:dev.to,2026:3218481</id>
+    <title>I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain</title>
+    <link rel="alternate" href="https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7"/>
+    <updated>2026-02-05T00:43:12+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T00:43:12Z&lt;br/&gt;Tags: css, discuss, react, tailwindcss&lt;br/&gt;Description: This recent post Is Learning CSS a Waste of Time in 2026? (by @sylwia-lask)  really hit me,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205815</id>
@@ -1314,13 +1321,6 @@
     <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
     <updated>2026-01-04T23:00:00+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3218481</id>
-    <title>I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain</title>
-    <link rel="alternate" href="https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7"/>
-    <updated>2026-02-05T00:43:12+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T00:43:12Z&lt;br/&gt;Tags: css, discuss, react, tailwindcss&lt;br/&gt;Description: This recent post Is Learning CSS a Waste of Time in 2026? (by @sylwia-lask)  really hit me,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199437</id>
