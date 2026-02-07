@@ -60,7 +60,7 @@
     <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
     <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 168 / positive 168&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+    <summary type="html">Reactions: public 170 / positive 170&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216141</id>
@@ -161,18 +161,18 @@
     <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:22:27Z&lt;br/&gt;Tags: react, programming, python, tutorial&lt;br/&gt;Description: LangChain recently introduced Deep Agents: a new way to build structured, multi-agent systems that...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3238333</id>
-    <title>How I Stopped Rewriting My Code Every Time I Switched LLM Providers</title>
-    <link rel="alternate" href="https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"/>
-    <updated>2026-02-06T19:10:48+00:00</updated>
-    <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3142361</id>
     <title>My 2026 Tech Stack is Boring as Hell (And That is the Point)</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1"/>
     <updated>2026-01-02T06:48:46+00:00</updated>
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-02T06:48:46Z&lt;br/&gt;Tags: career, architecture, discuss, webdev&lt;br/&gt;Description: I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3238333</id>
+    <title>How I Stopped Rewriting My Code Every Time I Switched LLM Providers</title>
+    <link rel="alternate" href="https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"/>
+    <updated>2026-02-06T19:10:48+00:00</updated>
+    <summary type="html">Reactions: public 108 / positive 108&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181098</id>
@@ -539,6 +539,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T12:19:52Z&lt;br/&gt;Tags: javascript, node, webdev, beginners&lt;br/&gt;Description: JavaScript has been my main work language for years now (and of course these days it’s mostly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3230200</id>
+    <title>Moltbook Is Not an AI Society</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d"/>
+    <updated>2026-02-04T08:45:13+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:45:13Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3202891</id>
     <title>How Bifrost’s MCP Gateway and Code Mode Power Production-Grade LLM Gateways</title>
     <link rel="alternate" href="https://dev.to/hadil/how-bifrosts-mcp-gateway-and-code-mode-power-production-grade-llm-gateways-235i"/>
@@ -565,13 +572,6 @@
     <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
     <updated>2026-01-11T21:50:53+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3230200</id>
-    <title>Moltbook Is Not an AI Society</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/moltbook-is-not-an-ai-society-4h6d"/>
-    <updated>2026-02-04T08:45:13+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:45:13Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: Moltbook has been circulating as an &quot;AI-only social network&quot; where autonomous agents post, argue,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3131464</id>
