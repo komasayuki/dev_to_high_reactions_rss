@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-06T08:30:15+00:00</updated>
+  <updated>2026-02-06T19:10:48+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -63,18 +63,18 @@
     <summary type="html">Reactions: public 166 / positive 166&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3228463</id>
+    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
+    <updated>2026-02-04T11:05:13+00:00</updated>
+    <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3164939</id>
     <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
     <updated>2026-01-13T11:42:28+00:00</updated>
     <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3228463</id>
-    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
-    <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 159 / positive 159&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205431</id>
@@ -259,6 +259,13 @@
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3234944</id>
+    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
+    <updated>2026-02-05T13:05:27+00:00</updated>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3179318</id>
     <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
@@ -278,13 +285,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni"/>
     <updated>2026-01-10T10:48:43+00:00</updated>
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3234944</id>
-    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
-    <updated>2026-02-05T13:05:27+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3183543</id>
@@ -418,6 +418,13 @@
     <link rel="alternate" href="https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6"/>
     <updated>2025-12-31T10:04:43+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3238333</id>
+    <title>How I Stopped Rewriting My Code Every Time I Switched LLM Providers</title>
+    <link rel="alternate" href="https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"/>
+    <updated>2026-02-06T19:10:48+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199880</id>
