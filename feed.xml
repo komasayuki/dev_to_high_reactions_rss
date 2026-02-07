@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-06T19:10:48+00:00</updated>
+  <updated>2026-02-07T20:39:20+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -60,7 +60,7 @@
     <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
     <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 172 / positive 172&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+    <summary type="html">Reactions: public 176 / positive 176&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216141</id>
@@ -154,18 +154,18 @@
     <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T21:01:44Z&lt;br/&gt;Tags: webdev, ai, programming, opensource&lt;br/&gt;Description: LLM applications are rapidly becoming a critical part of production today. But behind the scenes,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3238333</id>
+    <title>How I Stopped Rewriting My Code Every Time I Switched LLM Providers</title>
+    <link rel="alternate" href="https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"/>
+    <updated>2026-02-06T19:10:48+00:00</updated>
+    <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3171515</id>
     <title>How to build a Frontend for LangChain Deep Agents with CopilotKit!</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit"/>
     <updated>2026-01-20T21:44:56+00:00</updated>
     <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:22:27Z&lt;br/&gt;Tags: react, programming, python, tutorial&lt;br/&gt;Description: LangChain recently introduced Deep Agents: a new way to build structured, multi-agent systems that...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3238333</id>
-    <title>How I Stopped Rewriting My Code Every Time I Switched LLM Providers</title>
-    <link rel="alternate" href="https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"/>
-    <updated>2026-02-06T19:10:48+00:00</updated>
-    <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3142361</id>
@@ -203,6 +203,13 @@
     <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3234944</id>
+    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
+    <updated>2026-02-05T13:05:27+00:00</updated>
+    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3214650</id>
     <title>🔥I Built an Awwwards-Style Portfolio Using Antigravity🌀</title>
     <link rel="alternate" href="https://dev.to/dev_kiran/i-built-an-awwwards-style-portfolio-using-antigravity-49lk"/>
@@ -222,13 +229,6 @@
     <link rel="alternate" href="https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli"/>
     <updated>2026-01-09T16:23:08+00:00</updated>
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T18:08:47Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents, webdev&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with Algolia!  Running through February 8, the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3234944</id>
-    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
-    <updated>2026-02-05T13:05:27+00:00</updated>
-    <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3179178</id>
@@ -994,6 +994,13 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3232656</id>
+    <title>Gaming Beat Me, Development Won&apos;t</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b"/>
+    <updated>2026-02-06T08:30:15+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3230425</id>
     <title>Why Tailwind Won (And What That Means for Traditional CSS) 🐍</title>
     <link rel="alternate" href="https://dev.to/thebitforge/why-tailwind-won-and-what-that-means-for-traditional-css-51d8"/>
@@ -1183,13 +1190,6 @@
     <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3232656</id>
-    <title>Gaming Beat Me, Development Won&apos;t</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b"/>
-    <updated>2026-02-06T08:30:15+00:00</updated>
-    <summary type="html">Reactions: public 34 / positive 34&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3236644</id>
     <title>Why Remote Teams Struggle With Work That Looks Simple</title>
     <link rel="alternate" href="https://medium.com/@techstratos/why-remote-teams-struggle-with-work-that-looks-simple-e1b476063e8f"/>
@@ -1344,11 +1344,25 @@
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3240456</id>
+    <title>Why OpenClaw Breaks at Scale: A Technical Perspective</title>
+    <link rel="alternate" href="https://scalevise.com/resources/openclaw-automations-explained/"/>
+    <updated>2026-02-07T20:39:20+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T20:39:20Z&lt;br/&gt;Tags: none&lt;br/&gt;Description: OpenClaw has gained noticeable traction in developer and infrastructure-focused communities. OpenClaw...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3208919</id>
     <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
     <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
     <updated>2026-02-06T14:18:55+00:00</updated>
     <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3235106</id>
+    <title>OpenAI Frontier: The Enterprise Platform for Governed AI Agents</title>
+    <link rel="alternate" href="https://scalevise.com/resources/openai-frontier-enterprises/"/>
+    <updated>2026-02-05T14:28:12+00:00</updated>
+    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T14:28:12Z&lt;br/&gt;Tags: openai, frontier, ai, enterprise&lt;br/&gt;Description: Over the past two years, most developers have interacted with AI through chat interfaces. Prompt in,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199437</id>
