@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-08T03:38:57+00:00</updated>
+  <updated>2026-02-08T17:59:17+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -32,7 +32,7 @@
     <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
     <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 190 / positive 190&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+    <summary type="html">Reactions: public 191 / positive 191&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3189132</id>
@@ -966,6 +966,13 @@
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3217556</id>
+    <title>Hud: Runtime Code Sensor for Production-Safe AI Code</title>
+    <link rel="alternate" href="https://dev.to/anthonymax/hud-runtime-code-sensor-for-production-safe-ai-code-1kbo"/>
+    <updated>2026-02-08T17:59:17+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:40:26Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Today, every modern application is increasingly shaped by artificial intelligence. Production systems...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3235425</id>
     <title>The Incognito Mode Lie</title>
     <link rel="alternate" href="https://dev.to/raviteja_nekkalapu_/the-incognito-mode-lie-3a3g"/>
@@ -1027,6 +1034,13 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3239617</id>
+    <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
+    <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
+    <updated>2026-02-07T09:34:48+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3230425</id>
@@ -1195,13 +1209,6 @@
     <link rel="alternate" href="https://scalevise.com/resources/openclaw-automations-explained/"/>
     <updated>2026-02-07T20:39:20+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T20:39:20Z&lt;br/&gt;Tags: ai, architecture, opensource, systemdesign&lt;br/&gt;Description: OpenClaw has gained noticeable traction in developer and infrastructure-focused communities. OpenClaw...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3239617</id>
-    <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
-    <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
-    <updated>2026-02-07T09:34:48+00:00</updated>
-    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3232974</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/ben/meme-monday-dhl"/>
     <updated>2026-01-26T15:08:30+00:00</updated>
     <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T15:08:30Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3189401</id>
-    <title>What 15 Years in the Tech World Really Taught Me</title>
-    <link rel="alternate" href="https://dev.to/techstratos/what-15-years-in-the-tech-world-really-taught-me-19ff"/>
-    <updated>2026-01-22T03:59:00+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-22T03:59:00Z&lt;br/&gt;Tags: career, technology, growth, lessons&lt;br/&gt;Description: I have been in tech long enough to remember when shipping fast was considered reckless, not heroic....</summary>
   </entry>
 </feed>
