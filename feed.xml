@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-09T13:42:15+00:00</updated>
+  <updated>2026-02-09T13:39:47+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -91,18 +91,18 @@
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3234944</id>
+    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
+    <updated>2026-02-05T13:05:27+00:00</updated>
+    <summary type="html">Reactions: public 150 / positive 150&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3159341</id>
     <title>Prompt Engineering Won’t Fix Your Architecture</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
     <updated>2026-01-10T16:23:16+00:00</updated>
     <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3234944</id>
-    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
-    <updated>2026-02-05T13:05:27+00:00</updated>
-    <summary type="html">Reactions: public 147 / positive 147&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3172071</id>
@@ -312,7 +312,7 @@
     <title>Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.</title>
     <link rel="alternate" href="https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82"/>
     <updated>2026-02-07T17:58:23+00:00</updated>
-    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3188213</id>
@@ -336,18 +336,18 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3233006</id>
+    <title>Your Microservices Aren’t Scalable. Your Database Is Just Crying.</title>
+    <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
+    <updated>2026-02-04T21:24:34+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146663</id>
     <title>From Swagger to Tests: Building an AI-Powered API Test Generator with Python</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8"/>
     <updated>2026-01-03T21:23:08+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3233006</id>
-    <title>Your Microservices Aren’t Scalable. Your Database Is Just Crying.</title>
-    <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
-    <updated>2026-02-04T21:24:34+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216965</id>
@@ -476,18 +476,18 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3239617</id>
+    <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
+    <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
+    <updated>2026-02-07T09:34:48+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3123641</id>
     <title>From Genin to Kage - Understanding the Test Pyramid with Naruto</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
     <updated>2025-12-23T23:36:41+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3239617</id>
-    <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
-    <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
-    <updated>2026-02-07T09:34:48+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3227855</id>
@@ -1344,6 +1344,13 @@
     <summary type="html">Reactions: public 33 / positive 33&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T20:27:40Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3235433</id>
+    <title>Top Vibe Coding Platforms You Should Try This Year🫵</title>
+    <link rel="alternate" href="https://dev.to/dev_kiran/top-vibe-coding-platforms-you-should-try-this-year-92n"/>
+    <updated>2026-02-09T03:32:22+00:00</updated>
+    <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T03:32:22Z&lt;br/&gt;Tags: webdev, programming, productivity, javascript&lt;br/&gt;Description: Hello Devs 👋  Coding is changing fast. Today, you don’t always need to write everything from scratch....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3218068</id>
     <title>Análise de correspondência, o que é e como fazer com Python, usando Naruto como exemplo</title>
     <link rel="alternate" href="https://dev.to/surocham/analise-de-correspondencia-o-que-e-e-como-fazer-com-python-usando-naruto-como-exemplo-3phd"/>
@@ -1356,6 +1363,13 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3240334</id>
+    <title>freeCodeCamp: Full Stack Developer Curriculum</title>
+    <link rel="alternate" href="https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc"/>
+    <updated>2026-02-08T16:00:08+00:00</updated>
+    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T16:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: Author&apos;s note: While the primary aim of The Foundation is to preserve technical knowledge before it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205815</id>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/the-warm-welcome-badge-is-back-5a6d"/>
     <updated>2026-01-19T21:39:56+00:00</updated>
     <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T21:39:56Z&lt;br/&gt;Tags: devto&lt;br/&gt;Description: We have a confession to make: We haven&apos;t been awarding the Warm Welcome badge as consistently as we...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3135773</id>
-    <title>An Honest Review of Google Antigravity</title>
-    <link rel="alternate" href="https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f"/>
-    <updated>2026-01-04T23:00:00+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fabianfrankwerner&quot;&gt;Fabian Frank Werner&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T23:00:00Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: So, for the last year, if you wanted the best AI coding experience, you were paying $20 a month for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3243778</id>
-    <title>Build a production-ready SaaS app (that will scale!)</title>
-    <link rel="alternate" href="https://dev.to/encore/build-a-production-ready-saas-app-that-will-scale-e16"/>
-    <updated>2026-02-09T13:42:15+00:00</updated>
-    <summary type="html">Reactions: public 30 / positive 30&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcuskohlberg&quot;&gt;Marcus Kohlberg&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T13:42:15Z&lt;br/&gt;Tags: node, opensource, webdev, programming&lt;br/&gt;Description: Thinking of building a SaaS application? This starter template will help you create a scalable and...</summary>
   </entry>
 </feed>
