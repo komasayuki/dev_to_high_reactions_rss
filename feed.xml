@@ -32,7 +32,7 @@
     <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
     <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 204 / positive 204&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
+    <summary type="html">Reactions: public 205 / positive 205&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3189132</id>
@@ -602,6 +602,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3239617</id>
+    <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
+    <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
+    <updated>2026-02-07T09:34:48+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3194861</id>
     <title>The Anti-Resume: Why I Hid My Portfolio in the Dark</title>
     <link rel="alternate" href="https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee"/>
@@ -644,25 +651,18 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3231683</id>
+    <title>Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here&apos;s Why)</title>
+    <link rel="alternate" href="https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l"/>
+    <updated>2026-02-04T13:06:39+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T13:06:39Z&lt;br/&gt;Tags: javascript, webdev, programming, discuss&lt;br/&gt;Description: Everyone defaults to WebSockets for real-time features. Most shouldn&apos;t.  The reality: 95% of...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3199100</id>
     <title>How I Automate API Testing Using Claude Code</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3239617</id>
-    <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
-    <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
-    <updated>2026-02-07T09:34:48+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3231683</id>
-    <title>Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here&apos;s Why)</title>
-    <link rel="alternate" href="https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l"/>
-    <updated>2026-02-04T13:06:39+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T13:06:39Z&lt;br/&gt;Tags: javascript, webdev, programming, discuss&lt;br/&gt;Description: Everyone defaults to WebSockets for real-time features. Most shouldn&apos;t.  The reality: 95% of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3198441</id>
@@ -854,6 +854,13 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3232656</id>
+    <title>Gaming Beat Me, Development Won&apos;t</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b"/>
+    <updated>2026-02-06T08:30:15+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3195367</id>
     <title>🪙Let’s Become a Millionaire in a Second (Gold Fountain with React Three Fiber)🪙</title>
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/lets-become-a-millionaire-in-a-second-gold-fountain-with-react-three-fiber-3mo2"/>
@@ -887,13 +894,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj"/>
     <updated>2025-12-25T01:24:10+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T13:55:43Z&lt;br/&gt;Tags: webdev, ai, cloudflare, architecture&lt;br/&gt;Description: TL;DR   I deployed a semantic search system on Cloudflare&apos;s edge that costs $5-10/month...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3232656</id>
-    <title>Gaming Beat Me, Development Won&apos;t</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b"/>
-    <updated>2026-02-06T08:30:15+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3143541</id>
@@ -980,13 +980,6 @@
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:40:26Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Today, every modern application is increasingly shaped by artificial intelligence. Production systems...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3208919</id>
-    <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
-    <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
-    <updated>2026-02-06T14:18:55+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3235425</id>
     <title>The Incognito Mode Lie</title>
     <link rel="alternate" href="https://dev.to/raviteja_nekkalapu_/the-incognito-mode-lie-3a3g"/>
@@ -1048,6 +1041,13 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3208919</id>
+    <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
+    <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
+    <updated>2026-02-06T14:18:55+00:00</updated>
+    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3230425</id>
