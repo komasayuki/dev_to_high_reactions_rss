@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-10T00:21:53+00:00</updated>
+  <updated>2026-02-10T03:32:00+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -70,18 +70,18 @@
     <summary type="html">Reactions: public 168 / positive 168&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3234944</id>
+    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
+    <updated>2026-02-05T13:05:27+00:00</updated>
+    <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3164939</id>
     <title>Your GitHub Contribution Graph Means Absolutely Nothing - And Here’s Why</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-github-contribution-graph-means-absolutely-nothing-and-heres-why-2kjc"/>
     <updated>2026-01-13T11:42:28+00:00</updated>
     <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3234944</id>
-    <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
-    <updated>2026-02-05T13:05:27+00:00</updated>
-    <summary type="html">Reactions: public 159 / positive 159&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205431</id>
@@ -263,7 +263,7 @@
     <title>Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.</title>
     <link rel="alternate" href="https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82"/>
     <updated>2026-02-07T17:58:23+00:00</updated>
-    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
+    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3204272</id>
@@ -333,7 +333,7 @@
     <title>Your Microservices Aren’t Scalable. Your Database Is Just Crying.</title>
     <link rel="alternate" href="https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd"/>
     <updated>2026-02-04T21:24:34+00:00</updated>
-    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
+    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181466</id>
@@ -735,6 +735,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3232974</id>
+    <title>Got Gemini CLI questions? The Google team will answer DEV&apos;s questions in their new livestream series!</title>
+    <link rel="alternate" href="https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j"/>
+    <updated>2026-02-05T18:41:27+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T18:41:27Z&lt;br/&gt;Tags: discuss, gemini, cli, ai&lt;br/&gt;Description: Hey everyone!  The Google Cloud team is launching Google Cloud Live, a no fluff weekly livestream...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3194992</id>
     <title>This portfolio isn’t perfect, but it’s 100% mine</title>
     <link rel="alternate" href="https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5"/>
@@ -761,13 +768,6 @@
     <link rel="alternate" href="https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel"/>
     <updated>2026-01-05T21:53:53+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3232974</id>
-    <title>Got Gemini CLI questions? The Google team will answer DEV&apos;s questions in their new livestream series!</title>
-    <link rel="alternate" href="https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j"/>
-    <updated>2026-02-05T18:41:27+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T18:41:27Z&lt;br/&gt;Tags: discuss, gemini, cli, ai&lt;br/&gt;Description: Hey everyone!  The Google Cloud team is launching Google Cloud Live, a no fluff weekly livestream...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3121688</id>
@@ -945,6 +945,13 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3245158</id>
+    <title>Modern JavaScript Features You&apos;re Still Not Using (But Should) 🐍</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925"/>
+    <updated>2026-02-10T03:32:00+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:32:00Z&lt;br/&gt;Tags: javascript, discuss, node, codenewbie&lt;br/&gt;Description: ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3220577</id>
     <title>Practical Developer Wisdom You Cannot Google Easily</title>
     <link rel="alternate" href="https://dev.to/techstratos/practical-developer-wisdom-you-cannot-google-easily-1ibp"/>
@@ -999,6 +1006,13 @@
     <link rel="alternate" href="https://dev.to/anthonymax/hud-runtime-code-sensor-for-production-safe-ai-code-1kbo"/>
     <updated>2026-02-08T17:59:17+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:40:26Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Today, every modern application is increasingly shaped by artificial intelligence. Production systems...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3240334</id>
+    <title>freeCodeCamp: Full Stack Developer Curriculum</title>
+    <link rel="alternate" href="https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc"/>
+    <updated>2026-02-08T16:00:08+00:00</updated>
+    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T16:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: Author&apos;s note: While the primary aim of The Foundation is to preserve technical knowledge before it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3235425</id>
@@ -1069,13 +1083,6 @@
     <link rel="alternate" href="https://composio.dev/blog/tool-calling-with-ministral-3b"/>
     <updated>2025-12-24T16:26:00+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T16:26:00Z&lt;br/&gt;Tags: ai, mcp, productivity, tutorial&lt;br/&gt;Description: Everyone’s talking about Ministral 3 3B, so I wanted to see what the hype is about. 🤨  Let&apos;s test it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3240334</id>
-    <title>freeCodeCamp: Full Stack Developer Curriculum</title>
-    <link rel="alternate" href="https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc"/>
-    <updated>2026-02-08T16:00:08+00:00</updated>
-    <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T16:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: Author&apos;s note: While the primary aim of The Foundation is to preserve technical knowledge before it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3236644</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/halakabir234hub/dev-worldwide-show-and-tell-challenge-best-use-of-mux-projura-382c"/>
     <updated>2026-01-04T10:43:27+00:00</updated>
     <summary type="html">Reactions: public 32 / positive 32&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/halakabir234hub&quot;&gt;Hala Kabir&lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T19:38:35Z&lt;br/&gt;Tags: muxchallenge, devchallenge, startup, worldshow&lt;br/&gt;Description: Pitch video on MUX https://player.mux.com/ZUUTSSURXrV4kio88bLxmvz5MxwFhtE25j018xALu7tU Demo MUX...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3205815</id>
-    <title>🗓️ Monthly Dev Report: January 2026</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-january-2026-1f1e"/>
-    <updated>2026-01-29T15:35:22+00:00</updated>
-    <summary type="html">Reactions: public 31 / positive 31&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRDev 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T15:35:22Z&lt;br/&gt;Tags: devjournal, programming, discuss, community&lt;br/&gt;Description: Monthly Discovery 🔍    Dev.to Website :) Clawdbot. The biggest security risk of all time (If...</summary>
   </entry>
 </feed>
