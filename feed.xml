@@ -399,18 +399,18 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T21:24:47Z&lt;br/&gt;Tags: productivity, networking, tutorial, braziliandevs&lt;br/&gt;Description: Sempre fui bem tímida, do tipo que ensaia mentalmente antes de puxar qualquer conversa. Também tenho...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247700</id>
+    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
+    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
+    <updated>2026-02-11T04:51:33+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3136225</id>
     <title>I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34"/>
     <updated>2025-12-30T15:59:39+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T15:59:39Z&lt;br/&gt;Tags: opensource, saas, webdev, beginners&lt;br/&gt;Description: So here&apos;s the thing - I was helping my friend set up his portfolio site last weekend. Everything was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247700</id>
-    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
-    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
-    <updated>2026-02-11T04:51:33+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3239617</id>
@@ -546,6 +546,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3244629</id>
+    <title>How Seriously Should We Take State of JS and Other Developer Surveys?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce"/>
+    <updated>2026-02-10T10:43:07+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205511</id>
     <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
@@ -558,13 +565,6 @@
     <link rel="alternate" href="https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"/>
     <updated>2026-01-08T18:24:43+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3244629</id>
-    <title>How Seriously Should We Take State of JS and Other Developer Surveys?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce"/>
-    <updated>2026-02-10T10:43:07+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3222100</id>
@@ -798,6 +798,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3236581</id>
+    <title>Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI</title>
+    <link rel="alternate" href="https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh"/>
+    <updated>2026-02-10T13:41:01+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T13:41:01Z&lt;br/&gt;Tags: discuss, ai, robotics, programming&lt;br/&gt;Description: I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3232974</id>
     <title>Got Gemini CLI questions? The Google team will answer DEV&apos;s questions in their new livestream series!</title>
     <link rel="alternate" href="https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j"/>
@@ -831,13 +838,6 @@
     <link rel="alternate" href="https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel"/>
     <updated>2026-01-05T21:53:53+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3236581</id>
-    <title>Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI</title>
-    <link rel="alternate" href="https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh"/>
-    <updated>2026-02-10T13:41:01+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T13:41:01Z&lt;br/&gt;Tags: discuss, ai, robotics, programming&lt;br/&gt;Description: I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3232696</id>
