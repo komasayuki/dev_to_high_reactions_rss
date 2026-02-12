@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-12T13:36:45+00:00</updated>
+  <updated>2026-02-12T15:19:43+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -158,7 +158,7 @@
     <title>How dev.to became my comfortable corner of the internet (and my New Year resolution)</title>
     <link rel="alternate" href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8"/>
     <updated>2026-02-10T10:11:48+00:00</updated>
-    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
+    <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3153473</id>
@@ -193,7 +193,7 @@
     <title>Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.</title>
     <link rel="alternate" href="https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82"/>
     <updated>2026-02-07T17:58:23+00:00</updated>
-    <summary type="html">Reactions: public 108 / positive 108&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
+    <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181098</id>
@@ -343,18 +343,18 @@
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247700</id>
+    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
+    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
+    <updated>2026-02-11T04:51:33+00:00</updated>
+    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3181466</id>
     <title>If ChatGPT Writes Your Code, What Are You Getting Paid For?</title>
     <link rel="alternate" href="https://dev.to/thebitforge/if-chatgpt-writes-your-code-what-are-you-getting-paid-for-1pl5"/>
     <updated>2026-01-19T05:55:08+00:00</updated>
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247700</id>
-    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
-    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
-    <updated>2026-02-11T04:51:33+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3146663</id>
@@ -409,7 +409,7 @@
     <id>tag:dev.to,2026:3239617</id>
     <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
     <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
-    <updated>2026-02-07T09:34:48+00:00</updated>
+    <updated>2026-02-12T15:19:43+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
   </entry>
   <entry>
@@ -581,6 +581,13 @@
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3244205</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc"/>
+    <updated>2026-02-10T17:03:23+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3197057</id>
     <title>Stack Overflow: Time for a Change?</title>
     <link rel="alternate" href="https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p"/>
@@ -614,13 +621,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1ho6"/>
     <updated>2026-01-13T15:43:43+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3244205</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc"/>
-    <updated>2026-02-10T17:03:23+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3182809</id>
@@ -735,6 +735,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3251403</id>
+    <title>Duplicate “Follow” Button Text in User Profile Hover Card</title>
+    <link rel="alternate" href="https://dev.to/art_light/duplicate-follow-button-text-in-user-profile-hover-card-121"/>
+    <updated>2026-02-12T12:08:42+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T12:08:42Z&lt;br/&gt;Tags: devbugsmash, devops, discuss, architecture&lt;br/&gt;Description: Description:   While navigating the Dev.to feed, I noticed a UI inconsistency: the Follow...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3245158</id>
     <title>Modern JavaScript Features You&apos;re Still Not Using (But Should) 🐍</title>
     <link rel="alternate" href="https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925"/>
@@ -777,18 +784,18 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3251403</id>
-    <title>Duplicate “Follow” Button Text in User Profile Hover Card</title>
-    <link rel="alternate" href="https://dev.to/art_light/duplicate-follow-button-text-in-user-profile-hover-card-121"/>
-    <updated>2026-02-12T12:08:42+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T12:08:42Z&lt;br/&gt;Tags: devbugsmash, devops, discuss, architecture&lt;br/&gt;Description: Description:   While navigating the Dev.to feed, I noticed a UI inconsistency: the Follow...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3208919</id>
     <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
     <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
     <updated>2026-02-06T14:18:55+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3232974</id>
+    <title>Got Gemini CLI questions? The Google team will answer DEV&apos;s questions in their new livestream series!</title>
+    <link rel="alternate" href="https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j"/>
+    <updated>2026-02-05T18:41:27+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T18:41:27Z&lt;br/&gt;Tags: discuss, gemini, cli, ai&lt;br/&gt;Description: Hey everyone!  The Google Cloud team is launching Google Cloud Live, a no fluff weekly livestream...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3222763</id>
@@ -817,13 +824,6 @@
     <link rel="alternate" href="https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh"/>
     <updated>2026-02-10T13:41:01+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T13:41:01Z&lt;br/&gt;Tags: discuss, ai, robotics, programming&lt;br/&gt;Description: I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3232974</id>
-    <title>Got Gemini CLI questions? The Google team will answer DEV&apos;s questions in their new livestream series!</title>
-    <link rel="alternate" href="https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j"/>
-    <updated>2026-02-05T18:41:27+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T18:41:27Z&lt;br/&gt;Tags: discuss, gemini, cli, ai&lt;br/&gt;Description: Hey everyone!  The Google Cloud team is launching Google Cloud Live, a no fluff weekly livestream...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3194992</id>
