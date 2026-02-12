@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-12T15:19:43+00:00</updated>
+  <updated>2026-02-12T20:50:04+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1386,6 +1386,13 @@
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T05:56:07Z&lt;br/&gt;Tags: programming, beginners, productivity, discuss&lt;br/&gt;Description: Let’s be honest for a second. GitHub contribution graphs are not a productivity metric. They are a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3252447</id>
+    <title>API vs Event Streaming: O Que Muda Para Quem Testa?</title>
+    <link rel="alternate" href="https://dev.to/m4rri4nne/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"/>
+    <updated>2026-02-12T20:50:04+00:00</updated>
+    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T20:50:04Z&lt;br/&gt;Tags: testing, braziliandevs, beginners, eventdriven&lt;br/&gt;Description: ✨ Oi, gente!  Recentemente, tenho pensado bastante em como contribuir para a comunidade de QA e...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3222135</id>
     <title>Welcome Thread - v364</title>
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v364-2mdg"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo"/>
     <updated>2026-02-10T00:07:14+00:00</updated>
     <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T00:05:36Z&lt;br/&gt;Tags: discuss, react, nextjs, css&lt;br/&gt;Description: Yesterday, I had this great idea for my portfolio. I want to implement a feature where if it reaches...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3240456</id>
-    <title>Why OpenClaw Breaks at Scale: A Technical Perspective</title>
-    <link rel="alternate" href="https://scalevise.com/resources/openclaw-automations-explained/"/>
-    <updated>2026-02-07T20:39:20+00:00</updated>
-    <summary type="html">Reactions: public 35 / positive 35&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T20:39:20Z&lt;br/&gt;Tags: ai, architecture, opensource, systemdesign&lt;br/&gt;Description: OpenClaw has gained noticeable traction in developer and infrastructure-focused communities. OpenClaw...</summary>
   </entry>
 </feed>
