@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-11T11:35:39+00:00</updated>
+  <updated>2026-02-12T05:55:41+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -165,7 +165,7 @@
     <title>How dev.to became my comfortable corner of the internet (and my New Year resolution)</title>
     <link rel="alternate" href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8"/>
     <updated>2026-02-10T10:11:48+00:00</updated>
-    <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
+    <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3238333</id>
@@ -479,7 +479,7 @@
     <id>tag:dev.to,2026:3241767</id>
     <title>QuizMaster – Learn, Create, and Play</title>
     <link rel="alternate" href="https://dev.to/sagar_saini/quizmaster-learn-create-and-play-41jg"/>
-    <updated>2026-02-10T07:20:36+00:00</updated>
+    <updated>2026-02-12T05:55:41+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sagar_saini&quot;&gt;sagar saini&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:49:51Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge  QuizMaster is a platform built for both...</summary>
   </entry>
   <entry>
@@ -488,6 +488,13 @@
     <link rel="alternate" href="https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp"/>
     <updated>2026-01-26T19:07:28+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3245136</id>
+    <title>Leadership When the System Pauses</title>
+    <link rel="alternate" href="https://www.linkedin.com/pulse/when-everything-stops-once-throughlinestory-qkuoc"/>
+    <updated>2026-02-10T03:16:12+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:16:12Z&lt;br/&gt;Tags: leadership, entrepreneurship, decisionmaking, management&lt;br/&gt;Description: When Stability Disappears, Leadership Gets Tested   Leadership is often discussed in terms...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3233968</id>
@@ -508,7 +515,7 @@
     <title>How Seriously Should We Take State of JS and Other Developer Surveys?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce"/>
     <updated>2026-02-10T10:43:07+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3227855</id>
@@ -658,11 +665,11 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3245136</id>
-    <title>Leadership When the System Pauses</title>
-    <link rel="alternate" href="https://www.linkedin.com/pulse/when-everything-stops-once-throughlinestory-qkuoc"/>
-    <updated>2026-02-10T03:16:12+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:16:12Z&lt;br/&gt;Tags: leadership, entrepreneurship, decisionmaking, management&lt;br/&gt;Description: When Stability Disappears, Leadership Gets Tested   Leadership is often discussed in terms...</summary>
+    <id>tag:dev.to,2026:3232696</id>
+    <title>One Month at a Startup: What Stayed With Me After I Left</title>
+    <link rel="alternate" href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an"/>
+    <updated>2026-02-10T12:16:15+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3231683</id>
@@ -691,13 +698,6 @@
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5"/>
     <updated>2025-12-30T12:22:21+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3232696</id>
-    <title>One Month at a Startup: What Stayed With Me After I Left</title>
-    <link rel="alternate" href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an"/>
-    <updated>2026-02-10T12:16:15+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3174797</id>
