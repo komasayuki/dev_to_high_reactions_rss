@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-12T05:55:41+00:00</updated>
+  <updated>2026-02-12T10:44:39+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -532,6 +532,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3232696</id>
+    <title>One Month at a Startup: What Stayed With Me After I Left</title>
+    <link rel="alternate" href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an"/>
+    <updated>2026-02-10T12:16:15+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3214446</id>
     <title>3D-First Portfolio Built with Antigravity</title>
     <link rel="alternate" href="https://dev.to/paimon_573760ccaa1b3492b4/3d-first-portfolio-built-with-antigravity-1hmm"/>
@@ -558,13 +565,6 @@
     <link rel="alternate" href="https://dev.to/art_light/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg"/>
     <updated>2026-01-13T21:36:47+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3232696</id>
-    <title>One Month at a Startup: What Stayed With Me After I Left</title>
-    <link rel="alternate" href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an"/>
-    <updated>2026-02-10T12:16:15+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205511</id>
@@ -1036,6 +1036,13 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T05:10:12Z&lt;br/&gt;Tags: webdev, github, opensource, showdev&lt;br/&gt;Description: The Motivation   After contributing to several open source projects, I realized some of them...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247821</id>
+    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
+    <updated>2026-02-11T05:17:40+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3230281</id>
     <title>The Bug That Made Me Question Reality for a Few Hours</title>
     <link rel="alternate" href="https://dev.to/techstratos/the-bug-that-made-me-question-reality-for-a-few-hours-4k74"/>
@@ -1090,13 +1097,6 @@
     <link rel="alternate" href="https://sliplane.io/blog/the-tech-stack-to-build-a-cloud-provider-2026?utm_source=techstack2026"/>
     <updated>2026-01-09T16:26:30+00:00</updated>
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:13:03Z&lt;br/&gt;Tags: webdev, docker, devops, startup&lt;br/&gt;Description: A year ago, I wrote about our tech stack and how it helped us run a lean cloud computing startup....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247821</id>
-    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
-    <updated>2026-02-11T05:17:40+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3241863</id>
@@ -1207,7 +1207,7 @@
     <id>tag:dev.to,2026:3239954</id>
     <title>Actually Static: When WordPress Stops Being the Enemy</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5"/>
-    <updated>2026-02-11T11:35:39+00:00</updated>
+    <updated>2026-02-12T10:44:39+00:00</updated>
     <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T13:28:48Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge   This post is for developers who like...</summary>
   </entry>
   <entry>
