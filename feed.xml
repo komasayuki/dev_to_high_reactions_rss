@@ -123,7 +123,7 @@
     <title>How dev.to became my comfortable corner of the internet (and my New Year resolution)</title>
     <link rel="alternate" href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8"/>
     <updated>2026-02-10T10:11:48+00:00</updated>
-    <summary type="html">Reactions: public 140 / positive 140&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
+    <summary type="html">Reactions: public 142 / positive 142&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3183821</id>
@@ -329,6 +329,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247700</id>
+    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
+    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
+    <updated>2026-02-11T04:51:33+00:00</updated>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3188213</id>
     <title>5 Open-Source Resume Builders That&apos;ll Help Get You Hired in 2026</title>
     <link rel="alternate" href="https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92"/>
@@ -341,13 +348,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f"/>
     <updated>2026-01-21T01:09:15+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247700</id>
-    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
-    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
-    <updated>2026-02-11T04:51:33+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181466</id>
@@ -504,6 +504,13 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3197057</id>
+    <title>Stack Overflow: Time for a Change?</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p"/>
+    <updated>2026-02-10T13:03:58+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T09:00:47Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: Author’s note: I held this post back for a couple of weeks after some excellent subject-adjacent...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3233968</id>
     <title>Postman Killed Free Team Collaboration — Here Are the Best Postman Alternatives</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/postman-just-killed-the-free-plan-for-teams-here-are-real-alternatives-developers-are-using-lg7"/>
@@ -516,13 +523,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025"/>
     <updated>2026-02-03T04:48:49+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3197057</id>
-    <title>Stack Overflow: Time for a Change?</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p"/>
-    <updated>2026-02-10T13:03:58+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T09:00:47Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: Author’s note: I held this post back for a couple of weeks after some excellent subject-adjacent...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3227855</id>
@@ -791,6 +791,20 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247821</id>
+    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
+    <updated>2026-02-11T05:17:40+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3236581</id>
+    <title>Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI</title>
+    <link rel="alternate" href="https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh"/>
+    <updated>2026-02-10T13:41:01+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T13:41:01Z&lt;br/&gt;Tags: discuss, ai, robotics, programming&lt;br/&gt;Description: I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3208919</id>
     <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
     <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
@@ -824,20 +838,6 @@
     <link rel="alternate" href="https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj"/>
     <updated>2026-01-04T17:08:25+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247821</id>
-    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
-    <updated>2026-02-11T05:17:40+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3236581</id>
-    <title>Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI</title>
-    <link rel="alternate" href="https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh"/>
-    <updated>2026-02-10T13:41:01+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T13:41:01Z&lt;br/&gt;Tags: discuss, ai, robotics, programming&lt;br/&gt;Description: I recently bought a starter kit for Arduino to learn robotics. I was curious to learn some basic...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3194992</id>
@@ -994,6 +994,13 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3249091</id>
+    <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
+    <updated>2026-02-11T12:58:25+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3236644</id>
     <title>Why Remote Teams Struggle With Work That Looks Simple</title>
     <link rel="alternate" href="https://medium.com/@techstratos/why-remote-teams-struggle-with-work-that-looks-simple-e1b476063e8f"/>
@@ -1034,13 +1041,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj"/>
     <updated>2025-12-25T01:24:10+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T13:55:43Z&lt;br/&gt;Tags: webdev, ai, cloudflare, architecture&lt;br/&gt;Description: TL;DR   I deployed a semantic search system on Cloudflare&apos;s edge that costs $5-10/month...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3249091</id>
-    <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
-    <updated>2026-02-11T12:58:25+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3143541</id>
