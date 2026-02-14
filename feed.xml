@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-14T11:09:12+00:00</updated>
+  <updated>2026-02-14T11:21:16+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -81,7 +81,7 @@
     <title>How dev.to became my comfortable corner of the internet (and my New Year resolution)</title>
     <link rel="alternate" href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8"/>
     <updated>2026-02-10T10:11:48+00:00</updated>
-    <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
+    <summary type="html">Reactions: public 165 / positive 165&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3164939</id>
@@ -333,7 +333,7 @@
     <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
     <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
     <updated>2026-02-11T04:51:33+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3233006</id>
@@ -700,6 +700,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T12:08:42Z&lt;br/&gt;Tags: devbugsmash, devops, discuss, architecture&lt;br/&gt;Description: Description:   While navigating the Dev.to feed, I noticed a UI inconsistency: the Follow...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3249091</id>
+    <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
+    <updated>2026-02-11T12:58:25+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3232656</id>
     <title>Gaming Beat Me, Development Won&apos;t</title>
     <link rel="alternate" href="https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b"/>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3249091</id>
-    <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
-    <updated>2026-02-11T12:58:25+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3231683</id>
@@ -1081,7 +1081,7 @@
     <id>tag:dev.to,2026:3239954</id>
     <title>Actually Static: When WordPress Stops Being the Enemy</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5"/>
-    <updated>2026-02-14T11:09:12+00:00</updated>
+    <updated>2026-02-14T11:21:16+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T13:28:48Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge   This post is for developers who like...</summary>
   </entry>
   <entry>
