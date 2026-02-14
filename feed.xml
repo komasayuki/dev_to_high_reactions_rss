@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-14T11:21:16+00:00</updated>
+  <updated>2026-02-14T11:50:17+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -392,6 +392,13 @@
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3241767</id>
+    <title>QuizMaster – Learn, Create, and Play</title>
+    <link rel="alternate" href="https://dev.to/sagar_saini/quizmaster-learn-create-and-play-41jg"/>
+    <updated>2026-02-13T05:23:07+00:00</updated>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sagar_saini&quot;&gt;sagar saini&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:49:51Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge  QuizMaster is a platform built for both...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3239617</id>
     <title>I Read 25+ System Design Books, Here Are the 11 That Actually Made Me a Better Engineer</title>
     <link rel="alternate" href="https://dev.to/somadevtoo/i-read-25-system-design-books-here-are-the-11-that-actually-made-me-a-better-engineer-bli"/>
@@ -411,13 +418,6 @@
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
     <updated>2026-01-30T07:09:05+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3241767</id>
-    <title>QuizMaster – Learn, Create, and Play</title>
-    <link rel="alternate" href="https://dev.to/sagar_saini/quizmaster-learn-create-and-play-41jg"/>
-    <updated>2026-02-13T05:23:07+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sagar_saini&quot;&gt;sagar saini&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:49:51Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge  QuizMaster is a platform built for both...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -833,6 +833,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247048</id>
+    <title>Remember Your First Computer Book?</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
+    <updated>2026-02-13T09:21:11+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3208919</id>
     <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
     <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
@@ -866,13 +873,6 @@
     <link rel="alternate" href="https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj"/>
     <updated>2026-01-04T17:08:25+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247048</id>
-    <title>Remember Your First Computer Book?</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
-    <updated>2026-02-13T09:21:11+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3194992</id>
@@ -1076,6 +1076,13 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj"/>
     <updated>2025-12-25T01:24:10+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T13:55:43Z&lt;br/&gt;Tags: webdev, ai, cloudflare, architecture&lt;br/&gt;Description: TL;DR   I deployed a semantic search system on Cloudflare&apos;s edge that costs $5-10/month...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3256169</id>
+    <title>Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma</title>
+    <link rel="alternate" href="https://dev.to/art_light/git-blamed-me-css-gaslit-me-node-ghosted-me-react-re-rendered-my-trauma-12k6"/>
+    <updated>2026-02-14T11:50:17+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:50:17Z&lt;br/&gt;Tags: git, css, node, react&lt;br/&gt;Description: I have been writing code long enough to remember when “version control” meant emailing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3239954</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://encore.cloud/resources/heroku-is-gone"/>
     <updated>2026-02-09T13:39:47+00:00</updated>
     <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcuskohlberg&quot;&gt;Marcus Kohlberg&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T13:39:47Z&lt;br/&gt;Tags: heroku, cloud, backend, devops&lt;br/&gt;Description: Heroku recently moved to a &quot;sustaining engineering model.&quot; No new features, no new enterprise...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3190029</id>
-    <title>Starting Without a Perfect Plan</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/starting-without-a-perfect-plan-4d4d"/>
-    <updated>2026-01-31T09:30:58+00:00</updated>
-    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T09:30:58Z&lt;br/&gt;Tags: learning, devjournal&lt;br/&gt;Description: On the last day of each month, I take a moment to pause and reflect. This post kicks off a monthly...</summary>
   </entry>
 </feed>
