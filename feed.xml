@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-13T14:09:30+00:00</updated>
+  <updated>2026-02-14T02:53:35+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -88,7 +88,7 @@
     <title>How dev.to became my comfortable corner of the internet (and my New Year resolution)</title>
     <link rel="alternate" href="https://dev.to/ujja/how-devto-became-my-comfortable-corner-of-the-internet-and-my-new-year-resolution-54h8"/>
     <updated>2026-02-10T10:11:48+00:00</updated>
-    <summary type="html">Reactions: public 157 / positive 157&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
+    <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205431</id>
@@ -382,7 +382,7 @@
     <title>How Seriously Should We Take State of JS and Other Developer Surveys?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce"/>
     <updated>2026-02-10T10:43:07+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
+    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3239617</id>
@@ -434,18 +434,18 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T21:24:47Z&lt;br/&gt;Tags: productivity, networking, tutorial, braziliandevs&lt;br/&gt;Description: Sempre fui bem tímida, do tipo que ensaia mentalmente antes de puxar qualquer conversa. Também tenho...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247821</id>
+    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
+    <updated>2026-02-11T05:17:40+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3136225</id>
     <title>I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34"/>
     <updated>2025-12-30T15:59:39+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2025-12-30T15:59:39Z&lt;br/&gt;Tags: opensource, saas, webdev, beginners&lt;br/&gt;Description: So here&apos;s the thing - I was helping my friend set up his portfolio site last weekend. Everything was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247821</id>
-    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
-    <updated>2026-02-11T05:17:40+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3119796</id>
@@ -952,6 +952,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247048</id>
+    <title>Remember Your First Computer Book?</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
+    <updated>2026-02-13T09:21:11+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3208530</id>
     <title>Cursor AI vs GitHub Copilot: Which 2026 Code Editor Wins Your Workflow? 👑</title>
     <link rel="alternate" href="https://dev.to/thebitforge/cursor-ai-vs-github-copilot-which-2026-code-editor-wins-your-workflow-1019"/>
@@ -1020,13 +1027,6 @@
     <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
     <updated>2026-01-10T14:31:48+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247048</id>
-    <title>Remember Your First Computer Book?</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
-    <updated>2026-02-13T09:21:11+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3252161</id>
@@ -1116,7 +1116,7 @@
     <id>tag:dev.to,2026:3239954</id>
     <title>Actually Static: When WordPress Stops Being the Enemy</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5"/>
-    <updated>2026-02-12T13:36:45+00:00</updated>
+    <updated>2026-02-14T02:53:35+00:00</updated>
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T13:28:48Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge   This post is for developers who like...</summary>
   </entry>
   <entry>
