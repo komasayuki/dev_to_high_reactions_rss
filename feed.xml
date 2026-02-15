@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-15T10:19:52+00:00</updated>
+  <updated>2026-02-15T17:09:52+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1113,6 +1113,13 @@
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2025-12-24T13:55:43Z&lt;br/&gt;Tags: webdev, ai, cloudflare, architecture&lt;br/&gt;Description: TL;DR   I deployed a semantic search system on Cloudflare&apos;s edge that costs $5-10/month...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3258078</id>
+    <title>Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.</title>
+    <link rel="alternate" href="https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705"/>
+    <updated>2026-02-15T17:09:52+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:09:52Z&lt;br/&gt;Tags: programming, architecture, career, performance&lt;br/&gt;Description: I have been writing software long enough to remember when deploying meant FTP.  I have worked...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3143541</id>
     <title>If You Feel Stuck in Programming, Read This</title>
     <link rel="alternate" href="https://dev.to/hadil/if-you-feel-stuck-in-programming-read-this-403j"/>
@@ -1323,6 +1330,13 @@
     <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3252706</id>
+    <title>Using AI to Build a Tool That Stops Me From Blindly Using AI</title>
+    <link rel="alternate" href="https://dev.to/javz/using-ai-to-build-a-tool-that-stops-me-from-blindly-using-ai-2dh7"/>
+    <updated>2026-02-13T21:04:23+00:00</updated>
+    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T21:04:23Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge              What I Built   I vibe coded...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3233000</id>
     <title>NotebookLM Enhancer - UPDATE ✨</title>
     <link rel="alternate" href="https://dev.to/cgcm070/notebooklm-enhancer-2j6p"/>
@@ -1386,24 +1400,10 @@
     <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T02:19:15Z&lt;br/&gt;Tags: programming, ai, productivity, webdev&lt;br/&gt;Description: Lately, I’ve been living in a new world—specifically, a world called Antigravity. It’s the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3252706</id>
-    <title>Using AI to Build a Tool That Stops Me From Blindly Using AI</title>
-    <link rel="alternate" href="https://dev.to/javz/using-ai-to-build-a-tool-that-stops-me-from-blindly-using-ai-2dh7"/>
-    <updated>2026-02-13T21:04:23+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T21:04:23Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge              What I Built   I vibe coded...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3244398</id>
     <title>Implemented a Feature where the Theme on my Portfolio changes based on the Holiday (Because it&apos;s fun) 💫</title>
     <link rel="alternate" href="https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo"/>
     <updated>2026-02-10T00:07:14+00:00</updated>
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T00:05:36Z&lt;br/&gt;Tags: discuss, react, nextjs, css&lt;br/&gt;Description: Yesterday, I had this great idea for my portfolio. I want to implement a feature where if it reaches...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3198972</id>
-    <title>Why Using AI Chatbots Feels Like a Mistake: Risks and Dangers</title>
-    <link rel="alternate" href="https://scalevise.com/resources/ai-chatbot-risks-and-dangers/"/>
-    <updated>2026-01-26T10:43:16+00:00</updated>
-    <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alifar&quot;&gt;Ali Farhat&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T10:43:16Z&lt;br/&gt;Tags: ai, chatgpt, gemini, webdev&lt;br/&gt;Description: AI chatbots were supposed to simplify knowledge work.  They promised faster writing, instant answers,...</summary>
   </entry>
 </feed>
