@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-15T10:00:15+00:00</updated>
+  <updated>2026-02-15T10:19:52+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -221,7 +221,7 @@
     <title>One Month at a Startup: What Stayed With Me After I Left</title>
     <link rel="alternate" href="https://dev.to/itsugo/one-month-at-a-startup-what-stayed-with-me-after-i-left-42an"/>
     <updated>2026-02-10T12:16:15+00:00</updated>
-    <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
+    <summary type="html">Reactions: public 103 / positive 103&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3168703</id>
@@ -364,6 +364,13 @@
     <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247821</id>
+    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
+    <updated>2026-02-11T05:17:40+00:00</updated>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3188213</id>
     <title>5 Open-Source Resume Builders That&apos;ll Help Get You Hired in 2026</title>
     <link rel="alternate" href="https://dev.to/srbhr/5-open-source-resume-builders-thatll-help-get-you-hired-in-2026-1b92"/>
@@ -376,13 +383,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f"/>
     <updated>2026-01-21T01:09:15+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247821</id>
-    <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
-    <updated>2026-02-11T05:17:40+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181466</id>
@@ -770,6 +770,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3245158</id>
+    <title>Modern JavaScript Features You&apos;re Still Not Using (But Should) 🐍</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925"/>
+    <updated>2026-02-10T03:32:00+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:32:00Z&lt;br/&gt;Tags: javascript, discuss, node, codenewbie&lt;br/&gt;Description: ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3174797</id>
     <title>CSS Optical Illusions</title>
     <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
@@ -789,13 +796,6 @@
     <link rel="alternate" href="https://dev.to/abdullah_haroon_092cf10d3/a-short-talk-at-cloudnexus-made-me-rethink-how-students-are-using-ai-4o01"/>
     <updated>2025-12-28T05:31:07+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3245158</id>
-    <title>Modern JavaScript Features You&apos;re Still Not Using (But Should) 🐍</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925"/>
-    <updated>2026-02-10T03:32:00+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:32:00Z&lt;br/&gt;Tags: javascript, discuss, node, codenewbie&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199100</id>
@@ -1025,7 +1025,7 @@
     <id>tag:dev.to,2026:3239954</id>
     <title>Actually Static: When WordPress Stops Being the Enemy</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5"/>
-    <updated>2026-02-15T10:00:15+00:00</updated>
+    <updated>2026-02-15T10:19:52+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T13:28:48Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge   This post is for developers who like...</summary>
   </entry>
   <entry>
