@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-15T01:58:32+00:00</updated>
+  <updated>2026-02-15T06:53:25+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -382,7 +382,7 @@
     <title>I Stopped Trying to Learn Every DevOps Tool: And Started Building a Platform Instead</title>
     <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
     <updated>2026-02-11T05:17:40+00:00</updated>
-    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
+    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3181466</id>
@@ -560,6 +560,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3249091</id>
+    <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
+    <updated>2026-02-11T12:58:25+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3245136</id>
     <title>Leadership When the System Pauses</title>
     <link rel="alternate" href="https://www.linkedin.com/pulse/when-everything-stops-once-throughlinestory-qkuoc"/>
@@ -607,13 +614,6 @@
     <link rel="alternate" href="https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8"/>
     <updated>2026-02-12T04:51:25+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T02:30:00Z&lt;br/&gt;Tags: buildinpublic, saas, webdev, startup&lt;br/&gt;Description: Thirty days ago I had:   No landing page  No logo  No users  No idea if anyone cared    Today I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3249091</id>
-    <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
-    <updated>2026-02-11T12:58:25+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205511</id>
@@ -705,6 +705,13 @@
     <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
     <updated>2026-01-11T21:50:53+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3257320</id>
+    <title>Setting Up AI Code Review in Bitbucket: A Practical Guide and Comparison⚖️</title>
+    <link rel="alternate" href="https://dev.to/dev_kiran/setting-up-ai-code-review-in-bitbucket-a-practical-guide-and-comparison-19dp"/>
+    <updated>2026-02-15T06:53:25+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T06:53:25Z&lt;br/&gt;Tags: bitbucket, cicd, productivity, automation&lt;br/&gt;Description: Hello Devs 👋   If your team uses Bitbucket and you’re exploring AI code review tools, you might have...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3251403</id>
@@ -1015,6 +1022,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3239954</id>
+    <title>Actually Static: When WordPress Stops Being the Enemy</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5"/>
+    <updated>2026-02-15T01:58:32+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T13:28:48Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge   This post is for developers who like...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3222125</id>
     <title>Welcome Thread - v363</title>
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v363-13be"/>
@@ -1041,13 +1055,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p"/>
     <updated>2026-02-12T22:35:20+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T21:58:03Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge              What I Built   This is my...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3239954</id>
-    <title>Actually Static: When WordPress Stops Being the Enemy</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5"/>
-    <updated>2026-02-15T01:58:32+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T13:28:48Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge   This post is for developers who like...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3236644</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/anthonymax/weve-built-the-fastest-way-to-run-llms-in-production-50x-faster-than-litellm-450n"/>
     <updated>2026-01-20T15:13:12+00:00</updated>
     <summary type="html">Reactions: public 37 / positive 37&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:52:24Z&lt;br/&gt;Tags: webdev, programming, javascript, opensource&lt;br/&gt;Description: Today, AI applications are rapidly becoming more complex. Modern systems no longer rely on a single...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3244398</id>
-    <title>Implemented a Feature where the Theme on my Portfolio changes based on the Holiday (Because it&apos;s fun) 💫</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo"/>
-    <updated>2026-02-10T00:07:14+00:00</updated>
-    <summary type="html">Reactions: public 36 / positive 36&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T00:05:36Z&lt;br/&gt;Tags: discuss, react, nextjs, css&lt;br/&gt;Description: Yesterday, I had this great idea for my portfolio. I want to implement a feature where if it reaches...</summary>
   </entry>
 </feed>
