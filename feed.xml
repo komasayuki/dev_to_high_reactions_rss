@@ -287,18 +287,18 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T20:22:07Z&lt;br/&gt;Tags: discuss&lt;br/&gt;Description: Soo... 2025 is basically over. How&apos;d it go for you?   Here are two of my own DEV-centric highlights...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3197057</id>
+    <title>Stack Overflow: Time for a Change?</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p"/>
+    <updated>2026-02-10T13:03:58+00:00</updated>
+    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T09:00:47Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: Author’s note: I held this post back for a couple of weeks after some excellent subject-adjacent...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3196490</id>
     <title>Why We Suddenly Have Developers Who Can&apos;t Think in Systems</title>
     <link rel="alternate" href="https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj"/>
     <updated>2026-01-25T01:45:33+00:00</updated>
     <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3197057</id>
-    <title>Stack Overflow: Time for a Change?</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/stack-overflow-time-for-a-change-c2p"/>
-    <updated>2026-02-10T13:03:58+00:00</updated>
-    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T09:00:47Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: Author’s note: I held this post back for a couple of weeks after some excellent subject-adjacent...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3204272</id>
@@ -329,6 +329,13 @@
     <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247048</id>
+    <title>Remember Your First Computer Book?</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
+    <updated>2026-02-13T09:21:11+00:00</updated>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3179318</id>
     <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
@@ -350,13 +357,6 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3247048</id>
-    <title>Remember Your First Computer Book?</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
-    <updated>2026-02-13T09:21:11+00:00</updated>
-    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3183543</id>
     <title>Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
@@ -368,7 +368,7 @@
     <title>How Seriously Should We Take State of JS and Other Developer Surveys?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce"/>
     <updated>2026-02-10T10:43:07+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3233006</id>
@@ -581,18 +581,18 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3258078</id>
+    <title>Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.</title>
+    <link rel="alternate" href="https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705"/>
+    <updated>2026-02-15T17:09:52+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:09:52Z&lt;br/&gt;Tags: programming, architecture, career, performance&lt;br/&gt;Description: I have been writing software long enough to remember when deploying meant FTP.  I have worked...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3244205</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc"/>
     <updated>2026-02-10T17:03:23+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3258078</id>
-    <title>Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.</title>
-    <link rel="alternate" href="https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705"/>
-    <updated>2026-02-15T17:09:52+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:09:52Z&lt;br/&gt;Tags: programming, architecture, career, performance&lt;br/&gt;Description: I have been writing software long enough to remember when deploying meant FTP.  I have worked...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3250014</id>
@@ -798,6 +798,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3222108</id>
+    <title>What was your win this week??</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-a3a"/>
+    <updated>2026-02-13T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3245158</id>
     <title>Modern JavaScript Features You&apos;re Still Not Using (But Should) 🐍</title>
     <link rel="alternate" href="https://dev.to/thebitforge/modern-javascript-features-youre-still-not-using-but-should-3925"/>
@@ -838,13 +845,6 @@
     <link rel="alternate" href="https://dev.to/swatigoyal911/document-localization-studio-5gl8"/>
     <updated>2026-02-14T20:05:28+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swatigoyal911&quot;&gt;swati goyal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T20:00:44Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built Document...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3222108</id>
-    <title>What was your win this week??</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-a3a"/>
-    <updated>2026-02-13T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199100</id>
