@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-16T11:09:13+00:00</updated>
+  <updated>2026-02-16T14:50:39+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -385,6 +385,13 @@
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247048</id>
+    <title>Remember Your First Computer Book?</title>
+    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
+    <updated>2026-02-13T09:21:11+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3235433</id>
     <title>Top Vibe Coding Platforms You Should Try This Year🫵</title>
     <link rel="alternate" href="https://dev.to/dev_kiran/top-vibe-coding-platforms-you-should-try-this-year-92n"/>
@@ -399,13 +406,6 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3247048</id>
-    <title>Remember Your First Computer Book?</title>
-    <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
-    <updated>2026-02-13T09:21:11+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3146663</id>
     <title>From Swagger to Tests: Building an AI-Powered API Test Generator with Python</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8"/>
@@ -416,7 +416,7 @@
     <id>tag:dev.to,2026:3249091</id>
     <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
-    <updated>2026-02-11T12:58:25+00:00</updated>
+    <updated>2026-02-16T14:50:39+00:00</updated>
     <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
   </entry>
   <entry>
@@ -511,6 +511,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3252542</id>
+    <title>Claude Code for Fullstack Development: The 3 Things You Actually Need</title>
+    <link rel="alternate" href="https://wasp.sh/blog/2026/01/29/claude-code-fullstack-development-essentials"/>
+    <updated>2026-02-13T14:09:30+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vincanger&quot;&gt;vincanger&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: vibecoding, fullstack, ai, webdev&lt;br/&gt;Description: How Can I Use Claude Code Effectively?   There&apos;s a lot of hype around vibe coding with...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3229416</id>
     <title>Your Side Project Didn’t Fail — It Just Reached Reality</title>
     <link rel="alternate" href="https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76"/>
@@ -544,13 +551,6 @@
     <link rel="alternate" href="https://dev.to/art_light/git-blamed-me-css-gaslit-me-node-ghosted-me-react-re-rendered-my-trauma-12k6"/>
     <updated>2026-02-14T11:50:17+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:50:17Z&lt;br/&gt;Tags: git, css, node, react&lt;br/&gt;Description: I have been writing code long enough to remember when “version control” meant emailing...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3252542</id>
-    <title>Claude Code for Fullstack Development: The 3 Things You Actually Need</title>
-    <link rel="alternate" href="https://wasp.sh/blog/2026/01/29/claude-code-fullstack-development-essentials"/>
-    <updated>2026-02-13T14:09:30+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vincanger&quot;&gt;vincanger&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: vibecoding, fullstack, ai, webdev&lt;br/&gt;Description: How Can I Use Claude Code Effectively?   There&apos;s a lot of hype around vibe coding with...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3199880</id>
@@ -686,6 +686,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3222135</id>
+    <title>Welcome Thread - v364</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v364-2mdg"/>
+    <updated>2026-02-11T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3182809</id>
     <title>Meme Monday</title>
     <link rel="alternate" href="https://dev.to/ben/meme-monday-dcl"/>
@@ -698,13 +705,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7"/>
     <updated>2026-01-04T12:19:52+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T12:19:52Z&lt;br/&gt;Tags: javascript, node, webdev, beginners&lt;br/&gt;Description: JavaScript has been my main work language for years now (and of course these days it’s mostly...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3222135</id>
-    <title>Welcome Thread - v364</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v364-2mdg"/>
-    <updated>2026-02-11T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3202891</id>
