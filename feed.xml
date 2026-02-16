@@ -546,18 +546,18 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3256169</id>
+    <title>Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma</title>
+    <link rel="alternate" href="https://dev.to/art_light/git-blamed-me-css-gaslit-me-node-ghosted-me-react-re-rendered-my-trauma-12k6"/>
+    <updated>2026-02-14T11:50:17+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:50:17Z&lt;br/&gt;Tags: git, css, node, react&lt;br/&gt;Description: I have been writing code long enough to remember when “version control” meant emailing...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3245136</id>
     <title>Leadership When the System Pauses</title>
     <link rel="alternate" href="https://www.linkedin.com/pulse/when-everything-stops-once-throughlinestory-qkuoc"/>
     <updated>2026-02-10T03:16:12+00:00</updated>
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:16:12Z&lt;br/&gt;Tags: leadership, entrepreneurship, decisionmaking, management&lt;br/&gt;Description: When Stability Disappears, Leadership Gets Tested   Leadership is often discussed in terms...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3256169</id>
-    <title>Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma</title>
-    <link rel="alternate" href="https://dev.to/art_light/git-blamed-me-css-gaslit-me-node-ghosted-me-react-re-rendered-my-trauma-12k6"/>
-    <updated>2026-02-14T11:50:17+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T11:50:17Z&lt;br/&gt;Tags: git, css, node, react&lt;br/&gt;Description: I have been writing code long enough to remember when “version control” meant emailing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3233968</id>
@@ -581,6 +581,13 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3252542</id>
+    <title>Claude Code for Fullstack Development: The 3 Things You Actually Need</title>
+    <link rel="alternate" href="https://wasp.sh/blog/2026/01/29/claude-code-fullstack-development-essentials"/>
+    <updated>2026-02-13T14:09:30+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vincanger&quot;&gt;vincanger&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: vibecoding, fullstack, ai, webdev&lt;br/&gt;Description: How Can I Use Claude Code Effectively?   There&apos;s a lot of hype around vibe coding with...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3227855</id>
     <title>Why do you write?</title>
     <link rel="alternate" href="https://dev.to/itsugo/why-do-you-write-5bkf"/>
@@ -593,13 +600,6 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
     <updated>2025-12-23T23:36:41+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3252542</id>
-    <title>Claude Code for Fullstack Development: The 3 Things You Actually Need</title>
-    <link rel="alternate" href="https://wasp.sh/blog/2026/01/29/claude-code-fullstack-development-essentials"/>
-    <updated>2026-02-13T14:09:30+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vincanger&quot;&gt;vincanger&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: vibecoding, fullstack, ai, webdev&lt;br/&gt;Description: How Can I Use Claude Code Effectively?   There&apos;s a lot of hype around vibe coding with...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3214446</id>
@@ -833,18 +833,18 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3256794</id>
+    <title>Document Localization Studio</title>
+    <link rel="alternate" href="https://dev.to/swatigoyal911/document-localization-studio-5gl8"/>
+    <updated>2026-02-14T20:05:28+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swatigoyal911&quot;&gt;swati goyal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T20:00:44Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built Document...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3198441</id>
     <title>You Don&apos;t Need a Mac Mini to Run Clawdbot - Here&apos;s How to Run It Anywhere</title>
     <link rel="alternate" href="https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l"/>
     <updated>2026-01-27T16:03:24+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3256794</id>
-    <title>Document Localization Studio</title>
-    <link rel="alternate" href="https://dev.to/swatigoyal911/document-localization-studio-5gl8"/>
-    <updated>2026-02-14T20:05:28+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swatigoyal911&quot;&gt;swati goyal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T20:00:44Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built Document...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3250361</id>
