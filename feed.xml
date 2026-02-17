@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-16T14:50:39+00:00</updated>
+  <updated>2026-02-17T15:30:15+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -453,6 +453,13 @@
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
     <updated>2026-01-30T07:09:05+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3262968</id>
+    <title>Top 5 LiteLLM Alternatives in 2026</title>
+    <link rel="alternate" href="https://dev.to/therealmrmumba/top-5-litellm-alternatives-in-2026-1nm"/>
+    <updated>2026-02-17T15:30:15+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T15:27:48Z&lt;br/&gt;Tags: webdev, ai&lt;br/&gt;Description: If you’ve used LiteLLM for any serious amount of time, you probably appreciate what it does well: it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3248154</id>
@@ -980,6 +987,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3260191</id>
+    <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
+    <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
+    <updated>2026-02-17T06:49:08+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3243096</id>
     <title>I Shipped the Solution to Knowledge Collapse in 21 Days</title>
     <link rel="alternate" href="https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj"/>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1916"/>
     <updated>2026-01-30T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 39 / positive 39&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3233000</id>
-    <title>NotebookLM Enhancer - UPDATE ✨</title>
-    <link rel="alternate" href="https://dev.to/cgcm070/notebooklm-enhancer-2j6p"/>
-    <updated>2026-02-08T22:10:32+00:00</updated>
-    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/cgcm070&quot;&gt;Cesar Castillo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:06:09Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge  Author: Cesar Castillo Repository:...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3222247</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-bao"/>
-    <updated>2026-02-03T15:39:39+00:00</updated>
-    <summary type="html">Reactions: public 38 / positive 38&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T15:39:39Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
 </feed>
