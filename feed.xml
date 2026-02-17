@@ -308,6 +308,13 @@
     <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/narnaiezzsshaa&quot;&gt;Narnaiezzsshaa Truong&lt;/a&gt;&lt;br/&gt;Published: 2026-01-25T01:34:18Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: And why it&apos;s not their fault.     This article is a response to @itsugo&apos;s &quot;Learning Starts After...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3247700</id>
+    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
+    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
+    <updated>2026-02-11T04:51:33+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3204272</id>
     <title>Online Community Demise and why DEV is Different (at least a little bit, I hope)</title>
     <link rel="alternate" href="https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km"/>
@@ -327,13 +334,6 @@
     <link rel="alternate" href="https://dev.to/polliog/microservices-are-killing-your-performance-and-heres-the-math-21op"/>
     <updated>2026-01-14T12:57:58+00:00</updated>
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3247700</id>
-    <title>The Cloud Is Not Your Computer: Why Go and Rust Developers Secretly Miss the Monolith</title>
-    <link rel="alternate" href="https://dev.to/art_light/the-cloud-is-not-your-computer-why-go-and-rust-developers-secretly-miss-the-monolith-594c"/>
-    <updated>2026-02-11T04:51:33+00:00</updated>
-    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3179318</id>
@@ -406,6 +406,13 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3241863</id>
+    <title>ASCII Whisper: Local P2P Chat with Sound FX and Battleship</title>
+    <link rel="alternate" href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7"/>
+    <updated>2026-02-11T00:29:42+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T00:29:42Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a group submission for the GitHub Copilot CLI Challenge           What We Built...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3146663</id>
     <title>From Swagger to Tests: Building an AI-Powered API Test Generator with Python</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8"/>
@@ -439,13 +446,6 @@
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
     <updated>2026-01-30T07:09:05+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3241863</id>
-    <title>ASCII Whisper: Local P2P Chat with Sound FX and Battleship</title>
-    <link rel="alternate" href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7"/>
-    <updated>2026-02-11T00:29:42+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T00:29:42Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a group submission for the GitHub Copilot CLI Challenge           What We Built...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3117474</id>
@@ -665,6 +665,13 @@
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3256702</id>
+    <title>How a DEV Friend and I Brought Two Avatars to Life</title>
+    <link rel="alternate" href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp"/>
+    <updated>2026-02-16T06:31:42+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T06:31:42Z&lt;br/&gt;Tags: webdev, sideprojects, animation, react&lt;br/&gt;Description: I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3222100</id>
     <title>What was your win this week?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-5am7"/>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7"/>
     <updated>2026-01-04T12:19:52+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T12:19:52Z&lt;br/&gt;Tags: javascript, node, webdev, beginners&lt;br/&gt;Description: JavaScript has been my main work language for years now (and of course these days it’s mostly...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3256702</id>
-    <title>How a DEV Friend and I Brought Two Avatars to Life</title>
-    <link rel="alternate" href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp"/>
-    <updated>2026-02-16T06:31:42+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T06:31:42Z&lt;br/&gt;Tags: webdev, sideprojects, animation, react&lt;br/&gt;Description: I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3202891</id>
@@ -1015,6 +1015,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3252161</id>
+    <title>Built a Vibe Coded App where you can Style any Image you like! :D</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p"/>
+    <updated>2026-02-12T22:35:20+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T21:58:03Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge              What I Built   This is my...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3244732</id>
     <title>Five Git Config Settings Every Dev Needs</title>
     <link rel="alternate" href="https://www.nickyt.co/blog/five-git-config-settings-every-dev-needs-3e55/"/>
@@ -1069,13 +1076,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
     <updated>2026-01-06T15:44:45+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3252161</id>
-    <title>Built a Vibe Coded App where you can Style any Image you like! :D</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p"/>
-    <updated>2026-02-12T22:35:20+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T21:58:03Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge              What I Built   This is my...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3239954</id>
