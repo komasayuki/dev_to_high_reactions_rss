@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-18T14:10:31+00:00</updated>
+  <updated>2026-02-18T14:37:25+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -189,6 +189,13 @@
     <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3265532</id>
+    <title>A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)</title>
+    <link rel="alternate" href="https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd"/>
+    <updated>2026-02-18T14:10:31+00:00</updated>
+    <summary type="html">Reactions: public 112 / positive 112&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3240298</id>
     <title>Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.</title>
     <link rel="alternate" href="https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82"/>
@@ -231,6 +238,13 @@
     <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:16:15Z&lt;br/&gt;Tags: career, startup, learning, mentalhealth&lt;br/&gt;Description: I started my first job at a startup at the beginning of January.  The pay was low, the commute was...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3260191</id>
+    <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
+    <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
+    <updated>2026-02-17T06:49:08+00:00</updated>
+    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3168703</id>
     <title>Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/bring-mcp-apps-into-your-own-app-with-copilotkit-and-ag-ui"/>
@@ -271,13 +285,6 @@
     <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
     <updated>2026-02-13T09:21:11+00:00</updated>
     <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3260191</id>
-    <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
-    <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
-    <updated>2026-02-17T06:49:08+00:00</updated>
-    <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3179178</id>
@@ -371,13 +378,6 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3265532</id>
-    <title>A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)</title>
-    <link rel="alternate" href="https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd"/>
-    <updated>2026-02-18T14:10:31+00:00</updated>
-    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3252512</id>
     <title>Introducing Our Next DEV Education Track: &quot;Build Multi-Agent Systems with ADK&quot;</title>
     <link rel="alternate" href="https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8"/>
@@ -469,6 +469,20 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T13:30:45Z&lt;br/&gt;Tags: programming, backend, developer, discuss&lt;br/&gt;Description: Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3263647</id>
+    <title>I’ve Seen This Architecture Before. It Ends in Tears.</title>
+    <link rel="alternate" href="https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld"/>
+    <updated>2026-02-17T21:56:40+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T21:56:40Z&lt;br/&gt;Tags: career, programming, software, discuss&lt;br/&gt;Description: I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3254117</id>
+    <title>The Gatekeeping Panic: What AI Actually Threatens in Software Development</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l"/>
+    <updated>2026-02-15T16:13:01+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T16:13:01Z&lt;br/&gt;Tags: ai, career, productivity, codenewbie&lt;br/&gt;Description: &quot;If you use AI, you&apos;re not a real developer.&quot;  Same energy as every gatekeeping panic before...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3201461</id>
     <title>From Clawdbot to Moltbot: How a C&amp;D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet&apos;s Hottest AI Project</title>
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
@@ -509,20 +523,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om"/>
     <updated>2026-01-04T11:29:38+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3263647</id>
-    <title>I’ve Seen This Architecture Before. It Ends in Tears.</title>
-    <link rel="alternate" href="https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld"/>
-    <updated>2026-02-17T21:56:40+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T21:56:40Z&lt;br/&gt;Tags: career, programming, software, discuss&lt;br/&gt;Description: I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3254117</id>
-    <title>The Gatekeeping Panic: What AI Actually Threatens in Software Development</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l"/>
-    <updated>2026-02-15T16:13:01+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T16:13:01Z&lt;br/&gt;Tags: ai, career, productivity, codenewbie&lt;br/&gt;Description: &quot;If you use AI, you&apos;re not a real developer.&quot;  Same energy as every gatekeeping panic before...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3252542</id>
@@ -1001,6 +1001,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3265508</id>
+    <title>The Future of Software Has a Lot More Builders. They’re Going to Need a Home.</title>
+    <link rel="alternate" href="https://news.mlh.io/major-league-hacking-acquires-dev-to-feb-18-2026-02-18-2026"/>
+    <updated>2026-02-18T14:37:25+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonmarkgo&quot;&gt;Jon Gottfried&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:00:30Z&lt;br/&gt;Tags: discuss, news, ai, programming&lt;br/&gt;Description: I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3262537</id>
     <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/mohammed_thaha/deal-agent-forge-ai-powered-tech-builder-with-conversational-intelligence-1b2d"/>
     <updated>2026-02-03T19:53:01+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mohammed_thaha&quot;&gt;Mohammed Thaha&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T19:44:27Z&lt;br/&gt;Tags: devchallenge, algoliachallenge, ai, agents&lt;br/&gt;Description: This is a submission for the Algolia Agent Studio Challenge: Consumer-Facing Conversational...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3216852</id>
-    <title>A QuantuME Portfolio ⚛️🤖</title>
-    <link rel="alternate" href="https://dev.to/aravind_d/a-quantume-portfolio-5589"/>
-    <updated>2026-02-02T04:27:21+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aravind_d&quot;&gt;Aravind d&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T17:54:18Z&lt;br/&gt;Tags: googleaichallenge, portfolio, gemini, devchallenge&lt;br/&gt;Description: This is a submission for the [New Year, New You Portfolio Challenge Presented by Google...</summary>
   </entry>
 </feed>
