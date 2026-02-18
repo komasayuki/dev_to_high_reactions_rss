@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-17T18:39:29+00:00</updated>
+  <updated>2026-02-17T21:56:40+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -546,6 +546,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3260191</id>
+    <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
+    <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
+    <updated>2026-02-17T06:49:08+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3256702</id>
     <title>How a DEV Friend and I Brought Two Avatars to Life</title>
     <link rel="alternate" href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp"/>
@@ -609,13 +616,6 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:16:12Z&lt;br/&gt;Tags: leadership, entrepreneurship, decisionmaking, management&lt;br/&gt;Description: When Stability Disappears, Leadership Gets Tested   Leadership is often discussed in terms...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3260191</id>
-    <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
-    <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
-    <updated>2026-02-17T06:49:08+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3233968</id>
     <title>Postman Killed Free Team Collaboration — Here Are the Best Postman Alternatives</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/postman-just-killed-the-free-plan-for-teams-here-are-real-alternatives-developers-are-using-lg7"/>
@@ -628,6 +628,13 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025"/>
     <updated>2026-02-03T04:48:49+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3222108</id>
+    <title>What was your win this week??</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-a3a"/>
+    <updated>2026-02-13T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3244205</id>
@@ -705,13 +712,6 @@
     <link rel="alternate" href="https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"/>
     <updated>2026-01-08T18:24:43+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3222108</id>
-    <title>What was your win this week??</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-a3a"/>
-    <updated>2026-02-13T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3222100</id>
@@ -950,6 +950,13 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-8d7"/>
     <updated>2026-01-09T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3263647</id>
+    <title>I’ve Seen This Architecture Before. It Ends in Tears.</title>
+    <link rel="alternate" href="https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld"/>
+    <updated>2026-02-17T21:56:40+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T21:56:40Z&lt;br/&gt;Tags: career, programming, software, discuss&lt;br/&gt;Description: I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3208919</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/hanzla/the-death-of-vanilla-javascript-and-why-its-actually-stronger-than-ever-i70"/>
     <updated>2026-01-14T17:18:57+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hanzla&quot;&gt;Hanzla Baig&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T17:18:57Z&lt;br/&gt;Tags: webdev, javascript, programming, sharepointframework&lt;br/&gt;Description: Every few months, someone on Twitter declares that Vanilla JavaScript is dead. They&apos;ll post a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3154237</id>
-    <title>I Am 38, I Am a Nurse, and I Have Always Wanted to Learn Coding</title>
-    <link rel="alternate" href="https://dev.to/rustypea/i-am-38-i-am-a-nurse-and-i-have-always-wanted-to-learn-coding-2375"/>
-    <updated>2026-01-07T01:43:40+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rustypea&quot;&gt;Rusty Pea&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T01:43:40Z&lt;br/&gt;Tags: career, learning, beginners, coding&lt;br/&gt;Description: I am a nurse. I am 38 years old. And I have not started coding yet.  But I have always wanted...</summary>
   </entry>
 </feed>
