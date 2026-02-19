@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-18T14:37:25+00:00</updated>
+  <updated>2026-02-19T03:45:45+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)</title>
     <link rel="alternate" href="https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd"/>
     <updated>2026-02-18T14:10:31+00:00</updated>
-    <summary type="html">Reactions: public 258 / positive 258&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
+    <summary type="html">Reactions: public 264 / positive 264&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3125588</id>
@@ -466,7 +466,14 @@
     <title>The Gatekeeping Panic: What AI Actually Threatens in Software Development</title>
     <link rel="alternate" href="https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l"/>
     <updated>2026-02-15T16:13:01+00:00</updated>
-    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T16:13:01Z&lt;br/&gt;Tags: ai, career, productivity, codenewbie&lt;br/&gt;Description: &quot;If you use AI, you&apos;re not a real developer.&quot;  Same energy as every gatekeeping panic before...</summary>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T16:13:01Z&lt;br/&gt;Tags: ai, career, productivity, codenewbie&lt;br/&gt;Description: &quot;If you use AI, you&apos;re not a real developer.&quot;  Same energy as every gatekeeping panic before...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3265508</id>
+    <title>The Future of Software Has a Lot More Builders. They’re Going to Need a Home.</title>
+    <link rel="alternate" href="https://news.mlh.io/major-league-hacking-acquires-dev-to-feb-18-2026-02-18-2026"/>
+    <updated>2026-02-18T14:37:25+00:00</updated>
+    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonmarkgo&quot;&gt;Jon Gottfried&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:00:30Z&lt;br/&gt;Tags: discuss, news, ai, programming&lt;br/&gt;Description: I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3239617</id>
@@ -635,13 +642,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp"/>
     <updated>2026-01-26T19:07:28+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3265508</id>
-    <title>The Future of Software Has a Lot More Builders. They’re Going to Need a Home.</title>
-    <link rel="alternate" href="https://news.mlh.io/major-league-hacking-acquires-dev-to-feb-18-2026-02-18-2026"/>
-    <updated>2026-02-18T14:37:25+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonmarkgo&quot;&gt;Jon Gottfried&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:00:30Z&lt;br/&gt;Tags: discuss, news, ai, programming&lt;br/&gt;Description: I have some big news to share today: Major League Hacking has acquired DEV (dev.to), the developer...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3245136</id>
@@ -882,6 +882,20 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2025-12-29T11:19:03Z&lt;br/&gt;Tags: ai, webdev, css, svelte&lt;br/&gt;Description: Update (2025/12/30): Added Roller Coaster Nightmare😨           Intro   When do you feel excited and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3263699</id>
+    <title>If You See These Red Flags in an IT Interview — Run (Real Stories)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/if-you-see-these-red-flags-in-an-it-interview-run-real-stories-4am7"/>
+    <updated>2026-02-18T10:54:17+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T10:54:17Z&lt;br/&gt;Tags: webdev, discuss&lt;br/&gt;Description: We often prepare for interviews by polishing our CVs, grinding LeetCode, and rehearsing answers to...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3262537</id>
+    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
+    <updated>2026-02-17T12:42:44+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3253541</id>
     <title>Vouch: Mitchell Hashimoto’s Experiment in Restoring Trust to Open Source</title>
     <link rel="alternate" href="https://dev.to/richardpascoe/vouch-mitchell-hashimotos-experiment-in-restoring-trust-to-open-source-7l8"/>
@@ -936,20 +950,6 @@
     <link rel="alternate" href="https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l"/>
     <updated>2026-01-27T16:03:24+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3263699</id>
-    <title>If You See These Red Flags in an IT Interview — Run (Real Stories)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/if-you-see-these-red-flags-in-an-it-interview-run-real-stories-4am7"/>
-    <updated>2026-02-18T10:54:17+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T10:54:17Z&lt;br/&gt;Tags: webdev, discuss&lt;br/&gt;Description: We often prepare for interviews by polishing our CVs, grinding LeetCode, and rehearsing answers to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3262537</id>
-    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
-    <updated>2026-02-17T12:42:44+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3250361</id>
@@ -1176,6 +1176,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3266984</id>
+    <title>Suffering from BUGS: How I Almost Deleted My Entire Project</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef"/>
+    <updated>2026-02-19T03:45:45+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T03:23:34Z&lt;br/&gt;Tags: showdev, devops, python, typescript&lt;br/&gt;Description: You know that iconic DJ Khaled album, &quot;Suffering from Success&quot;? The one where he looks overwhelmed by...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3252447</id>
     <title>API vs Event Streaming: O Que Muda Para Quem Testa?</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/raviteja_nekkalapu_/the-incognito-mode-lie-3a3g"/>
     <updated>2026-02-05T16:10:47+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/raviteja_nekkalapu_&quot;&gt;Raviteja Nekkalapu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T16:10:47Z&lt;br/&gt;Tags: ai, security, cybersecurity, data&lt;br/&gt;Description: You just did something dangerous.  You opened ChatGPT.  You pasted your medical lab report to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3230345</id>
-    <title>I Tried OpenClaw as a Virtual Assistant Here’s My Honest Take</title>
-    <link rel="alternate" href="https://dev.to/therealmrmumba/i-tried-openclaw-as-a-virtual-assistant-heres-my-honest-take-265o"/>
-    <updated>2026-02-04T08:36:23+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T08:21:37Z&lt;br/&gt;Tags: webdev, ai, programming, devops&lt;br/&gt;Description: When you read about agentic AI frameworks, they all promise the same thing: “Your AI, but...</summary>
   </entry>
 </feed>
