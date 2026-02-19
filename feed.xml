@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-19T03:45:45+00:00</updated>
+  <updated>2026-02-19T15:34:05+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)</title>
     <link rel="alternate" href="https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd"/>
     <updated>2026-02-18T14:10:31+00:00</updated>
-    <summary type="html">Reactions: public 295 / positive 295&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
+    <summary type="html">Reactions: public 297 / positive 297&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3125588</id>
@@ -165,7 +165,7 @@
     <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
     <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
     <updated>2026-02-17T06:49:08+00:00</updated>
-    <summary type="html">Reactions: public 136 / positive 136&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
+    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3224512</id>
@@ -518,6 +518,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T06:31:42Z&lt;br/&gt;Tags: webdev, sideprojects, animation, react&lt;br/&gt;Description: I met @webdeveloperhyper on the DEV Community, and like most good internet collaborations, it started...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3252542</id>
+    <title>Claude Code for Fullstack Development: The 3 Things You Actually Need</title>
+    <link rel="alternate" href="https://wasp.sh/blog/2026/01/29/claude-code-fullstack-development-essentials"/>
+    <updated>2026-02-13T14:09:30+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vincanger&quot;&gt;vincanger&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: vibecoding, fullstack, ai, webdev&lt;br/&gt;Description: How Can I Use Claude Code Effectively?   There&apos;s a lot of hype around vibe coding with...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3248154</id>
     <title>DevOps From Scratch: Entry #03</title>
     <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-03-cie"/>
@@ -537,13 +544,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om"/>
     <updated>2026-01-04T11:29:38+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:49:16Z&lt;br/&gt;Tags: discuss, programming, productivity, codenewbie&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3252542</id>
-    <title>Claude Code for Fullstack Development: The 3 Things You Actually Need</title>
-    <link rel="alternate" href="https://wasp.sh/blog/2026/01/29/claude-code-fullstack-development-essentials"/>
-    <updated>2026-02-13T14:09:30+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vincanger&quot;&gt;vincanger&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: vibecoding, fullstack, ai, webdev&lt;br/&gt;Description: How Can I Use Claude Code Effectively?   There&apos;s a lot of hype around vibe coding with...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3230200</id>
@@ -609,6 +609,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3263699</id>
+    <title>If You See These Red Flags in an IT Interview — Run (Real Stories)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/if-you-see-these-red-flags-in-an-it-interview-run-real-stories-4am7"/>
+    <updated>2026-02-18T10:54:17+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T10:54:17Z&lt;br/&gt;Tags: webdev, discuss&lt;br/&gt;Description: We often prepare for interviews by polishing our CVs, grinding LeetCode, and rehearsing answers to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3229416</id>
     <title>Your Side Project Didn’t Fail — It Just Reached Reality</title>
     <link rel="alternate" href="https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76"/>
@@ -635,13 +642,6 @@
     <link rel="alternate" href="https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6"/>
     <updated>2025-12-31T10:04:43+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3263699</id>
-    <title>If You See These Red Flags in an IT Interview — Run (Real Stories)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/if-you-see-these-red-flags-in-an-it-interview-run-real-stories-4am7"/>
-    <updated>2026-02-18T10:54:17+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T10:54:17Z&lt;br/&gt;Tags: webdev, discuss&lt;br/&gt;Description: We often prepare for interviews by polishing our CVs, grinding LeetCode, and rehearsing answers to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3250014</id>
@@ -679,6 +679,13 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3262537</id>
+    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
+    <updated>2026-02-17T12:42:44+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3222108</id>
     <title>What was your win this week??</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-a3a"/>
@@ -691,13 +698,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc"/>
     <updated>2026-02-10T17:03:23+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3262537</id>
-    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
-    <updated>2026-02-17T12:42:44+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3227855</id>
@@ -1113,6 +1113,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3268614</id>
+    <title>Your Swagger Doc Is More Than Documentation — It&apos;s a Test Suite Waiting to Happen</title>
+    <link rel="alternate" href="https://dev.to/m4rri4nne/your-swagger-doc-is-more-than-documentation-its-a-test-suite-waiting-to-happen-gm8"/>
+    <updated>2026-02-19T15:34:05+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T15:31:47Z&lt;br/&gt;Tags: api, architecture, automation, testing&lt;br/&gt;Description: In a previous article, I showed how we can use Swagger and AI to generate test cases automatically....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3256805</id>
     <title>My Docs Are Safer Than My Search History 😎</title>
     <link rel="alternate" href="https://dev.to/rohan_sharma/my-docs-are-safer-than-my-search-history-5e4f"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/when-litellm-becomes-a-bottleneck-exploring-gateway-alternatives-3a4h"/>
     <updated>2026-02-10T12:48:19+00:00</updated>
     <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T12:40:48Z&lt;br/&gt;Tags: webdev, ai, programming&lt;br/&gt;Description: LiteLLM has become a go-to starting point for teams building LLM-powered systems. At first, it feels...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3217556</id>
-    <title>Hud: Runtime Code Sensor for Production-Safe AI Code</title>
-    <link rel="alternate" href="https://dev.to/anthonymax/hud-runtime-code-sensor-for-production-safe-ai-code-1kbo"/>
-    <updated>2026-02-08T17:59:17+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:40:26Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Today, every modern application is increasingly shaped by artificial intelligence. Production systems...</summary>
   </entry>
 </feed>
