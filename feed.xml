@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-19T15:34:05+00:00</updated>
+  <updated>2026-02-19T16:53:45+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)</title>
     <link rel="alternate" href="https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd"/>
     <updated>2026-02-18T14:10:31+00:00</updated>
-    <summary type="html">Reactions: public 297 / positive 297&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
+    <summary type="html">Reactions: public 299 / positive 299&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3125588</id>
@@ -438,7 +438,7 @@
     <title>I’ve Seen This Architecture Before. It Ends in Tears.</title>
     <link rel="alternate" href="https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld"/>
     <updated>2026-02-17T21:56:40+00:00</updated>
-    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T21:56:40Z&lt;br/&gt;Tags: career, programming, software, discuss&lt;br/&gt;Description: I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...</summary>
+    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T21:56:40Z&lt;br/&gt;Tags: career, programming, software, discuss&lt;br/&gt;Description: I’ve been writing software long enough to know one eternal truth:  Nothing is more permanent than a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3235433</id>
@@ -658,6 +658,13 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3262537</id>
+    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
+    <updated>2026-02-17T12:42:44+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3245136</id>
     <title>Leadership When the System Pauses</title>
     <link rel="alternate" href="https://www.linkedin.com/pulse/when-everything-stops-once-throughlinestory-qkuoc"/>
@@ -677,13 +684,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025"/>
     <updated>2026-02-03T04:48:49+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3262537</id>
-    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
-    <updated>2026-02-17T12:42:44+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3222108</id>
@@ -931,6 +931,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3268614</id>
+    <title>Your Swagger Doc Is More Than Documentation — It&apos;s a Test Suite Waiting to Happen</title>
+    <link rel="alternate" href="https://dev.to/m4rri4nne/your-swagger-doc-is-more-than-documentation-its-a-test-suite-waiting-to-happen-gm8"/>
+    <updated>2026-02-19T16:53:45+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T15:31:47Z&lt;br/&gt;Tags: api, automation, testing, csharp&lt;br/&gt;Description: In a previous article, I showed how we can use Swagger and AI to generate test cases automatically....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3259595</id>
     <title>Introducing Tailgrids 3.0: A React UI Component Library Built with Tailwind CSS</title>
     <link rel="alternate" href="https://dev.to/tailwindcss/tailgrids-react-ui-component-library-4k1c"/>
@@ -1111,13 +1118,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm"/>
     <updated>2025-12-27T05:56:11+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3268614</id>
-    <title>Your Swagger Doc Is More Than Documentation — It&apos;s a Test Suite Waiting to Happen</title>
-    <link rel="alternate" href="https://dev.to/m4rri4nne/your-swagger-doc-is-more-than-documentation-its-a-test-suite-waiting-to-happen-gm8"/>
-    <updated>2026-02-19T15:34:05+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T15:31:47Z&lt;br/&gt;Tags: api, architecture, automation, testing&lt;br/&gt;Description: In a previous article, I showed how we can use Swagger and AI to generate test cases automatically....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3256805</id>
