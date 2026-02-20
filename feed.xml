@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-20T14:28:19+00:00</updated>
+  <updated>2026-02-20T20:46:39+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)</title>
     <link rel="alternate" href="https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd"/>
     <updated>2026-02-18T14:10:31+00:00</updated>
-    <summary type="html">Reactions: public 340 / positive 340&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
+    <summary type="html">Reactions: public 341 / positive 341&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T14:10:31Z&lt;br/&gt;Tags: news, devto, hackathon, discuss&lt;br/&gt;Description: Hey everyone,  I have some massive news to share today, and I couldn&apos;t be more excited to finally...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3125588</id>
@@ -980,6 +980,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3270069</id>
+    <title>How to Build a Research Assistant using Deep Agents</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"/>
+    <updated>2026-02-20T20:46:39+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T14:22:05Z&lt;br/&gt;Tags: react, programming, javascript, tutorial&lt;br/&gt;Description: LangChain&apos;s Deep Agents provide a new way to build structured, multi-agent systems that can plan,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3250361</id>
     <title>25 Developer Tools I Wish I Knew When I Started Coding 🚀</title>
     <link rel="alternate" href="https://dev.to/thebitforge/25-developer-tools-i-wish-i-knew-when-i-started-coding-1no0"/>
@@ -1211,6 +1218,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3265951</id>
+    <title>DevOps From Scratch: Entry #04</title>
+    <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-04-4f4k"/>
+    <updated>2026-02-18T15:18:22+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T15:17:54Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: When I first started my Linux journey, I had this image in my head of a dark room, green text...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3252447</id>
     <title>API vs Event Streaming: O Que Muda Para Quem Testa?</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"/>
@@ -1251,13 +1265,6 @@
     <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
     <updated>2026-01-10T14:31:48+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3265951</id>
-    <title>DevOps From Scratch: Entry #04</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-04-4f4k"/>
-    <updated>2026-02-18T15:18:22+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T15:17:54Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: When I first started my Linux journey, I had this image in my head of a dark room, green text...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3241449</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-e8p"/>
     <updated>2026-01-27T19:55:48+00:00</updated>
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T19:55:48Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3178926</id>
-    <title>Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality</title>
-    <link rel="alternate" href="https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1"/>
-    <updated>2026-01-18T04:51:27+00:00</updated>
-    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T03:26:09Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI            ...</summary>
   </entry>
 </feed>
