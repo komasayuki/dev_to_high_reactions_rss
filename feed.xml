@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-20T20:46:39+00:00</updated>
+  <updated>2026-02-21T14:36:53+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -109,7 +109,7 @@
     <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
     <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
     <updated>2026-02-20T14:28:19+00:00</updated>
-    <summary type="html">Reactions: public 154 / positive 154&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
+    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T06:49:08Z&lt;br/&gt;Tags: programming, webdev, codenewbie, node&lt;br/&gt;Description: For a long time, I thought web development was simple.  Frontend. Backend. Done.  HTML, CSS,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -227,7 +227,7 @@
     <id>tag:dev.to,2026:3254117</id>
     <title>The Gatekeeping Panic: What AI Actually Threatens in Software Development</title>
     <link rel="alternate" href="https://dev.to/dannwaneri/the-gatekeeping-panic-what-ai-actually-threatens-in-software-development-5b9l"/>
-    <updated>2026-02-15T16:13:01+00:00</updated>
+    <updated>2026-02-21T14:36:53+00:00</updated>
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T16:13:01Z&lt;br/&gt;Tags: ai, career, productivity, codenewbie&lt;br/&gt;Description: &quot;If you use AI, you&apos;re not a real developer.&quot;  Same energy as every gatekeeping panic before...</summary>
   </entry>
   <entry>
@@ -266,6 +266,13 @@
     <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T10:54:17Z&lt;br/&gt;Tags: webdev, discuss&lt;br/&gt;Description: We often prepare for interviews by polishing our CVs, grinding LeetCode, and rehearsing answers to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3262537</id>
+    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
+    <updated>2026-02-17T12:42:44+00:00</updated>
+    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3168703</id>
     <title>Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/bring-mcp-apps-into-your-own-app-with-copilotkit-and-ag-ui"/>
@@ -278,13 +285,6 @@
     <link rel="alternate" href="https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51"/>
     <updated>2026-01-13T13:29:11+00:00</updated>
     <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T13:29:11Z&lt;br/&gt;Tags: ai, llm, opensource, go&lt;br/&gt;Description: If you’ve ever scaled an LLM-powered application beyond a demo, you’ve probably felt it.  Everything...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3262537</id>
-    <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
-    <updated>2026-02-17T12:42:44+00:00</updated>
-    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3214650</id>
@@ -658,6 +658,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3270026</id>
+    <title>I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)</title>
+    <link rel="alternate" href="https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn"/>
+    <updated>2026-02-20T08:03:43+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T08:03:43Z&lt;br/&gt;Tags: career, programming, discuss, beginners&lt;br/&gt;Description: I’ve been writing code long enough to remember when Stack Overflow didn’t exist.  If you didn’t know...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3250014</id>
     <title>I Built a SaaS in 30 Days. Here’s Exactly What Happened.</title>
     <link rel="alternate" href="https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8"/>
@@ -726,13 +733,6 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
     <updated>2025-12-23T23:36:41+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3270026</id>
-    <title>I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)</title>
-    <link rel="alternate" href="https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn"/>
-    <updated>2026-02-20T08:03:43+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T08:03:43Z&lt;br/&gt;Tags: career, programming, discuss, beginners&lt;br/&gt;Description: I’ve been writing code long enough to remember when Stack Overflow didn’t exist.  If you didn’t know...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3222135</id>
