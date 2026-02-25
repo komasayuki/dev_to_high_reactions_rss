@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-24T18:15:05+00:00</updated>
+  <updated>2026-02-25T05:43:45+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -221,7 +221,7 @@
     <title>How to Build a Research Assistant using Deep Agents</title>
     <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"/>
     <updated>2026-02-20T20:46:39+00:00</updated>
-    <summary type="html">Reactions: public 119 / positive 119&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T14:22:05Z&lt;br/&gt;Tags: react, programming, javascript, tutorial&lt;br/&gt;Description: LangChain&apos;s Deep Agents provide a new way to build structured, multi-agent systems that can plan,...</summary>
+    <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T14:22:05Z&lt;br/&gt;Tags: react, programming, javascript, tutorial&lt;br/&gt;Description: LangChain&apos;s Deep Agents provide a new way to build structured, multi-agent systems that can plan,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3241767</id>
@@ -283,7 +283,7 @@
     <id>tag:dev.to,2026:3270026</id>
     <title>I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)</title>
     <link rel="alternate" href="https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn"/>
-    <updated>2026-02-23T05:34:25+00:00</updated>
+    <updated>2026-02-25T05:43:45+00:00</updated>
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T08:03:43Z&lt;br/&gt;Tags: career, programming, discuss, beginners&lt;br/&gt;Description: I’ve been writing code long enough to remember when Stack Overflow didn’t exist.  If you didn’t know...</summary>
   </entry>
   <entry>
@@ -305,7 +305,7 @@
     <title>Why did you become a Developer?</title>
     <link rel="alternate" href="https://dev.to/francistrdev/why-did-you-become-a-developer-57ea"/>
     <updated>2026-02-19T19:43:51+00:00</updated>
-    <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T19:43:51Z&lt;br/&gt;Tags: discuss, community, programming, mentalhealth&lt;br/&gt;Description: We all have our origin stories. Maybe you were born to become a programmer or you started off when...</summary>
+    <summary type="html">Reactions: public 103 / positive 103&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T19:43:51Z&lt;br/&gt;Tags: discuss, community, programming, mentalhealth&lt;br/&gt;Description: We all have our origin stories. Maybe you were born to become a programmer or you started off when...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3168703</id>
@@ -882,6 +882,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3242099</id>
+    <title>💥How to Reduce Stress for Free (Mega Bazooka with React Three Fiber + AI)💥</title>
+    <link rel="alternate" href="https://dev.to/webdeveloperhyper/how-to-reduce-stress-for-free-mega-bazooka-with-react-three-fiber-ai-4n50"/>
+    <updated>2026-02-24T11:44:27+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T10:02:57Z&lt;br/&gt;Tags: ai, webdev, graphql, a11y&lt;br/&gt;Description: Update (2026/02/24): Added feature to reduce much stress. Gold Fountain with Mega Bazooka          ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3257320</id>
     <title>Setting Up AI Code Review in Bitbucket: A Practical Guide and Comparison⚖️</title>
     <link rel="alternate" href="https://dev.to/dev_kiran/setting-up-ai-code-review-in-bitbucket-a-practical-guide-and-comparison-19dp"/>
@@ -922,13 +929,6 @@
     <link rel="alternate" href="https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb"/>
     <updated>2026-02-24T18:15:05+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rmohitjoe&quot;&gt;R. Mohit joe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T18:15:05Z&lt;br/&gt;Tags: ai, productivity, automation, startup&lt;br/&gt;Description: Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3242099</id>
-    <title>💥How to Reduce Stress for Free (Mega Bazooka with React Three Fiber + AI)💥</title>
-    <link rel="alternate" href="https://dev.to/webdeveloperhyper/how-to-reduce-stress-for-free-mega-bazooka-with-react-three-fiber-ai-4n50"/>
-    <updated>2026-02-24T11:44:27+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T10:02:57Z&lt;br/&gt;Tags: ai, webdev, graphql, a11y&lt;br/&gt;Description: Update (2026/02/24): Added feature to reduce much stress. Gold Fountain with Mega Bazooka          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3245158</id>
@@ -1001,6 +1001,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/abdullah_haroon_092cf10d3&quot;&gt;abdullah haroon&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T05:22:11Z&lt;br/&gt;Tags: aws, cloudnative, agentic, agenticai&lt;br/&gt;Description: I recently spoke at CloudNexus, an AWS Cloud Club QAU event focused on cloud technologies and AI. It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:2631895</id>
+    <title>A Quick Recovery Guide for AI-Dependent Coders</title>
+    <link rel="alternate" href="https://canro91.github.io/2025/06/28/AIRecovery/"/>
+    <updated>2026-02-23T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T05:00:00Z&lt;br/&gt;Tags: beginners, ai, coding, softwaredevelopment&lt;br/&gt;Description: Technology makes us lazy.  That&apos;s not an opinion but a fact. We can&apos;t do mental math, find addresses,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3259595</id>
     <title>Introducing Tailgrids 3.0: A React UI Component Library Built with Tailwind CSS</title>
     <link rel="alternate" href="https://dev.to/tailwindcss/tailgrids-react-ui-component-library-4k1c"/>
@@ -1020,13 +1027,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:2631895</id>
-    <title>A Quick Recovery Guide for AI-Dependent Coders</title>
-    <link rel="alternate" href="https://canro91.github.io/2025/06/28/AIRecovery/"/>
-    <updated>2026-02-23T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T05:00:00Z&lt;br/&gt;Tags: beginners, ai, coding, softwaredevelopment&lt;br/&gt;Description: Technology makes us lazy.  That&apos;s not an opinion but a fact. We can&apos;t do mental math, find addresses,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3198441</id>
