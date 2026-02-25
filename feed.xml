@@ -245,6 +245,13 @@
     <summary type="html">Reactions: public 111 / positive 111&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3283555</id>
+    <title>The $0 Developer Phase — And How Dev.to Pulled Me Out</title>
+    <link rel="alternate" href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g"/>
+    <updated>2026-02-25T07:35:18+00:00</updated>
+    <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3171515</id>
     <title>How to build a Frontend for LangChain Deep Agents with CopilotKit!</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit"/>
@@ -264,13 +271,6 @@
     <link rel="alternate" href="https://dev.to/the_nortern_dev/my-2026-tech-stack-is-boring-as-hell-and-that-is-the-point-20c1"/>
     <updated>2026-01-02T06:48:46+00:00</updated>
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-02T06:48:46Z&lt;br/&gt;Tags: career, architecture, discuss, webdev&lt;br/&gt;Description: I spent years chasing the shiny new thing. In 2026, I am betting on the most controversial...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3283555</id>
-    <title>The $0 Developer Phase — And How Dev.to Pulled Me Out</title>
-    <link rel="alternate" href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g"/>
-    <updated>2026-02-25T07:35:18+00:00</updated>
-    <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3270026</id>
@@ -494,7 +494,7 @@
     <title>I Let AI Rewrite 40% of My Codebase. Here’s What Actually Happened.</title>
     <link rel="alternate" href="https://dev.to/techstratos/i-let-ai-rewrite-40-of-my-codebase-heres-what-actually-happened-1jd6"/>
     <updated>2026-02-23T03:30:00+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T03:30:00Z&lt;br/&gt;Tags: ai, productivity, webdev, typescript&lt;br/&gt;Description: AI is no longer a novelty in development.  It’s not a toy. It’s not magic. It’s not replacing...</summary>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T03:30:00Z&lt;br/&gt;Tags: ai, productivity, webdev, typescript&lt;br/&gt;Description: AI is no longer a novelty in development.  It’s not a toy. It’s not magic. It’s not replacing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3233006</id>
@@ -805,6 +805,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:2631895</id>
+    <title>A Quick Recovery Guide for AI-Dependent Coders</title>
+    <link rel="alternate" href="https://canro91.github.io/2025/06/28/AIRecovery/"/>
+    <updated>2026-02-23T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T05:00:00Z&lt;br/&gt;Tags: beginners, ai, coding, softwaredevelopment&lt;br/&gt;Description: Technology makes us lazy.  That&apos;s not an opinion but a fact. We can&apos;t do mental math, find addresses,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205511</id>
     <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
@@ -817,13 +824,6 @@
     <link rel="alternate" href="https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7"/>
     <updated>2026-01-08T18:24:43+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T18:21:02Z&lt;br/&gt;Tags: ai, gemini, sideprojects, showdev&lt;br/&gt;Description: I’m in a different mindset these days.   For years, I—like many developers—fell into the trap of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:2631895</id>
-    <title>A Quick Recovery Guide for AI-Dependent Coders</title>
-    <link rel="alternate" href="https://canro91.github.io/2025/06/28/AIRecovery/"/>
-    <updated>2026-02-23T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T05:00:00Z&lt;br/&gt;Tags: beginners, ai, coding, softwaredevelopment&lt;br/&gt;Description: Technology makes us lazy.  That&apos;s not an opinion but a fact. We can&apos;t do mental math, find addresses,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3222100</id>
