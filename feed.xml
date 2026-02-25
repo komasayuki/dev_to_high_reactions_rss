@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-25T05:43:45+00:00</updated>
+  <updated>2026-02-25T07:35:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -644,6 +644,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3283555</id>
+    <title>The $0 Developer Phase — And How Dev.to Pulled Me Out</title>
+    <link rel="alternate" href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g"/>
+    <updated>2026-02-25T07:35:18+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3256169</id>
     <title>Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma</title>
     <link rel="alternate" href="https://dev.to/art_light/git-blamed-me-css-gaslit-me-node-ghosted-me-react-re-rendered-my-trauma-12k6"/>
@@ -1190,6 +1197,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:54:51Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3238949</id>
+    <title>🗓️ Monthly Dev Report: February 2026</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-february-2026-4i1p"/>
+    <updated>2026-02-24T00:35:03+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T00:35:03Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3265951</id>
     <title>DevOps From Scratch: Entry #04</title>
     <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-04-4f4k"/>
@@ -1295,13 +1309,6 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3238949</id>
-    <title>🗓️ Monthly Dev Report: February 2026</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-february-2026-4i1p"/>
-    <updated>2026-02-24T00:35:03+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T00:35:03Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3252447</id>
     <title>API vs Event Streaming: O Que Muda Para Quem Testa?</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
     <updated>2026-02-24T12:02:47+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3143541</id>
-    <title>If You Feel Stuck in Programming, Read This</title>
-    <link rel="alternate" href="https://dev.to/hadil/if-you-feel-stuck-in-programming-read-this-403j"/>
-    <updated>2026-01-16T05:27:31+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T05:27:31Z&lt;br/&gt;Tags: webdev, programming, productivity, python&lt;br/&gt;Description: If you’re feeling stuck in programming, let me say this first: You’re not broken, you’re not slow,...</summary>
   </entry>
 </feed>
