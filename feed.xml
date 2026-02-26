@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-25T18:24:28+00:00</updated>
+  <updated>2026-02-26T09:04:08+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -150,8 +150,8 @@
     <id>tag:dev.to,2026:3283555</id>
     <title>The $0 Developer Phase — And How Dev.to Pulled Me Out</title>
     <link rel="alternate" href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g"/>
-    <updated>2026-02-25T07:35:18+00:00</updated>
-    <summary type="html">Reactions: public 143 / positive 143&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
+    <updated>2026-02-26T09:04:08+00:00</updated>
+    <summary type="html">Reactions: public 144 / positive 144&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3263699</id>
@@ -728,6 +728,13 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3282482</id>
+    <title>16 Modern JavaScript Features That Might Blow Your Mind</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e"/>
+    <updated>2026-02-25T11:26:10+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3245136</id>
     <title>Leadership When the System Pauses</title>
     <link rel="alternate" href="https://www.linkedin.com/pulse/when-everything-stops-once-throughlinestory-qkuoc"/>
@@ -775,13 +782,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc"/>
     <updated>2026-02-10T17:03:23+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3282482</id>
-    <title>16 Modern JavaScript Features That Might Blow Your Mind</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e"/>
-    <updated>2026-02-25T11:26:10+00:00</updated>
-    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3227855</id>
@@ -931,6 +931,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3274227</id>
+    <title>I feel lost on AI</title>
+    <link rel="alternate" href="https://dev.to/therogvarok/i-feel-lost-on-ai-367c"/>
+    <updated>2026-02-22T01:56:58+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therogvarok&quot;&gt;Ed&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T01:56:58Z&lt;br/&gt;Tags: discuss, community, mentalhealth&lt;br/&gt;Description: I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3257320</id>
     <title>Setting Up AI Code Review in Bitbucket: A Practical Guide and Comparison⚖️</title>
     <link rel="alternate" href="https://dev.to/dev_kiran/setting-up-ai-code-review-in-bitbucket-a-practical-guide-and-comparison-19dp"/>
@@ -964,13 +971,6 @@
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3274227</id>
-    <title>I feel lost on AI</title>
-    <link rel="alternate" href="https://dev.to/therogvarok/i-feel-lost-on-ai-367c"/>
-    <updated>2026-02-22T01:56:58+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therogvarok&quot;&gt;Ed&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T01:56:58Z&lt;br/&gt;Tags: discuss, community, mentalhealth&lt;br/&gt;Description: I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3245158</id>
@@ -1078,6 +1078,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T02:35:00Z&lt;br/&gt;Tags: negotiation, leadership, business, sales&lt;br/&gt;Description: Most professionals think negotiation is about persuasion.  That assumption quietly destroys...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3238949</id>
+    <title>🗓️ Monthly Dev Report: February 2026</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-february-2026-4i1p"/>
+    <updated>2026-02-24T00:35:03+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T00:35:03Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3268368</id>
     <title>The future belongs to those who can refute AI, not just generate with AI</title>
     <link rel="alternate" href="https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0"/>
@@ -1118,13 +1125,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-8d7"/>
     <updated>2026-01-09T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3238949</id>
-    <title>🗓️ Monthly Dev Report: February 2026</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-february-2026-4i1p"/>
-    <updated>2026-02-24T00:35:03+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T00:35:03Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3208919</id>
