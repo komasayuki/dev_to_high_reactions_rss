@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-26T09:04:08+00:00</updated>
+  <updated>2026-02-26T16:06:08+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -105,18 +105,18 @@
     <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T11:42:28Z&lt;br/&gt;Tags: github, discuss, programming&lt;br/&gt;Description: If your GitHub contribution graph disappeared tomorrow, would that make you a worse developer?  For...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3283555</id>
+    <title>The $0 Developer Phase — And How Dev.to Pulled Me Out</title>
+    <link rel="alternate" href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g"/>
+    <updated>2026-02-26T09:04:08+00:00</updated>
+    <summary type="html">Reactions: public 157 / positive 157&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205431</id>
     <title>Is Learning CSS a Waste of Time in 2026?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3"/>
     <updated>2026-01-29T11:07:18+00:00</updated>
     <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T11:07:18Z&lt;br/&gt;Tags: css, webdev, frontend, a11y&lt;br/&gt;Description: With modern frameworks, component libraries, and utility-first CSS, it’s a fair question.  Most...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3283555</id>
-    <title>The $0 Developer Phase — And How Dev.to Pulled Me Out</title>
-    <link rel="alternate" href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g"/>
-    <updated>2026-02-26T09:04:08+00:00</updated>
-    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3180295</id>
@@ -539,6 +539,13 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3285292</id>
+    <title>Join the &quot;Built with Google Gemini: Writing Challenge&quot; Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk"/>
+    <updated>2026-02-25T18:24:28+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:41:43Z&lt;br/&gt;Tags: devchallenge, geminireflections, gemini, ai&lt;br/&gt;Description: Last week, we announced that DEV has joined Major League Hacking. To kick things off, we&apos;re launching...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3241863</id>
     <title>ASCII Whisper: Local P2P Chat with Sound FX and Battleship</title>
     <link rel="alternate" href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7"/>
@@ -551,13 +558,6 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8"/>
     <updated>2026-01-03T21:23:08+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-03T21:23:08Z&lt;br/&gt;Tags: python, ai, api, testing&lt;br/&gt;Description: Working as a QA with APIs can be… well, kind of a nightmare sometimes. APIs are always changing,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3285292</id>
-    <title>Join the &quot;Built with Google Gemini: Writing Challenge&quot; Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk"/>
-    <updated>2026-02-25T18:24:28+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:41:43Z&lt;br/&gt;Tags: devchallenge, geminireflections, gemini, ai&lt;br/&gt;Description: Last week, we announced that DEV has joined Major League Hacking. To kick things off, we&apos;re launching...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3239617</id>
@@ -574,6 +574,13 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T13:30:45Z&lt;br/&gt;Tags: programming, backend, developer, discuss&lt;br/&gt;Description: Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3282482</id>
+    <title>16 Modern JavaScript Features That Might Blow Your Mind</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e"/>
+    <updated>2026-02-25T11:26:10+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3258078</id>
     <title>Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.</title>
     <link rel="alternate" href="https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705"/>
@@ -586,13 +593,6 @@
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
     <updated>2026-01-30T07:09:05+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3282482</id>
-    <title>16 Modern JavaScript Features That Might Blow Your Mind</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e"/>
-    <updated>2026-02-25T11:26:10+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3262968</id>
@@ -693,6 +693,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3282235</id>
+    <title>Once Upon a Time, Writing Code Was Fun</title>
+    <link rel="alternate" href="https://ismail9k.com/blog/once-upon-a-time-writing-code-was-fun"/>
+    <updated>2026-02-24T20:12:59+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ismail9k&quot;&gt;Abdelrahman Ismail&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T20:11:41Z&lt;br/&gt;Tags: ai, programming, development&lt;br/&gt;Description: I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3281899</id>
     <title>How AI is Reducing Clinician Burnout in Modern Clinics</title>
     <link rel="alternate" href="https://dev.to/vaiu-ai/how-ai-is-reducing-clinician-burnout-in-modern-clinics-44hb"/>
@@ -742,11 +749,11 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3282235</id>
-    <title>Once Upon a Time, Writing Code Was Fun</title>
-    <link rel="alternate" href="https://ismail9k.com/blog/once-upon-a-time-writing-code-was-fun"/>
-    <updated>2026-02-24T20:12:59+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ismail9k&quot;&gt;Abdelrahman Ismail&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T20:11:41Z&lt;br/&gt;Tags: ai, programming, development&lt;br/&gt;Description: I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...</summary>
+    <id>tag:dev.to,2026:3288586</id>
+    <title>Enterprise AI Code Review in Real World Teams</title>
+    <link rel="alternate" href="https://dev.to/dev_kiran/enterprise-ai-code-review-in-real-world-teams-4m5l"/>
+    <updated>2026-02-26T16:06:08+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T16:06:08Z&lt;br/&gt;Tags: ai, softwareengineering, coding&lt;br/&gt;Description: Hello Devs 👋  If you’ve only worked in small teams, adding AI code review feels almost...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:2631895</id>
@@ -791,6 +798,13 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3274227</id>
+    <title>I feel lost on AI</title>
+    <link rel="alternate" href="https://dev.to/therogvarok/i-feel-lost-on-ai-367c"/>
+    <updated>2026-02-22T01:56:58+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therogvarok&quot;&gt;Ed&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T01:56:58Z&lt;br/&gt;Tags: discuss, community, mentalhealth&lt;br/&gt;Description: I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3227855</id>
     <title>Why do you write?</title>
     <link rel="alternate" href="https://dev.to/itsugo/why-do-you-write-5bkf"/>
@@ -803,13 +817,6 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"/>
     <updated>2025-12-23T23:36:41+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T23:35:23Z&lt;br/&gt;Tags: testing, beginners, basic, automation&lt;br/&gt;Description: It has been a long time since I last wrote an article, and in order to break this hiatus, I decided...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3274227</id>
-    <title>I feel lost on AI</title>
-    <link rel="alternate" href="https://dev.to/therogvarok/i-feel-lost-on-ai-367c"/>
-    <updated>2026-02-22T01:56:58+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therogvarok&quot;&gt;Ed&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T01:56:58Z&lt;br/&gt;Tags: discuss, community, mentalhealth&lt;br/&gt;Description: I’m a 46-year-old programmer from Mexico. I’ve been doing this work for a little more than twenty-six...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3222135</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/richardpascoe/why-im-stepping-away-from-dev-for-now-1g52"/>
     <updated>2026-02-18T08:00:07+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T08:00:07Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: This is one of those posts that feels strange to write, mostly because DEV has been such a positive...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3236644</id>
-    <title>Why Remote Teams Struggle With Work That Looks Simple</title>
-    <link rel="alternate" href="https://medium.com/@techstratos/why-remote-teams-struggle-with-work-that-looks-simple-e1b476063e8f"/>
-    <updated>2026-02-06T02:35:41+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/atciarrazsa&quot;&gt;Zsa&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T02:35:41Z&lt;br/&gt;Tags: remotework, leadership, management, productivity&lt;br/&gt;Description: Remote teams rarely fail in dramatic or obvious ways. Most breakdowns happen quietly, through small...</summary>
   </entry>
 </feed>
