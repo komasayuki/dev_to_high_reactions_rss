@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-26T16:06:08+00:00</updated>
+  <updated>2026-02-27T03:22:09+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -231,6 +231,13 @@
     <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T14:22:05Z&lt;br/&gt;Tags: react, programming, javascript, tutorial&lt;br/&gt;Description: LangChain&apos;s Deep Agents provide a new way to build structured, multi-agent systems that can plan,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3282482</id>
+    <title>16 Modern JavaScript Features That Might Blow Your Mind</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e"/>
+    <updated>2026-02-25T11:26:10+00:00</updated>
+    <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3241767</id>
     <title>QuizMaster – Learn, Create, and Play</title>
     <link rel="alternate" href="https://dev.to/sagar_saini/quizmaster-learn-create-and-play-41jg"/>
@@ -264,13 +271,6 @@
     <link rel="alternate" href="https://www.copilotkit.ai/blog/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit"/>
     <updated>2026-01-20T21:44:56+00:00</updated>
     <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:22:27Z&lt;br/&gt;Tags: react, programming, python, tutorial&lt;br/&gt;Description: LangChain recently introduced Deep Agents: a new way to build structured, multi-agent systems that...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3282482</id>
-    <title>16 Modern JavaScript Features That Might Blow Your Mind</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e"/>
-    <updated>2026-02-25T11:26:10+00:00</updated>
-    <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3254117</id>
@@ -518,6 +518,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3282235</id>
+    <title>Once Upon a Time, Writing Code Was Fun</title>
+    <link rel="alternate" href="https://ismail9k.com/blog/once-upon-a-time-writing-code-was-fun"/>
+    <updated>2026-02-24T20:12:59+00:00</updated>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ismail9k&quot;&gt;Abdelrahman Ismail&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T20:11:41Z&lt;br/&gt;Tags: ai, programming, development&lt;br/&gt;Description: I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3249091</id>
     <title>Your &quot;Read Later&quot; list is a graveyard. It is time to stop hoarding.</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
@@ -537,13 +544,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f"/>
     <updated>2026-01-21T01:09:15+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3282235</id>
-    <title>Once Upon a Time, Writing Code Was Fun</title>
-    <link rel="alternate" href="https://ismail9k.com/blog/once-upon-a-time-writing-code-was-fun"/>
-    <updated>2026-02-24T20:12:59+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ismail9k&quot;&gt;Abdelrahman Ismail&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T20:11:41Z&lt;br/&gt;Tags: ai, programming, development&lt;br/&gt;Description: I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3235433</id>
@@ -607,6 +607,13 @@
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
     <updated>2026-01-30T07:09:05+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:2631895</id>
+    <title>A Quick Recovery Guide for AI-Dependent Coders</title>
+    <link rel="alternate" href="https://canro91.github.io/2025/06/28/AIRecovery/"/>
+    <updated>2026-02-23T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T05:00:00Z&lt;br/&gt;Tags: beginners, ai, coding, softwaredevelopment&lt;br/&gt;Description: Technology makes us lazy.  That&apos;s not an opinion but a fact. We can&apos;t do mental math, find addresses,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3262968</id>
@@ -677,13 +684,6 @@
     <link rel="alternate" href="https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k"/>
     <updated>2025-12-23T03:05:47+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2025-12-23T03:05:47Z&lt;br/&gt;Tags: productivity, management, webdev, software&lt;br/&gt;Description: Hot take incoming. Buckle up.     I&apos;ve spent quite some time writing about technical debt, preaching...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:2631895</id>
-    <title>A Quick Recovery Guide for AI-Dependent Coders</title>
-    <link rel="alternate" href="https://canro91.github.io/2025/06/28/AIRecovery/"/>
-    <updated>2026-02-23T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T05:00:00Z&lt;br/&gt;Tags: beginners, ai, coding, softwaredevelopment&lt;br/&gt;Description: Technology makes us lazy.  That&apos;s not an opinion but a fact. We can&apos;t do mental math, find addresses,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3256169</id>
@@ -1085,6 +1085,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3289621</id>
+    <title>Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.</title>
+    <link rel="alternate" href="https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8"/>
+    <updated>2026-02-27T03:22:09+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T03:00:00Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, webdev, ai&lt;br/&gt;Description: Good morning! Good afternoon! Good Evening!   Welcome to our first DEV Weekend Challenge, a short...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3276698</id>
     <title>Ashkan Rajaee on Negotiating with Decision Makers, Influencers, and Signatories</title>
     <link rel="alternate" href="https://techstratos3.wordpress.com/2026/02/22/negotiating-with-decision-makers-influencers-and-signatories/"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/itsugo/why-i-sometimes-leave-tech-events-feeling-smaller-3p55"/>
     <updated>2026-01-29T17:40:01+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T17:40:01Z&lt;br/&gt;Tags: career, learning, community, developers&lt;br/&gt;Description: I haven’t attended many developer events. The few I have attended left me with a strange aftertaste....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3154810</id>
-    <title>I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)</title>
-    <link rel="alternate" href="https://montmont20z.hashnode.dev/i-built-a-game-engine-from-scratch-in-c-heres-what-i-learned"/>
-    <updated>2026-01-10T14:31:48+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/montmont20z&quot;&gt;Melvin Cheah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-07T10:49:57Z&lt;br/&gt;Tags: programming, gamedev, learning, cpp&lt;br/&gt;Description: I Built a Game Engine from Scratch in C++ (Here&apos;s What I Learned)   I crashed my GPU 47...</summary>
   </entry>
 </feed>
