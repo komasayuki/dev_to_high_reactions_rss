@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-02-27T16:38:13+00:00</updated>
+  <updated>2026-02-28T02:30:21+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -88,7 +88,7 @@
     <title>16 Modern JavaScript Features That Might Blow Your Mind</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e"/>
     <updated>2026-02-25T11:26:10+00:00</updated>
-    <summary type="html">Reactions: public 175 / positive 175&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
+    <summary type="html">Reactions: public 176 / positive 176&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T11:26:10Z&lt;br/&gt;Tags: javascript, frontend, node&lt;br/&gt;Description: Ah, what a time to be alive! As usual, I’ve taken way too much on my plate — there were just too many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3234399</id>
@@ -1393,17 +1393,17 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3293489</id>
+    <title>An App where you can Train your Own Hand Pose Model for your Project! 🤌</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib"/>
+    <updated>2026-02-28T02:30:21+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T02:30:21Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev, javascript&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community   This targets...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3252447</id>
     <title>API vs Event Streaming: O Que Muda Para Quem Testa?</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h"/>
     <updated>2026-02-12T20:50:04+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T20:50:04Z&lt;br/&gt;Tags: testing, braziliandevs, beginners, eventdriven&lt;br/&gt;Description: ✨ Oi, gente!  Recentemente, tenho pensado bastante em como contribuir para a comunidade de QA e...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3249896</id>
-    <title>Your IDE is an Attack Vector</title>
-    <link rel="alternate" href="https://dev.to/aezur/your-ide-is-an-attack-vector-2i0b"/>
-    <updated>2026-02-12T11:12:25+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aezur&quot;&gt;Peter Mulligan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T00:36:03Z&lt;br/&gt;Tags: vscode, security, phishing, tooling&lt;br/&gt;Description: A new type of VSCode phishing attack is targeting freelancers via Upwork. Here’s how it works and how...</summary>
   </entry>
 </feed>
