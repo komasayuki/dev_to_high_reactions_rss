@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-01T23:23:15+00:00</updated>
+  <updated>2026-03-02T14:17:15+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1218,6 +1218,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3301870</id>
+    <title>Missing My Coworker Jason Today</title>
+    <link rel="alternate" href="https://dev.to/art_light/missing-my-coworker-jason-today-23h3"/>
+    <updated>2026-03-02T14:17:15+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3278678</id>
     <title>I Clicked ‘Azure Portal’ and Realized How Small My World Was</title>
     <link rel="alternate" href="https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78"/>
@@ -1295,6 +1302,20 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:54:51Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3293242</id>
+    <title>AI Ate the Homework: What Communities Are Actually For Now</title>
+    <link rel="alternate" href="https://bekahhw.com/ai-impact-on-community"/>
+    <updated>2026-03-01T23:23:15+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bekahhw&quot;&gt;BekahHW&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T22:05:16Z&lt;br/&gt;Tags: ai, community&lt;br/&gt;Description: Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here&apos;s what the shift means for community builders and members.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3292331</id>
+    <title>I vibe-coded an internal tool that slashed my content workflow by 4 hours</title>
+    <link rel="alternate" href="https://dev.to/dumebii/i-vibe-coded-an-internal-tool-that-slashed-my-content-workflow-by-4-hours-310f"/>
+    <updated>2026-03-02T11:04:52+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T14:52:17Z&lt;br/&gt;Tags: webdev, ai, nextjs, tooling&lt;br/&gt;Description: One of the biggest challenges I face as a content expert is repurposing my written blogs for social...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3265951</id>
     <title>DevOps From Scratch: Entry #04</title>
     <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-04-4f4k"/>
@@ -1330,11 +1351,18 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2025-12-26T03:02:42Z&lt;br/&gt;Tags: devops, linux, learning&lt;br/&gt;Description: Linux Foundation: The &quot;Cockpit&quot; of the Cloud   I have used windows all my life, my very...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3293242</id>
-    <title>AI Ate the Homework: What Communities Are Actually For Now</title>
-    <link rel="alternate" href="https://bekahhw.com/ai-impact-on-community"/>
-    <updated>2026-03-01T23:23:15+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bekahhw&quot;&gt;BekahHW&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T22:05:16Z&lt;br/&gt;Tags: ai, community&lt;br/&gt;Description: Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here&apos;s what the shift means for community builders and members.</summary>
+    <id>tag:dev.to,2026:3298739</id>
+    <title>DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies</title>
+    <link rel="alternate" href="https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am"/>
+    <updated>2026-03-01T21:52:18+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/highflyer910&quot;&gt;Thea&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T21:03:41Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev, pwa&lt;br/&gt;Description: The Community   Let’s be honest: most of us treat our physical bodies like a deprecated...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3299096</id>
+    <title>Sunday DEV Drive: A Synthwave Driving Experience Through Your DEV Community Articles</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/sunday-dev-drive-a-synthwave-driving-experience-through-your-dev-community-articles-5032"/>
+    <updated>2026-03-01T20:32:00+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T20:32:00Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community           ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3256805</id>
@@ -1377,33 +1405,5 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa"/>
     <updated>2026-01-26T20:08:21+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T20:08:21Z&lt;br/&gt;Tags: api, csharp, automation, testing&lt;br/&gt;Description: Have you ever caught yourself thinking: “What am I even doing?” Well, that’s exactly how I feel right...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3185522</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jd"/>
-    <updated>2026-01-20T15:33:29+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T15:33:29Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3183805</id>
-    <title>It Is 2026. Some Tech Jobs Quietly Disappeared.</title>
-    <link rel="alternate" href="https://dev.to/techstratos/it-is-2026-some-tech-jobs-quietly-disappeared-5607"/>
-    <updated>2026-01-20T04:01:00+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T04:01:00Z&lt;br/&gt;Tags: tech, career, ai, work&lt;br/&gt;Description: What vanished from tech by 2026 and what companies still cannot operate without.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3180700</id>
-    <title>Why Most Developer Startups Fail Before Launch: The Brutal Truths Nobody Tells You</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/why-most-developer-startups-fail-before-launch-the-brutal-truths-nobody-tells-you-1848"/>
-    <updated>2026-01-19T04:22:07+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T17:12:02Z&lt;br/&gt;Tags: react, programming, node, webdev&lt;br/&gt;Description: 🌐 Follow Us &amp;amp; Stay in the Loop      Platform Handle / Profile Link     📸...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3153364</id>
-    <title>🎀 The 80/20 Rule of Learning Programming</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/the-8020-rule-of-learning-programming-o6g"/>
-    <updated>2026-01-06T15:44:45+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T15:43:37Z&lt;br/&gt;Tags: webdev, programming, javascript, react&lt;br/&gt;Description: ...</summary>
   </entry>
 </feed>
