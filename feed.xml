@@ -448,6 +448,13 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3301870</id>
+    <title>Missing My Coworker Jason Today</title>
+    <link rel="alternate" href="https://dev.to/art_light/missing-my-coworker-jason-today-23h3"/>
+    <updated>2026-03-02T14:17:15+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3270270</id>
     <title>I Let AI Rewrite 40% of My Codebase. Here’s What Actually Happened.</title>
     <link rel="alternate" href="https://dev.to/techstratos/i-let-ai-rewrite-40-of-my-codebase-heres-what-actually-happened-1jd6"/>
@@ -530,13 +537,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
     <updated>2026-01-21T12:54:52+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3301870</id>
-    <title>Missing My Coworker Jason Today</title>
-    <link rel="alternate" href="https://dev.to/art_light/missing-my-coworker-jason-today-23h3"/>
-    <updated>2026-03-02T14:17:15+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3274227</id>
@@ -882,6 +882,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3303615</id>
+    <title>I Deleted Half My Codebase and Nobody Noticed</title>
+    <link rel="alternate" href="https://dev.to/thegiansorianodev/i-deleted-half-my-codebase-and-nobody-noticed-549"/>
+    <updated>2026-03-03T01:31:21+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T01:31:21Z&lt;br/&gt;Tags: programming, softwareengineering, productivity, career&lt;br/&gt;Description: Last quarter, I deleted 48% of our backend code.  No new bugs. No outages. No customer...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205511</id>
     <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
@@ -1027,13 +1034,6 @@
     <link rel="alternate" href="https://dev.to/anthonymax/were-launching-on-producthunt-you-can-help-us-4j56"/>
     <updated>2025-12-28T13:01:19+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2025-12-28T13:01:19Z&lt;br/&gt;Tags: webdev, javascript, programming, opensource&lt;br/&gt;Description: Hello everyone!  Today, most websites use frameworks like Next.js, Nuxt, and others to build...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3303615</id>
-    <title>I Deleted Half My Codebase and Nobody Noticed</title>
-    <link rel="alternate" href="https://dev.to/thegiansorianodev/i-deleted-half-my-codebase-and-nobody-noticed-549"/>
-    <updated>2026-03-03T01:31:21+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T01:31:21Z&lt;br/&gt;Tags: programming, softwareengineering, productivity, career&lt;br/&gt;Description: Last quarter, I deleted 48% of our backend code.  No new bugs. No outages. No customer...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3238949</id>
