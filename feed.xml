@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-03T16:04:16+00:00</updated>
+  <updated>2026-03-03T21:54:27+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -133,6 +133,13 @@
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3285292</id>
+    <title>Join the &quot;Built with Google Gemini: Writing Challenge&quot; Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk"/>
+    <updated>2026-02-25T18:24:28+00:00</updated>
+    <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:41:43Z&lt;br/&gt;Tags: devchallenge, geminireflections, gemini, ai&lt;br/&gt;Description: Last week, we announced that DEV has joined Major League Hacking. To kick things off, we&apos;re launching...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3159341</id>
     <title>Prompt Engineering Won’t Fix Your Architecture</title>
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
@@ -145,13 +152,6 @@
     <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
     <updated>2026-01-20T06:06:19+00:00</updated>
     <summary type="html">Reactions: public 147 / positive 147&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T06:06:19Z&lt;br/&gt;Tags: programming, git, productivity, codenewbie&lt;br/&gt;Description: For a long time, I thought Git was just something I had to survive.  Type a command. Hope nothing...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3285292</id>
-    <title>Join the &quot;Built with Google Gemini: Writing Challenge&quot; Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk"/>
-    <updated>2026-02-25T18:24:28+00:00</updated>
-    <summary type="html">Reactions: public 146 / positive 146&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:41:43Z&lt;br/&gt;Tags: devchallenge, geminireflections, gemini, ai&lt;br/&gt;Description: Last week, we announced that DEV has joined Major League Hacking. To kick things off, we&apos;re launching...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3256769</id>
@@ -536,7 +536,7 @@
     <title>Missing My Coworker Jason Today</title>
     <link rel="alternate" href="https://dev.to/art_light/missing-my-coworker-jason-today-23h3"/>
     <updated>2026-03-02T14:17:15+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3274227</id>
@@ -1295,6 +1295,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-04T17:08:25Z&lt;br/&gt;Tags: programming, devops, discuss, career&lt;br/&gt;Description: A new year has arrived. The roadmap looks reasonable. The estimates are confident. Nothing has gone...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3306770</id>
+    <title>I Created An Enterprise MCP Gateway</title>
+    <link rel="alternate" href="https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg"/>
+    <updated>2026-03-03T21:54:27+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T21:52:23Z&lt;br/&gt;Tags: opensource, ai, mcp, webdev&lt;br/&gt;Description: When you start building AI applications beyond simple experiments, everything changes. Models need...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3278678</id>
     <title>I Clicked ‘Azure Portal’ and Realized How Small My World Was</title>
     <link rel="alternate" href="https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/ben/meme-monday-42aj"/>
     <updated>2026-02-02T13:20:52+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T13:20:52Z&lt;br/&gt;Tags: discuss, jokes, watercooler&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3256805</id>
-    <title>My Docs Are Safer Than My Search History 😎</title>
-    <link rel="alternate" href="https://dev.to/rohan_sharma/my-docs-are-safer-than-my-search-history-5e4f"/>
-    <updated>2026-02-15T20:04:29+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohan_sharma&quot;&gt;Rohan Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T10:20:01Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge: Build with AI     Hey there! Welcome back....</summary>
   </entry>
 </feed>
