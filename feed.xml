@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-04T20:03:45+00:00</updated>
+  <updated>2026-03-05T13:12:02+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -777,6 +777,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vatsalacharya&quot;&gt;Vatsal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T10:04:43Z&lt;br/&gt;Tags: laravel, laravelprompts, php, cli&lt;br/&gt;Description: &quot;Laravel Prompts transforms CLI applications from intimidating black boxes into guided,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3304003</id>
+    <title>i built a social platform where everything vanishes after 24 hours</title>
+    <link rel="alternate" href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk"/>
+    <updated>2026-03-03T04:58:46+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iamovi&quot;&gt;Ovi ren&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T04:44:50Z&lt;br/&gt;Tags: socialmedia, showdev, webdev, typescript&lt;br/&gt;Description: genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3298739</id>
     <title>DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies</title>
     <link rel="alternate" href="https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am"/>
@@ -796,13 +803,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp"/>
     <updated>2026-01-26T19:07:28+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3304003</id>
-    <title>i built a social platform where everything vanishes after 24 hours</title>
-    <link rel="alternate" href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk"/>
-    <updated>2026-03-03T04:58:46+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iamovi&quot;&gt;Ovi ren&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T04:44:50Z&lt;br/&gt;Tags: socialmedia, showdev, webdev, typescript&lt;br/&gt;Description: genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3288586</id>
@@ -1127,6 +1127,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pat_loeber&quot;&gt;Patrick Loeber&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T16:04:16Z&lt;br/&gt;Tags: gemini, ai, coding&lt;br/&gt;Description: Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3282274</id>
+    <title>What should I do and learn in 2026?</title>
+    <link rel="alternate" href="https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc"/>
+    <updated>2026-03-02T19:31:11+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/missamarakay&quot;&gt;Amara Graham&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T19:31:11Z&lt;br/&gt;Tags: career, learning, motivation, productivity&lt;br/&gt;Description: Maybe it&apos;s not about skills, but tactics.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3222153</id>
     <title>Welcome Thread - v366</title>
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v366-3khj"/>
@@ -1188,13 +1195,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3282274</id>
-    <title>What should I do and learn in 2026?</title>
-    <link rel="alternate" href="https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc"/>
-    <updated>2026-03-02T19:31:11+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/missamarakay&quot;&gt;Amara Graham&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T19:31:11Z&lt;br/&gt;Tags: career, learning, motivation, productivity&lt;br/&gt;Description: Maybe it&apos;s not about skills, but tactics.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3198441</id>
@@ -1379,6 +1379,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:54:51Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3308729</id>
+    <title>Share, Embed, and Curate Agent Sessions on DEV [Beta]</title>
+    <link rel="alternate" href="https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6"/>
+    <updated>2026-03-05T13:12:02+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonmarkgo&quot;&gt;Jon Gottfried&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:19:27Z&lt;br/&gt;Tags: ai, forem, devto, gemini&lt;br/&gt;Description: Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3306152</id>
     <title>Is Software Engineering Cooked? Not Yet. But Maybe.</title>
     <link rel="alternate" href="https://dev.to/aws/is-software-engineering-cooked-not-yet-but-maybe-5e0j"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/safvantsy/what-if-your-a11y-linter-could-actually-fix-the-bugs-it-found-4coe"/>
     <updated>2026-02-16T03:24:54+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/safvantsy&quot;&gt;Muhammed Safvan&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T15:54:08Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   What if your...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3252161</id>
-    <title>Built a Vibe Coded App where you can Style any Image you like! :D</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p"/>
-    <updated>2026-02-12T22:35:20+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T21:58:03Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge              What I Built   This is my...</summary>
   </entry>
 </feed>
