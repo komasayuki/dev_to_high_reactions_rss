@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-05T15:57:33+00:00</updated>
+  <updated>2026-03-06T17:38:11+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -420,18 +420,18 @@
     <summary type="html">Reactions: public 96 / positive 96&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3309631</id>
+    <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
+    <updated>2026-03-05T08:17:23+00:00</updated>
+    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3252512</id>
     <title>Introducing Our Next DEV Education Track: &quot;Build Multi-Agent Systems with ADK&quot;</title>
     <link rel="alternate" href="https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8"/>
     <updated>2026-02-17T18:39:29+00:00</updated>
     <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T18:27:56Z&lt;br/&gt;Tags: agents, gemini, ai, buildmultiagents&lt;br/&gt;Description: Hundreds of developers have already completed our first DEV Education Track, and today we&apos;re excited...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3309631</id>
-    <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
-    <updated>2026-03-05T08:17:23+00:00</updated>
-    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3208863</id>
@@ -532,6 +532,13 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-10T10:48:43Z&lt;br/&gt;Tags: discuss, javascript, programming, webdev&lt;br/&gt;Description: I&apos;ve spent the better part of a decade writing code that I thought was brilliant, only to realize...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3304003</id>
+    <title>i built a social platform where everything vanishes after 24 hours</title>
+    <link rel="alternate" href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk"/>
+    <updated>2026-03-03T04:58:46+00:00</updated>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iamovi&quot;&gt;Ovi ren&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T04:44:50Z&lt;br/&gt;Tags: socialmedia, showdev, webdev, typescript&lt;br/&gt;Description: genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3256702</id>
     <title>How a DEV Friend and I Brought Two Avatars to Life</title>
     <link rel="alternate" href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp"/>
@@ -551,13 +558,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh"/>
     <updated>2026-01-21T12:54:52+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3304003</id>
-    <title>i built a social platform where everything vanishes after 24 hours</title>
-    <link rel="alternate" href="https://dev.to/iamovi/i-built-a-social-platform-where-everything-vanishes-after-24-hours-3imk"/>
-    <updated>2026-03-03T04:58:46+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iamovi&quot;&gt;Ovi ren&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T04:44:50Z&lt;br/&gt;Tags: socialmedia, showdev, webdev, typescript&lt;br/&gt;Description: genjutsu is a fast-paced, developer-focused social network where everything vanishes every 24 hours....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3274227</id>
@@ -948,7 +948,7 @@
     <id>tag:dev.to,2026:3308729</id>
     <title>Share, Embed, and Curate Agent Sessions on DEV [Beta]</title>
     <link rel="alternate" href="https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6"/>
-    <updated>2026-03-05T13:12:02+00:00</updated>
+    <updated>2026-03-06T17:38:11+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonmarkgo&quot;&gt;Jon Gottfried&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T20:19:27Z&lt;br/&gt;Tags: ai, forem, devto, gemini&lt;br/&gt;Description: Authors can now upload Agent Session transcripts to their DEV account. Those transcripts can be...</summary>
   </entry>
   <entry>
@@ -1050,6 +1050,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3309203</id>
+    <title>Congrats to the Algolia Agent Studio Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn"/>
+    <updated>2026-03-04T18:25:32+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T18:25:32Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents&lt;br/&gt;Description: The results are in! Thank you all for your patience.  We saw a wide range of submissions and are...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3293489</id>
     <title>An App where you can Train your Own Hand Pose Model for your Project! 🤌</title>
     <link rel="alternate" href="https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib"/>
@@ -1134,6 +1141,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T08:29:58Z&lt;br/&gt;Tags: startup, beginners, career, learning&lt;br/&gt;Description: Since many of you seemed interested in reading more about this, here’s my first-week reflection.  My...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3313354</id>
+    <title>Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828"/>
+    <updated>2026-03-06T16:10:33+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T16:10:33Z&lt;br/&gt;Tags: devchallenge, wecoded, frontend, career&lt;br/&gt;Description: We’re excited to announce the launch of the 2026 WeCoded Challenge!  This year marks our ninth year...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1216,13 +1230,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o"/>
     <updated>2026-03-05T15:57:33+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T01:04:10Z&lt;br/&gt;Tags: devops, networking, cloudcomputing, career&lt;br/&gt;Description: I officially became a &quot;Tech Outlaw&quot; today. 😂  Don&apos;t worry I didn&apos;t do anything malicious. I just...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3309203</id>
-    <title>Congrats to the Algolia Agent Studio Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn"/>
-    <updated>2026-03-04T18:25:32+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T18:25:32Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents&lt;br/&gt;Description: The results are in! Thank you all for your patience.  We saw a wide range of submissions and are...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3306152</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/thebitforge/css-grid-flexbox-mastery-build-responsive-uis-faster-27kn"/>
     <updated>2026-01-08T15:22:19+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T15:22:19Z&lt;br/&gt;Tags: css, html, programming, javascript&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3146460</id>
-    <title>An Instagram Automation Tool That Turns Engagement into Sales</title>
-    <link rel="alternate" href="https://dev.to/arjuncodess/an-instagram-automation-tool-that-turns-engagement-into-sales-23h7"/>
-    <updated>2026-01-05T17:25:16+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:54:51Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
   </entry>
 </feed>
