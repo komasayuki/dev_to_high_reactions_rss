@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-06T17:38:11+00:00</updated>
+  <updated>2026-03-07T11:07:16+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -109,7 +109,7 @@
     <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
     <updated>2026-03-05T08:17:23+00:00</updated>
-    <summary type="html">Reactions: public 164 / positive 164&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
+    <summary type="html">Reactions: public 167 / positive 167&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3260191</id>
@@ -791,13 +791,6 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/agastya_khati_f72c89077c8&quot;&gt;Agastya Khati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:50:57Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3138862</id>
-    <title>Happy New Year! 🎉 | Your Code from Last Year Still Doesn&apos;t Work 😂</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8"/>
-    <updated>2026-01-04T11:28:59+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2025-12-31T19:16:45Z&lt;br/&gt;Tags: programming, newyearchallenge, productivity, jokes&lt;br/&gt;Description: Visit My portfolio,Read Blogs, Subscribe Newsletter &amp;amp; Get Books For Free                         ...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3250014</id>
     <title>I Built a SaaS in 30 Days. Here’s Exactly What Happened.</title>
     <link rel="alternate" href="https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/arjuncodess/an-instagram-automation-tool-that-turns-engagement-into-sales-23h7"/>
     <updated>2026-01-05T17:25:16+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arjuncodess&quot;&gt;Arjun Vijay Prakash&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T07:54:51Z&lt;br/&gt;Tags: devchallenge, muxchallenge, showandtell, video&lt;br/&gt;Description: This is a submission for the DEV&apos;s Worldwide Show and Tell Challenge Presented by Mux           What...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3322125</id>
+    <title>3 words worth a billion dollars: Drift to Determinism (DriDe)</title>
+    <link rel="alternate" href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej"/>
+    <updated>2026-03-07T11:07:16+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T10:44:43Z&lt;br/&gt;Tags: webdev, ai, automation, architecture&lt;br/&gt;Description: I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...</summary>
   </entry>
 </feed>
