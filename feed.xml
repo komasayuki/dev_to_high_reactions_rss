@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-07T11:07:16+00:00</updated>
+  <updated>2026-03-09T02:06:28+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -49,18 +49,18 @@
     <summary type="html">Reactions: public 209 / positive 209&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T01:59:58Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: &quot;Hostile experts created the dataset for patient machines.&quot;  That line, from a comment by Vinicius...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3309631</id>
+    <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
+    <updated>2026-03-05T08:17:23+00:00</updated>
+    <summary type="html">Reactions: public 183 / positive 183&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3234944</id>
     <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
     <updated>2026-02-05T13:05:27+00:00</updated>
     <summary type="html">Reactions: public 182 / positive 182&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3309631</id>
-    <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
-    <updated>2026-03-05T08:17:23+00:00</updated>
-    <summary type="html">Reactions: public 181 / positive 181&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3189132</id>
@@ -973,6 +973,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3308995</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1m96"/>
+    <updated>2026-03-06T05:00:00+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3289627</id>
     <title>Upgraded embed experience and new embed types in DEV posts</title>
     <link rel="alternate" href="https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho"/>
@@ -1034,13 +1041,6 @@
     <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
     <updated>2026-01-11T21:50:53+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3308995</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1m96"/>
-    <updated>2026-03-06T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3309203</id>
@@ -1176,6 +1176,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kawano_aiyuki&quot;&gt;Alyssa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T05:00:28Z&lt;br/&gt;Tags: discuss, career, programming, beginners&lt;br/&gt;Description: Being a software developer is a lot like being human. Being a woman software developer is like being...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3328537</id>
+    <title>How AI Companions Are Changing Human Connection</title>
+    <link rel="alternate" href="https://dev.to/thegiansorianodev/how-ai-companions-are-changing-human-connection-1a3p"/>
+    <updated>2026-03-09T02:06:28+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T02:06:28Z&lt;br/&gt;Tags: ai, technology, future, society&lt;br/&gt;Description: A deep look at how artificial intelligence may reshape emotional connection and human relationships.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3288197</id>
     <title>Vibe Coding Reality Check</title>
     <link rel="alternate" href="https://dev.to/konark_13/vibe-coding-reality-check-440a"/>
@@ -1204,6 +1211,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3310367</id>
+    <title>The Secret Life of Claude Code: Skill Is Not What You Think It Is</title>
+    <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-skill-is-not-what-you-think-it-is-5045"/>
+    <updated>2026-03-05T02:47:24+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T02:47:24Z&lt;br/&gt;Tags: claudecode, softwaredevelopment, coding, programming&lt;br/&gt;Description: What AI-Assisted Coding Actually Means for Your Career — and Why the News Is Better Than You...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3306152</id>
     <title>Is Software Engineering Cooked? Not Yet. But Maybe.</title>
     <link rel="alternate" href="https://dev.to/aws/is-software-engineering-cooked-not-yet-but-maybe-5e0j"/>
@@ -1223,13 +1237,6 @@
     <link rel="alternate" href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej"/>
     <updated>2026-03-07T11:07:16+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T10:44:43Z&lt;br/&gt;Tags: webdev, ai, automation, architecture&lt;br/&gt;Description: I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3310367</id>
-    <title>The Secret Life of Claude Code: Skill Is Not What You Think It Is</title>
-    <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-skill-is-not-what-you-think-it-is-5045"/>
-    <updated>2026-03-05T02:47:24+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T02:47:24Z&lt;br/&gt;Tags: claudecode, softwaredevelopment, coding, programming&lt;br/&gt;Description: What AI-Assisted Coding Actually Means for Your Career — and Why the News Is Better Than You...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282500</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://canro91.github.io/2025/12/21/Offerings/"/>
     <updated>2026-01-27T15:10:12+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T05:00:00Z&lt;br/&gt;Tags: career, coding, programming, ai&lt;br/&gt;Description: What happens when AI codes better than we do?  For a second, let&apos;s forget AI is more like a sloppy...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3157308</id>
-    <title>CSS Grid + Flexbox Mastery: Build Responsive UIs Faster</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/css-grid-flexbox-mastery-build-responsive-uis-faster-27kn"/>
-    <updated>2026-01-08T15:22:19+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T15:22:19Z&lt;br/&gt;Tags: css, html, programming, javascript&lt;br/&gt;Description: ...</summary>
   </entry>
 </feed>
