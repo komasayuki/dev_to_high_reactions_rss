@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-09T02:06:28+00:00</updated>
+  <updated>2026-03-09T20:07:25+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -53,7 +53,7 @@
     <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
     <updated>2026-03-05T08:17:23+00:00</updated>
-    <summary type="html">Reactions: public 205 / positive 205&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
+    <summary type="html">Reactions: public 204 / positive 204&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3234944</id>
@@ -1211,6 +1211,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3326254</id>
+    <title>Not Everyone Gets to Be a Beginner in Tech</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8"/>
+    <updated>2026-03-08T09:30:07+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T09:02:53Z&lt;br/&gt;Tags: devchallenge, wecoded, career, discuss&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Tech loves to call itself...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3322125</id>
     <title>3 words worth a billion dollars: Drift to Determinism (DriDe)</title>
     <link rel="alternate" href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej"/>
@@ -1237,13 +1244,6 @@
     <link rel="alternate" href="https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l"/>
     <updated>2026-01-27T16:03:24+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3326254</id>
-    <title>Not Everyone Gets to Be a Beginner in Tech</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8"/>
-    <updated>2026-03-08T09:30:07+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T09:02:53Z&lt;br/&gt;Tags: devchallenge, wecoded, career, discuss&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Tech loves to call itself...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282500</id>
@@ -1386,6 +1386,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3327960</id>
+    <title>Criei uma pipeline de planejamento no OpenCode e olha no que deu</title>
+    <link rel="alternate" href="https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb"/>
+    <updated>2026-03-09T20:07:25+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/clintonrocha98&quot;&gt;Clinton Rocha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T04:37:00Z&lt;br/&gt;Tags: ai, braziliandevs, opensource&lt;br/&gt;Description: Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3243096</id>
     <title>I Shipped the Solution to Knowledge Collapse in 21 Days</title>
     <link rel="alternate" href="https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc"/>
     <updated>2026-02-08T16:00:08+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T16:00:08Z&lt;br/&gt;Tags: community, learning, programming, webdev&lt;br/&gt;Description: Author&apos;s note: While the primary aim of The Foundation is to preserve technical knowledge before it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3121688</id>
-    <title>What Coders Could Offer Instead of Writing Lines of Code If AI Takes Over</title>
-    <link rel="alternate" href="https://canro91.github.io/2025/12/21/Offerings/"/>
-    <updated>2026-01-27T15:10:12+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T05:00:00Z&lt;br/&gt;Tags: career, coding, programming, ai&lt;br/&gt;Description: What happens when AI codes better than we do?  For a second, let&apos;s forget AI is more like a sloppy...</summary>
   </entry>
 </feed>
