@@ -39,7 +39,7 @@
     <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
     <updated>2026-03-05T08:17:23+00:00</updated>
-    <summary type="html">Reactions: public 216 / positive 216&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
+    <summary type="html">Reactions: public 218 / positive 218&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3283555</id>
@@ -277,7 +277,7 @@
     <title>Congrats to the GitHub Copilot CLI Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240"/>
     <updated>2026-03-09T19:56:57+00:00</updated>
-    <summary type="html">Reactions: public 116 / positive 116&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T18:28:59Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, ai&lt;br/&gt;Description: The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for...</summary>
+    <summary type="html">Reactions: public 117 / positive 117&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T18:28:59Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, ai&lt;br/&gt;Description: The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3241767</id>
@@ -1253,6 +1253,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3327732</id>
+    <title>Breaking Free from the Render Cycle: Event-Driven Frontend Architecture</title>
+    <link rel="alternate" href="https://logs.ishanbagchi.com/log/event-driven-frontend-architecture"/>
+    <updated>2026-03-08T20:07:56+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ishanbagchi&quot;&gt;Ishan Bagchi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T20:05:58Z&lt;br/&gt;Tags: architecture, performance, typescript, react&lt;br/&gt;Description: React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3282500</id>
     <title>Stop Ignoring RFC 2324. It&apos;s the Most Important Protocol You&apos;ve Never Implemented.</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm"/>
     <updated>2026-03-10T08:14:08+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T08:14:08Z&lt;br/&gt;Tags: ai, brightdata, convex, webdev&lt;br/&gt;Description: Most AI tools fall apart at the same point: making sure the output is grounded in what&apos;s happening...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3243096</id>
-    <title>I Shipped the Solution to Knowledge Collapse in 21 Days</title>
-    <link rel="alternate" href="https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj"/>
-    <updated>2026-02-09T11:13:46+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:07:59Z&lt;br/&gt;Tags: ai, opensource, activitypub, discuss&lt;br/&gt;Description: Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...</summary>
   </entry>
 </feed>
