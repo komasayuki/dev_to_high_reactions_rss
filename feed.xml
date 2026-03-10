@@ -39,7 +39,7 @@
     <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
     <updated>2026-03-05T08:17:23+00:00</updated>
-    <summary type="html">Reactions: public 213 / positive 213&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
+    <summary type="html">Reactions: public 215 / positive 215&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3283555</id>
@@ -434,18 +434,18 @@
     <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T18:27:56Z&lt;br/&gt;Tags: agents, gemini, ai, buildmultiagents&lt;br/&gt;Description: Hundreds of developers have already completed our first DEV Education Track, and today we&apos;re excited...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3331372</id>
+    <title>Congrats to the GitHub Copilot CLI Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240"/>
+    <updated>2026-03-09T19:56:57+00:00</updated>
+    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T18:28:59Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, ai&lt;br/&gt;Description: The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3208863</id>
     <title>Unpopular Opinion: I stopped coding on weekends and my career got better.</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el"/>
     <updated>2026-01-29T23:00:28+00:00</updated>
     <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T23:00:28Z&lt;br/&gt;Tags: career, discuss, productivity, mentalhealth&lt;br/&gt;Description: For years, I lived with a constant, low-level hum of guilt. ​You know the feeling. It’s Saturday...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3331372</id>
-    <title>Congrats to the GitHub Copilot CLI Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240"/>
-    <updated>2026-03-09T19:56:57+00:00</updated>
-    <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T18:28:59Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, ai&lt;br/&gt;Description: The results are in! Thank you all so much for your patience as we reviewed over 400 submissions for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3197057</id>
@@ -1050,6 +1050,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3322125</id>
+    <title>3 words worth a billion dollars: Drift to Determinism (DriDe)</title>
+    <link rel="alternate" href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej"/>
+    <updated>2026-03-07T11:07:16+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T10:44:43Z&lt;br/&gt;Tags: webdev, ai, automation, architecture&lt;br/&gt;Description: I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3293489</id>
     <title>An App where you can Train your Own Hand Pose Model for your Project! 🤌</title>
     <link rel="alternate" href="https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib"/>
@@ -1223,13 +1230,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3322125</id>
-    <title>3 words worth a billion dollars: Drift to Determinism (DriDe)</title>
-    <link rel="alternate" href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej"/>
-    <updated>2026-03-07T11:07:16+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T10:44:43Z&lt;br/&gt;Tags: webdev, ai, automation, architecture&lt;br/&gt;Description: I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3313369</id>
