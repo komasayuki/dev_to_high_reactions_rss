@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-10T08:14:08+00:00</updated>
+  <updated>2026-03-11T20:53:34+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -25,7 +25,7 @@
     <title>The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39"/>
     <updated>2026-03-05T08:17:23+00:00</updated>
-    <summary type="html">Reactions: public 227 / positive 227&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
+    <summary type="html">Reactions: public 228 / positive 228&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3172275</id>
@@ -798,6 +798,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/agastya_khati_f72c89077c8&quot;&gt;Agastya Khati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:50:57Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3305097</id>
+    <title>How to add AI to your App in 5 minutes</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/how-to-add-ai-to-your-app-in-5-minutes-2b0d"/>
+    <updated>2026-03-11T20:53:34+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T15:10:31Z&lt;br/&gt;Tags: ai, opensource, tutorial, programming&lt;br/&gt;Description: Most AI integrations are overengineered.   Even basic tutorials on adding an AI assistant get mixed...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3250014</id>
     <title>I Built a SaaS in 30 Days. Here’s Exactly What Happened.</title>
     <link rel="alternate" href="https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8"/>
@@ -875,6 +882,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/clintonrocha98&quot;&gt;Clinton Rocha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T04:37:00Z&lt;br/&gt;Tags: ai, braziliandevs, opensource&lt;br/&gt;Description: Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3322125</id>
+    <title>3 words worth a billion dollars: Drift to Determinism (DriDe)</title>
+    <link rel="alternate" href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej"/>
+    <updated>2026-03-07T11:07:16+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T10:44:43Z&lt;br/&gt;Tags: webdev, ai, automation, architecture&lt;br/&gt;Description: I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3303615</id>
     <title>I Deleted Half My Codebase and Nobody Noticed</title>
     <link rel="alternate" href="https://dev.to/thegiansorianodev/i-deleted-half-my-codebase-and-nobody-noticed-549"/>
@@ -929,13 +943,6 @@
     <link rel="alternate" href="https://dev.to/art_light/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg"/>
     <updated>2026-01-13T21:36:47+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3322125</id>
-    <title>3 words worth a billion dollars: Drift to Determinism (DriDe)</title>
-    <link rel="alternate" href="https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej"/>
-    <updated>2026-03-07T11:07:16+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-07T10:44:43Z&lt;br/&gt;Tags: webdev, ai, automation, architecture&lt;br/&gt;Description: I doubt I am the first to come up with this concept, but I am probably the first to name it.  Drift...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205511</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel"/>
     <updated>2026-01-05T21:53:53+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T21:53:53Z&lt;br/&gt;Tags: webdev, javascript, webperf, frameworks&lt;br/&gt;Description: I suppose after three years, we can consider my review of JavaScript Frameworks an annual event now....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3243096</id>
-    <title>I Shipped the Solution to Knowledge Collapse in 21 Days</title>
-    <link rel="alternate" href="https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj"/>
-    <updated>2026-02-09T11:13:46+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T11:07:59Z&lt;br/&gt;Tags: ai, opensource, activitypub, discuss&lt;br/&gt;Description: Three weeks ago, I wrote about knowledge collapse - how our best technical insights are dying in...</summary>
   </entry>
 </feed>
