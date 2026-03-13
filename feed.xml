@@ -77,13 +77,6 @@
     <summary type="html">Reactions: public 180 / positive 180&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T12:47:52Z&lt;br/&gt;Tags: postgres, redis, database, performance&lt;br/&gt;Description: I had a typical web app stack:   PostgreSQL for persistent data Redis for caching, pub/sub, and...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3143530</id>
-    <title>I built an app in every frontend framework</title>
-    <link rel="alternate" href="https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g"/>
-    <updated>2026-01-07T15:12:38+00:00</updated>
-    <summary type="html">Reactions: public 179 / positive 179&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lissy93&quot;&gt;Alicia Sykes&lt;/a&gt;&lt;br/&gt;Published: 2026-01-05T16:20:00Z&lt;br/&gt;Tags: performance, webdev, javascript, frontend&lt;br/&gt;Description: A detailed comparison of performance, dev experience and viability of frontend web frameworks in 2026</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3289621</id>
     <title>Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.</title>
     <link rel="alternate" href="https://dev.to/devteam/happening-now-dev-weekend-challenge-submissions-due-march-2-at-759am-utc-5fg8"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-5a3g"/>
     <updated>2026-02-20T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3194992</id>
+    <title>This portfolio isn’t perfect, but it’s 100% mine</title>
+    <link rel="alternate" href="https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5"/>
+    <updated>2026-01-24T06:26:18+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/random_ti&quot;&gt;Random&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T06:26:18Z&lt;br/&gt;Tags: webdev, programming, javascript, buildinpublic&lt;br/&gt;Description: Hey devs 👋 its me Taqui  Just wanted to share the story behind my last portfolio.  I already had a...</summary>
   </entry>
 </feed>
