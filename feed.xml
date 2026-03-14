@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-13T05:30:00+00:00</updated>
+  <updated>2026-03-13T05:35:53+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -236,13 +236,6 @@
     <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
     <updated>2026-02-17T12:42:44+00:00</updated>
     <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3153473</id>
-    <title>Bifrost: The fastest way to build AI applications that never go down</title>
-    <link rel="alternate" href="https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9"/>
-    <updated>2026-01-06T21:02:54+00:00</updated>
-    <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-01-06T21:01:44Z&lt;br/&gt;Tags: webdev, ai, programming, opensource&lt;br/&gt;Description: LLM applications are rapidly becoming a critical part of production today. But behind the scenes,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3266739</id>
@@ -1272,6 +1265,13 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3338261</id>
+    <title>Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle</title>
+    <link rel="alternate" href="https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo"/>
+    <updated>2026-03-13T05:35:53+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/supriya-kotturu&quot;&gt;Supriya&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T10:43:47Z&lt;br/&gt;Tags: webdev, showdev, go, beginners&lt;br/&gt;Description: I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3330944</id>
