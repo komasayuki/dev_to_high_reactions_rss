@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-12T10:51:33+00:00</updated>
+  <updated>2026-03-13T05:30:00+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -798,6 +798,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt Lewandowski&lt;/a&gt;&lt;br/&gt;Published: 2026-01-08T00:39:18Z&lt;br/&gt;Tags: webdev, programming, ai, beginners&lt;br/&gt;Description: If you&apos;re building AI-powered features, you&apos;re probably sending a lot of JSON to language models. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3336532</id>
+    <title>When AI Writes the Code… Who Takes Responsibility?</title>
+    <link rel="alternate" href="https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc"/>
+    <updated>2026-03-10T22:39:46+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/subhrangsu90&quot;&gt;Subhrangsu Bera&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T22:39:46Z&lt;br/&gt;Tags: ai, programming, agents, webdev&lt;br/&gt;Description: Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3229416</id>
     <title>Your Side Project Didn’t Fail — It Just Reached Reality</title>
     <link rel="alternate" href="https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76"/>
@@ -810,13 +817,6 @@
     <link rel="alternate" href="https://dev.to/agastya_khati_f72c89077c8/building-a-portfolio-with-gemini-new-year-new-you-portfolio-challenge-314m"/>
     <updated>2026-01-31T13:50:57+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/agastya_khati_f72c89077c8&quot;&gt;Agastya Khati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:50:57Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3336532</id>
-    <title>When AI Writes the Code… Who Takes Responsibility?</title>
-    <link rel="alternate" href="https://dev.to/subhrangsu90/when-ai-writes-the-code-who-takes-responsibility-19fc"/>
-    <updated>2026-03-10T22:39:46+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/subhrangsu90&quot;&gt;Subhrangsu Bera&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T22:39:46Z&lt;br/&gt;Tags: ai, programming, agents, webdev&lt;br/&gt;Description: Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3250014</id>
@@ -1232,6 +1232,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kawano_aiyuki&quot;&gt;Alyssa&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T05:00:28Z&lt;br/&gt;Tags: discuss, career, programming, beginners&lt;br/&gt;Description: Being a software developer is a lot like being human. Being a woman software developer is like being...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3329612</id>
+    <title>I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn</title>
+    <link rel="alternate" href="https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k"/>
+    <updated>2026-03-13T05:30:00+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev-in-progress&quot;&gt;Vaishali&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T05:30:00Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Here&apos;s a story from my...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3327732</id>
     <title>Breaking Free from the Render Cycle: Event-Driven Frontend Architecture</title>
     <link rel="alternate" href="https://logs.ishanbagchi.com/log/event-driven-frontend-architecture"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
     <updated>2026-03-09T19:26:46+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3278678</id>
-    <title>I Clicked ‘Azure Portal’ and Realized How Small My World Was</title>
-    <link rel="alternate" href="https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78"/>
-    <updated>2026-02-23T18:03:43+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T18:03:43Z&lt;br/&gt;Tags: azure, cloud, software, learning&lt;br/&gt;Description: When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...</summary>
   </entry>
 </feed>
