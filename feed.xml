@@ -147,13 +147,6 @@
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3159341</id>
-    <title>Prompt Engineering Won’t Fix Your Architecture</title>
-    <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h"/>
-    <updated>2026-01-10T16:23:16+00:00</updated>
-    <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T04:06:10Z&lt;br/&gt;Tags: discuss, career, ai, programming&lt;br/&gt;Description: Every few years, our industry rediscovers an old truth and pretends it’s new.  Clean...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3172071</id>
     <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
     <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
@@ -294,6 +287,13 @@
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T16:13:01Z&lt;br/&gt;Tags: ai, career, productivity, codenewbie&lt;br/&gt;Description: &quot;If you use AI, you&apos;re not a real developer.&quot;  Same energy as every gatekeeping panic before...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3336670</id>
+    <title>Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark &amp; Demo🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i"/>
+    <updated>2026-03-12T10:51:33+00:00</updated>
+    <summary type="html">Reactions: public 108 / positive 108&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T10:51:33Z&lt;br/&gt;Tags: webdev, javascript, typescript, webgpu&lt;br/&gt;Description: JavaScript has been the main language of the web for years. Its popularity probably surprised even...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3292367</id>
     <title>I Built a Full-Stack Family OS — Web App + Mobile App with Video Calls, Brain Games, Expenses &amp; More</title>
     <link rel="alternate" href="https://dev.to/bibin_antony_9fce1ed9318b/i-built-a-full-stack-family-os-web-app-mobile-app-with-video-calls-brain-games-expenses-more-2g77"/>
@@ -313,13 +313,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
     <updated>2026-01-20T09:42:34+00:00</updated>
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3336670</id>
-    <title>Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark &amp; Demo🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i"/>
-    <updated>2026-03-12T10:51:33+00:00</updated>
-    <summary type="html">Reactions: public 106 / positive 106&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T10:51:33Z&lt;br/&gt;Tags: webdev, javascript, typescript, webgpu&lt;br/&gt;Description: JavaScript has been the main language of the web for years. Its popularity probably surprised even...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3207153</id>
@@ -693,6 +686,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T07:19:34Z&lt;br/&gt;Tags: linux, devops, learning&lt;br/&gt;Description: After installing Ubuntu on my laptop mainly for this linux learning journey, I left it there for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3357241</id>
+    <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
+    <updated>2026-03-16T06:35:16+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3289037</id>
     <title>I built an AI security Firewall and made it open source because production apps were leaking SSNs to OpenAI</title>
     <link rel="alternate" href="https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg"/>
@@ -749,13 +749,6 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T15:10:31Z&lt;br/&gt;Tags: ai, opensource, tutorial, programming&lt;br/&gt;Description: Most AI integrations are overengineered.   Even basic tutorials on adding an AI assistant get mixed...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3357241</id>
-    <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
-    <updated>2026-03-16T06:35:16+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3308729</id>
     <title>Share, Embed, and Curate Agent Sessions on DEV [Beta]</title>
     <link rel="alternate" href="https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6"/>
@@ -798,6 +791,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:23:38Z&lt;br/&gt;Tags: webdev, programming, ai, javascript&lt;br/&gt;Description: Somewhere along the way, many teams quietly adopted a harmful assumption:  Technical writers are...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3352107</id>
+    <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
+    <updated>2026-03-14T16:44:34+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3229416</id>
     <title>Your Side Project Didn’t Fail — It Just Reached Reality</title>
     <link rel="alternate" href="https://dev.to/art_light/your-side-project-didnt-fail-it-just-reached-reality-1o76"/>
@@ -810,13 +810,6 @@
     <link rel="alternate" href="https://dev.to/agastya_khati_f72c89077c8/building-a-portfolio-with-gemini-new-year-new-you-portfolio-challenge-314m"/>
     <updated>2026-01-31T13:50:57+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/agastya_khati_f72c89077c8&quot;&gt;Agastya Khati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:50:57Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3352107</id>
-    <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
-    <updated>2026-03-14T16:44:34+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3250014</id>
@@ -1344,13 +1337,6 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T11:07:41Z&lt;br/&gt;Tags: ai, webdev, vue, angular&lt;br/&gt;Description: Update (2026/01/13): Added CRAZY Roller Coaster Builder Rainbow Version🌈           Intro🚀   Last...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3130414</id>
-    <title>What was your win this week???</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-8d7"/>
-    <updated>2026-01-09T05:00:00+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-09T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3345524</id>
     <title>The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?</title>
     <link rel="alternate" href="https://debuggr.io/internet-getting-quieter/"/>
@@ -1405,5 +1391,19 @@
     <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
     <updated>2026-03-09T19:26:46+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3278678</id>
+    <title>I Clicked ‘Azure Portal’ and Realized How Small My World Was</title>
+    <link rel="alternate" href="https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78"/>
+    <updated>2026-02-23T18:03:43+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T18:03:43Z&lt;br/&gt;Tags: azure, cloud, software, learning&lt;br/&gt;Description: When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3222111</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-5a3g"/>
+    <updated>2026-02-20T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
 </feed>
