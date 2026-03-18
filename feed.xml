@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-17T18:34:13+00:00</updated>
+  <updated>2026-03-18T10:15:29+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -382,7 +382,7 @@
     <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
     <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
     <updated>2026-03-14T16:44:34+00:00</updated>
-    <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
+    <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3301870</id>
@@ -1344,6 +1344,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T11:07:41Z&lt;br/&gt;Tags: ai, webdev, vue, angular&lt;br/&gt;Description: Update (2026/01/13): Added CRAZY Roller Coaster Builder Rainbow Version🌈           Intro🚀   Last...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3364721</id>
+    <title>The Email That Nearly Stopped Me From Becoming a Developer</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-email-that-nearly-stopped-me-from-becoming-a-developer-3n77"/>
+    <updated>2026-03-18T10:15:29+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T10:15:29Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  I stood on stage in front...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3332311</id>
     <title>Getting Started with Gemini CLI</title>
     <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
     <updated>2026-03-17T06:22:37+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3333044</id>
-    <title>Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me</title>
-    <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
-    <updated>2026-03-11T09:26:13+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
   </entry>
 </feed>
