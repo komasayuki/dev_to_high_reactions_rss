@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-16T21:25:40+00:00</updated>
+  <updated>2026-03-17T14:37:22+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -196,6 +196,13 @@
     <summary type="html">Reactions: public 132 / positive 132&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/diptanu_gonchoudhury_23e&quot;&gt;Diptanu Gon Choudhury&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T14:09:26Z&lt;br/&gt;Tags: ai, rag, programming&lt;br/&gt;Description: GraphRAG sounds elegant in theory: build a knowledge graph from your documents, traverse it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3357241</id>
+    <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
+    <updated>2026-03-16T06:35:16+00:00</updated>
+    <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3282235</id>
     <title>Once Upon a Time, Writing Code Was Fun</title>
     <link rel="alternate" href="https://ismail9k.com/blog/once-upon-a-time-writing-code-was-fun"/>
@@ -229,13 +236,6 @@
     <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"/>
     <updated>2026-02-20T20:46:39+00:00</updated>
     <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T14:22:05Z&lt;br/&gt;Tags: react, programming, javascript, tutorial&lt;br/&gt;Description: LangChain&apos;s Deep Agents provide a new way to build structured, multi-agent systems that can plan,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3357241</id>
-    <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
-    <updated>2026-03-16T06:35:16+00:00</updated>
-    <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3241767</id>
@@ -469,6 +469,13 @@
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-01-14T12:57:58Z&lt;br/&gt;Tags: microservices, architecture, performance, backend&lt;br/&gt;Description: The promise: Microservices make your system scalable, maintainable, and fast.  The reality: For most...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3352107</id>
+    <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
+    <updated>2026-03-14T16:44:34+00:00</updated>
+    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3179318</id>
     <title>Why NaN !== NaN Makes Perfect Sense (I Promise)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke"/>
@@ -532,11 +539,11 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3352107</id>
-    <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
-    <updated>2026-03-14T16:44:34+00:00</updated>
-    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
+    <id>tag:dev.to,2026:3329612</id>
+    <title>I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn</title>
+    <link rel="alternate" href="https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k"/>
+    <updated>2026-03-13T05:30:00+00:00</updated>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev-in-progress&quot;&gt;Vaishali&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T05:30:00Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Here&apos;s a story from my...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3249091</id>
@@ -593,13 +600,6 @@
     <link rel="alternate" href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7"/>
     <updated>2026-02-11T00:29:42+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T00:29:42Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a group submission for the GitHub Copilot CLI Challenge           What We Built...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3329612</id>
-    <title>I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn</title>
-    <link rel="alternate" href="https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k"/>
-    <updated>2026-03-13T05:30:00+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev-in-progress&quot;&gt;Vaishali&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T05:30:00Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Here&apos;s a story from my...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3298739</id>
@@ -1176,6 +1176,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3345524</id>
+    <title>The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?</title>
+    <link rel="alternate" href="https://debuggr.io/internet-getting-quieter/"/>
+    <updated>2026-03-12T22:48:44+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sag1v&quot;&gt;Sagiv ben giat&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T22:48:44Z&lt;br/&gt;Tags: ai, knowledgesharing, stackoverflow, opinion&lt;br/&gt;Description: Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1209,13 +1216,6 @@
     <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
     <updated>2026-01-15T16:52:03+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:52:03Z&lt;br/&gt;Tags: css, html, webdev, showdev&lt;br/&gt;Description: A collection of optical illusions created with CSS</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3345524</id>
-    <title>The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?</title>
-    <link rel="alternate" href="https://debuggr.io/internet-getting-quieter/"/>
-    <updated>2026-03-12T22:48:44+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sag1v&quot;&gt;Sagiv ben giat&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T22:48:44Z&lt;br/&gt;Tags: ai, knowledgesharing, stackoverflow, opinion&lt;br/&gt;Description: Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3327732</id>
@@ -1330,6 +1330,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-01-12T11:07:41Z&lt;br/&gt;Tags: ai, webdev, vue, angular&lt;br/&gt;Description: Update (2026/01/13): Added CRAZY Roller Coaster Builder Rainbow Version🌈           Intro🚀   Last...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3363513</id>
+    <title>What&apos;s in your headphones when you code? 🎧</title>
+    <link rel="alternate" href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4"/>
+    <updated>2026-03-17T14:37:22+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T14:37:22Z&lt;br/&gt;Tags: discuss, watercooler&lt;br/&gt;Description: Let&apos;s revisit this conversation!  What music, soundtracks, podcasts, etc do you listen to and is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3332311</id>
     <title>Getting Started with Gemini CLI</title>
     <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
@@ -1372,6 +1379,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itslokeshx&quot;&gt;Lokesh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T16:48:13Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3354708</id>
+    <title>I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)</title>
+    <link rel="alternate" href="https://dev.to/balkaran/synapse-the-autonomous-ai-developer-shield-built-with-notion-mcp-5f0j"/>
+    <updated>2026-03-16T13:41:57+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/balkaran&quot;&gt;Balkaran Singh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T13:47:24Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   Every developer knows the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3333044</id>
     <title>Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me</title>
     <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/itsugo/i-clicked-azure-portal-and-realized-how-small-my-world-was-a78"/>
     <updated>2026-02-23T18:03:43+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T18:03:43Z&lt;br/&gt;Tags: azure, cloud, software, learning&lt;br/&gt;Description: When I opened the Azure Portal for the first time, my first instinct wasn’t curiosity. It was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3222111</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-5a3g"/>
-    <updated>2026-02-20T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3194992</id>
-    <title>This portfolio isn’t perfect, but it’s 100% mine</title>
-    <link rel="alternate" href="https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5"/>
-    <updated>2026-01-24T06:26:18+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/random_ti&quot;&gt;Random&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T06:26:18Z&lt;br/&gt;Tags: webdev, programming, javascript, buildinpublic&lt;br/&gt;Description: Hey devs 👋 its me Taqui  Just wanted to share the story behind my last portfolio.  I already had a...</summary>
   </entry>
 </feed>
