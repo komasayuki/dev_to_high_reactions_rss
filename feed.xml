@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-18T12:33:01+00:00</updated>
+  <updated>2026-03-19T00:29:17+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -74,7 +74,7 @@
     <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
     <updated>2026-03-16T06:35:16+00:00</updated>
-    <summary type="html">Reactions: public 174 / positive 174&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
+    <summary type="html">Reactions: public 175 / positive 175&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3331372</id>
@@ -266,6 +266,13 @@
     <summary type="html">Reactions: public 111 / positive 111&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T17:58:23Z&lt;br/&gt;Tags: go, rust, aws, cloud&lt;br/&gt;Description: For years, my cloud architecture felt… reasonable.   Go services AWS infrastructure Containers...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3352107</id>
+    <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
+    <updated>2026-03-14T16:44:34+00:00</updated>
+    <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3306770</id>
     <title>I Created An Enterprise MCP Gateway</title>
     <link rel="alternate" href="https://dev.to/anthonymax/i-created-an-enterprise-mcp-gateway-bg"/>
@@ -285,13 +292,6 @@
     <link rel="alternate" href="https://www.copilotkit.ai/blog/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit"/>
     <updated>2026-01-20T21:44:56+00:00</updated>
     <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T14:22:27Z&lt;br/&gt;Tags: react, programming, python, tutorial&lt;br/&gt;Description: LangChain recently introduced Deep Agents: a new way to build structured, multi-agent systems that...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3352107</id>
-    <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
-    <updated>2026-03-14T16:44:34+00:00</updated>
-    <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3254117</id>
@@ -417,7 +417,7 @@
     <title>The Email That Nearly Stopped Me From Becoming a Developer</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-email-that-nearly-stopped-me-from-becoming-a-developer-3n77"/>
     <updated>2026-03-18T10:15:29+00:00</updated>
-    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T10:15:29Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  I stood on stage in front...</summary>
+    <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T10:15:29Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  I stood on stage in front...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3197057</id>
@@ -952,6 +952,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T05:41:16Z&lt;br/&gt;Tags: discuss, programming, learning, mentalhealth&lt;br/&gt;Description: A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3367665</id>
+    <title>AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6"/>
+    <updated>2026-03-18T12:33:01+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3222135</id>
     <title>Welcome Thread - v364</title>
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v364-2mdg"/>
@@ -985,13 +992,6 @@
     <link rel="alternate" href="https://dev.to/art_light/building-a-production-grade-ai-web-app-in-2026-architecture-trade-offs-and-hard-won-lessons-4llg"/>
     <updated>2026-01-13T21:36:47+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T21:32:47Z&lt;br/&gt;Tags: discuss, ai, programming, architecture&lt;br/&gt;Description: “Anyone can build a demo. Shipping AI to production is a completely different sport.”   AI-powered...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3367665</id>
-    <title>AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6"/>
-    <updated>2026-03-18T12:33:01+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205511</id>
@@ -1295,6 +1295,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3367901</id>
+    <title>How to Stop Babysitting Your AI Agents</title>
+    <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
+    <updated>2026-03-19T00:29:17+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3338261</id>
     <title>Building Go Mastery: Socratic Learning, Claude Artifacts, and the Art of Productive Struggle</title>
     <link rel="alternate" href="https://dev.to/supriya-kotturu/building-go-mastery-socratic-learning-claude-artifacts-and-the-art-of-productive-struggle-2cpo"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
     <updated>2026-02-24T12:02:47+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3208919</id>
-    <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
-    <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
-    <updated>2026-02-06T14:18:55+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
   </entry>
 </feed>
