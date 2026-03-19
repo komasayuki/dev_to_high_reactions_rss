@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-18T10:15:29+00:00</updated>
+  <updated>2026-03-18T12:12:30+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -847,6 +847,13 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:16:12Z&lt;br/&gt;Tags: leadership, entrepreneurship, decisionmaking, management&lt;br/&gt;Description: When Stability Disappears, Leadership Gets Tested   Leadership is often discussed in terms...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3364721</id>
+    <title>The Email That Nearly Stopped Me From Becoming a Developer</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-email-that-nearly-stopped-me-from-becoming-a-developer-3n77"/>
+    <updated>2026-03-18T10:15:29+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T10:15:29Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  I stood on stage in front...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3363513</id>
     <title>What&apos;s in your headphones when you code? 🎧</title>
     <link rel="alternate" href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4"/>
@@ -868,6 +875,13 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3359047</id>
+    <title>Meme Monday</title>
+    <link rel="alternate" href="https://dev.to/ben/meme-monday-cc9"/>
+    <updated>2026-03-16T13:27:33+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:27:33Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3344810</id>
     <title>Two React Design Choices Developers Don’t Like—But Can’t Avoid</title>
     <link rel="alternate" href="https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g"/>
@@ -887,20 +901,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc"/>
     <updated>2026-02-10T17:03:23+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3364721</id>
-    <title>The Email That Nearly Stopped Me From Becoming a Developer</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-email-that-nearly-stopped-me-from-becoming-a-developer-3n77"/>
-    <updated>2026-03-18T10:15:29+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T10:15:29Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  I stood on stage in front...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3359047</id>
-    <title>Meme Monday</title>
-    <link rel="alternate" href="https://dev.to/ben/meme-monday-cc9"/>
-    <updated>2026-03-16T13:27:33+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:27:33Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3293242</id>
@@ -1029,6 +1029,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-13T15:43:43Z&lt;br/&gt;Tags: top7, discuss, career, webdev&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3345524</id>
+    <title>The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?</title>
+    <link rel="alternate" href="https://debuggr.io/internet-getting-quieter/"/>
+    <updated>2026-03-12T22:48:44+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sag1v&quot;&gt;Sagiv ben giat&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T22:48:44Z&lt;br/&gt;Tags: ai, knowledgesharing, stackoverflow, opinion&lt;br/&gt;Description: Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3309203</id>
     <title>Congrats to the Algolia Agent Studio Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn"/>
@@ -1064,13 +1071,6 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T14:51:47Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3345524</id>
-    <title>The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?</title>
-    <link rel="alternate" href="https://debuggr.io/internet-getting-quieter/"/>
-    <updated>2026-03-12T22:48:44+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sag1v&quot;&gt;Sagiv ben giat&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T22:48:44Z&lt;br/&gt;Tags: ai, knowledgesharing, stackoverflow, opinion&lt;br/&gt;Description: Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3202891</id>
     <title>How Bifrost’s MCP Gateway and Code Mode Power Production-Grade LLM Gateways</title>
     <link rel="alternate" href="https://dev.to/hadil/how-bifrosts-mcp-gateway-and-code-mode-power-production-grade-llm-gateways-235i"/>
@@ -1097,6 +1097,13 @@
     <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
     <updated>2026-01-11T21:50:53+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3367601</id>
+    <title>POO Além do Código #2: Encapsulamento (A Caixa Preta)</title>
+    <link rel="alternate" href="https://dev.to/bruno_freschi/poo-alem-do-codigo-2-encapsulamento-a-caixa-preta-p05"/>
+    <updated>2026-03-18T12:12:30+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno S Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:30Z&lt;br/&gt;Tags: braziliandevs, learning, devjournal, networking&lt;br/&gt;Description: &quot;Um objeto deve ser responsável por manter seu próprio estado e proteger sua integridade.&quot;          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3359706</id>
@@ -1393,17 +1400,10 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itslokeshx&quot;&gt;Lokesh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T16:48:13Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3354708</id>
-    <title>I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)</title>
-    <link rel="alternate" href="https://dev.to/balkaran/synapse-the-autonomous-ai-developer-shield-built-with-notion-mcp-5f0j"/>
-    <updated>2026-03-16T13:41:57+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/balkaran&quot;&gt;Balkaran Singh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T13:47:24Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   Every developer knows the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3334932</id>
-    <title>I Built EchoHR: The HR System That Doesn’t Ghost You</title>
-    <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
-    <updated>2026-03-17T06:22:37+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
+    <id>tag:dev.to,2026:3363939</id>
+    <title>Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab</title>
+    <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
+    <updated>2026-03-17T18:32:57+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
   </entry>
 </feed>
