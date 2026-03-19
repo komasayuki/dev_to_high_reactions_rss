@@ -1246,6 +1246,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:52:03Z&lt;br/&gt;Tags: css, html, webdev, showdev&lt;br/&gt;Description: A collection of optical illusions created with CSS</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3363939</id>
+    <title>Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab</title>
+    <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
+    <updated>2026-03-17T18:32:57+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3327732</id>
     <title>Breaking Free from the Render Cycle: Event-Driven Frontend Architecture</title>
     <link rel="alternate" href="https://logs.ishanbagchi.com/log/event-driven-frontend-architecture"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/itslokeshx/i-built-a-portfolio-like-a-system-not-a-resume-1kh9"/>
     <updated>2026-01-26T06:59:39+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itslokeshx&quot;&gt;Lokesh&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T16:48:13Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3363939</id>
-    <title>Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab</title>
-    <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
-    <updated>2026-03-17T18:32:57+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
   </entry>
 </feed>
