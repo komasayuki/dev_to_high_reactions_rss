@@ -60,7 +60,7 @@
     <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
     <updated>2026-03-16T06:35:16+00:00</updated>
-    <summary type="html">Reactions: public 190 / positive 190&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
+    <summary type="html">Reactions: public 192 / positive 192&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3234944</id>
@@ -700,6 +700,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T07:19:34Z&lt;br/&gt;Tags: linux, devops, learning&lt;br/&gt;Description: After installing Ubuntu on my laptop mainly for this linux learning journey, I left it there for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3367665</id>
+    <title>AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6"/>
+    <updated>2026-03-18T12:33:01+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3289037</id>
     <title>I built an AI security Firewall and made it open source because production apps were leaking SSNs to OpenAI</title>
     <link rel="alternate" href="https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg"/>
@@ -726,13 +733,6 @@
     <link rel="alternate" href="https://dev.to/vitoriazzp/8-formas-de-fazer-networking-em-tecnologia-2ane"/>
     <updated>2026-01-30T21:24:47+00:00</updated>
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T21:24:47Z&lt;br/&gt;Tags: productivity, networking, tutorial, braziliandevs&lt;br/&gt;Description: Sempre fui bem tímida, do tipo que ensaia mentalmente antes de puxar qualquer conversa. Também tenho...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3367665</id>
-    <title>AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6"/>
-    <updated>2026-03-18T12:33:01+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3309030</id>
@@ -1113,13 +1113,6 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T03:55:45Z&lt;br/&gt;Tags: discuss, programming, webdev, javascript&lt;br/&gt;Description: Let me ask you something uncomfortable: When was the last time you wrote a piece of code entirely...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3165035</id>
-    <title>We Didn’t “Align” — We Argued (and Shipped a Better System)</title>
-    <link rel="alternate" href="https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818"/>
-    <updated>2026-01-11T21:50:53+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-11T21:50:53Z&lt;br/&gt;Tags: discuss, career, programming, developer&lt;br/&gt;Description: Software projects rarely fail because someone can’t write code. They fail because people quietly...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3367601</id>
     <title>POO Além do Código #2: Encapsulamento (A Caixa Preta)</title>
     <link rel="alternate" href="https://dev.to/bruno_freschi/poo-alem-do-codigo-2-encapsulamento-a-caixa-preta-p05"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
     <updated>2026-03-11T17:45:44+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3271919</id>
+    <title>The Increasing Need for Human Connection in the Age of AI</title>
+    <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
+    <updated>2026-02-24T12:02:47+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
   </entry>
 </feed>
