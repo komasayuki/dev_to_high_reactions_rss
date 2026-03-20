@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-20T19:57:22+00:00</updated>
+  <updated>2026-03-20T21:05:17+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -815,7 +815,7 @@
     <id>tag:dev.to,2026:3369046</id>
     <title>Congrats to the &quot;Built with Google Gemini: Writing Challenge&quot; Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6"/>
-    <updated>2026-03-20T19:42:47+00:00</updated>
+    <updated>2026-03-20T21:05:17+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T19:31:58Z&lt;br/&gt;Tags: geminireflections, gemini, ai, devchallenge&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the Built with Google Gemini: Writing...</summary>
   </entry>
   <entry>
@@ -1246,6 +1246,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3369583</id>
+    <title>Should RubyGems/Bundler Have a Cooldown Feature?</title>
+    <link rel="alternate" href="https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"/>
+    <updated>2026-03-19T09:56:52+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hsbt&quot;&gt;SHIBATA Hiroshi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T01:45:21Z&lt;br/&gt;Tags: ruby, security, supplychainsecurity, packaging&lt;br/&gt;Description: I&apos;m Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1279,13 +1286,6 @@
     <link rel="alternate" href="https://dev.to/alvaromontoro/css-optical-illusions-58j"/>
     <updated>2026-01-15T16:52:03+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alvaromontoro&quot;&gt;Alvaro Montoro&lt;/a&gt;&lt;br/&gt;Published: 2026-01-15T16:52:03Z&lt;br/&gt;Tags: css, html, webdev, showdev&lt;br/&gt;Description: A collection of optical illusions created with CSS</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3369583</id>
-    <title>Should RubyGems/Bundler Have a Cooldown Feature?</title>
-    <link rel="alternate" href="https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"/>
-    <updated>2026-03-19T09:56:52+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hsbt&quot;&gt;SHIBATA Hiroshi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T01:45:21Z&lt;br/&gt;Tags: ruby, security, supplychainsecurity, packaging&lt;br/&gt;Description: I&apos;m Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3369331</id>
