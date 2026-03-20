@@ -60,7 +60,7 @@
     <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
     <updated>2026-03-16T06:35:16+00:00</updated>
-    <summary type="html">Reactions: public 196 / positive 196&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
+    <summary type="html">Reactions: public 197 / positive 197&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3234944</id>
@@ -266,6 +266,13 @@
     <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3364721</id>
+    <title>The Email That Nearly Stopped Me From Becoming a Developer</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-email-that-nearly-stopped-me-from-becoming-a-developer-3n77"/>
+    <updated>2026-03-18T10:15:29+00:00</updated>
+    <summary type="html">Reactions: public 113 / positive 113&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T10:15:29Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  I stood on stage in front...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3240298</id>
     <title>Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.</title>
     <link rel="alternate" href="https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82"/>
@@ -320,13 +327,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/my-chrome-tabs-tell-a-story-we-havent-processed-yet-ec9"/>
     <updated>2026-01-20T09:42:34+00:00</updated>
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3364721</id>
-    <title>The Email That Nearly Stopped Me From Becoming a Developer</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-email-that-nearly-stopped-me-from-becoming-a-developer-3n77"/>
-    <updated>2026-03-18T10:15:29+00:00</updated>
-    <summary type="html">Reactions: public 106 / positive 106&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T10:15:29Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  I stood on stage in front...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3207153</id>
@@ -1127,6 +1127,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno S Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:30Z&lt;br/&gt;Tags: braziliandevs, learning, devjournal, networking&lt;br/&gt;Description: &quot;Um objeto deve ser responsável por manter seu próprio estado e proteger sua integridade.&quot;          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3363939</id>
+    <title>Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab</title>
+    <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
+    <updated>2026-03-17T18:32:57+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3293489</id>
     <title>An App where you can Train your Own Hand Pose Model for your Project! 🤌</title>
     <link rel="alternate" href="https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib"/>
@@ -1169,11 +1176,11 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3363939</id>
-    <title>Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab</title>
-    <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
-    <updated>2026-03-17T18:32:57+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
+    <id>tag:dev.to,2026:3373345</id>
+    <title>Congrats to the Winners of Our First DEV Weekend Challenge!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml"/>
+    <updated>2026-03-19T20:29:40+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T20:26:57Z&lt;br/&gt;Tags: ai, devchallenge, weekendchallenge, webdev&lt;br/&gt;Description: It&apos;s time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3340573</id>
@@ -1230,13 +1237,6 @@
     <link rel="alternate" href="https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee"/>
     <updated>2026-01-24T04:05:48+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3373345</id>
-    <title>Congrats to the Winners of Our First DEV Weekend Challenge!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml"/>
-    <updated>2026-03-19T20:29:40+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T20:26:57Z&lt;br/&gt;Tags: ai, devchallenge, weekendchallenge, webdev&lt;br/&gt;Description: It&apos;s time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3305277</id>
