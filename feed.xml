@@ -39,7 +39,7 @@
     <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
     <updated>2026-03-16T06:35:16+00:00</updated>
-    <summary type="html">Reactions: public 223 / positive 223&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
+    <summary type="html">Reactions: public 224 / positive 224&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3228463</id>
@@ -581,18 +581,18 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T05:55:08Z&lt;br/&gt;Tags: chatgpt, programming, javascript, java&lt;br/&gt;Description: I used Claude to write a function last week. Took thirty seconds. Would&apos;ve taken me twenty...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3363513</id>
+    <title>What&apos;s in your headphones when you code? 🎧</title>
+    <link rel="alternate" href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4"/>
+    <updated>2026-03-17T14:37:22+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T14:37:22Z&lt;br/&gt;Tags: discuss, watercooler&lt;br/&gt;Description: Let&apos;s revisit this conversation!  What music, soundtracks, podcasts, etc do you listen to and is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3241863</id>
     <title>ASCII Whisper: Local P2P Chat with Sound FX and Battleship</title>
     <link rel="alternate" href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7"/>
     <updated>2026-02-11T00:29:42+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T00:29:42Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a group submission for the GitHub Copilot CLI Challenge           What We Built...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3363513</id>
-    <title>What&apos;s in your headphones when you code? 🎧</title>
-    <link rel="alternate" href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4"/>
-    <updated>2026-03-17T14:37:22+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T14:37:22Z&lt;br/&gt;Tags: discuss, watercooler&lt;br/&gt;Description: Let&apos;s revisit this conversation!  What music, soundtracks, podcasts, etc do you listen to and is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3298739</id>
@@ -1078,6 +1078,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:44:30Z&lt;br/&gt;Tags: webdev, ai, javascript, programming&lt;br/&gt;Description: Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3369583</id>
+    <title>Should RubyGems/Bundler Have a Cooldown Feature?</title>
+    <link rel="alternate" href="https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"/>
+    <updated>2026-03-19T09:56:52+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hsbt&quot;&gt;SHIBATA Hiroshi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T01:45:21Z&lt;br/&gt;Tags: ruby, security, supplychainsecurity, packaging&lt;br/&gt;Description: I&apos;m Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3356288</id>
     <title>The Secret Life of Claude Code: Reading Code You Didn&apos;t Write</title>
     <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb"/>
@@ -1160,13 +1167,6 @@
     <link rel="alternate" href="https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b"/>
     <updated>2026-02-06T08:30:15+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3369583</id>
-    <title>Should RubyGems/Bundler Have a Cooldown Feature?</title>
-    <link rel="alternate" href="https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"/>
-    <updated>2026-03-19T09:56:52+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hsbt&quot;&gt;SHIBATA Hiroshi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T01:45:21Z&lt;br/&gt;Tags: ruby, security, supplychainsecurity, packaging&lt;br/&gt;Description: I&apos;m Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3369331</id>
@@ -1344,6 +1344,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3373361</id>
+    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community!</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
+    <updated>2026-03-20T23:34:58+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3368026</id>
     <title>When Projects Fail: Why Companies Should Treat Open Source as Infrastructure</title>
     <link rel="alternate" href="https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0"/>
@@ -1391,13 +1398,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-3k8n"/>
     <updated>2026-01-16T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-01-16T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3373361</id>
-    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community!</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
-    <updated>2026-03-20T23:34:58+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3307073</id>
