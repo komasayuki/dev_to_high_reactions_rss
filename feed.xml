@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-23T18:02:25+00:00</updated>
+  <updated>2026-03-23T18:43:32+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -490,6 +490,13 @@
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T12:54:52Z&lt;br/&gt;Tags: javascript, webgpu, webdev, react&lt;br/&gt;Description: WebGPU is the hot topic right now. A brand-new web API that will most likely replace WebGL sooner...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3333073</id>
+    <title>Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)</title>
+    <link rel="alternate" href="https://dev.to/fransborges/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0"/>
+    <updated>2026-03-23T18:43:32+00:00</updated>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fransborges&quot;&gt;Fran Borges&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T16:20:34Z&lt;br/&gt;Tags: ai, productivity, beginners, braziliandevs&lt;br/&gt;Description: Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3274227</id>
     <title>I feel lost on AI</title>
     <link rel="alternate" href="https://dev.to/therogvarok/i-feel-lost-on-ai-367c"/>
@@ -635,13 +642,6 @@
     <link rel="alternate" href="https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg"/>
     <updated>2026-02-01T13:30:45+00:00</updated>
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T13:30:45Z&lt;br/&gt;Tags: programming, backend, developer, discuss&lt;br/&gt;Description: Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3333073</id>
-    <title>Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)</title>
-    <link rel="alternate" href="https://dev.to/fransborges/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0"/>
-    <updated>2026-03-23T18:02:25+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fransborges&quot;&gt;Fran Borges&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T16:20:34Z&lt;br/&gt;Tags: ai, productivity, beginners, braziliandevs&lt;br/&gt;Description: Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3258078</id>
@@ -1218,6 +1218,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3307073</id>
+    <title>Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps</title>
+    <link rel="alternate" href="https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp"/>
+    <updated>2026-03-21T15:54:31+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/giom_v&quot;&gt;Guillaume Vernade&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T17:48:19Z&lt;br/&gt;Tags: ai, vibecoding, gemini, promptengineering&lt;br/&gt;Description: You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1279,13 +1286,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3307073</id>
-    <title>Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps</title>
-    <link rel="alternate" href="https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp"/>
-    <updated>2026-03-21T15:54:31+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/giom_v&quot;&gt;Guillaume Vernade&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T17:48:19Z&lt;br/&gt;Tags: ai, vibecoding, gemini, promptengineering&lt;br/&gt;Description: You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3361017</id>
