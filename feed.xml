@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-23T18:43:32+00:00</updated>
+  <updated>2026-03-24T02:02:10+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -259,6 +259,13 @@
     <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3333073</id>
+    <title>Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)</title>
+    <link rel="alternate" href="https://dev.to/fransborges/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0"/>
+    <updated>2026-03-23T18:43:32+00:00</updated>
+    <summary type="html">Reactions: public 113 / positive 113&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fransborges&quot;&gt;Fran Borges&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T16:20:34Z&lt;br/&gt;Tags: ai, productivity, beginners, braziliandevs&lt;br/&gt;Description: Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3240298</id>
     <title>Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.</title>
     <link rel="alternate" href="https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82"/>
@@ -376,13 +383,6 @@
     <link rel="alternate" href="https://dev.to/art_light/prompt-engineering-is-a-symptom-and-thats-okay-3d4l"/>
     <updated>2026-01-18T19:58:27+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-01-17T17:52:47Z&lt;br/&gt;Tags: ai, programming, promptengineering, discuss&lt;br/&gt;Description: Or: what this book actually teaches if you read it like an engineer, not a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3333073</id>
-    <title>Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)</title>
-    <link rel="alternate" href="https://dev.to/fransborges/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0"/>
-    <updated>2026-03-23T18:43:32+00:00</updated>
-    <summary type="html">Reactions: public 96 / positive 96&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fransborges&quot;&gt;Fran Borges&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T16:20:34Z&lt;br/&gt;Tags: ai, productivity, beginners, braziliandevs&lt;br/&gt;Description: Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3252512</id>
@@ -868,6 +868,13 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-03T04:48:49Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: An AI researcher told me something that won&apos;t leave my head:   &quot;If a human cannot outperform or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3373361</id>
+    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community!</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
+    <updated>2026-03-20T23:34:58+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3377401</id>
     <title>Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover</title>
     <link rel="alternate" href="https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie"/>
@@ -894,13 +901,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc"/>
     <updated>2026-02-10T17:03:23+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3373361</id>
-    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community!</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
-    <updated>2026-03-20T23:34:58+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3293242</id>
@@ -1071,6 +1071,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T14:51:47Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3369331</id>
+    <title>Anki On My Wrist</title>
+    <link rel="alternate" href="https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6"/>
+    <updated>2026-03-18T23:28:43+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matheusmaldaner&quot;&gt;Matheus Kunzler Maldaner&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T23:28:43Z&lt;br/&gt;Tags: learning, productivity, showdev, ai&lt;br/&gt;Description: I&apos;ve long been interested in &quot;learning how to learn&quot; and have long been annoyed by how I have grown...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3356288</id>
     <title>The Secret Life of Claude Code: Reading Code You Didn&apos;t Write</title>
     <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb"/>
@@ -1099,11 +1106,11 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T03:55:45Z&lt;br/&gt;Tags: discuss, programming, webdev, javascript&lt;br/&gt;Description: Let me ask you something uncomfortable: When was the last time you wrote a piece of code entirely...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3369331</id>
-    <title>Anki On My Wrist</title>
-    <link rel="alternate" href="https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6"/>
-    <updated>2026-03-18T23:28:43+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matheusmaldaner&quot;&gt;Matheus Kunzler Maldaner&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T23:28:43Z&lt;br/&gt;Tags: learning, productivity, showdev, ai&lt;br/&gt;Description: I&apos;ve long been interested in &quot;learning how to learn&quot; and have long been annoyed by how I have grown...</summary>
+    <id>tag:dev.to,2026:3307073</id>
+    <title>Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps</title>
+    <link rel="alternate" href="https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp"/>
+    <updated>2026-03-21T15:54:31+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/giom_v&quot;&gt;Guillaume Vernade&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T17:48:19Z&lt;br/&gt;Tags: ai, vibecoding, gemini, promptengineering&lt;br/&gt;Description: You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3367601</id>
@@ -1225,13 +1232,6 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3307073</id>
-    <title>Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps</title>
-    <link rel="alternate" href="https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp"/>
-    <updated>2026-03-21T15:54:31+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/giom_v&quot;&gt;Guillaume Vernade&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T17:48:19Z&lt;br/&gt;Tags: ai, vibecoding, gemini, promptengineering&lt;br/&gt;Description: You might already know Google AI Studio as a sandbox to play with the Deepmind models and tinker with...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1293,6 +1293,13 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3391635</id>
+    <title>Construí um gerador de playlists no Spotify com Claude</title>
+    <link rel="alternate" href="https://dev.to/leugarcez/construi-um-gerador-de-playlists-no-spotify-com-claude-18ge"/>
+    <updated>2026-03-24T02:02:10+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/leugarcez&quot;&gt;Leo Garcez&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T02:01:08Z&lt;br/&gt;Tags: ai, api, nextjs, braziliandevs&lt;br/&gt;Description: Eu queria digitar “noite chuvosa, meio melancólica” e receber uma playlist perfeita. Então eu...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3354708</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
     <updated>2026-02-24T12:02:47+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3208919</id>
-    <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
-    <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
-    <updated>2026-02-06T14:18:55+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
   </entry>
 </feed>
