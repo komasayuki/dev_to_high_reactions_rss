@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-24T14:55:19+00:00</updated>
+  <updated>2026-03-24T20:59:23+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -315,6 +315,13 @@
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T09:42:34Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: I glanced at my browser tabs this morning. Twenty tabs open. Every single one was either Claude or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3373361</id>
+    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community! 💡</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
+    <updated>2026-03-24T14:55:19+00:00</updated>
+    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3207153</id>
     <title>The Internet’s Addiction to Being Contrary</title>
     <link rel="alternate" href="https://dev.to/richardpascoe/the-internets-addiction-to-being-contrary-42ni"/>
@@ -369,13 +376,6 @@
     <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
     <updated>2026-02-13T09:21:11+00:00</updated>
     <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3373361</id>
-    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community! 💡</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
-    <updated>2026-03-24T14:55:19+00:00</updated>
-    <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3301870</id>
@@ -826,6 +826,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/agastya_khati_f72c89077c8&quot;&gt;Agastya Khati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:50:57Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3377401</id>
+    <title>Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover</title>
+    <link rel="alternate" href="https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie"/>
+    <updated>2026-03-20T15:44:39+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:44:30Z&lt;br/&gt;Tags: webdev, ai, javascript, programming&lt;br/&gt;Description: Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3250014</id>
     <title>I Built a SaaS in 30 Days. Here’s Exactly What Happened.</title>
     <link rel="alternate" href="https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8"/>
@@ -838,13 +845,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp"/>
     <updated>2026-01-26T19:07:28+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3377401</id>
-    <title>Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover</title>
-    <link rel="alternate" href="https://dev.to/googleai/vandalizing-my-own-wikipedia-experience-a-90s-cyberpunk-geocities-makeover-13ie"/>
-    <updated>2026-03-20T15:44:39+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:44:30Z&lt;br/&gt;Tags: webdev, ai, javascript, programming&lt;br/&gt;Description: Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3322125</id>
@@ -1055,6 +1055,13 @@
     <link rel="alternate" href="https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih"/>
     <updated>2026-01-27T03:50:00+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T03:50:00Z&lt;br/&gt;Tags: ai, programming, productivity, webdev&lt;br/&gt;Description: AI is everywhere in developer spaces right now, but most posts stop at excitement or fear.  This is...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3376535</id>
+    <title>Deploying AG-UI Agents to Production with Amazon Bedrock AgentCore</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/deploying-ag-ui-agents-to-production-with-amazon-bedrock-agentcore-3ok0"/>
+    <updated>2026-03-24T20:59:23+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T17:00:06Z&lt;br/&gt;Tags: backend, tutorial, aws, agents&lt;br/&gt;Description: The Agent-User Interaction Protocol (AG-UI) standardizes how AI agents communicate with user...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3309203</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
     <updated>2026-02-24T12:02:47+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3208919</id>
-    <title>Welcome to The Foundation: Preserving Developer Knowledge in Public</title>
-    <link rel="alternate" href="https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842"/>
-    <updated>2026-02-06T14:18:55+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
   </entry>
 </feed>
