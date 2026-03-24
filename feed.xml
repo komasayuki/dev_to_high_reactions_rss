@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-24T02:02:10+00:00</updated>
+  <updated>2026-03-24T13:31:54+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -207,7 +207,7 @@
     <title>AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It</title>
     <link rel="alternate" href="https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6"/>
     <updated>2026-03-18T12:33:01+00:00</updated>
-    <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
+    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3266739</id>
@@ -539,6 +539,13 @@
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T01:09:15Z&lt;br/&gt;Tags: stripe, networking, watercooler, eventsinyourcity&lt;br/&gt;Description: The &quot;Alien&quot; Leaves the Ship   If you read my last post, you know my struggle. I’ve spent a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3373361</id>
+    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community!</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
+    <updated>2026-03-20T23:34:58+00:00</updated>
+    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3363513</id>
     <title>What&apos;s in your headphones when you code? 🎧</title>
     <link rel="alternate" href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4"/>
@@ -621,13 +628,6 @@
     <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-skill-is-not-what-you-think-it-is-5045"/>
     <updated>2026-03-05T02:47:24+00:00</updated>
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T02:47:24Z&lt;br/&gt;Tags: claudecode, softwaredevelopment, coding, programming&lt;br/&gt;Description: What AI-Assisted Coding Actually Means for Your Career — and Why the News Is Better Than You...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3373361</id>
-    <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community!</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
-    <updated>2026-03-20T23:34:58+00:00</updated>
-    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3327960</id>
@@ -796,6 +796,13 @@
     <link rel="alternate" href="https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh"/>
     <updated>2026-01-25T17:30:59+00:00</updated>
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T06:24:15Z&lt;br/&gt;Tags: googlecloud, career, productivity&lt;br/&gt;Description: First of all, if you haven’t participated in the google AI challenge, please do so right now. Not for...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3391635</id>
+    <title>Construí um gerador de playlists no Spotify com Claude</title>
+    <link rel="alternate" href="https://dev.to/leugarcez/construi-um-gerador-de-playlists-no-spotify-com-claude-18ge"/>
+    <updated>2026-03-24T13:31:54+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/leugarcez&quot;&gt;Leo Garcez&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T02:01:08Z&lt;br/&gt;Tags: ai, api, nextjs, braziliandevs&lt;br/&gt;Description: Eu queria digitar “noite chuvosa, meio melancólica” e receber uma playlist perfeita. Então eu...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3344810</id>
@@ -1078,13 +1085,6 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-01-19T14:51:47Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from last week&apos;s thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3391635</id>
-    <title>Construí um gerador de playlists no Spotify com Claude</title>
-    <link rel="alternate" href="https://dev.to/leugarcez/construi-um-gerador-de-playlists-no-spotify-com-claude-18ge"/>
-    <updated>2026-03-24T02:02:10+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/leugarcez&quot;&gt;Leo Garcez&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T02:01:08Z&lt;br/&gt;Tags: ai, api, nextjs, braziliandevs&lt;br/&gt;Description: Eu queria digitar “noite chuvosa, meio melancólica” e receber uma playlist perfeita. Então eu...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3369331</id>
     <title>Anki On My Wrist</title>
     <link rel="alternate" href="https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6"/>
@@ -1239,6 +1239,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/depapp&quot;&gt;depa panjie purnama&lt;/a&gt;&lt;br/&gt;Published: 2026-01-24T04:05:48Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3309047</id>
+    <title>What was your win this week??</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-35ja"/>
+    <updated>2026-03-20T15:41:43+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:41:43Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1300,13 +1307,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/how-i-automate-api-testing-using-claude-code-16ka"/>
     <updated>2026-01-26T12:49:48+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3309047</id>
-    <title>What was your win this week??</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-35ja"/>
-    <updated>2026-03-20T15:41:43+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:41:43Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3354708</id>
