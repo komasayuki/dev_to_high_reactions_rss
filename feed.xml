@@ -207,7 +207,7 @@
     <title>AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It</title>
     <link rel="alternate" href="https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6"/>
     <updated>2026-03-18T12:33:01+00:00</updated>
-    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
+    <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:31:04Z&lt;br/&gt;Tags: ai, webdev, javascript, career&lt;br/&gt;Description: Six months ago, my team was celebrating.  We had shipped more features in Q3 than in the entire...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3266739</id>
@@ -910,18 +910,18 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3367901</id>
+    <title>How to Stop Babysitting Your AI Agents</title>
+    <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
+    <updated>2026-03-19T18:05:05+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3293242</id>
     <title>AI Ate the Homework: What Communities Are Actually For Now</title>
     <link rel="alternate" href="https://bekahhw.com/ai-impact-on-community"/>
     <updated>2026-03-01T23:23:15+00:00</updated>
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bekahhw&quot;&gt;BekahHW&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T22:05:16Z&lt;br/&gt;Tags: ai, community&lt;br/&gt;Description: Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here&apos;s what the shift means for community builders and members.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3367901</id>
-    <title>How to Stop Babysitting Your AI Agents</title>
-    <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
-    <updated>2026-03-19T18:05:05+00:00</updated>
-    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3345524</id>
@@ -1316,6 +1316,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T11:59:30Z&lt;br/&gt;Tags: webdev, programming, api, ai&lt;br/&gt;Description: Running API tests manually is frustrating. You dig through folders, hunt for the right test scripts,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3368026</id>
+    <title>When Projects Fail: Why Companies Should Treat Open Source as Infrastructure</title>
+    <link rel="alternate" href="https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0"/>
+    <updated>2026-03-18T14:39:24+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/katcosgrove&quot;&gt;Kat Cosgrove&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T14:39:24Z&lt;br/&gt;Tags: opensource, security, kubernetes, devops&lt;br/&gt;Description: Maintaining an open source project is hard. It requires managing a group of people who are largely...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3354708</id>
     <title>I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)</title>
     <link rel="alternate" href="https://dev.to/balkaran/synapse-the-autonomous-ai-developer-shield-built-with-notion-mcp-5f0j"/>
@@ -1349,13 +1356,6 @@
     <link rel="alternate" href="https://dev.to/sivarampg/you-dont-need-a-mac-mini-to-run-clawdbot-heres-how-to-run-it-anywhere-217l"/>
     <updated>2026-01-27T16:03:24+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3368026</id>
-    <title>When Projects Fail: Why Companies Should Treat Open Source as Infrastructure</title>
-    <link rel="alternate" href="https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0"/>
-    <updated>2026-03-18T14:39:24+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/katcosgrove&quot;&gt;Kat Cosgrove&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T14:39:24Z&lt;br/&gt;Tags: opensource, security, kubernetes, devops&lt;br/&gt;Description: Maintaining an open source project is hard. It requires managing a group of people who are largely...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282500</id>
