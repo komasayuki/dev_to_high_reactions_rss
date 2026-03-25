@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-25T13:14:40+00:00</updated>
+  <updated>2026-03-25T15:50:49+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -214,7 +214,7 @@
     <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community! 💡</title>
     <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
     <updated>2026-03-24T14:55:19+00:00</updated>
-    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
+    <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3266739</id>
@@ -1022,6 +1022,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-01-20T18:30:58Z&lt;br/&gt;Tags: career, software, learning, development&lt;br/&gt;Description: Many of us have heard this quote before: Real Learning Starts After Graduation For me it started just...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3403502</id>
+    <title>your agent can think. it can&apos;t remember.</title>
+    <link rel="alternate" href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o"/>
+    <updated>2026-03-25T15:50:49+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ghostdotbuild&quot;&gt;ghost&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:01:56Z&lt;br/&gt;Tags: ai, mcp, postgres, agents&lt;br/&gt;Description: TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205511</id>
     <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/thebitforge/25-developer-tools-i-wish-i-knew-when-i-started-coding-1no0"/>
     <updated>2026-02-12T04:52:56+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T04:50:04Z&lt;br/&gt;Tags: ai, programming, productivity, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3200961</id>
-    <title>GitHub Copilot CLI Challenge: &apos;The Linux Compass&apos;</title>
-    <link rel="alternate" href="https://dev.to/maame-codes/github-copilot-cli-challenge-the-linux-compass-3j9o"/>
-    <updated>2026-01-27T07:21:14+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T07:21:14Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built The Linux...</summary>
   </entry>
 </feed>
