@@ -224,6 +224,13 @@
     <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T20:34:23Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, gemini, career&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the New Year, New You Portfolio...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3333073</id>
+    <title>Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)</title>
+    <link rel="alternate" href="https://dev.to/fransborges/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0"/>
+    <updated>2026-03-25T13:14:40+00:00</updated>
+    <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fransborges&quot;&gt;Fran Borges&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T16:20:34Z&lt;br/&gt;Tags: ai, productivity, beginners, braziliandevs&lt;br/&gt;Description: Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3336670</id>
     <title>Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark &amp; Demo🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i"/>
@@ -243,13 +250,6 @@
     <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"/>
     <updated>2026-02-20T20:46:39+00:00</updated>
     <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T14:22:05Z&lt;br/&gt;Tags: react, programming, javascript, tutorial&lt;br/&gt;Description: LangChain&apos;s Deep Agents provide a new way to build structured, multi-agent systems that can plan,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3333073</id>
-    <title>Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)</title>
-    <link rel="alternate" href="https://dev.to/fransborges/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0"/>
-    <updated>2026-03-25T13:14:40+00:00</updated>
-    <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fransborges&quot;&gt;Fran Borges&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T16:20:34Z&lt;br/&gt;Tags: ai, productivity, beginners, braziliandevs&lt;br/&gt;Description: Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3352107</id>
@@ -1372,6 +1372,20 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T06:29:48Z&lt;br/&gt;Tags: productivity, clawd, ai, automation&lt;br/&gt;Description: Clawdbot is taking the tech world by storm. If you&apos;ve been on Twitter, Reddit, or tech blogs lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3378072</id>
+    <title>Why hiring junior developers pays off more than you think (I’ve lived it firsthand)</title>
+    <link rel="alternate" href="https://dev.to/javz/why-hiring-junior-developers-pays-off-more-than-you-think-ive-lived-it-firsthand-1lg2"/>
+    <updated>2026-03-25T12:56:27+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T12:56:27Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           A trip down...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3391274</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2"/>
+    <updated>2026-03-24T19:57:22+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:57:22Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3392075</id>
     <title>Check Up with Each Other</title>
     <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe"/>
     <updated>2026-02-24T23:44:05+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T23:44:05Z&lt;br/&gt;Tags: fun, http, python, webdev&lt;br/&gt;Description: HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3276698</id>
-    <title>Ashkan Rajaee on Negotiating with Decision Makers, Influencers, and Signatories</title>
-    <link rel="alternate" href="https://techstratos3.wordpress.com/2026/02/22/negotiating-with-decision-makers-influencers-and-signatories/"/>
-    <updated>2026-02-24T02:35:00+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T02:35:00Z&lt;br/&gt;Tags: negotiation, leadership, business, sales&lt;br/&gt;Description: Most professionals think negotiation is about persuasion.  That assumption quietly destroys...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3268368</id>
-    <title>The future belongs to those who can refute AI, not just generate with AI</title>
-    <link rel="alternate" href="https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0"/>
-    <updated>2026-02-19T13:42:20+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shrsv&quot;&gt;Shrijith Venkatramana&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:36:54Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: The assumption in software engineering circles has been that if AI lets us write code faster, we will...</summary>
   </entry>
 </feed>
