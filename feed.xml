@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-25T15:50:49+00:00</updated>
+  <updated>2026-03-25T22:23:12+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -133,13 +133,6 @@
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:41:43Z&lt;br/&gt;Tags: devchallenge, geminireflections, gemini, ai&lt;br/&gt;Description: Last week, we announced that DEV has joined Major League Hacking. To kick things off, we&apos;re launching...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3180295</id>
-    <title>🔥 Claude Opus 4.5 vs GPT 5.2 High vs Gemini 3 Pro: Production Coding Test ✅</title>
-    <link rel="alternate" href="https://www.tensorlake.ai/blog/gpt5.2-codex-high-vs-opus-4.5-vs-gemini-3-pro"/>
-    <updated>2026-01-18T12:41:12+00:00</updated>
-    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-01-18T12:41:12Z&lt;br/&gt;Tags: webdev, programming, javascript, ai&lt;br/&gt;Description: Okay, so right now the WebDev leaderboard on LMArena is basically owned by the big three: Claude Opus...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3172071</id>
     <title>The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)</title>
     <link rel="alternate" href="https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51"/>
@@ -186,7 +179,7 @@
     <title>your agent can think. it can&apos;t remember.</title>
     <link rel="alternate" href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o"/>
     <updated>2026-03-25T15:50:49+00:00</updated>
-    <summary type="html">Reactions: public 134 / positive 134&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ghostdotbuild&quot;&gt;ghost&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:01:56Z&lt;br/&gt;Tags: ai, mcp, postgres, agents&lt;br/&gt;Description: TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...</summary>
+    <summary type="html">Reactions: public 135 / positive 135&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ghostdotbuild&quot;&gt;ghost&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:01:56Z&lt;br/&gt;Tags: ai, mcp, postgres, agents&lt;br/&gt;Description: TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3367665</id>
@@ -207,7 +200,7 @@
     <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community! 💡</title>
     <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
     <updated>2026-03-24T14:55:19+00:00</updated>
-    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
+    <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282235</id>
@@ -1384,6 +1377,13 @@
     <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
     <updated>2026-03-24T19:11:48+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3392308</id>
+    <title>The Ultimate Job Finding-Management Tool</title>
+    <link rel="alternate" href="https://dev.to/annavi11arrea1/the-ultimate-job-finding-managment-tool-522i"/>
+    <updated>2026-03-25T22:23:12+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T03:05:20Z&lt;br/&gt;Tags: webdev, webscraping, ai, programming&lt;br/&gt;Description: I need to go to bed but I want to share my excitement before I crash. I built a tool finally to help...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282500</id>
