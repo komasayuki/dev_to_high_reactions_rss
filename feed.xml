@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-27T19:13:42+00:00</updated>
+  <updated>2026-03-28T16:29:57+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -728,6 +728,13 @@
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T11:04:06Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  So it is finally time to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3392075</id>
+    <title>Check Up with Each Other</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
+    <updated>2026-03-24T19:11:48+00:00</updated>
+    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3369046</id>
     <title>Congrats to the &quot;Built with Google Gemini: Writing Challenge&quot; Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6"/>
@@ -740,13 +747,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1m96"/>
     <updated>2026-03-06T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3392075</id>
-    <title>Check Up with Each Other</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
-    <updated>2026-03-24T19:11:48+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3309047</id>
@@ -1141,6 +1141,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-21T03:55:45Z&lt;br/&gt;Tags: discuss, programming, webdev, javascript&lt;br/&gt;Description: Let me ask you something uncomfortable: When was the last time you wrote a piece of code entirely...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3420414</id>
+    <title>Will AI Replace Software Developers?</title>
+    <link rel="alternate" href="https://dev.to/empiree/will-ai-replace-software-developers-1fo0"/>
+    <updated>2026-03-28T16:29:57+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/empiree&quot;&gt;Oleg Dubovoi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T16:29:57Z&lt;br/&gt;Tags: ai, programming, discuss, news&lt;br/&gt;Description: Lately, the question “Will AI replace us?” has worried many people. We can see how LLMs handle...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3367601</id>
     <title>POO Além do Código #2: Encapsulamento (A Caixa Preta)</title>
     <link rel="alternate" href="https://dev.to/bruno_freschi/poo-alem-do-codigo-2-encapsulamento-a-caixa-preta-p05"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/stop-ignoring-rfc-2324-its-the-most-important-protocol-youve-never-implemented-53pe"/>
     <updated>2026-02-24T23:44:05+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T23:44:05Z&lt;br/&gt;Tags: fun, http, python, webdev&lt;br/&gt;Description: HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3276698</id>
-    <title>Ashkan Rajaee on Negotiating with Decision Makers, Influencers, and Signatories</title>
-    <link rel="alternate" href="https://techstratos3.wordpress.com/2026/02/22/negotiating-with-decision-makers-influencers-and-signatories/"/>
-    <updated>2026-02-24T02:35:00+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T02:35:00Z&lt;br/&gt;Tags: negotiation, leadership, business, sales&lt;br/&gt;Description: Most professionals think negotiation is about persuasion.  That assumption quietly destroys...</summary>
   </entry>
 </feed>
