@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-29T08:04:00+00:00</updated>
+  <updated>2026-03-29T17:45:10+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -203,6 +203,13 @@
     <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ismail9k&quot;&gt;Abdelrahman Ismail&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T20:11:41Z&lt;br/&gt;Tags: ai, programming, development&lt;br/&gt;Description: I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3381788</id>
+    <title>How I Almost Burned Out Doing Everything “Right”</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/how-i-almost-burned-out-doing-everything-right-31j6"/>
+    <updated>2026-03-26T08:51:08+00:00</updated>
+    <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T08:51:08Z&lt;br/&gt;Tags: discuss, career, productivity, mentalhealth&lt;br/&gt;Description: Today I wanted to write a philosophical essay about AI. Or maybe something more technical. But once...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3262537</id>
     <title>The most valuable skill in 2026 isn&apos;t writing code. It is deleting it.</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1"/>
@@ -215,13 +222,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h"/>
     <updated>2026-02-19T20:36:47+00:00</updated>
     <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T20:34:23Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, gemini, career&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the New Year, New You Portfolio...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3381788</id>
-    <title>How I Almost Burned Out Doing Everything “Right”</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/how-i-almost-burned-out-doing-everything-right-31j6"/>
-    <updated>2026-03-26T08:51:08+00:00</updated>
-    <summary type="html">Reactions: public 122 / positive 122&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T08:51:08Z&lt;br/&gt;Tags: discuss, career, productivity, mentalhealth&lt;br/&gt;Description: Today I wanted to write a philosophical essay about AI. Or maybe something more technical. But once...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3336670</id>
@@ -378,18 +378,18 @@
     <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3420414</id>
+    <title>Will AI Replace Software Developers?</title>
+    <link rel="alternate" href="https://dev.to/empiree/will-ai-replace-software-developers-1fo0"/>
+    <updated>2026-03-28T16:29:57+00:00</updated>
+    <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/empiree&quot;&gt;Oleg Dubovoi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T16:29:57Z&lt;br/&gt;Tags: ai, programming, discuss, news&lt;br/&gt;Description: Lately, the question “Will AI replace us?” has worried many people. We can see how LLMs handle...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3301870</id>
     <title>Missing My Coworker Jason Today</title>
     <link rel="alternate" href="https://dev.to/art_light/missing-my-coworker-jason-today-23h3"/>
     <updated>2026-03-02T14:17:15+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3420414</id>
-    <title>Will AI Replace Software Developers?</title>
-    <link rel="alternate" href="https://dev.to/empiree/will-ai-replace-software-developers-1fo0"/>
-    <updated>2026-03-28T16:29:57+00:00</updated>
-    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/empiree&quot;&gt;Oleg Dubovoi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T16:29:57Z&lt;br/&gt;Tags: ai, programming, discuss, news&lt;br/&gt;Description: Lately, the question “Will AI replace us?” has worried many people. We can see how LLMs handle...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3252512</id>
@@ -1008,6 +1008,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T03:59:37Z&lt;br/&gt;Tags: remotework, startup, entrepreneurship, leadership&lt;br/&gt;Description: Lessons That Only Appear After Years of Trial and Error   Remote work is often marketed as...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3422569</id>
+    <title>Meet Zhu Li: The AI Agent That Manages Your Notion Workspace From Any Channel</title>
+    <link rel="alternate" href="https://dev.to/miracleio/i-can-now-chat-with-my-notion-on-imessage-2e46"/>
+    <updated>2026-03-29T17:45:10+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3205511</id>
     <title>Your MCP Setup Probably Needs a Gateway. Here’s What I Learned</title>
     <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://techstratos3.wordpress.com/2026/02/22/negotiating-with-decision-makers-influencers-and-signatories/"/>
     <updated>2026-02-24T02:35:00+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T02:35:00Z&lt;br/&gt;Tags: negotiation, leadership, business, sales&lt;br/&gt;Description: Most professionals think negotiation is about persuasion.  That assumption quietly destroys...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3268368</id>
-    <title>The future belongs to those who can refute AI, not just generate with AI</title>
-    <link rel="alternate" href="https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0"/>
-    <updated>2026-02-19T13:42:20+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shrsv&quot;&gt;Shrijith Venkatramana&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:36:54Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: The assumption in software engineering circles has been that if AI lets us write code faster, we will...</summary>
   </entry>
 </feed>
