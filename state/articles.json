@@ -235,50 +235,6 @@
       "last_seen": "2026-01-28T09:19:55.641934800+00:00"
     },
     {
-      "key": "3186498",
-      "id": 3186498,
-      "canonical_url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
-      "url": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
-      "title": "The Secret Life of JavaScript: The Garbage Collector",
-      "description": "How memory leaks happen and how the Mark-and-Sweep algorithm works.     Timothy was staring at the...",
-      "published_timestamp": "2026-01-21T03:46:54Z",
-      "published_at": "2026-01-21T03:46:54Z",
-      "edited_at": null,
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
-      "tag_list": [
-        "javascript",
-        "coding",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "user_name": "Aaron Rose",
-      "user_username": "aaron_rose_0787cc8b4775a0",
-      "last_seen": "2026-01-28T03:44:12.679062115+00:00"
-    },
-    {
-      "key": "3186504",
-      "id": 3186504,
-      "canonical_url": "https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk",
-      "url": "https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk",
-      "title": "Are We All Just Copying Code and Pretending We Know What We're Doing?",
-      "description": "Let me ask you something uncomfortable: When was the last time you wrote a piece of code entirely...",
-      "published_timestamp": "2026-01-21T03:55:45Z",
-      "published_at": "2026-01-21T03:55:45Z",
-      "edited_at": null,
-      "public_reactions_count": 56,
-      "positive_reactions_count": 56,
-      "tag_list": [
-        "discuss",
-        "programming",
-        "webdev",
-        "javascript"
-      ],
-      "user_name": "TheBitForge",
-      "user_username": "thebitforge",
-      "last_seen": "2026-01-28T03:44:12.679062115+00:00"
-    },
-    {
       "key": "3187669",
       "id": 3187669,
       "canonical_url": "https://dev.to/hadil/the-small-details-that-make-a-website-feel-finished-and-quietly-improve-accessibility-4jkp",
@@ -288,8 +244,8 @@
       "published_timestamp": "2026-03-26T07:39:13Z",
       "published_at": "2026-03-26T07:39:13Z",
       "edited_at": null,
-      "public_reactions_count": 97,
-      "positive_reactions_count": 97,
+      "public_reactions_count": 102,
+      "positive_reactions_count": 102,
       "tag_list": [
         "webdev",
         "programming",
@@ -298,7 +254,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3188213",
@@ -6399,7 +6355,7 @@
       ],
       "user_name": "Sloan the DEV Moderator",
       "user_username": "sloan",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3308985",
@@ -7457,7 +7413,7 @@
       ],
       "user_name": "Fran Borges",
       "user_username": "fransborges",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3333279",
@@ -8025,7 +7981,7 @@
       ],
       "user_name": "Carla Urrea Stabile",
       "user_username": "carlastabile",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3344810",
@@ -9280,7 +9236,7 @@
       ],
       "user_name": "Cesar Aguirre",
       "user_username": "canro91",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3370078",
@@ -9519,7 +9475,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3381788",
@@ -9531,8 +9487,8 @@
       "published_timestamp": "2026-03-26T08:51:08Z",
       "published_at": "2026-03-26T08:51:08Z",
       "edited_at": null,
-      "public_reactions_count": 91,
-      "positive_reactions_count": 91,
+      "public_reactions_count": 92,
+      "positive_reactions_count": 92,
       "tag_list": [
         "discuss",
         "career",
@@ -9541,7 +9497,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3385668",
@@ -9563,7 +9519,7 @@
       ],
       "user_name": "Waseem raja Shaik",
       "user_username": "waseemrajashaik",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3385945",
@@ -9585,7 +9541,7 @@
       ],
       "user_name": "Fernando Fornieles",
       "user_username": "nandofm",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3388695",
@@ -9628,7 +9584,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3391274",
@@ -9648,7 +9604,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3391635",
@@ -9670,7 +9626,7 @@
       ],
       "user_name": "Leo Garcez",
       "user_username": "leugarcez",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3391682",
@@ -9692,7 +9648,7 @@
       ],
       "user_name": "Syed Ahmer Shah",
       "user_username": "syedahmershah",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3391820",
@@ -9714,7 +9670,7 @@
       ],
       "user_name": "Gavin Cettolo",
       "user_username": "gavincettolo",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3392075",
@@ -9726,8 +9682,8 @@
       "published_timestamp": "2026-03-24T19:07:08Z",
       "published_at": "2026-03-24T19:07:08Z",
       "edited_at": "2026-03-24T19:11:48Z",
-      "public_reactions_count": 70,
-      "positive_reactions_count": 70,
+      "public_reactions_count": 71,
+      "positive_reactions_count": 71,
       "tag_list": [
         "devchallenge",
         "wecoded",
@@ -9736,7 +9692,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3392308",
@@ -9758,7 +9714,7 @@
       ],
       "user_name": "Anna Villarreal",
       "user_username": "annavi11arrea1",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3395533",
@@ -9780,7 +9736,7 @@
       ],
       "user_name": "Jonathan Murray",
       "user_username": "jon_at_backboardio",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3395557",
@@ -9792,8 +9748,8 @@
       "published_timestamp": "2026-03-24T15:00:44Z",
       "published_at": "2026-03-24T15:00:44Z",
       "edited_at": null,
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
+      "public_reactions_count": 34,
+      "positive_reactions_count": 34,
       "tag_list": [
         "webdev",
         "discuss",
@@ -9802,7 +9758,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3395745",
@@ -9824,7 +9780,7 @@
       ],
       "user_name": "Helder Burato Berto",
       "user_username": "helderberto",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3396695",
@@ -9846,7 +9802,7 @@
       ],
       "user_name": "Arthur Kirby",
       "user_username": "arthur_kirby_f66568779ac5",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3400005",
@@ -9868,7 +9824,7 @@
       ],
       "user_name": "Jimmy Utterström",
       "user_username": "jimutt",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3400377",
@@ -9890,7 +9846,7 @@
       ],
       "user_name": "klement Gunndu",
       "user_username": "klement_gunndu",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3402293",
@@ -9912,7 +9868,7 @@
       ],
       "user_name": "klement Gunndu",
       "user_username": "klement_gunndu",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3403502",
@@ -9934,7 +9890,7 @@
       ],
       "user_name": "ghost",
       "user_username": "ghostdotbuild",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3404117",
@@ -9956,7 +9912,7 @@
       ],
       "user_name": "Matt Cool",
       "user_username": "matthewbcool",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3404339",
@@ -9978,7 +9934,7 @@
       ],
       "user_name": "Konark Sharma",
       "user_username": "konark_13",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3404686",
@@ -10000,7 +9956,7 @@
       ],
       "user_name": "Jono Herrington",
       "user_username": "jonoherrington",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3407081",
@@ -10022,7 +9978,7 @@
       ],
       "user_name": "Habib Jutt",
       "user_username": "habibjutt",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3408110",
@@ -10043,7 +9999,7 @@
       ],
       "user_name": "Ali Raza",
       "user_username": "aliirz",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3408865",
@@ -10065,7 +10021,7 @@
       ],
       "user_name": "marcosomma",
       "user_username": "marcosomma",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3410004",
@@ -10087,7 +10043,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3410120",
@@ -10109,7 +10065,7 @@
       ],
       "user_name": "Jonathan Murray",
       "user_username": "jon_at_backboardio",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3410327",
@@ -10153,7 +10109,7 @@
       ],
       "user_name": "Souvik Biswas",
       "user_username": "sbis04",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3411178",
@@ -10175,7 +10131,7 @@
       ],
       "user_name": "Morgan Willis",
       "user_username": "morganwilliscloud",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3416041",
@@ -10197,7 +10153,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3416677",
@@ -10209,8 +10165,8 @@
       "published_timestamp": "2026-03-27T19:07:08Z",
       "published_at": "2026-03-27T19:07:08Z",
       "edited_at": "2026-03-27T19:13:42Z",
-      "public_reactions_count": 56,
-      "positive_reactions_count": 56,
+      "public_reactions_count": 60,
+      "positive_reactions_count": 60,
       "tag_list": [
         "devchallenge",
         "notionchallenge",
@@ -10219,7 +10175,7 @@
       ],
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     },
     {
       "key": "3420414",
@@ -10231,8 +10187,8 @@
       "published_timestamp": "2026-03-28T16:29:57Z",
       "published_at": "2026-03-28T16:29:57Z",
       "edited_at": null,
-      "public_reactions_count": 59,
-      "positive_reactions_count": 59,
+      "public_reactions_count": 60,
+      "positive_reactions_count": 60,
       "tag_list": [
         "ai",
         "programming",
@@ -10241,7 +10197,7 @@
       ],
       "user_name": "Oleg Dubovoi",
       "user_username": "empiree",
-      "last_seen": "2026-03-29T03:16:22.194294367+00:00"
+      "last_seen": "2026-03-29T04:59:09.272023028+00:00"
     }
   ]
 }
