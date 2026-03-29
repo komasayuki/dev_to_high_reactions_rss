@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-29T17:45:10+00:00</updated>
+  <updated>2026-03-29T22:45:41+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -123,7 +123,7 @@
     <title>your agent can think. it can&apos;t remember.</title>
     <link rel="alternate" href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o"/>
     <updated>2026-03-25T15:50:49+00:00</updated>
-    <summary type="html">Reactions: public 153 / positive 153&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ghostdotbuild&quot;&gt;ghost&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:01:56Z&lt;br/&gt;Tags: ai, mcp, postgres, agents&lt;br/&gt;Description: TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...</summary>
+    <summary type="html">Reactions: public 154 / positive 154&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ghostdotbuild&quot;&gt;ghost&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:01:56Z&lt;br/&gt;Tags: ai, mcp, postgres, agents&lt;br/&gt;Description: TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3294921</id>
@@ -861,6 +861,13 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:16:12Z&lt;br/&gt;Tags: leadership, entrepreneurship, decisionmaking, management&lt;br/&gt;Description: When Stability Disappears, Leadership Gets Tested   Leadership is often discussed in terms...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3422569</id>
+    <title>Meet Zhu Li: The AI Agent That Manages Your Notion Workspace From Any Channel</title>
+    <link rel="alternate" href="https://dev.to/miracleio/i-can-now-chat-with-my-notion-on-imessage-2e46"/>
+    <updated>2026-03-29T22:45:41+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3367901</id>
     <title>How to Stop Babysitting Your AI Agents</title>
     <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
@@ -1006,13 +1013,6 @@
     <link rel="alternate" href="https://dev.to/techstratos/building-remote-companies-the-hard-way-5of"/>
     <updated>2026-01-23T03:59:37+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T03:59:37Z&lt;br/&gt;Tags: remotework, startup, entrepreneurship, leadership&lt;br/&gt;Description: Lessons That Only Appear After Years of Trial and Error   Remote work is often marketed as...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3422569</id>
-    <title>Meet Zhu Li: The AI Agent That Manages Your Notion Workspace From Any Channel</title>
-    <link rel="alternate" href="https://dev.to/miracleio/i-can-now-chat-with-my-notion-on-imessage-2e46"/>
-    <updated>2026-03-29T17:45:10+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205511</id>
