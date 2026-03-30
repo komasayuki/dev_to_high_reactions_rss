@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-30T15:07:00+00:00</updated>
+  <updated>2026-03-30T19:42:13+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -59,8 +59,8 @@
     <id>tag:dev.to,2026:3427844</id>
     <title>When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me</title>
     <link rel="alternate" href="https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg"/>
-    <updated>2026-03-30T15:07:00+00:00</updated>
-    <summary type="html">Reactions: public 184 / positive 184&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/darkbranchcore&quot;&gt;Niels&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T12:54:16Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: The first time code made me question my place in tech, it was not elegant.  It was not cinematic...</summary>
+    <updated>2026-03-30T19:42:13+00:00</updated>
+    <summary type="html">Reactions: public 185 / positive 185&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/darkbranchcore&quot;&gt;Niels&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T12:54:16Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: The first time code made me question my place in tech, it was not elegant.  It was not cinematic...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3234944</id>
@@ -1134,6 +1134,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shlokaguptaa&quot;&gt;Shloka&lt;/a&gt;&lt;br/&gt;Published: 2026-01-23T02:58:04Z&lt;br/&gt;Tags: ai, agents, lego, explainlikeimfive&lt;br/&gt;Description: Ever dumped a pile of LEGOs on the floor?  Yes?  Well then, you are already a step closer to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3395533</id>
+    <title>I’m Learning AI in Public, and I Think Developers Need to Chill a Bit</title>
+    <link rel="alternate" href="https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2"/>
+    <updated>2026-03-24T14:53:30+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T14:53:30Z&lt;br/&gt;Tags: ai, devops, devrel, programming&lt;br/&gt;Description: I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3367601</id>
     <title>POO Além do Código #2: Encapsulamento (A Caixa Preta)</title>
     <link rel="alternate" href="https://dev.to/bruno_freschi/poo-alem-do-codigo-2-encapsulamento-a-caixa-preta-p05"/>
@@ -1188,13 +1195,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2"/>
     <updated>2026-03-24T19:57:22+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:57:22Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3395533</id>
-    <title>I’m Learning AI in Public, and I Think Developers Need to Chill a Bit</title>
-    <link rel="alternate" href="https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2"/>
-    <updated>2026-03-24T14:53:30+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T14:53:30Z&lt;br/&gt;Tags: ai, devops, devrel, programming&lt;br/&gt;Description: I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3361017</id>
