@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-03-30T22:21:22+00:00</updated>
+  <updated>2026-03-31T03:47:53+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -59,8 +59,8 @@
     <id>tag:dev.to,2026:3427844</id>
     <title>When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me</title>
     <link rel="alternate" href="https://dev.to/darkbranchcore/when-debugging-became-belonging-what-nearly-15-years-of-helping-developers-taught-me-3amg"/>
-    <updated>2026-03-30T19:42:13+00:00</updated>
-    <summary type="html">Reactions: public 186 / positive 186&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/darkbranchcore&quot;&gt;Niels&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T12:54:16Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: The first time code made me question my place in tech, it was not elegant.  It was not cinematic...</summary>
+    <updated>2026-03-31T03:47:53+00:00</updated>
+    <summary type="html">Reactions: public 196 / positive 196&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/darkbranchcore&quot;&gt;Niels&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T12:54:16Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: The first time code made me question my place in tech, it was not elegant.  It was not cinematic...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3234944</id>
@@ -364,13 +364,6 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T10:53:04Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3199330</id>
-    <title>The Developer&apos;s Guide to Generative UI in 2026</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/the-developers-guide-to-generative-ui-in-2026-1bh3"/>
-    <updated>2026-01-29T14:41:12+00:00</updated>
-    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-01-29T14:41:12Z&lt;br/&gt;Tags: programming, ai, opensource, tutorial&lt;br/&gt;Description: AI agents have become much better at reasoning and planning. The UI layer has mostly stayed the same,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3247048</id>
     <title>Remember Your First Computer Book?</title>
     <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
@@ -623,6 +616,13 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T13:30:45Z&lt;br/&gt;Tags: programming, backend, developer, discuss&lt;br/&gt;Description: Let’s ask the uncomfortable question out loud.  In 2026, we have:   Backend-as-a-Service...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3416677</id>
+    <title>Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to</title>
+    <link rel="alternate" href="https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn"/>
+    <updated>2026-03-29T08:04:00+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T19:07:08Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3258078</id>
     <title>Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.</title>
     <link rel="alternate" href="https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705"/>
@@ -635,13 +635,6 @@
     <link rel="alternate" href="https://dev.to/sivarampg/from-clawdbot-to-moltbot-how-a-cd-crypto-scammers-and-10-seconds-of-chaos-took-down-the-4eck"/>
     <updated>2026-01-30T07:09:05+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sivarampg&quot;&gt;Sivaram&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T10:46:31Z&lt;br/&gt;Tags: clawdbot, anthropic, ai, opensource&lt;br/&gt;Description: The 72-Hour Unraveling of Open Source&apos;s Fastest-Growing Star   Three days ago, Clawdbot was...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3416677</id>
-    <title>Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to</title>
-    <link rel="alternate" href="https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn"/>
-    <updated>2026-03-29T08:04:00+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T19:07:08Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3392075</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333"/>
     <updated>2026-03-23T17:20:41+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3332311</id>
+    <title>Getting Started with Gemini CLI</title>
+    <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
+    <updated>2026-03-11T17:45:44+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
   </entry>
 </feed>
