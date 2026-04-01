@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-01T17:17:02+00:00</updated>
+  <updated>2026-04-01T20:20:03+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -308,6 +308,13 @@
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T16:13:01Z&lt;br/&gt;Tags: ai, career, productivity, codenewbie&lt;br/&gt;Description: &quot;If you use AI, you&apos;re not a real developer.&quot;  Same energy as every gatekeeping panic before...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3432613</id>
+    <title>Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"/>
+    <updated>2026-04-01T20:20:03+00:00</updated>
+    <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T15:32:19Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: Hello, and let’s get this out of the way right now: this is no joke!!  Tired of building...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3292367</id>
     <title>I Built a Full-Stack Family OS — Web App + Mobile App with Video Calls, Brain Games, Expenses &amp; More</title>
     <link rel="alternate" href="https://dev.to/bibin_antony_9fce1ed9318b/i-built-a-full-stack-family-os-web-app-mobile-app-with-video-calls-brain-games-expenses-more-2g77"/>
@@ -355,13 +362,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme"/>
     <updated>2026-02-23T04:44:13+00:00</updated>
     <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T13:55:12Z&lt;br/&gt;Tags: hackathon, mlh, watercooler&lt;br/&gt;Description: Most hackathon stories start with &quot;We stayed up for 36 hours and drank 10 Red Bulls.&quot;  Mine is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3432613</id>
-    <title>Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"/>
-    <updated>2026-04-01T16:24:54+00:00</updated>
-    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T15:32:19Z&lt;br/&gt;Tags: devchallenge, 418challenge&lt;br/&gt;Description: Hello, and let’s get this out of the way right now: this is no joke!!  Tired of building...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3214650</id>
@@ -945,6 +945,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bekahhw&quot;&gt;BekahHW&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T22:05:16Z&lt;br/&gt;Tags: ai, community&lt;br/&gt;Description: Communities used to be where you went to ask questions and get help. Now that AI can answer most of those questions, what are communities actually for? Here&apos;s what the shift means for community builders and members.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3435564</id>
+    <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
+    <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
+    <updated>2026-03-31T16:56:37+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3369608</id>
     <title>The Most Painful Career Lesson My Best Job Taught Me</title>
     <link rel="alternate" href="https://canro91.github.io/2026/03/18/WorstJob"/>
@@ -999,13 +1006,6 @@
     <link rel="alternate" href="https://dev.to/itsugo/why-do-you-write-5bkf"/>
     <updated>2026-02-04T05:41:16+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T05:41:16Z&lt;br/&gt;Tags: discuss, programming, learning, mentalhealth&lt;br/&gt;Description: A recognition   There is a line by @sylwia-lask that stayed with me when I first read it....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3435564</id>
-    <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
-    <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
-    <updated>2026-03-31T16:56:37+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3369583</id>
@@ -1069,6 +1069,13 @@
     <link rel="alternate" href="https://dev.to/techstratos/how-i-actually-use-ai-as-a-developer-and-where-it-still-breaks-5aih"/>
     <updated>2026-01-27T03:50:00+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-01-27T03:50:00Z&lt;br/&gt;Tags: ai, programming, productivity, webdev&lt;br/&gt;Description: AI is everywhere in developer spaces right now, but most posts stop at excitement or fear.  This is...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3438541</id>
+    <title>The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?</title>
+    <link rel="alternate" href="https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm"/>
+    <updated>2026-04-01T02:29:18+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3376535</id>
@@ -1202,13 +1209,6 @@
     <link rel="alternate" href="https://dev.to/richardpascoe/gaming-beat-me-development-wont-3d5b"/>
     <updated>2026-02-06T08:30:15+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3438541</id>
-    <title>The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?</title>
-    <link rel="alternate" href="https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm"/>
-    <updated>2026-04-01T02:29:18+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391274</id>
