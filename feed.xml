@@ -819,6 +819,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/agastya_khati_f72c89077c8&quot;&gt;Agastya Khati&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T13:50:57Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3431856</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0"/>
+    <updated>2026-03-30T18:10:26+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T18:10:26Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3250014</id>
     <title>I Built a SaaS in 30 Days. Here’s Exactly What Happened.</title>
     <link rel="alternate" href="https://dev.to/thegiansorianodev/i-built-a-saas-in-30-days-heres-exactly-what-happened-48j8"/>
@@ -831,13 +838,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/personal-branding-for-introverted-developers-yes-its-possible-dbp"/>
     <updated>2026-01-26T19:07:28+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-01-26T19:07:28Z&lt;br/&gt;Tags: career, tutorial, programming, codenewbie&lt;br/&gt;Description: Let me start by addressing the elephant in the room: if you&apos;re an introverted developer, the phrase...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3431856</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0"/>
-    <updated>2026-03-30T18:10:26+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T18:10:26Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3322125</id>
@@ -1027,6 +1027,13 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/your-mcp-setup-probably-needs-a-gateway-heres-what-i-learned-30np"/>
     <updated>2026-01-28T16:48:51+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-01-28T15:50:06Z&lt;br/&gt;Tags: webdev, ai, javascript&lt;br/&gt;Description: When Anthropic introduced the Model Context Protocol (MCP) in late 2024, it felt like a turning...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3435564</id>
+    <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
+    <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
+    <updated>2026-03-31T16:56:37+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3312490</id>
@@ -1251,13 +1258,6 @@
     <link rel="alternate" href="https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l"/>
     <updated>2026-02-04T13:06:39+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T13:06:39Z&lt;br/&gt;Tags: javascript, webdev, programming, discuss&lt;br/&gt;Description: Everyone defaults to WebSockets for real-time features. Most shouldn&apos;t.  The reality: 95% of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3435564</id>
-    <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
-    <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
-    <updated>2026-03-31T16:56:37+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3305277</id>
