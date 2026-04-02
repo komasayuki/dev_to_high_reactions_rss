@@ -105,18 +105,18 @@
     <summary type="html">Reactions: public 172 / positive 172&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3432613</id>
+    <title>Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"/>
+    <updated>2026-04-01T20:20:03+00:00</updated>
+    <summary type="html">Reactions: public 170 / positive 170&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T15:32:19Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: Hello, and let’s get this out of the way right now: this is no joke!!  Tired of building...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3216141</id>
     <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
     <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
     <updated>2026-02-08T03:38:57+00:00</updated>
     <summary type="html">Reactions: public 168 / positive 168&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3432613</id>
-    <title>Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"/>
-    <updated>2026-04-01T20:20:03+00:00</updated>
-    <summary type="html">Reactions: public 166 / positive 166&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T15:32:19Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: Hello, and let’s get this out of the way right now: this is no joke!!  Tired of building...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3260191</id>
@@ -490,6 +490,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T21:24:34Z&lt;br/&gt;Tags: microservices, database, architecture, webdev&lt;br/&gt;Description: When we first split our monolith into microservices, it felt like a victory.  Smaller services....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3438541</id>
+    <title>The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?</title>
+    <link rel="alternate" href="https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm"/>
+    <updated>2026-04-01T02:29:18+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3416677</id>
     <title>Turning Weekly GitHub Activity Into Blog Posts on Notion + DEV.to</title>
     <link rel="alternate" href="https://dev.to/yashksaini/i-built-a-3-agent-pipeline-that-turns-my-github-activity-into-weekly-blog-posts-on-notion-devto-1ndn"/>
@@ -558,13 +565,6 @@
     <link rel="alternate" href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7"/>
     <updated>2026-02-11T00:29:42+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T00:29:42Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a group submission for the GitHub Copilot CLI Challenge           What We Built...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3438541</id>
-    <title>The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?</title>
-    <link rel="alternate" href="https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm"/>
-    <updated>2026-04-01T02:29:18+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3416041</id>
@@ -728,6 +728,13 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-01-30T21:24:47Z&lt;br/&gt;Tags: productivity, networking, tutorial, braziliandevs&lt;br/&gt;Description: Sempre fui bem tímida, do tipo que ensaia mentalmente antes de puxar qualquer conversa. Também tenho...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3437639</id>
+    <title>A Year of Change and Persistence</title>
+    <link rel="alternate" href="https://dev.to/jess/a-year-of-change-and-persistence-19cf"/>
+    <updated>2026-04-01T17:17:02+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3309030</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-ilf"/>
@@ -782,13 +789,6 @@
     <link rel="alternate" href="https://dev.to/copilotkit/how-to-add-ai-to-your-app-in-5-minutes-2b0d"/>
     <updated>2026-03-11T20:53:34+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T15:10:31Z&lt;br/&gt;Tags: ai, opensource, tutorial, programming&lt;br/&gt;Description: Most AI integrations are overengineered.   Even basic tutorials on adding an AI assistant get mixed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3437639</id>
-    <title>A Year of Change and Persistence</title>
-    <link rel="alternate" href="https://dev.to/jess/a-year-of-change-and-persistence-19cf"/>
-    <updated>2026-04-01T17:17:02+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3308729</id>
