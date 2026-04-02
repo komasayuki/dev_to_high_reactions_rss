@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-01T20:20:03+00:00</updated>
+  <updated>2026-04-02T20:43:57+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -35,6 +35,13 @@
     <summary type="html">Reactions: public 229 / positive 229&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T08:17:23Z&lt;br/&gt;Tags: webdev, discuss, programming&lt;br/&gt;Description: I have a feeling this statement is even more true in the age of AI and coding agents. Sure, today we...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3432613</id>
+    <title>Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"/>
+    <updated>2026-04-01T20:20:03+00:00</updated>
+    <summary type="html">Reactions: public 225 / positive 225&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T15:32:19Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: Hello, and let’s get this out of the way right now: this is no joke!!  Tired of building...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3357241</id>
     <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
@@ -47,13 +54,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
     <updated>2026-02-04T11:05:13+00:00</updated>
     <summary type="html">Reactions: public 222 / positive 222&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3432613</id>
-    <title>Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"/>
-    <updated>2026-04-01T20:20:03+00:00</updated>
-    <summary type="html">Reactions: public 220 / positive 220&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T15:32:19Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: Hello, and let’s get this out of the way right now: this is no joke!!  Tired of building...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3283555</id>
@@ -515,7 +515,7 @@
     <title>A Year of Change and Persistence</title>
     <link rel="alternate" href="https://dev.to/jess/a-year-of-change-and-persistence-19cf"/>
     <updated>2026-04-01T17:17:02+00:00</updated>
-    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391635</id>
@@ -1015,6 +1015,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T15:39:56Z&lt;br/&gt;Tags: ai, webdev, programming, architecture&lt;br/&gt;Description: I&apos;ve been building an AI agent that routes requests across multiple LLM providers, OpenAI, Anthropic...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3432178</id>
+    <title>What is your WPM (Words per Minute)? #1</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7"/>
+    <updated>2026-04-02T20:43:57+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:25:39Z&lt;br/&gt;Tags: discuss, watercooler, challenge, community&lt;br/&gt;Description: Cover Video is from Sonic X   I am curious, What is your WPM?  The highest WPM for the 5 minute and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3369583</id>
     <title>Should RubyGems/Bundler Have a Cooldown Feature?</title>
     <link rel="alternate" href="https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"/>
@@ -1041,13 +1048,6 @@
     <link rel="alternate" href="https://dev.to/paimon_573760ccaa1b3492b4/3d-first-portfolio-built-with-antigravity-1hmm"/>
     <updated>2026-01-31T18:28:09+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/paimon_573760ccaa1b3492b4&quot;&gt;Paimon&lt;/a&gt;&lt;br/&gt;Published: 2026-01-31T18:28:09Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3432178</id>
-    <title>What is your WPM (Words per Minute)? #1</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7"/>
-    <updated>2026-03-30T21:39:45+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:25:39Z&lt;br/&gt;Tags: discuss, watercooler, challenge, community&lt;br/&gt;Description: Cover Video is from Sonic X   I am curious, What is your WPM?  The highest WPM for the 5 minute and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3205511</id>
