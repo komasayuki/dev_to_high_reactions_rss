@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-02T20:43:57+00:00</updated>
+  <updated>2026-04-05T10:58:16+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -189,18 +189,18 @@
     <summary type="html">Reactions: public 140 / positive 140&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3442345</id>
+    <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
+    <updated>2026-04-02T07:53:11+00:00</updated>
+    <summary type="html">Reactions: public 136 / positive 136&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3373361</id>
     <title>Get Started on Dev.to! A Beginner&apos;s Guide to Engage with the Community! 💡</title>
     <link rel="alternate" href="https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach"/>
     <updated>2026-03-24T14:55:19+00:00</updated>
     <summary type="html">Reactions: public 136 / positive 136&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T17:25:58Z&lt;br/&gt;Tags: discuss, community, beginners, howtodevto&lt;br/&gt;Description: All Images are own by the Pokemon Company!  Important Information: This post is an Unofficial Dev.to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3442345</id>
-    <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
-    <updated>2026-04-02T07:53:11+00:00</updated>
-    <summary type="html">Reactions: public 135 / positive 135&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3367665</id>
@@ -469,6 +469,13 @@
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T09:02:53Z&lt;br/&gt;Tags: devchallenge, wecoded, career, discuss&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Tech loves to call itself...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3439132</id>
+    <title>Trading My Body for Logic: The Physical Decay We Ignore</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i"/>
+    <updated>2026-04-01T05:45:19+00:00</updated>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3256702</id>
     <title>How a DEV Friend and I Brought Two Avatars to Life</title>
     <link rel="alternate" href="https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp"/>
@@ -481,13 +488,6 @@
     <link rel="alternate" href="https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce"/>
     <updated>2026-02-10T10:43:07+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T10:43:07Z&lt;br/&gt;Tags: javascript, node, frontend, webdev&lt;br/&gt;Description: There was a time when I treated State of JS results almost like prophecy.  A new edition dropped and...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3439132</id>
-    <title>Trading My Body for Logic: The Physical Decay We Ignore</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i"/>
-    <updated>2026-04-01T05:45:19+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3274227</id>
@@ -1155,6 +1155,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T23:12:17Z&lt;br/&gt;Tags: claudecode, codingwithai, softwareengineering, developerlife&lt;br/&gt;Description: How to orient yourself in an unfamiliar codebase — and how Claude Code can help you find your footing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3429646</id>
+    <title>What is ‘Harness Design’ and why does it matter</title>
+    <link rel="alternate" href="https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj"/>
+    <updated>2026-04-05T10:58:16+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3367601</id>
     <title>POO Além do Código #2: Encapsulamento (A Caixa Preta)</title>
     <link rel="alternate" href="https://dev.to/bruno_freschi/poo-alem-do-codigo-2-encapsulamento-a-caixa-preta-p05"/>
@@ -1384,13 +1391,6 @@
     <link rel="alternate" href="https://dev.to/aws/is-software-engineering-cooked-not-yet-but-maybe-5e0j"/>
     <updated>2026-03-04T20:03:45+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T15:09:26Z&lt;br/&gt;Tags: ai, developers, coding, agents&lt;br/&gt;Description: &quot;Software engineering is solved.&quot; This is all I see lately when scrolling LinkedIn, X, or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3429646</id>
-    <title>What is ‘Harness Design’ and why does it matter</title>
-    <link rel="alternate" href="https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj"/>
-    <updated>2026-03-30T08:52:02+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282500</id>
