@@ -70,18 +70,18 @@
     <summary type="html">Reactions: public 187 / positive 187&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3442345</id>
+    <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
+    <updated>2026-04-02T07:53:11+00:00</updated>
+    <summary type="html">Reactions: public 186 / positive 186&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3234944</id>
     <title>The Junior Developer is Extinct (And we are creating a disaster)</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/the-junior-developer-is-extinct-and-we-are-creating-a-disaster-3jh2"/>
     <updated>2026-02-05T13:05:27+00:00</updated>
     <summary type="html">Reactions: public 182 / positive 182&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-05T13:05:27Z&lt;br/&gt;Tags: career, ai, discuss, future&lt;br/&gt;Description: I have a confession to make.  Five years ago, if I had a tedious task like writing unit tests for a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3442345</id>
-    <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
-    <updated>2026-04-02T07:53:11+00:00</updated>
-    <summary type="html">Reactions: public 180 / positive 180&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3381788</id>
@@ -1183,6 +1183,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T08:30:15Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: I quit Sea of Thieves this week.  It wasn&apos;t sudden - this move was bound to happen eventually. As...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3416936</id>
+    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
+    <updated>2026-04-06T13:09:38+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3391274</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2"/>
@@ -1251,13 +1258,6 @@
     <link rel="alternate" href="https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l"/>
     <updated>2026-02-04T13:06:39+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T13:06:39Z&lt;br/&gt;Tags: javascript, webdev, programming, discuss&lt;br/&gt;Description: Everyone defaults to WebSockets for real-time features. Most shouldn&apos;t.  The reality: 95% of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3416936</id>
-    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
-    <updated>2026-04-06T13:09:38+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3305277</id>
