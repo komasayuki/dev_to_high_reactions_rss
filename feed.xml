@@ -67,7 +67,7 @@
     <title>The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm"/>
     <updated>2026-04-01T02:29:18+00:00</updated>
-    <summary type="html">Reactions: public 185 / positive 185&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
+    <summary type="html">Reactions: public 187 / positive 187&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3234944</id>
@@ -116,7 +116,7 @@
     <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
     <updated>2026-04-02T07:53:11+00:00</updated>
-    <summary type="html">Reactions: public 170 / positive 170&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
+    <summary type="html">Reactions: public 171 / positive 171&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3216141</id>
@@ -686,6 +686,13 @@
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:09:52Z&lt;br/&gt;Tags: programming, architecture, career, performance&lt;br/&gt;Description: I have been writing software long enough to remember when deploying meant FTP.  I have worked...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3435564</id>
+    <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
+    <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
+    <updated>2026-03-31T16:56:37+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3299059</id>
     <title>Know Your Rights, Find Your Support — Built for Brent</title>
     <link rel="alternate" href="https://dev.to/maame-codes/know-your-rights-find-your-support-built-for-brent-5de6"/>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/devops-from-scratch-entry-03-cie"/>
     <updated>2026-02-11T07:22:34+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T07:19:34Z&lt;br/&gt;Tags: linux, devops, learning&lt;br/&gt;Description: After installing Ubuntu on my laptop mainly for this linux learning journey, I left it there for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3435564</id>
-    <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
-    <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
-    <updated>2026-03-31T16:56:37+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3289037</id>
