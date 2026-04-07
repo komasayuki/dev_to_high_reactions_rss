@@ -67,7 +67,7 @@
     <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
     <updated>2026-04-02T07:53:11+00:00</updated>
-    <summary type="html">Reactions: public 202 / positive 202&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
+    <summary type="html">Reactions: public 203 / positive 203&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3438541</id>
@@ -420,6 +420,13 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3416936</id>
+    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
+    <updated>2026-04-06T13:09:38+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3270270</id>
     <title>I Let AI Rewrite 40% of My Codebase. Here’s What Actually Happened.</title>
     <link rel="alternate" href="https://dev.to/techstratos/i-let-ai-rewrite-40-of-my-codebase-heres-what-actually-happened-1jd6"/>
@@ -448,18 +455,18 @@
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ingosteinke&quot;&gt;Ingo Steinke, web developer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-02T12:47:08Z&lt;br/&gt;Tags: watercooler&lt;br/&gt;Description: I recently claimed that we might look back on the 2010s decade and early 2020 years as a golden age...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3416936</id>
-    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
-    <updated>2026-04-06T13:09:38+00:00</updated>
-    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3326254</id>
     <title>Not Everyone Gets to Be a Beginner in Tech</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8"/>
     <updated>2026-03-08T09:30:07+00:00</updated>
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T09:02:53Z&lt;br/&gt;Tags: devchallenge, wecoded, career, discuss&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Tech loves to call itself...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3436468</id>
+    <title>💰I Built a Token Billing System for My AI Agent - Here&apos;s How It Works</title>
+    <link rel="alternate" href="https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2"/>
+    <updated>2026-03-31T15:44:25+00:00</updated>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T15:39:56Z&lt;br/&gt;Tags: ai, webdev, programming, architecture&lt;br/&gt;Description: I&apos;ve been building an AI agent that routes requests across multiple LLM providers, OpenAI, Anthropic...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3256702</id>
@@ -523,13 +530,6 @@
     <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
     <updated>2026-02-16T14:50:39+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3436468</id>
-    <title>💰I Built a Token Billing System for My AI Agent - Here&apos;s How It Works</title>
-    <link rel="alternate" href="https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2"/>
-    <updated>2026-03-31T15:44:25+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T15:39:56Z&lt;br/&gt;Tags: ai, webdev, programming, architecture&lt;br/&gt;Description: I&apos;ve been building an AI agent that routes requests across multiple LLM providers, OpenAI, Anthropic...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391635</id>
