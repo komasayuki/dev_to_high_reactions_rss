@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-07T01:38:53+00:00</updated>
+  <updated>2026-04-08T17:42:52+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -228,7 +228,7 @@
     <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
     <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
     <updated>2026-04-06T13:09:38+00:00</updated>
-    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
+    <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3266739</id>
@@ -378,13 +378,6 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3214650</id>
-    <title>🔥I Built an Awwwards-Style Portfolio Using Antigravity🌀</title>
-    <link rel="alternate" href="https://dev.to/dev_kiran/i-built-an-awwwards-style-portfolio-using-antigravity-49lk"/>
-    <updated>2026-02-01T10:56:01+00:00</updated>
-    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T10:53:04Z&lt;br/&gt;Tags: devchallenge, googleaichallenge, portfolio, gemini&lt;br/&gt;Description: This is a submission for the New Year, New You Portfolio Challenge Presented by Google AI          ...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3247048</id>
     <title>Remember Your First Computer Book?</title>
     <link rel="alternate" href="https://dev.to/richardpascoe/remember-your-first-computer-book-4fml"/>
@@ -523,6 +516,13 @@
     <link rel="alternate" href="https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g"/>
     <updated>2026-02-16T14:50:39+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3470559</id>
+    <title>AIMock: One Mock Server For Your Entire AI Stack</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp"/>
+    <updated>2026-04-08T17:42:52+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391635</id>
