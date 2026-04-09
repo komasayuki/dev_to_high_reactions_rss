@@ -119,13 +119,6 @@
     <summary type="html">Reactions: public 172 / positive 172&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T22:40:35Z&lt;br/&gt;Tags: discuss, community, watercooler, mentalhealth&lt;br/&gt;Description: It has been a little over 10 years since I deleted my Facebook account.  No long post. No...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3216141</id>
-    <title>Should Junior Developers Still Learn JavaScript the Hard Way?</title>
-    <link rel="alternate" href="https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l"/>
-    <updated>2026-02-08T03:38:57+00:00</updated>
-    <summary type="html">Reactions: public 168 / positive 168&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-01T08:16:04Z&lt;br/&gt;Tags: programming, webdev, javascript, beginners&lt;br/&gt;Description: Let’s define “the hard way” first.  Not:   Watching a 6-hour tutorial at 1.5× speed Copy-pasting code...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3260191</id>
     <title>Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)</title>
     <link rel="alternate" href="https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc"/>
@@ -231,6 +224,13 @@
     <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T12:42:44Z&lt;br/&gt;Tags: softwareengineering, career, productivity, discuss&lt;br/&gt;Description: We are currently living through the greatest inflation of software in history.  With the AI tools we...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3416936</id>
+    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
+    <updated>2026-04-06T13:09:38+00:00</updated>
+    <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3266739</id>
     <title>Congrats to the &quot;New Year, New You&quot; Portfolio Challenge Winners and Runner-Ups!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-new-year-new-you-portfolio-challenge-winners-and-runner-ups-1l9h"/>
@@ -257,13 +257,6 @@
     <link rel="alternate" href="https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg"/>
     <updated>2026-02-20T20:46:39+00:00</updated>
     <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-20T14:22:05Z&lt;br/&gt;Tags: react, programming, javascript, tutorial&lt;br/&gt;Description: LangChain&apos;s Deep Agents provide a new way to build structured, multi-agent systems that can plan,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3416936</id>
-    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
-    <updated>2026-04-06T13:09:38+00:00</updated>
-    <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3352107</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/thebitforge/25-developer-tools-i-wish-i-knew-when-i-started-coding-1no0"/>
     <updated>2026-02-12T04:52:56+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T04:50:04Z&lt;br/&gt;Tags: ai, programming, productivity, react&lt;br/&gt;Description: ...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3410004</id>
+    <title>Speed vs smarts for coding agents?</title>
+    <link rel="alternate" href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h"/>
+    <updated>2026-03-26T15:58:22+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T15:58:22Z&lt;br/&gt;Tags: agents, ai, productivity, discuss&lt;br/&gt;Description: I&apos;m curious if you specifically have a sense of where you draw the line in terms of your interest in...</summary>
   </entry>
 </feed>
