@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-08T17:42:52+00:00</updated>
+  <updated>2026-04-09T21:28:41+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -478,8 +478,8 @@
   <entry>
     <id>tag:dev.to,2026:3470559</id>
     <title>AIMock: One Mock Server For Your Entire AI Stack</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp"/>
-    <updated>2026-04-08T17:42:52+00:00</updated>
+    <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
+    <updated>2026-04-09T21:28:41+00:00</updated>
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
   </entry>
   <entry>
