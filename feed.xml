@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-09T21:28:41+00:00</updated>
+  <updated>2026-04-10T09:55:31+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -168,6 +168,13 @@
     <summary type="html">Reactions: public 143 / positive 143&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-18T10:54:17Z&lt;br/&gt;Tags: webdev, discuss&lt;br/&gt;Description: We often prepare for interviews by polishing our CVs, grinding LeetCode, and rehearsing answers to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3416936</id>
+    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
+    <updated>2026-04-06T13:09:38+00:00</updated>
+    <summary type="html">Reactions: public 142 / positive 142&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3313354</id>
     <title>Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828"/>
@@ -180,13 +187,6 @@
     <link rel="alternate" href="https://dev.to/maame-codes/i-stopped-trying-to-learn-every-devops-tool-and-started-building-a-platform-instead-33i6"/>
     <updated>2026-02-11T05:17:40+00:00</updated>
     <summary type="html">Reactions: public 140 / positive 140&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:17:40Z&lt;br/&gt;Tags: devops, career, learning, beginners&lt;br/&gt;Description: The DevOps Hero Burnout is Real  Let&apos;s be real for a second. being a student and juggling school work...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3416936</id>
-    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
-    <updated>2026-04-06T13:09:38+00:00</updated>
-    <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3373361</id>
@@ -479,7 +479,7 @@
     <id>tag:dev.to,2026:3470559</id>
     <title>AIMock: One Mock Server For Your Entire AI Stack</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
-    <updated>2026-04-09T21:28:41+00:00</updated>
+    <updated>2026-04-10T09:55:31+00:00</updated>
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
   </entry>
   <entry>
@@ -917,6 +917,13 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T14:40:56Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3478222</id>
+    <title>You’re a Real Software Developer Only If…</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8"/>
+    <updated>2026-04-09T21:07:21+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T21:07:21Z&lt;br/&gt;Tags: jokes, devlive&lt;br/&gt;Description: Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3378072</id>
     <title>Why hiring junior developers pays off more than you think (I’ve lived it firsthand)</title>
     <link rel="alternate" href="https://dev.to/javz/why-hiring-junior-developers-pays-off-more-than-you-think-ive-lived-it-firsthand-1lg2"/>
@@ -1013,13 +1020,6 @@
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v364-2mdg"/>
     <updated>2026-02-11T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3478222</id>
-    <title>You’re a Real Software Developer Only If…</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8"/>
-    <updated>2026-04-09T21:07:21+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T21:07:21Z&lt;br/&gt;Tags: jokes, devlive&lt;br/&gt;Description: Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3312490</id>
