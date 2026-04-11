@@ -154,18 +154,18 @@
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:41:43Z&lt;br/&gt;Tags: devchallenge, geminireflections, gemini, ai&lt;br/&gt;Description: Last week, we announced that DEV has joined Major League Hacking. To kick things off, we&apos;re launching...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3416936</id>
+    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
+    <updated>2026-04-06T13:09:38+00:00</updated>
+    <summary type="html">Reactions: public 146 / positive 146&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3256769</id>
     <title>Pixel Pal: Gamifying the GitHub Copilot CLI Experience 🧙‍♂️⚔️</title>
     <link rel="alternate" href="https://dev.to/gbolahan_olanrewaju_01796/pixel-pal-gamifying-the-github-copilot-cli-experience-4g16"/>
     <updated>2026-02-14T19:29:06+00:00</updated>
     <summary type="html">Reactions: public 146 / positive 146&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gbolahan_olanrewaju_01796&quot;&gt;Gbolahan Olanrewaju&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T19:27:50Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: What I Built   Pixel Pal is a VS Code extension that turns your coding workflow into an RPG...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3416936</id>
-    <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
-    <updated>2026-04-06T13:09:38+00:00</updated>
-    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3263699</id>
@@ -420,6 +420,13 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T04:19:39Z&lt;br/&gt;Tags: go, rust, cloud, aws&lt;br/&gt;Description: I have deployed code to:   Bare metal servers that screamed when the fan failed. VPS machines that...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3470559</id>
+    <title>AIMock: One Mock Server For Your Entire AI Stack</title>
+    <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
+    <updated>2026-04-10T09:55:31+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3270270</id>
     <title>I Let AI Rewrite 40% of My Codebase. Here’s What Actually Happened.</title>
     <link rel="alternate" href="https://dev.to/techstratos/i-let-ai-rewrite-40-of-my-codebase-heres-what-actually-happened-1jd6"/>
@@ -446,13 +453,6 @@
     <link rel="alternate" href="https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8"/>
     <updated>2026-03-08T09:30:07+00:00</updated>
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T09:02:53Z&lt;br/&gt;Tags: devchallenge, wecoded, career, discuss&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Tech loves to call itself...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3470559</id>
-    <title>AIMock: One Mock Server For Your Entire AI Stack</title>
-    <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
-    <updated>2026-04-10T09:55:31+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3456458</id>
@@ -1246,6 +1246,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/polliog&quot;&gt;Polliog&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T13:06:39Z&lt;br/&gt;Tags: javascript, webdev, programming, discuss&lt;br/&gt;Description: Everyone defaults to WebSockets for real-time features. Most shouldn&apos;t.  The reality: 95% of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3477156</id>
+    <title>Unlocking Casual Fun: AI-Powered &apos;Vibe Coding&apos; for Quick, Niche Apps</title>
+    <link rel="alternate" href="https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5"/>
+    <updated>2026-04-09T15:06:56+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maria_from_mlh&quot;&gt;Maria Dunning&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T15:06:56Z&lt;br/&gt;Tags: sideprojects, ai, vibecoding, gemini&lt;br/&gt;Description: I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0"/>
     <updated>2026-02-19T13:42:20+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shrsv&quot;&gt;Shrijith Venkatramana&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:36:54Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: The assumption in software engineering circles has been that if AI lets us write code faster, we will...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3250361</id>
-    <title>25 Developer Tools I Wish I Knew When I Started Coding 🚀</title>
-    <link rel="alternate" href="https://dev.to/thebitforge/25-developer-tools-i-wish-i-knew-when-i-started-coding-1no0"/>
-    <updated>2026-02-12T04:52:56+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T04:50:04Z&lt;br/&gt;Tags: ai, programming, productivity, react&lt;br/&gt;Description: ...</summary>
   </entry>
 </feed>
