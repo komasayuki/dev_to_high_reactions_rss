@@ -49,13 +49,6 @@
     <summary type="html">Reactions: public 224 / positive 224&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3228463</id>
-    <title>Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi"/>
-    <updated>2026-02-04T11:05:13+00:00</updated>
-    <summary type="html">Reactions: public 222 / positive 222&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-02-04T11:05:13Z&lt;br/&gt;Tags: webdev, frontend, javascript&lt;br/&gt;Description: The web platform is way more powerful than most developers realize — and every year it quietly gains...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3442345</id>
     <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
@@ -158,7 +151,7 @@
     <title>You’re a Real Software Developer Only If…</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/youre-a-real-software-developer-only-if-2mo8"/>
     <updated>2026-04-09T21:07:21+00:00</updated>
-    <summary type="html">Reactions: public 149 / positive 149&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T21:07:21Z&lt;br/&gt;Tags: jokes, devlive&lt;br/&gt;Description: Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...</summary>
+    <summary type="html">Reactions: public 150 / positive 150&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T21:07:21Z&lt;br/&gt;Tags: jokes, devlive&lt;br/&gt;Description: Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3416936</id>
@@ -994,6 +987,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:33:41Z&lt;br/&gt;Tags: career, mentalhealth, webdev, discuss&lt;br/&gt;Description: It Started With Just One Thing   Last month, I closed my laptop at 11 PM.  Then I opened it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3442004</id>
+    <title>Welcome Thread - v372</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v372-254c"/>
+    <updated>2026-04-08T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3312490</id>
     <title>Building a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time Everything</title>
     <link rel="alternate" href="https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm"/>
@@ -1013,13 +1013,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-5am7"/>
     <updated>2026-02-06T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3442004</id>
-    <title>Welcome Thread - v372</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v372-254c"/>
-    <updated>2026-04-08T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3376535</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333"/>
     <updated>2026-03-23T17:20:41+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3332311</id>
+    <title>Getting Started with Gemini CLI</title>
+    <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
+    <updated>2026-03-11T17:45:44+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
   </entry>
 </feed>
