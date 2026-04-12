@@ -385,18 +385,18 @@
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3470559</id>
+    <title>AIMock: One Mock Server For Your Entire AI Stack</title>
+    <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
+    <updated>2026-04-10T09:55:31+00:00</updated>
+    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3252512</id>
     <title>Introducing Our Next DEV Education Track: &quot;Build Multi-Agent Systems with ADK&quot;</title>
     <link rel="alternate" href="https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8"/>
     <updated>2026-02-17T18:39:29+00:00</updated>
     <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T18:27:56Z&lt;br/&gt;Tags: agents, gemini, ai, buildmultiagents&lt;br/&gt;Description: Hundreds of developers have already completed our first DEV Education Track, and today we&apos;re excited...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3470559</id>
-    <title>AIMock: One Mock Server For Your Entire AI Stack</title>
-    <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
-    <updated>2026-04-10T09:55:31+00:00</updated>
-    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3197057</id>
@@ -672,6 +672,13 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3467717</id>
+    <title>Forem (Dev.to) is slow, so I del...optimized it.</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln"/>
+    <updated>2026-04-08T00:05:52+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T20:06:35Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev, discuss&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge   Disclaimer: This post is very very very very...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3392075</id>
     <title>Check Up with Each Other</title>
     <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
@@ -761,13 +768,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1m96"/>
     <updated>2026-03-06T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3467717</id>
-    <title>Forem (Dev.to) is slow, so I del...optimized it.</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln"/>
-    <updated>2026-04-08T00:05:52+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-07T20:06:35Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev, discuss&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge   Disclaimer: This post is very very very very...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3309047</id>
@@ -866,6 +866,13 @@
     <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
     <updated>2026-03-19T18:05:05+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3466256</id>
+    <title>The Mental Cost of Always Being On as a Developer</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/the-mental-cost-of-always-being-on-as-a-developer-2el4"/>
+    <updated>2026-04-08T13:33:41+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:33:41Z&lt;br/&gt;Tags: career, mentalhealth, webdev, discuss&lt;br/&gt;Description: It Started With Just One Thing   Last month, I closed my laptop at 11 PM.  Then I opened it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3359706</id>
@@ -985,13 +992,6 @@
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v372-254c"/>
     <updated>2026-04-08T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3466256</id>
-    <title>The Mental Cost of Always Being On as a Developer</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/the-mental-cost-of-always-being-on-as-a-developer-2el4"/>
-    <updated>2026-04-08T13:33:41+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:33:41Z&lt;br/&gt;Tags: career, mentalhealth, webdev, discuss&lt;br/&gt;Description: It Started With Just One Thing   Last month, I closed my laptop at 11 PM.  Then I opened it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3312490</id>
