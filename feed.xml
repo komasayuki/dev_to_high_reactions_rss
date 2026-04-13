@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-10T09:55:31+00:00</updated>
+  <updated>2026-04-11T15:55:53+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -721,6 +721,13 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T23:09:36Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re launching something brand new: our first-ever DEV Weekend Challenge! 🎉  This is a short...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3442004</id>
+    <title>Welcome Thread - v372</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v372-254c"/>
+    <updated>2026-04-08T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3309030</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-ilf"/>
@@ -733,13 +740,6 @@
     <link rel="alternate" href="https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0"/>
     <updated>2026-03-11T11:04:06+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T11:04:06Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  So it is finally time to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3442004</id>
-    <title>Welcome Thread - v372</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v372-254c"/>
-    <updated>2026-04-08T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391682</id>
@@ -1400,10 +1400,10 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:18:55Z&lt;br/&gt;Tags: discuss, community, opensource, ai&lt;br/&gt;Description: We&apos;re building public alternatives to private AI knowledge.           Why We Exist   Stack Overflow&apos;s...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3416968</id>
-    <title>The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!</title>
-    <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
-    <updated>2026-03-27T21:33:31+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
+    <id>tag:dev.to,2026:3487725</id>
+    <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
+    <updated>2026-04-11T15:55:53+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T15:55:53Z&lt;br/&gt;Tags: github, opensource, development, repository&lt;br/&gt;Description: Table of Contents    Introduction What Does It Mean to &quot;Seal&quot; a Project?  The Release...</summary>
   </entry>
 </feed>
