@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-11T15:55:53+00:00</updated>
+  <updated>2026-04-13T07:49:30+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -266,13 +266,6 @@
     <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sagar_saini&quot;&gt;sagar saini&lt;/a&gt;&lt;br/&gt;Published: 2026-02-08T17:49:51Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge  QuizMaster is a platform built for both...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3238333</id>
-    <title>How I Stopped Rewriting My Code Every Time I Switched LLM Providers</title>
-    <link rel="alternate" href="https://dev.to/chief_yaml_officer/how-i-stopped-rewriting-my-code-every-time-i-switched-llm-providers-4gjh"/>
-    <updated>2026-02-06T19:10:48+00:00</updated>
-    <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chief_yaml_officer&quot;&gt;Chief YAML Officer&lt;/a&gt;&lt;br/&gt;Published: 2026-02-06T14:42:42Z&lt;br/&gt;Tags: python, llm, devops, openai&lt;br/&gt;Description: You know that feeling when you&apos;ve just finished migrating your entire codebase from GPT-4 to Claude —...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3240298</id>
     <title>Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.</title>
     <link rel="alternate" href="https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82"/>
@@ -357,18 +350,18 @@
     <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T13:55:12Z&lt;br/&gt;Tags: hackathon, mlh, watercooler&lt;br/&gt;Description: Most hackathon stories start with &quot;We stayed up for 36 hours and drank 10 Red Bulls.&quot;  Mine is...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3470559</id>
+    <title>AIMock: One Mock Server For Your Entire AI Stack</title>
+    <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
+    <updated>2026-04-10T09:55:31+00:00</updated>
+    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3437639</id>
     <title>A Year of Change and Persistence</title>
     <link rel="alternate" href="https://dev.to/jess/a-year-of-change-and-persistence-19cf"/>
     <updated>2026-04-01T17:17:02+00:00</updated>
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3470559</id>
-    <title>AIMock: One Mock Server For Your Entire AI Stack</title>
-    <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
-    <updated>2026-04-10T09:55:31+00:00</updated>
-    <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3247048</id>
@@ -539,6 +532,13 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-09T03:32:22Z&lt;br/&gt;Tags: webdev, programming, productivity, javascript&lt;br/&gt;Description: Hello Devs 👋  Coding is changing fast. Today, you don’t always need to write everything from scratch....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3487725</id>
+    <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
+    <updated>2026-04-11T15:55:53+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T15:55:53Z&lt;br/&gt;Tags: github, opensource, development, repository&lt;br/&gt;Description: Table of Contents    Introduction What Does It Mean to &quot;Seal&quot; a Project?  The Release...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3431856</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0"/>
@@ -588,11 +588,11 @@
     <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rmohitjoe&quot;&gt;R. Mohit joe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T18:15:05Z&lt;br/&gt;Tags: ai, productivity, automation, startup&lt;br/&gt;Description: Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3487725</id>
-    <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
-    <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
-    <updated>2026-04-11T15:55:53+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T15:55:53Z&lt;br/&gt;Tags: github, opensource, development, repository&lt;br/&gt;Description: Table of Contents    Introduction What Does It Mean to &quot;Seal&quot; a Project?  The Release...</summary>
+    <id>tag:dev.to,2026:3442004</id>
+    <title>Welcome Thread - v372</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v372-254c"/>
+    <updated>2026-04-08T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3467717</id>
@@ -672,13 +672,6 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-07T09:32:01Z&lt;br/&gt;Tags: architecture, books, systemdesign, softwareengineering&lt;br/&gt;Description: The 11 Essential System Design Books (Ranked by Impact)</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3442004</id>
-    <title>Welcome Thread - v372</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v372-254c"/>
-    <updated>2026-04-08T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3392075</id>
     <title>Check Up with Each Other</title>
     <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
@@ -735,6 +728,13 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T23:09:36Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re launching something brand new: our first-ever DEV Weekend Challenge! 🎉  This is a short...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3466256</id>
+    <title>The Mental Cost of Always Being On as a Developer</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/the-mental-cost-of-always-being-on-as-a-developer-2el4"/>
+    <updated>2026-04-08T13:33:41+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:33:41Z&lt;br/&gt;Tags: career, mentalhealth, webdev, discuss&lt;br/&gt;Description: It Started With Just One Thing   Last month, I closed my laptop at 11 PM.  Then I opened it...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3309030</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-ilf"/>
@@ -747,13 +747,6 @@
     <link rel="alternate" href="https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0"/>
     <updated>2026-03-11T11:04:06+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T11:04:06Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  So it is finally time to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3466256</id>
-    <title>The Mental Cost of Always Being On as a Developer</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/the-mental-cost-of-always-being-on-as-a-developer-2el4"/>
-    <updated>2026-04-08T13:33:41+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T13:33:41Z&lt;br/&gt;Tags: career, mentalhealth, webdev, discuss&lt;br/&gt;Description: It Started With Just One Thing   Last month, I closed my laptop at 11 PM.  Then I opened it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391682</id>
@@ -987,6 +980,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3477156</id>
+    <title>Unlocking Casual Fun: AI-Powered &apos;Vibe Coding&apos; for Quick, Niche Apps</title>
+    <link rel="alternate" href="https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5"/>
+    <updated>2026-04-09T15:06:56+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maria_from_mlh&quot;&gt;Maria Dunning&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T15:06:56Z&lt;br/&gt;Tags: sideprojects, ai, vibecoding, gemini&lt;br/&gt;Description: I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3312490</id>
     <title>Building a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time Everything</title>
     <link rel="alternate" href="https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm"/>
@@ -999,13 +999,6 @@
     <link rel="alternate" href="https://dev.to/georgekobaidze/sunday-dev-drive-a-synthwave-driving-experience-through-your-dev-community-articles-5032"/>
     <updated>2026-03-01T20:32:00+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T20:32:00Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community           ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3477156</id>
-    <title>Unlocking Casual Fun: AI-Powered &apos;Vibe Coding&apos; for Quick, Niche Apps</title>
-    <link rel="alternate" href="https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5"/>
-    <updated>2026-04-09T15:06:56+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maria_from_mlh&quot;&gt;Maria Dunning&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T15:06:56Z&lt;br/&gt;Tags: sideprojects, ai, vibecoding, gemini&lt;br/&gt;Description: I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3376535</id>
@@ -1351,6 +1344,20 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T04:50:04Z&lt;br/&gt;Tags: ai, programming, productivity, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3493213</id>
+    <title>The Emotional Terror of Closing a Browser Tab</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"/>
+    <updated>2026-04-13T07:49:30+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3482571</id>
+    <title>I&apos;m a bit lost.</title>
+    <link rel="alternate" href="https://dev.to/hubedav/im-a-bit-lost-2dko"/>
+    <updated>2026-04-10T15:45:11+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hubedav&quot;&gt;David&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T15:42:25Z&lt;br/&gt;Tags: jobs, career, jobmarket, discuss&lt;br/&gt;Description: The job market sucks enough without being disabled.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3410004</id>
     <title>Speed vs smarts for coding agents?</title>
     <link rel="alternate" href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h"/>
@@ -1377,13 +1384,6 @@
     <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
     <updated>2026-02-24T12:02:47+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3482571</id>
-    <title>I&apos;m a bit lost.</title>
-    <link rel="alternate" href="https://dev.to/hubedav/im-a-bit-lost-2dko"/>
-    <updated>2026-04-10T15:45:11+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hubedav&quot;&gt;David&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T15:42:25Z&lt;br/&gt;Tags: jobs, career, jobmarket, discuss&lt;br/&gt;Description: The job market sucks enough without being disabled.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3416968</id>
