@@ -497,6 +497,13 @@
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T12:58:25Z&lt;br/&gt;Tags: discuss, showdev, productivity, privacy&lt;br/&gt;Description: You have a tab open right now that you have been meaning to read for three weeks. You have a &quot;Read...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3493213</id>
+    <title>The Emotional Terror of Closing a Browser Tab</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"/>
+    <updated>2026-04-13T07:49:30+00:00</updated>
+    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3466256</id>
     <title>The Mental Cost of Always Being On as a Developer</title>
     <link rel="alternate" href="https://dev.to/harsh2644/the-mental-cost-of-always-being-on-as-a-developer-2el4"/>
@@ -530,13 +537,6 @@
     <link rel="alternate" href="https://canro91.github.io/2025/06/28/AIRecovery/"/>
     <updated>2026-02-23T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/canro91&quot;&gt;Cesar Aguirre&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T05:00:00Z&lt;br/&gt;Tags: beginners, ai, coding, softwaredevelopment&lt;br/&gt;Description: Technology makes us lazy.  That&apos;s not an opinion but a fact. We can&apos;t do mental math, find addresses,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3493213</id>
-    <title>The Emotional Terror of Closing a Browser Tab</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"/>
-    <updated>2026-04-13T07:49:30+00:00</updated>
-    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3298341</id>
@@ -1113,13 +1113,6 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T14:52:17Z&lt;br/&gt;Tags: webdev, ai, nextjs, tooling&lt;br/&gt;Description: One of the biggest challenges I face as a content expert is repurposing my written blogs for social...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3257320</id>
-    <title>Setting Up AI Code Review in Bitbucket: A Practical Guide and Comparison⚖️</title>
-    <link rel="alternate" href="https://dev.to/dev_kiran/setting-up-ai-code-review-in-bitbucket-a-practical-guide-and-comparison-19dp"/>
-    <updated>2026-02-15T06:53:25+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T06:53:25Z&lt;br/&gt;Tags: bitbucket, cicd, productivity, automation&lt;br/&gt;Description: Hello Devs 👋   If your team uses Bitbucket and you’re exploring AI code review tools, you might have...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3236581</id>
     <title>Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI</title>
     <link rel="alternate" href="https://dev.to/javz/why-learning-basic-robotics-made-me-a-better-software-engineer-in-the-age-of-ai-fdh"/>
@@ -1218,6 +1211,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T09:00:28Z&lt;br/&gt;Tags: discuss, ai, opensource&lt;br/&gt;Description: Open source has always operated on an implicit social contract:   If you care enough to contribute,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3493651</id>
+    <title>I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.</title>
+    <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
+    <updated>2026-04-13T09:40:43+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3472952</id>
     <title>Converting old home movie DVDs into a private streaming site</title>
     <link rel="alternate" href="https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb"/>
@@ -1258,13 +1258,6 @@
     <link rel="alternate" href="https://dev.to/swatigoyal911/document-localization-studio-5gl8"/>
     <updated>2026-02-14T20:05:28+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swatigoyal911&quot;&gt;swati goyal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T20:00:44Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built Document...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3493651</id>
-    <title>I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.</title>
-    <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
-    <updated>2026-04-13T09:40:43+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3421778</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
     <updated>2026-03-29T05:42:08+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3324229</id>
+    <title>Your Agent Is Making Decisions Nobody Authorized</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/your-agent-is-making-decisions-nobody-authorized-2bc7"/>
+    <updated>2026-03-19T18:02:23+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T18:02:23Z&lt;br/&gt;Tags: ai, webdev, architecture, discuss&lt;br/&gt;Description: A quant fund ran five independent strategies. Every one passed its individual risk limits. Every...</summary>
   </entry>
 </feed>
