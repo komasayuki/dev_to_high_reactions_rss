@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-13T21:42:25+00:00</updated>
+  <updated>2026-04-16T15:38:54+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -364,18 +364,18 @@
     <summary type="html">Reactions: public 99 / positive 99&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T08:00:08Z&lt;br/&gt;Tags: discuss, community, learning&lt;br/&gt;Description: We all had that first computer book, the one that opened our eyes to the digital universe. Whether it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3493213</id>
+    <title>The Emotional Terror of Closing a Browser Tab</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"/>
+    <updated>2026-04-13T07:49:30+00:00</updated>
+    <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3301870</id>
     <title>Missing My Coworker Jason Today</title>
     <link rel="alternate" href="https://dev.to/art_light/missing-my-coworker-jason-today-23h3"/>
     <updated>2026-03-02T14:17:15+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3493213</id>
-    <title>The Emotional Terror of Closing a Browser Tab</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"/>
-    <updated>2026-04-13T07:49:30+00:00</updated>
-    <summary type="html">Reactions: public 96 / positive 96&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3252512</id>
@@ -1183,6 +1183,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-10T03:32:00Z&lt;br/&gt;Tags: javascript, discuss, node, codenewbie&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3496217</id>
+    <title>The Open Sourcerer of Forem: Beyond the UI</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p"/>
+    <updated>2026-04-13T21:42:25+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3305277</id>
     <title>Gemini 3.1 Flash-Lite: Developer guide and use cases</title>
     <link rel="alternate" href="https://dev.to/googleai/gemini-31-flash-lite-developer-guide-and-use-cases-1hh"/>
@@ -1209,13 +1216,6 @@
     <link rel="alternate" href="https://dev.to/richardpascoe/vouch-mitchell-hashimotos-experiment-in-restoring-trust-to-open-source-7l8"/>
     <updated>2026-02-16T09:00:28+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T09:00:28Z&lt;br/&gt;Tags: discuss, ai, opensource&lt;br/&gt;Description: Open source has always operated on an implicit social contract:   If you care enough to contribute,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3496217</id>
-    <title>The Open Sourcerer of Forem: Beyond the UI</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p"/>
-    <updated>2026-04-13T21:42:25+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3472952</id>
@@ -1344,6 +1344,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T04:50:04Z&lt;br/&gt;Tags: ai, programming, productivity, react&lt;br/&gt;Description: ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3506833</id>
+    <title>Join the OpenClaw Challenge: $1,200 Prize Pool!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682"/>
+    <updated>2026-04-16T15:38:54+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T15:38:54Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, openclaw, ai&lt;br/&gt;Description: If you&apos;ve spent any time on the internet, you know OpenClaw has been making waves lately. We recently...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3491341</id>
     <title>I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖</title>
     <link rel="alternate" href="https://dev.to/anik2812/i-built-a-platformer-that-gaslights-you-coins-steal-spikes-heal-and-the-exit-door-kills-you-2a5h"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
     <updated>2026-03-27T21:33:31+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410521</id>
-    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
-    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
-    <updated>2026-03-29T05:42:08+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
