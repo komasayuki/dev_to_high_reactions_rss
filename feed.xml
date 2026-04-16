@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-13T07:49:30+00:00</updated>
+  <updated>2026-04-13T09:40:43+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -382,7 +382,7 @@
     <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
     <updated>2026-04-11T15:55:53+00:00</updated>
-    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T15:55:53Z&lt;br/&gt;Tags: github, opensource, development, repository&lt;br/&gt;Description: Table of Contents    Introduction What Does It Mean to &quot;Seal&quot; a Project?  The Release...</summary>
+    <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T15:55:53Z&lt;br/&gt;Tags: github, opensource, development, repository&lt;br/&gt;Description: Table of Contents    Introduction What Does It Mean to &quot;Seal&quot; a Project?  The Release...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3197057</id>
@@ -665,6 +665,13 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/clintonrocha98&quot;&gt;Clinton Rocha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T04:37:00Z&lt;br/&gt;Tags: ai, braziliandevs, opensource&lt;br/&gt;Description: Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3493213</id>
+    <title>The Emotional Terror of Closing a Browser Tab</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"/>
+    <updated>2026-04-13T07:49:30+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3392075</id>
     <title>Check Up with Each Other</title>
     <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
@@ -679,11 +686,11 @@
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-15T17:09:52Z&lt;br/&gt;Tags: programming, architecture, career, performance&lt;br/&gt;Description: I have been writing software long enough to remember when deploying meant FTP.  I have worked...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3493213</id>
-    <title>The Emotional Terror of Closing a Browser Tab</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"/>
-    <updated>2026-04-13T07:49:30+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
+    <id>tag:dev.to,2026:3482571</id>
+    <title>I&apos;m a bit lost.</title>
+    <link rel="alternate" href="https://dev.to/hubedav/im-a-bit-lost-2dko"/>
+    <updated>2026-04-10T15:45:11+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hubedav&quot;&gt;David&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T15:42:25Z&lt;br/&gt;Tags: jobs, career, jobmarket, discuss&lt;br/&gt;Description: The job market sucks enough without being disabled.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3299059</id>
@@ -726,13 +733,6 @@
     <link rel="alternate" href="https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3"/>
     <updated>2026-02-23T23:09:36+00:00</updated>
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T23:09:36Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re launching something brand new: our first-ever DEV Weekend Challenge! 🎉  This is a short...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3482571</id>
-    <title>I&apos;m a bit lost.</title>
-    <link rel="alternate" href="https://dev.to/hubedav/im-a-bit-lost-2dko"/>
-    <updated>2026-04-10T15:45:11+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hubedav&quot;&gt;David&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T15:42:25Z&lt;br/&gt;Tags: jobs, career, jobmarket, discuss&lt;br/&gt;Description: The job market sucks enough without being disabled.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3309030</id>
@@ -1372,6 +1372,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3493651</id>
+    <title>I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.</title>
+    <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
+    <updated>2026-04-13T09:40:43+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3416968</id>
     <title>The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!</title>
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/aws/the-agent-buddy-system-when-prompt-engineering-isnt-enough-5dni"/>
     <updated>2026-03-24T14:42:51+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T18:01:01Z&lt;br/&gt;Tags: ai, agents, programming, aws&lt;br/&gt;Description: Most AI agents don’t reliably follow directions, and that’s one of the biggest reasons they never...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3360758</id>
-    <title>Path of Discovery</title>
-    <link rel="alternate" href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi"/>
-    <updated>2026-03-17T22:04:33+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T01:12:55Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  A bit personal, a bit all...</summary>
   </entry>
 </feed>
