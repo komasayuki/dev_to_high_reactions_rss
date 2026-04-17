@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-17T15:25:28+00:00</updated>
+  <updated>2026-04-17T16:49:02+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -966,6 +966,20 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T10:02:57Z&lt;br/&gt;Tags: ai, webdev, graphql, a11y&lt;br/&gt;Description: Update (2026/02/24): Added feature to reduce much stress. Gold Fountain with Mega Bazooka          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3516083</id>
+    <title>100 Daily Challenges to Learn Web3 and Solana</title>
+    <link rel="alternate" href="https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i"/>
+    <updated>2026-04-17T15:25:28+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matthewrevell&quot;&gt;Matthew Revell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T15:14:12Z&lt;br/&gt;Tags: web3, solana, programming, blockchain&lt;br/&gt;Description: Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3496592</id>
+    <title>Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1"/>
+    <updated>2026-04-17T02:42:00+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T02:00:01Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: We&apos;re excited to kick off another DEV Weekend Challenge, a short bite-sized challenge planned to fit...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3369583</id>
     <title>Should RubyGems/Bundler Have a Cooldown Feature?</title>
     <link rel="alternate" href="https://dev.to/hsbt/should-rubygemsbundler-have-a-cooldown-feature-40cp"/>
@@ -985,20 +999,6 @@
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v364-2mdg"/>
     <updated>2026-02-11T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3496592</id>
-    <title>Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1"/>
-    <updated>2026-04-17T02:42:00+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T02:00:01Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: We&apos;re excited to kick off another DEV Weekend Challenge, a short bite-sized challenge planned to fit...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3516083</id>
-    <title>100 Daily Challenges to Learn Web3 and Solana</title>
-    <link rel="alternate" href="https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i"/>
-    <updated>2026-04-17T15:25:28+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matthewrevell&quot;&gt;Matthew Revell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T15:14:12Z&lt;br/&gt;Tags: web3, solana, programming, blockchain&lt;br/&gt;Description: Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3312490</id>
@@ -1099,6 +1099,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T23:12:17Z&lt;br/&gt;Tags: claudecode, codingwithai, softwareengineering, developerlife&lt;br/&gt;Description: How to orient yourself in an unfamiliar codebase — and how Claude Code can help you find your footing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3493651</id>
+    <title>I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.</title>
+    <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
+    <updated>2026-04-13T09:40:43+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3429646</id>
     <title>What is ‘Harness Design’ and why does it matter</title>
     <link rel="alternate" href="https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj"/>
@@ -1141,11 +1148,11 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T21:34:36Z&lt;br/&gt;Tags: devchallenge, wecoded, frontend, career&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3493651</id>
-    <title>I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.</title>
-    <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
-    <updated>2026-04-13T09:40:43+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
+    <id>tag:dev.to,2026:3510833</id>
+    <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
+    <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
+    <updated>2026-04-16T13:50:47+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391274</id>
@@ -1246,11 +1253,11 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T09:00:28Z&lt;br/&gt;Tags: discuss, ai, opensource&lt;br/&gt;Description: Open source has always operated on an implicit social contract:   If you care enough to contribute,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3510833</id>
-    <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
-    <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
-    <updated>2026-04-16T13:50:47+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
+    <id>tag:dev.to,2026:3516155</id>
+    <title>Congrats to the Notion MCP Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab"/>
+    <updated>2026-04-17T16:49:02+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T16:30:22Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: The results are in!  We&apos;re thrilled to announce our winners for the Notion MCP Challenge! From...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282063</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/thebitforge/25-developer-tools-i-wish-i-knew-when-i-started-coding-1no0"/>
     <updated>2026-02-12T04:52:56+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-02-12T04:50:04Z&lt;br/&gt;Tags: ai, programming, productivity, react&lt;br/&gt;Description: ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410004</id>
-    <title>Speed vs smarts for coding agents?</title>
-    <link rel="alternate" href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h"/>
-    <updated>2026-03-26T15:58:22+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T15:58:22Z&lt;br/&gt;Tags: agents, ai, productivity, discuss&lt;br/&gt;Description: I&apos;m curious if you specifically have a sense of where you draw the line in terms of your interest in...</summary>
   </entry>
 </feed>
