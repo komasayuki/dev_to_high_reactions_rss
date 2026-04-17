@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-17T02:42:00+00:00</updated>
+  <updated>2026-04-17T15:25:28+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -651,6 +651,13 @@
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T02:47:24Z&lt;br/&gt;Tags: claudecode, softwaredevelopment, coding, programming&lt;br/&gt;Description: What AI-Assisted Coding Actually Means for Your Career — and Why the News Is Better Than You...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3496217</id>
+    <title>The Open Sourcerer of Forem: Beyond the UI</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p"/>
+    <updated>2026-04-13T21:42:25+00:00</updated>
+    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3435564</id>
     <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
     <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
@@ -761,13 +768,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1m96"/>
     <updated>2026-03-06T05:00:00+00:00</updated>
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3496217</id>
-    <title>The Open Sourcerer of Forem: Beyond the UI</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p"/>
-    <updated>2026-04-13T21:42:25+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3309047</id>
@@ -987,6 +987,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3496592</id>
+    <title>Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1"/>
+    <updated>2026-04-17T02:42:00+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T02:00:01Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: We&apos;re excited to kick off another DEV Weekend Challenge, a short bite-sized challenge planned to fit...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3312490</id>
     <title>Building a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time Everything</title>
     <link rel="alternate" href="https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm"/>
@@ -1001,11 +1008,11 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T20:32:00Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community           ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3496592</id>
-    <title>Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1"/>
-    <updated>2026-04-17T02:42:00+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T02:00:01Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: We&apos;re excited to kick off another DEV Weekend Challenge, a short bite-sized challenge planned to fit...</summary>
+    <id>tag:dev.to,2026:3516083</id>
+    <title>100 Daily Challenges to Learn Web3 and Solana</title>
+    <link rel="alternate" href="https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i"/>
+    <updated>2026-04-17T15:25:28+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matthewrevell&quot;&gt;Matthew Revell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T15:14:12Z&lt;br/&gt;Tags: web3, solana, programming, blockchain&lt;br/&gt;Description: Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3376535</id>
@@ -1239,6 +1246,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/richardpascoe&quot;&gt;Richard Pascoe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-16T09:00:28Z&lt;br/&gt;Tags: discuss, ai, opensource&lt;br/&gt;Description: Open source has always operated on an implicit social contract:   If you care enough to contribute,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3510833</id>
+    <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
+    <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
+    <updated>2026-04-16T13:50:47+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3472952</id>
     <title>Converting old home movie DVDs into a private streaming site</title>
     <link rel="alternate" href="https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb"/>
@@ -1272,13 +1286,6 @@
     <link rel="alternate" href="https://dev.to/swatigoyal911/document-localization-studio-5gl8"/>
     <updated>2026-02-14T20:05:28+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swatigoyal911&quot;&gt;swati goyal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T20:00:44Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built Document...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3510833</id>
-    <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
-    <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
-    <updated>2026-04-16T13:50:47+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3282063</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h"/>
     <updated>2026-03-26T15:58:22+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T15:58:22Z&lt;br/&gt;Tags: agents, ai, productivity, discuss&lt;br/&gt;Description: I&apos;m curious if you specifically have a sense of where you draw the line in terms of your interest in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3385945</id>
-    <title>Building a Weather Station Using an Old Raspberry Pi</title>
-    <link rel="alternate" href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333"/>
-    <updated>2026-03-23T17:20:41+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
   </entry>
 </feed>
