@@ -553,13 +553,6 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3241863</id>
-    <title>ASCII Whisper: Local P2P Chat with Sound FX and Battleship</title>
-    <link rel="alternate" href="https://dev.to/annavi11arrea1/ascii-whisper-local-p2p-chat-with-sound-fx-and-battleship-18c7"/>
-    <updated>2026-02-11T00:29:42+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-11T00:29:42Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a group submission for the GitHub Copilot CLI Challenge           What We Built...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3467717</id>
     <title>Forem (Dev.to) is slow, so I del...optimized it.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln"/>
@@ -847,18 +840,18 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T16:06:08Z&lt;br/&gt;Tags: ai, softwareengineering, coding&lt;br/&gt;Description: Hello Devs 👋  If you’ve only worked in small teams, adding AI code review feels almost...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3510833</id>
+    <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
+    <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
+    <updated>2026-04-16T13:50:47+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3367901</id>
     <title>How to Stop Babysitting Your AI Agents</title>
     <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
     <updated>2026-03-19T18:05:05+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3510833</id>
-    <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
-    <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
-    <updated>2026-04-16T13:50:47+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3477156</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
     <updated>2026-03-27T21:33:31+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3410521</id>
+    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
+    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
+    <updated>2026-03-29T05:42:08+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
