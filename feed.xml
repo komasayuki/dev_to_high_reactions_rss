@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-17T16:49:02+00:00</updated>
+  <updated>2026-04-18T17:21:30+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -973,6 +973,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T20:32:00Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community           ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3520220</id>
+    <title>The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f"/>
+    <updated>2026-04-18T17:21:30+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T17:21:30Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, coding, ai&lt;br/&gt;Description: A submission for Weekend Challenge: Earth Day Edition      Let me be perfectly clear right up front:...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3376535</id>
     <title>Deploying AG-UI Agents to Production with Amazon Bedrock AgentCore</title>
     <link rel="alternate" href="https://dev.to/copilotkit/deploying-ag-ui-agents-to-production-with-amazon-bedrock-agentcore-3ok0"/>
@@ -1190,6 +1197,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3490107</id>
+    <title>Build Your Own &quot;Private Copilot&quot; in 10 Minutes: Ollama, Continue, and DeepSeek-V3</title>
+    <link rel="alternate" href="https://medium.com/@syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-0199d4e0ec30?source=friends_link&amp;sk=0b4b4afe8d1ec9a5a7b69b8aeb3a9742"/>
+    <updated>2026-04-12T11:22:02+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T11:22:02Z&lt;br/&gt;Tags: claude, chatgpt, coding, ai&lt;br/&gt;Description: You are paying $20 a month for GitHub Copilot. In our local economy, that is almost 6,000 PKR every...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3472952</id>
     <title>Converting old home movie DVDs into a private streaming site</title>
     <link rel="alternate" href="https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb"/>
@@ -1223,6 +1237,13 @@
     <link rel="alternate" href="https://dev.to/swatigoyal911/document-localization-studio-5gl8"/>
     <updated>2026-02-14T20:05:28+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swatigoyal911&quot;&gt;swati goyal&lt;/a&gt;&lt;br/&gt;Published: 2026-02-14T20:00:44Z&lt;br/&gt;Tags: devchallenge, githubchallenge, cli, githubcopilot&lt;br/&gt;Description: This is a submission for the GitHub Copilot CLI Challenge           What I Built   I built Document...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3516290</id>
+    <title>Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete</title>
+    <link rel="alternate" href="https://medium.com/@syedahmershah/openclaw-vs-saas-ai-tools-2026-1387cc9567fb"/>
+    <updated>2026-04-18T16:55:04+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T15:39:57Z&lt;br/&gt;Tags: ai, openclaw, devchallenge, openclawchallenge&lt;br/&gt;Description: This is a submission for the OpenClaw Writing Challenge  You&apos;re probably dropping $20 a month for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3501735</id>
@@ -1384,26 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/your-agent-is-making-decisions-nobody-authorized-2bc7"/>
     <updated>2026-03-19T18:02:23+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T18:02:23Z&lt;br/&gt;Tags: ai, webdev, architecture, discuss&lt;br/&gt;Description: A quant fund ran five independent strategies. Every one passed its individual risk limits. Every...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3368617</id>
-    <title>The Agent Buddy System: When Prompt Engineering Isn&apos;t Enough</title>
-    <link rel="alternate" href="https://dev.to/aws/the-agent-buddy-system-when-prompt-engineering-isnt-enough-5dni"/>
-    <updated>2026-03-24T14:42:51+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T18:01:01Z&lt;br/&gt;Tags: ai, agents, programming, aws&lt;br/&gt;Description: Most AI agents don’t reliably follow directions, and that’s one of the biggest reasons they never...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3360758</id>
-    <title>Path of Discovery</title>
-    <link rel="alternate" href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi"/>
-    <updated>2026-03-17T22:04:33+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T01:12:55Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  A bit personal, a bit all...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3334932</id>
-    <title>I Built EchoHR: The HR System That Doesn’t Ghost You</title>
-    <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
-    <updated>2026-03-17T06:22:37+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
   </entry>
 </feed>
