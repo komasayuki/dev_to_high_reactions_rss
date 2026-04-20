@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-19T19:17:02+00:00</updated>
+  <updated>2026-04-20T12:48:01+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -819,6 +819,13 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T16:06:08Z&lt;br/&gt;Tags: ai, softwareengineering, coding&lt;br/&gt;Description: Hello Devs 👋  If you’ve only worked in small teams, adding AI code review feels almost...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3282063</id>
+    <title>Don’t let AI do your thinking: a practical guide for engineers</title>
+    <link rel="alternate" href="https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0"/>
+    <updated>2026-04-16T10:59:58+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:59:58Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, career&lt;br/&gt;Description: I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3367901</id>
     <title>How to Stop Babysitting Your AI Agents</title>
     <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
@@ -924,11 +931,11 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T10:02:57Z&lt;br/&gt;Tags: ai, webdev, graphql, a11y&lt;br/&gt;Description: Update (2026/02/24): Added feature to reduce much stress. Gold Fountain with Mega Bazooka          ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3282063</id>
-    <title>Don’t let AI do your thinking: a practical guide for engineers</title>
-    <link rel="alternate" href="https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0"/>
-    <updated>2026-04-16T10:59:58+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:59:58Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, career&lt;br/&gt;Description: I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</summary>
+    <id>tag:dev.to,2026:3442047</id>
+    <title>What was your win this week?!</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-28fb"/>
+    <updated>2026-04-17T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3369583</id>
@@ -943,13 +950,6 @@
     <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
     <updated>2026-03-17T18:32:57+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3442047</id>
-    <title>What was your win this week?!</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-28fb"/>
-    <updated>2026-04-17T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3522879</id>
@@ -1372,6 +1372,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3435890</id>
+    <title>Generative UI Project Ideas with Complete Source Code</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
+    <updated>2026-04-20T12:48:01+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3505463</id>
     <title>Lost in the AI Hype, I Started Small</title>
     <link rel="alternate" href="https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/your-agent-is-making-decisions-nobody-authorized-2bc7"/>
     <updated>2026-03-19T18:02:23+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T18:02:23Z&lt;br/&gt;Tags: ai, webdev, architecture, discuss&lt;br/&gt;Description: A quant fund ran five independent strategies. Every one passed its individual risk limits. Every...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3368617</id>
-    <title>The Agent Buddy System: When Prompt Engineering Isn&apos;t Enough</title>
-    <link rel="alternate" href="https://dev.to/aws/the-agent-buddy-system-when-prompt-engineering-isnt-enough-5dni"/>
-    <updated>2026-03-24T14:42:51+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T18:01:01Z&lt;br/&gt;Tags: ai, agents, programming, aws&lt;br/&gt;Description: Most AI agents don’t reliably follow directions, and that’s one of the biggest reasons they never...</summary>
   </entry>
 </feed>
