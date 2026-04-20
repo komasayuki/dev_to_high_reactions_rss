@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-20T12:48:01+00:00</updated>
+  <updated>2026-04-19T19:17:02+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -973,6 +973,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T20:32:00Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community           ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3523618</id>
+    <title>I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework</title>
+    <link rel="alternate" href="https://medium.com/@syedahmershah/building-commerza-security-first-ecommerce-engine-fdb103b8eada"/>
+    <updated>2026-04-19T19:17:02+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T19:15:17Z&lt;br/&gt;Tags: coding, vibecoding, ai, programming&lt;br/&gt;Description: I am 19 years old. I set out to build a production-grade e-commerce system from scratch. No Laravel....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3376535</id>
     <title>Deploying AG-UI Agents to Production with Amazon Bedrock AgentCore</title>
     <link rel="alternate" href="https://dev.to/copilotkit/deploying-ag-ui-agents-to-production-with-amazon-bedrock-agentcore-3ok0"/>
@@ -1155,13 +1162,6 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T14:24:05Z&lt;br/&gt;Tags: ai, mcp, programming, llm&lt;br/&gt;Description: Let’s start with a statement that should be obvious but still feels controversial: Large Language...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3523618</id>
-    <title>I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework</title>
-    <link rel="alternate" href="https://medium.com/@syedahmershah/building-commerza-security-first-ecommerce-engine-fdb103b8eada"/>
-    <updated>2026-04-19T19:17:02+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T19:15:17Z&lt;br/&gt;Tags: coding, vibecoding, ai, programming&lt;br/&gt;Description: I am 19 years old. I set out to build a production-grade e-commerce system from scratch. No Laravel....</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3493601</id>
     <title>Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative</title>
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
@@ -1188,6 +1188,13 @@
     <link rel="alternate" href="https://dev.to/m4rri4nne/your-swagger-doc-is-more-than-documentation-its-a-test-suite-waiting-to-happen-gm8"/>
     <updated>2026-02-19T16:53:45+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T15:31:47Z&lt;br/&gt;Tags: api, automation, testing, csharp&lt;br/&gt;Description: In a previous article, I showed how we can use Swagger and AI to generate test cases automatically....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3511691</id>
+    <title>How to Add Device Authorization Flow to Your App With Kinde</title>
+    <link rel="alternate" href="https://dev.to/sholajegede/how-to-add-device-authorization-flow-to-your-app-with-kinde-1o69"/>
+    <updated>2026-04-16T17:29:50+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T17:29:50Z&lt;br/&gt;Tags: webdev, kinde, learning, programming&lt;br/&gt;Description: Most auth tutorials assume there is a browser. Here is what to do when there is not.  In this...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3501735</id>
@@ -1246,6 +1253,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T15:39:57Z&lt;br/&gt;Tags: ai, openclaw, devchallenge, openclawchallenge&lt;br/&gt;Description: This is a submission for the OpenClaw Writing Challenge  You&apos;re probably dropping $20 a month for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3288363</id>
+    <title>How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde</title>
+    <link rel="alternate" href="https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25"/>
+    <updated>2026-04-16T11:48:28+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T11:48:28Z&lt;br/&gt;Tags: webdev, kinde, convex, learning&lt;br/&gt;Description: Enterprise customers will not sign on the dotted line until they can answer: &quot;Who did what, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3487110</id>
     <title>I Couldn’t Afford Earth, So I Built Something Better</title>
     <link rel="alternate" href="https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506"/>
@@ -1302,6 +1316,27 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T15:09:26Z&lt;br/&gt;Tags: ai, developers, coding, agents&lt;br/&gt;Description: &quot;Software engineering is solved.&quot; This is all I see lately when scrolling LinkedIn, X, or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3381894</id>
+    <title>How to Use Feature Flags to Safely Roll Out Features in Production With Kinde</title>
+    <link rel="alternate" href="https://dev.to/sholajegede/how-to-use-feature-flags-to-safely-roll-out-features-in-production-with-kinde-cdg"/>
+    <updated>2026-04-14T14:28:29+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T14:28:29Z&lt;br/&gt;Tags: webdev, kinde, featureflags, programming&lt;br/&gt;Description: In this article, you will learn:   What feature flags are and why they matter for production...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3381884</id>
+    <title>How to Add Enterprise SSO to Your AI App With Kinde: SAML, OIDC, and Beyond</title>
+    <link rel="alternate" href="https://dev.to/sholajegede/how-to-add-enterprise-sso-to-your-ai-app-with-kinde-saml-oidc-and-beyond-438a"/>
+    <updated>2026-04-16T10:56:01+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T12:47:33Z&lt;br/&gt;Tags: webdev, kinde, ai, development&lt;br/&gt;Description: Enterprise buyers will not deploy your AI app without SSO. Here is everything you need to know to...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3381869</id>
+    <title>How to Implement RBAC in a Next.js 16 App With Kinde: A Step-by-Step Guide</title>
+    <link rel="alternate" href="https://dev.to/sholajegede/how-to-implement-rbac-in-a-nextjs-16-app-with-kinde-a-step-by-step-guide-1ic1"/>
+    <updated>2026-04-14T10:35:04+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T10:35:04Z&lt;br/&gt;Tags: kinde, webdev, programming, tutorial&lt;br/&gt;Description: Next.js 16 ships with proxy.ts, React Compiler, and React 19.2. Your access control should be as...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3491341</id>
     <title>I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖</title>
     <link rel="alternate" href="https://dev.to/anik2812/i-built-a-platformer-that-gaslights-you-coins-steal-spikes-heal-and-the-exit-door-kills-you-2a5h"/>
@@ -1344,6 +1379,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T15:03:04Z&lt;br/&gt;Tags: ai, gemini, python, tutorial&lt;br/&gt;Description: What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3505463</id>
+    <title>Lost in the AI Hype, I Started Small</title>
+    <link rel="alternate" href="https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72"/>
+    <updated>2026-04-15T14:50:30+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:32:01Z&lt;br/&gt;Tags: ai, beginners, productivity, aws&lt;br/&gt;Description: And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3410004</id>
     <title>Speed vs smarts for coding agents?</title>
     <link rel="alternate" href="https://dev.to/ben/speed-vs-smarts-for-coding-agents-3h"/>
@@ -1363,47 +1405,5 @@
     <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
     <updated>2026-03-11T17:45:44+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3271919</id>
-    <title>The Increasing Need for Human Connection in the Age of AI</title>
-    <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
-    <updated>2026-02-24T12:02:47+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3435890</id>
-    <title>Generative UI Project Ideas with Complete Source Code</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
-    <updated>2026-04-20T12:48:01+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3505463</id>
-    <title>Lost in the AI Hype, I Started Small</title>
-    <link rel="alternate" href="https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72"/>
-    <updated>2026-04-15T14:50:30+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:32:01Z&lt;br/&gt;Tags: ai, beginners, productivity, aws&lt;br/&gt;Description: And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3477336</id>
-    <title>Build a Talking Robot with Gemini Live and Reachy Mini</title>
-    <link rel="alternate" href="https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2"/>
-    <updated>2026-04-14T11:59:19+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3416968</id>
-    <title>The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!</title>
-    <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
-    <updated>2026-03-27T21:33:31+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410521</id>
-    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
-    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
-    <updated>2026-03-29T05:42:08+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
