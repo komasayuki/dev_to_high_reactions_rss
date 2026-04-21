@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-19T19:17:02+00:00</updated>
+  <updated>2026-04-20T16:58:14+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -679,13 +679,6 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T19:52:26Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community   Brent is one...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3252542</id>
-    <title>Claude Code for Fullstack Development: The 3 Things You Actually Need</title>
-    <link rel="alternate" href="https://wasp.sh/blog/2026/01/29/claude-code-fullstack-development-essentials"/>
-    <updated>2026-02-13T14:09:30+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vincanger&quot;&gt;vincanger&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: vibecoding, fullstack, ai, webdev&lt;br/&gt;Description: How Can I Use Claude Code Effectively?   There&apos;s a lot of hype around vibe coding with...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3289037</id>
     <title>I built an AI security Firewall and made it open source because production apps were leaking SSNs to OpenAI</title>
     <link rel="alternate" href="https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg"/>
@@ -852,13 +845,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn"/>
     <updated>2026-03-23T17:14:41+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:34:13Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3222108</id>
-    <title>What was your win this week??</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-a3a"/>
-    <updated>2026-02-13T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-13T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442047</id>
@@ -1309,6 +1295,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T15:09:26Z&lt;br/&gt;Tags: ai, developers, coding, agents&lt;br/&gt;Description: &quot;Software engineering is solved.&quot; This is all I see lately when scrolling LinkedIn, X, or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3523369</id>
+    <title>What Building with MCP Taught Me About Its Biggest Gap</title>
+    <link rel="alternate" href="https://dev.to/lovestaco/what-building-with-mcp-taught-me-about-its-biggest-gap-idl"/>
+    <updated>2026-04-20T16:58:14+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T16:58:14Z&lt;br/&gt;Tags: webdev, programming, ai, mcp&lt;br/&gt;Description: I spent the last few weeks wiring up MCP at my org, stitching a handful of internal tools (GitHub,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3381894</id>
     <title>How to Use Feature Flags to Safely Roll Out Features in Production With Kinde</title>
     <link rel="alternate" href="https://dev.to/sholajegede/how-to-use-feature-flags-to-safely-roll-out-features-in-production-with-kinde-cdg"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
     <updated>2026-02-24T12:02:47+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3435890</id>
+    <title>Generative UI Project Ideas with Complete Source Code</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
+    <updated>2026-04-20T12:48:01+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
   </entry>
 </feed>
