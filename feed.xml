@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-21T13:03:25+00:00</updated>
+  <updated>2026-04-22T08:04:46+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -322,6 +322,13 @@
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T03:23:34Z&lt;br/&gt;Tags: showdev, devops, python, typescript&lt;br/&gt;Description: You know that iconic DJ Khaled album, &quot;Suffering from Success&quot;? The one where he looks overwhelmed by...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3522285</id>
+    <title>I Had No Weekend Plans… So I Let Earth Tell Its Story 🌍</title>
+    <link rel="alternate" href="https://dev.to/hadil/i-had-no-weekend-plans-so-i-let-earth-tell-its-story-1no8"/>
+    <updated>2026-04-19T11:34:33+00:00</updated>
+    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T11:34:33Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, webdev, frontend&lt;br/&gt;Description: This is a submission for Weekend Challenge: Earth Day Edition   “I’m not asking for much. Just… stop...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3487725</id>
     <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
@@ -341,13 +348,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/why-did-you-become-a-developer-57ea"/>
     <updated>2026-02-19T19:43:51+00:00</updated>
     <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T19:43:51Z&lt;br/&gt;Tags: discuss, community, programming, mentalhealth&lt;br/&gt;Description: We all have our origin stories. Maybe you were born to become a programmer or you started off when...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3522285</id>
-    <title>I Had No Weekend Plans… So I Let Earth Tell Its Story 🌍</title>
-    <link rel="alternate" href="https://dev.to/hadil/i-had-no-weekend-plans-so-i-let-earth-tell-its-story-1no8"/>
-    <updated>2026-04-19T11:34:33+00:00</updated>
-    <summary type="html">Reactions: public 103 / positive 103&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T11:34:33Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, webdev, frontend&lt;br/&gt;Description: This is a submission for Weekend Challenge: Earth Day Edition   “I’m not asking for much. Just… stop...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3470559</id>
@@ -1379,6 +1379,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shrsv&quot;&gt;Shrijith Venkatramana&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:36:54Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: The assumption in software engineering circles has been that if AI lets us write code faster, we will...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3533667</id>
+    <title>If AI Existed in 2011, Would We Still Have the Modern Web?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g"/>
+    <updated>2026-04-22T08:04:46+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T08:04:46Z&lt;br/&gt;Tags: ai, webdev, discuss, programming&lt;br/&gt;Description: Imagine it’s 2011. The web is mostly server-rendered PHP templates, maybe a bit of jQuery if you’re...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3512820</id>
     <title>🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)</title>
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/harsh2644/vibe-coding-is-making-us-worse-developers-39bd"/>
     <updated>2026-04-16T14:35:35+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T09:58:16Z&lt;br/&gt;Tags: ai, productivity, career, discuss&lt;br/&gt;Description: How I Got There   It started with a number that scared me.  I was curious one week — how...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3506378</id>
-    <title>Turning the Raspberry Pi Zero into a Hacking Gadget</title>
-    <link rel="alternate" href="https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl"/>
-    <updated>2026-04-16T04:49:02+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/admantium&quot;&gt;Sebastian&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T04:49:02Z&lt;br/&gt;Tags: raspberrypi, raspberryzero&lt;br/&gt;Description: Single Board Computers with the ability to run a full-fledged Linux distribution can be used as...</summary>
   </entry>
 </feed>
