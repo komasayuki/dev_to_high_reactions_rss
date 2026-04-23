@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-22T08:04:46+00:00</updated>
+  <updated>2026-04-22T14:09:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -809,7 +809,14 @@
     <title>The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f"/>
     <updated>2026-04-18T17:21:30+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T17:21:30Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, coding, ai&lt;br/&gt;Description: A submission for Weekend Challenge: Earth Day Edition      Let me be perfectly clear right up front:...</summary>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T17:21:30Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, coding, ai&lt;br/&gt;Description: A submission for Weekend Challenge: Earth Day Edition      Let me be perfectly clear right up front:...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3517007</id>
+    <title>How We Built Our Own DNS Server</title>
+    <link rel="alternate" href="https://sliplane.io/blog/how-we-built-our-own-dns-server"/>
+    <updated>2026-04-17T20:30:49+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3322125</id>
@@ -838,13 +845,6 @@
     <link rel="alternate" href="https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj"/>
     <updated>2026-04-18T22:43:33+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T22:29:42Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, javascript, ai&lt;br/&gt;Description: This is a submission for Weekend Challenge: Earth Day Edition  Fluffer: someone who helps people &quot;get...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3517007</id>
-    <title>How We Built Our Own DNS Server</title>
-    <link rel="alternate" href="https://sliplane.io/blog/how-we-built-our-own-dns-server"/>
-    <updated>2026-04-17T20:30:49+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3367901</id>
@@ -978,6 +978,13 @@
     <link rel="alternate" href="https://dev.to/georgekobaidze/sunday-dev-drive-a-synthwave-driving-experience-through-your-dev-community-articles-5032"/>
     <updated>2026-03-01T20:32:00+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T20:32:00Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community           ...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3500889</id>
+    <title>Tune In and Join the Google Cloud NEXT &apos;26 Writing Challenge: $1,000 in Prizes!</title>
+    <link rel="alternate" href="https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"/>
+    <updated>2026-04-22T14:09:18+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3523618</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://techstratos3.wordpress.com/2026/02/22/negotiating-with-decision-makers-influencers-and-signatories/"/>
     <updated>2026-02-24T02:35:00+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T02:35:00Z&lt;br/&gt;Tags: negotiation, leadership, business, sales&lt;br/&gt;Description: Most professionals think negotiation is about persuasion.  That assumption quietly destroys...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3268368</id>
-    <title>The future belongs to those who can refute AI, not just generate with AI</title>
-    <link rel="alternate" href="https://dev.to/shrsv/the-future-belongs-to-those-who-can-refute-ai-not-just-generate-with-ai-28i0"/>
-    <updated>2026-02-19T13:42:20+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shrsv&quot;&gt;Shrijith Venkatramana&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:36:54Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: The assumption in software engineering circles has been that if AI lets us write code faster, we will...</summary>
   </entry>
 </feed>
