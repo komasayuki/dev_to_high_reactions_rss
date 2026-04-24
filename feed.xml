@@ -179,7 +179,7 @@
     <title>If AI Existed in 2011, Would We Still Have the Modern Web?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g"/>
     <updated>2026-04-22T08:04:46+00:00</updated>
-    <summary type="html">Reactions: public 132 / positive 132&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T08:04:46Z&lt;br/&gt;Tags: ai, webdev, discuss, programming&lt;br/&gt;Description: Imagine it’s 2011. The web is mostly server-rendered PHP templates, maybe a bit of jQuery if you’re...</summary>
+    <summary type="html">Reactions: public 133 / positive 133&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T08:04:46Z&lt;br/&gt;Tags: ai, webdev, discuss, programming&lt;br/&gt;Description: Imagine it’s 2011. The web is mostly server-rendered PHP templates, maybe a bit of jQuery if you’re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3367665</id>
@@ -431,7 +431,7 @@
     <title>I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf"/>
     <updated>2026-04-21T10:25:34+00:00</updated>
-    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T10:25:34Z&lt;br/&gt;Tags: watercooler, productivity, wellness, discuss&lt;br/&gt;Description: My spine used to be a straight line. Now, it’s a terrifying existential question mark.  A few months...</summary>
+    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T10:25:34Z&lt;br/&gt;Tags: watercooler, productivity, wellness, discuss&lt;br/&gt;Description: My spine used to be a straight line. Now, it’s a terrifying existential question mark.  A few months...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3326254</id>
@@ -1043,6 +1043,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T13:36:47Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3528949</id>
+    <title>Build your own blog post view counter on AWS Free Tier</title>
+    <link rel="alternate" href="https://builder.aws.com/content/3Cbk654mcGCtAREF1jRP7cAE885/build-your-own-blog-post-view-counter-on-aws-free-tier"/>
+    <updated>2026-04-21T19:35:19+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3493651</id>
     <title>I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.</title>
     <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
@@ -1090,13 +1097,6 @@
     <link rel="alternate" href="https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb"/>
     <updated>2026-03-15T23:12:17+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T23:12:17Z&lt;br/&gt;Tags: claudecode, codingwithai, softwareengineering, developerlife&lt;br/&gt;Description: How to orient yourself in an unfamiliar codebase — and how Claude Code can help you find your footing...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3528949</id>
-    <title>Build your own blog post view counter on AWS Free Tier</title>
-    <link rel="alternate" href="https://builder.aws.com/content/3Cbk654mcGCtAREF1jRP7cAE885/build-your-own-blog-post-view-counter-on-aws-free-tier"/>
-    <updated>2026-04-21T19:35:19+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3500482</id>
