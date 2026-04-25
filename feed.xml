@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-22T14:09:18+00:00</updated>
+  <updated>2026-04-24T09:50:38+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -151,7 +151,7 @@
     <title>If AI Existed in 2011, Would We Still Have the Modern Web?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g"/>
     <updated>2026-04-22T08:04:46+00:00</updated>
-    <summary type="html">Reactions: public 143 / positive 143&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T08:04:46Z&lt;br/&gt;Tags: ai, webdev, discuss, programming&lt;br/&gt;Description: Imagine it’s 2011. The web is mostly server-rendered PHP templates, maybe a bit of jQuery if you’re...</summary>
+    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T08:04:46Z&lt;br/&gt;Tags: ai, webdev, discuss, programming&lt;br/&gt;Description: Imagine it’s 2011. The web is mostly server-rendered PHP templates, maybe a bit of jQuery if you’re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3263699</id>
@@ -179,7 +179,7 @@
     <title>Tune In and Join the Google Cloud NEXT &apos;26 Writing Challenge: $1,000 in Prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"/>
     <updated>2026-04-22T14:09:18+00:00</updated>
-    <summary type="html">Reactions: public 134 / positive 134&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
+    <summary type="html">Reactions: public 135 / positive 135&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3367665</id>
@@ -378,18 +378,18 @@
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-03-02T10:17:25Z&lt;br/&gt;Tags: career, discuss, webdev, beginners&lt;br/&gt;Description: I was going to write something technical this week. Maybe about architecture patterns. Or why most...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3531384</id>
+    <title>I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf"/>
+    <updated>2026-04-21T10:25:34+00:00</updated>
+    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T10:25:34Z&lt;br/&gt;Tags: watercooler, productivity, wellness, discuss&lt;br/&gt;Description: My spine used to be a straight line. Now, it’s a terrifying existential question mark.  A few months...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3252512</id>
     <title>Introducing Our Next DEV Education Track: &quot;Build Multi-Agent Systems with ADK&quot;</title>
     <link rel="alternate" href="https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8"/>
     <updated>2026-02-17T18:39:29+00:00</updated>
     <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-17T18:27:56Z&lt;br/&gt;Tags: agents, gemini, ai, buildmultiagents&lt;br/&gt;Description: Hundreds of developers have already completed our first DEV Education Track, and today we&apos;re excited...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3531384</id>
-    <title>I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf"/>
-    <updated>2026-04-21T10:25:34+00:00</updated>
-    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T10:25:34Z&lt;br/&gt;Tags: watercooler, productivity, wellness, discuss&lt;br/&gt;Description: My spine used to be a straight line. Now, it’s a terrifying existential question mark.  A few months...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516083</id>
@@ -1393,17 +1393,17 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shrsv&quot;&gt;Shrijith Venkatramana&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T13:36:54Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: The assumption in software engineering circles has been that if AI lets us write code faster, we will...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3545447</id>
+    <title>I Used to Love Coding. Now I Just Prompt.</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"/>
+    <updated>2026-04-24T09:50:38+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3506732</id>
     <title>Build a voice-enabled Telegram Bot with the Gemini Interactions API</title>
     <link rel="alternate" href="https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5"/>
     <updated>2026-04-16T15:03:04+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T15:03:04Z&lt;br/&gt;Tags: ai, gemini, python, tutorial&lt;br/&gt;Description: What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3506378</id>
-    <title>Turning the Raspberry Pi Zero into a Hacking Gadget</title>
-    <link rel="alternate" href="https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl"/>
-    <updated>2026-04-16T04:49:02+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/admantium&quot;&gt;Sebastian&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T04:49:02Z&lt;br/&gt;Tags: raspberrypi, raspberryzero&lt;br/&gt;Description: Single Board Computers with the ability to run a full-fledged Linux distribution can be used as...</summary>
   </entry>
 </feed>
