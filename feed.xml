@@ -315,13 +315,6 @@
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3268980</id>
-    <title>Why did you become a Developer?</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/why-did-you-become-a-developer-57ea"/>
-    <updated>2026-02-19T19:43:51+00:00</updated>
-    <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-19T19:43:51Z&lt;br/&gt;Tags: discuss, community, programming, mentalhealth&lt;br/&gt;Description: We all have our origin stories. Maybe you were born to become a programmer or you started off when...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3470559</id>
     <title>AIMock: One Mock Server For Your Entire AI Stack</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
@@ -658,6 +651,13 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/raviteja_nekkalapu_&quot;&gt;Raviteja Nekkalapu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T19:33:31Z&lt;br/&gt;Tags: ai, agents, mcp, privacy&lt;br/&gt;Description: About a year ago I started keeping a list.  Every production AI integration I saw that shipped with...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3545447</id>
+    <title>I Used to Love Coding. Now I Just Prompt.</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"/>
+    <updated>2026-04-24T09:50:38+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3309030</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-ilf"/>
@@ -747,13 +747,6 @@
     <link rel="alternate" href="https://dev.to/aws-builders/i-let-an-ai-agent-become-my-devops-engineer-529"/>
     <updated>2026-02-26T18:18:03+00:00</updated>
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T18:50:15Z&lt;br/&gt;Tags: aws, ai, discuss, devops&lt;br/&gt;Description: 👋 Hey there, tech enthusiasts!   I&apos;m Sarvar, a Cloud Architect with a passion for transforming...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3545447</id>
-    <title>I Used to Love Coding. Now I Just Prompt.</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"/>
-    <updated>2026-04-24T09:50:38+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3520220</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j"/>
     <updated>2026-04-22T16:49:33+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T09:49:24Z&lt;br/&gt;Tags: architecture, security, ai, agents&lt;br/&gt;Description: How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3477336</id>
+    <title>Build a Talking Robot with Gemini Live and Reachy Mini</title>
+    <link rel="alternate" href="https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2"/>
+    <updated>2026-04-14T11:59:19+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
   </entry>
 </feed>
