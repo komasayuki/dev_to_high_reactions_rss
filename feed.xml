@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-25T10:23:47+00:00</updated>
+  <updated>2026-04-26T14:31:29+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -109,7 +109,7 @@
     <title>Tune In and Join the Google Cloud NEXT &apos;26 Writing Challenge: $1,000 in Prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"/>
     <updated>2026-04-22T14:09:18+00:00</updated>
-    <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
+    <summary type="html">Reactions: public 159 / positive 159&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3506833</id>
@@ -1281,6 +1281,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T15:09:26Z&lt;br/&gt;Tags: ai, developers, coding, agents&lt;br/&gt;Description: &quot;Software engineering is solved.&quot; This is all I see lately when scrolling LinkedIn, X, or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3553477</id>
+    <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
+    <updated>2026-04-26T14:31:29+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3523974</id>
     <title>It Might Already Be Too Late to Fix This</title>
     <link rel="alternate" href="https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j"/>
     <updated>2026-04-22T16:49:33+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T09:49:24Z&lt;br/&gt;Tags: architecture, security, ai, agents&lt;br/&gt;Description: How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3477336</id>
-    <title>Build a Talking Robot with Gemini Live and Reachy Mini</title>
-    <link rel="alternate" href="https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2"/>
-    <updated>2026-04-14T11:59:19+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
   </entry>
 </feed>
