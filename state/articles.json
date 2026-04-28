@@ -4069,7 +4069,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3353605",
@@ -7197,7 +7197,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3442098",
@@ -8381,7 +8381,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3500926",
@@ -9162,7 +9162,7 @@
       ],
       "user_name": "ujja",
       "user_username": "ujja",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3520220",
@@ -9442,7 +9442,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3528949",
@@ -9464,7 +9464,7 @@
       ],
       "user_name": "Esin Saribudak",
       "user_username": "esin87",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3528968",
@@ -9662,7 +9662,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3533908",
@@ -9684,7 +9684,7 @@
       ],
       "user_name": "Om Shree",
       "user_username": "om_shree_0709",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3534028",
@@ -9706,7 +9706,7 @@
       ],
       "user_name": "Elves Santos",
       "user_username": "sirelves",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3535895",
@@ -9728,7 +9728,7 @@
       ],
       "user_name": "Aditya Agarwal",
       "user_username": "adioof",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3537632",
@@ -9750,7 +9750,7 @@
       ],
       "user_name": "EmberNoGlow",
       "user_username": "embernoglow",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3537679",
@@ -9794,7 +9794,7 @@
       ],
       "user_name": "Paulo Henrique",
       "user_username": "phalkmin",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3542457",
@@ -9806,8 +9806,8 @@
       "published_timestamp": "2026-04-24T15:30:43Z",
       "published_at": "2026-04-24T15:30:43Z",
       "edited_at": "2026-04-24T15:32:22Z",
-      "public_reactions_count": 39,
-      "positive_reactions_count": 39,
+      "public_reactions_count": 40,
+      "positive_reactions_count": 40,
       "tag_list": [
         "discuss",
         "easypvdevlog",
@@ -9816,7 +9816,29 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
+    },
+    {
+      "key": "3542818",
+      "id": 3542818,
+      "canonical_url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "url": "https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j",
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "description": "The agent isn't the hard part. The scaffolding around it is. Here's how we built ours so a non-engineer could ship to production safely.",
+      "published_timestamp": "2026-04-23T20:30:39Z",
+      "published_at": "2026-04-23T20:30:39Z",
+      "edited_at": "2026-04-24T15:10:26Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "webdev",
+        "ai",
+        "devops",
+        "productivity"
+      ],
+      "user_name": "Matty Stratton",
+      "user_username": "mattstratton",
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3542971",
@@ -9837,7 +9859,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3545447",
@@ -9849,8 +9871,8 @@
       "published_timestamp": "2026-04-24T09:50:38Z",
       "published_at": "2026-04-24T09:50:38Z",
       "edited_at": null,
-      "public_reactions_count": 81,
-      "positive_reactions_count": 81,
+      "public_reactions_count": 83,
+      "positive_reactions_count": 83,
       "tag_list": [
         "ai",
         "career",
@@ -9859,7 +9881,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3549363",
@@ -9881,7 +9903,7 @@
       ],
       "user_name": "Syed Ahmer Shah",
       "user_username": "syedahmershah",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3550528",
@@ -9915,8 +9937,8 @@
       "published_timestamp": "2026-04-26T14:31:29Z",
       "published_at": "2026-04-26T14:31:29Z",
       "edited_at": null,
-      "public_reactions_count": 51,
-      "positive_reactions_count": 51,
+      "public_reactions_count": 58,
+      "positive_reactions_count": 58,
       "tag_list": [
         "documentation",
         "opensource",
@@ -9925,7 +9947,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     },
     {
       "key": "3558428",
@@ -9945,7 +9967,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-04-28T13:45:34.812906928+00:00"
+      "last_seen": "2026-04-28T15:00:57.136274485+00:00"
     }
   ]
 }
