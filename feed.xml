@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-26T14:31:29+00:00</updated>
+  <updated>2026-04-27T17:02:21+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -95,7 +95,7 @@
     <title>Tune In and Join the Google Cloud NEXT &apos;26 Writing Challenge: $1,000 in Prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"/>
     <updated>2026-04-22T14:09:18+00:00</updated>
-    <summary type="html">Reactions: public 173 / positive 173&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
+    <summary type="html">Reactions: public 176 / positive 176&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3331372</id>
@@ -280,6 +280,13 @@
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bibin_antony_9fce1ed9318b&quot;&gt;Bibin Antony&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T16:30:51Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev, webdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community              The Community   Every...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3545447</id>
+    <title>I Used to Love Coding. Now I Just Prompt.</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"/>
+    <updated>2026-04-24T09:50:38+00:00</updated>
+    <summary type="html">Reactions: public 106 / positive 106&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3487725</id>
     <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
@@ -292,13 +299,6 @@
     <link rel="alternate" href="https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i"/>
     <updated>2026-04-01T05:45:19+00:00</updated>
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3545447</id>
-    <title>I Used to Love Coding. Now I Just Prompt.</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"/>
-    <updated>2026-04-24T09:50:38+00:00</updated>
-    <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3470559</id>
@@ -357,6 +357,13 @@
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/techstratos&quot;&gt;Tech Stratos&lt;/a&gt;&lt;br/&gt;Published: 2026-02-23T03:30:00Z&lt;br/&gt;Tags: ai, productivity, webdev, typescript&lt;br/&gt;Description: AI is no longer a novelty in development.  It’s not a toy. It’s not magic. It’s not replacing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3553477</id>
+    <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
+    <updated>2026-04-26T14:31:29+00:00</updated>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3326254</id>
     <title>Not Everyone Gets to Be a Beginner in Tech</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8"/>
@@ -390,13 +397,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p"/>
     <updated>2026-04-13T21:42:25+00:00</updated>
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3553477</id>
-    <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
-    <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
-    <updated>2026-04-26T14:31:29+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442047</id>
@@ -1043,6 +1043,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T23:12:17Z&lt;br/&gt;Tags: claudecode, codingwithai, softwareengineering, developerlife&lt;br/&gt;Description: How to orient yourself in an unfamiliar codebase — and how Claude Code can help you find your footing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3558481</id>
+    <title>Why Psychology Became the Real Edge in My Trading Journey</title>
+    <link rel="alternate" href="https://dev.to/mindmagic/why-psychology-became-the-real-edge-in-my-trading-journey-5hn4"/>
+    <updated>2026-04-27T17:02:21+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mindmagic&quot;&gt;Mindmagic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T17:01:56Z&lt;br/&gt;Tags: devjournal, learning, productivity, watercooler&lt;br/&gt;Description: The Market Was Never the Enemy. It Was Me.    Most people believe trading is a purely...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3500482</id>
     <title>Your Job Isn&apos;t Going Away. But Someone&apos;s Fundraise Depends on You Thinking It Is.</title>
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j"/>
     <updated>2026-04-22T16:49:33+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T09:49:24Z&lt;br/&gt;Tags: architecture, security, ai, agents&lt;br/&gt;Description: How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3477336</id>
-    <title>Build a Talking Robot with Gemini Live and Reachy Mini</title>
-    <link rel="alternate" href="https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2"/>
-    <updated>2026-04-14T11:59:19+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
   </entry>
 </feed>
