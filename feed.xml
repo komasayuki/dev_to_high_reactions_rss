@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-27T17:02:21+00:00</updated>
+  <updated>2026-04-28T11:23:13+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1148,6 +1148,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-22T14:24:05Z&lt;br/&gt;Tags: ai, mcp, programming, llm&lt;br/&gt;Description: Let’s start with a statement that should be obvious but still feels controversial: Large Language...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3561978</id>
+    <title>Are We Using AI at the Wrong Scale?</title>
+    <link rel="alternate" href="https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"/>
+    <updated>2026-04-28T11:23:13+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3493601</id>
     <title>Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative</title>
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
     <updated>2026-04-20T12:48:01+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3509384</id>
-    <title>Architecture Documentation as a First-Class Engineering Asset</title>
-    <link rel="alternate" href="https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j"/>
-    <updated>2026-04-22T16:49:33+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T09:49:24Z&lt;br/&gt;Tags: architecture, security, ai, agents&lt;br/&gt;Description: How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...</summary>
   </entry>
 </feed>
