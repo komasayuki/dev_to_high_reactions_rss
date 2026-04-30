@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-30T06:01:20+00:00</updated>
+  <updated>2026-04-30T21:25:40+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -994,6 +994,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T13:36:47Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3593416</id>
+    <title>Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍</title>
+    <link rel="alternate" href="https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"/>
+    <updated>2026-04-30T21:25:40+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3493651</id>
     <title>I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.</title>
     <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd"/>
     <updated>2026-02-24T12:02:47+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3542971</id>
-    <title>Congrats to the April Fools Challenge Winners!!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"/>
-    <updated>2026-04-23T20:47:21+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T20:47:21Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: We asked you to build something completely useless and you delivered.   The DEV April Fools Challenge...</summary>
   </entry>
 </feed>
