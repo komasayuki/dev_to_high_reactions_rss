@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-29T01:34:18+00:00</updated>
+  <updated>2026-04-30T06:01:20+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -189,18 +189,18 @@
     <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ismail9k&quot;&gt;Abdelrahman Ismail&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T20:11:41Z&lt;br/&gt;Tags: ai, programming, development&lt;br/&gt;Description: I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3553477</id>
+    <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
+    <updated>2026-04-26T14:31:29+00:00</updated>
+    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3510833</id>
     <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
     <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
     <updated>2026-04-16T13:50:47+00:00</updated>
     <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3553477</id>
-    <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
-    <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
-    <updated>2026-04-26T14:31:29+00:00</updated>
-    <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3336670</id>
@@ -1344,6 +1344,20 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T23:44:05Z&lt;br/&gt;Tags: fun, http, python, webdev&lt;br/&gt;Description: HTCPCP/1.0, the 418 teapot, a full interactive dashboard, and why a 1998 April Fools RFC teaches better software design than most tech books.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3588830</id>
+    <title>Is Software Development Just a Side Quest? A Jira Story</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
+    <updated>2026-04-30T06:01:20+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3543505</id>
+    <title>🗓️ Monthly Dev Report: April 2026</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"/>
+    <updated>2026-04-29T01:34:18+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T22:44:48Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Post Cover is &quot;Soda Pop&quot; from Kpop Demon Hunters featuring @javz, @embernoglow, @konark_13,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3506732</id>
     <title>Build a voice-enabled Telegram Bot with the Gemini Interactions API</title>
     <link rel="alternate" href="https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5"/>
@@ -1386,24 +1400,10 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3543505</id>
-    <title>🗓️ Monthly Dev Report: April 2026</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"/>
-    <updated>2026-04-29T01:34:18+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T22:44:48Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Post Cover is &quot;Soda Pop&quot; from Kpop Demon Hunters featuring @javz, @embernoglow, @konark_13,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3542971</id>
     <title>Congrats to the April Fools Challenge Winners!!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"/>
     <updated>2026-04-23T20:47:21+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T20:47:21Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: We asked you to build something completely useless and you delivered.   The DEV April Fools Challenge...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3435890</id>
-    <title>Generative UI Project Ideas with Complete Source Code</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
-    <updated>2026-04-20T12:48:01+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
   </entry>
 </feed>
