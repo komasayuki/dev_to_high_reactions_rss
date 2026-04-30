@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-28T11:23:13+00:00</updated>
+  <updated>2026-04-28T19:54:21+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -228,14 +228,14 @@
     <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
     <updated>2026-04-26T14:31:29+00:00</updated>
-    <summary type="html">Reactions: public 112 / positive 112&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
+    <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3545447</id>
     <title>I Used to Love Coding. Now I Just Prompt.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"/>
     <updated>2026-04-24T09:50:38+00:00</updated>
-    <summary type="html">Reactions: public 111 / positive 111&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
+    <summary type="html">Reactions: public 112 / positive 112&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3531384</id>
@@ -1386,6 +1386,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3547210</id>
+    <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
+    <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
+    <updated>2026-04-28T19:54:21+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shirmeirlador&quot;&gt;Shir Meir Lador&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T19:54:21Z&lt;br/&gt;Tags: gemma, machinelearning, googlecloud, cloudrun&lt;br/&gt;Description: Google has just announced the release of Gemma 4! This new generation of open models brings...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3542971</id>
     <title>Congrats to the April Fools Challenge Winners!!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
     <updated>2026-04-20T12:48:01+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3509384</id>
-    <title>Architecture Documentation as a First-Class Engineering Asset</title>
-    <link rel="alternate" href="https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j"/>
-    <updated>2026-04-22T16:49:33+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T09:49:24Z&lt;br/&gt;Tags: architecture, security, ai, agents&lt;br/&gt;Description: How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...</summary>
   </entry>
 </feed>
