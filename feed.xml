@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-04-28T19:54:21+00:00</updated>
+  <updated>2026-04-29T01:34:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -651,6 +651,13 @@
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T11:04:06Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  So it is finally time to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3558240</id>
+    <title>How I turned a visual idea into a reusable OpenClaw skill</title>
+    <link rel="alternate" href="https://dev.to/umarpathan/openclaw-challenge-222g"/>
+    <updated>2026-04-28T09:39:15+00:00</updated>
+    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/umarpathan&quot;&gt;Umar Pathan&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T15:39:57Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, ai&lt;br/&gt;Description: This is a submission for the OpenClaw Challenge           What I Built   A Designer Agent for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3391682</id>
     <title>Beyond the Prompt: The Rise of the Sovereign Developer</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/beyond-the-prompt-the-rise-of-the-sovereign-developer-b8cb2806a8b1?source=friends_link&amp;sk=ead1cbf2e329ccc4e10ff3ad6273cf00"/>
@@ -1043,13 +1050,6 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mindmagic&quot;&gt;Mindmagic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T17:01:56Z&lt;br/&gt;Tags: devjournal, learning, productivity, watercooler&lt;br/&gt;Description: The Market Was Never the Enemy. It Was Me.    Most people believe trading is a purely...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3558240</id>
-    <title>How I turned a visual idea into a reusable OpenClaw skill</title>
-    <link rel="alternate" href="https://dev.to/umarpathan/openclaw-challenge-222g"/>
-    <updated>2026-04-28T09:39:15+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/umarpathan&quot;&gt;Umar Pathan&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T15:39:57Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, ai&lt;br/&gt;Description: This is a submission for the OpenClaw Challenge           What I Built   A Designer Agent for...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3500482</id>
     <title>Your Job Isn&apos;t Going Away. But Someone&apos;s Fundraise Depends on You Thinking It Is.</title>
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"/>
@@ -1386,6 +1386,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T12:02:47Z&lt;br/&gt;Tags: ai, community, career, growth&lt;br/&gt;Description: Is it just me, or are tech events and communities on the rise?  I’ve been thinking about this lately,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3543505</id>
+    <title>🗓️ Monthly Dev Report: April 2026</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"/>
+    <updated>2026-04-29T01:34:18+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T22:44:48Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Post Cover is &quot;Soda Pop&quot; from Kpop Demon Hunters featuring @javz, @embernoglow, @konark_13,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3542971</id>
     <title>Congrats to the April Fools Challenge Winners!!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
     <updated>2026-04-20T12:48:01+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3509384</id>
-    <title>Architecture Documentation as a First-Class Engineering Asset</title>
-    <link rel="alternate" href="https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j"/>
-    <updated>2026-04-22T16:49:33+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T09:49:24Z&lt;br/&gt;Tags: architecture, security, ai, agents&lt;br/&gt;Description: How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...</summary>
   </entry>
 </feed>
