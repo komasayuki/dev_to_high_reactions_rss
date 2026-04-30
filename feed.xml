@@ -179,7 +179,7 @@
     <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
     <updated>2026-04-26T14:31:29+00:00</updated>
-    <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
+    <summary type="html">Reactions: public 131 / positive 131&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3333073</id>
@@ -784,6 +784,13 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3588830</id>
+    <title>Is Software Development Just a Side Quest? A Jira Story</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
+    <updated>2026-04-30T06:01:20+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3533908</id>
     <title>Anthropic&apos;s Most Dangerous Model Just Got Accessed by People Who Weren&apos;t Supposed to Have It</title>
     <link rel="alternate" href="https://dev.to/om_shree_0709/anthropics-most-dangerous-model-just-got-accessed-by-people-who-werent-supposed-to-have-it-14dn"/>
@@ -803,13 +810,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn"/>
     <updated>2026-03-23T17:14:41+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:34:13Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3588830</id>
-    <title>Is Software Development Just a Side Quest? A Jira Story</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
-    <updated>2026-04-30T06:01:20+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3522879</id>
@@ -1169,6 +1169,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3547210</id>
+    <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
+    <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
+    <updated>2026-04-28T19:54:21+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shirmeirlador&quot;&gt;Shir Meir Lador&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T19:54:21Z&lt;br/&gt;Tags: gemma, machinelearning, googlecloud, cloudrun&lt;br/&gt;Description: Google has just announced the release of Gemma 4! This new generation of open models brings...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3511691</id>
     <title>How to Add Device Authorization Flow to Your App With Kinde</title>
     <link rel="alternate" href="https://dev.to/sholajegede/how-to-add-device-authorization-flow-to-your-app-with-kinde-1o69"/>
@@ -1216,13 +1223,6 @@
     <link rel="alternate" href="https://dev.to/konark_13/vibe-coding-reality-check-440a"/>
     <updated>2026-02-26T13:47:41+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T13:47:41Z&lt;br/&gt;Tags: ai, vibecoding, learning, hackathon&lt;br/&gt;Description: I was really excited about this hackathon because it was an offline event and completely focused on...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3547210</id>
-    <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
-    <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
-    <updated>2026-04-28T19:54:21+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shirmeirlador&quot;&gt;Shir Meir Lador&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T19:54:21Z&lt;br/&gt;Tags: gemma, machinelearning, googlecloud, cloudrun&lt;br/&gt;Description: Google has just announced the release of Gemma 4! This new generation of open models brings...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516290</id>
