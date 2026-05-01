@@ -158,7 +158,7 @@
     <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
     <updated>2026-04-26T14:31:29+00:00</updated>
-    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
+    <summary type="html">Reactions: public 146 / positive 146&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3313354</id>
@@ -511,6 +511,13 @@
     <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rmohitjoe&quot;&gt;R. Mohit joe&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T18:15:05Z&lt;br/&gt;Tags: ai, productivity, automation, startup&lt;br/&gt;Description: Imagine spending years becoming a doctor. The exams, the training, the sacrifice. And then you get...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3588830</id>
+    <title>Is Software Development Just a Side Quest? A Jira Story</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
+    <updated>2026-04-30T06:01:20+00:00</updated>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3528702</id>
     <title>Unpopular Opinion: Do not use OpenClaw...not yet.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/unpopular-opinion-do-not-use-openclawnot-yet-5foe"/>
@@ -595,18 +602,18 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/clintonrocha98&quot;&gt;Clinton Rocha&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T04:37:00Z&lt;br/&gt;Tags: ai, braziliandevs, opensource&lt;br/&gt;Description: Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3593416</id>
+    <title>Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍</title>
+    <link rel="alternate" href="https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"/>
+    <updated>2026-04-30T21:25:40+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3392075</id>
     <title>Check Up with Each Other</title>
     <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
     <updated>2026-03-24T19:11:48+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3588830</id>
-    <title>Is Software Development Just a Side Quest? A Jira Story</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
-    <updated>2026-04-30T06:01:20+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3523369</id>
@@ -628,13 +635,6 @@
     <link rel="alternate" href="https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg"/>
     <updated>2026-02-26T19:37:37+00:00</updated>
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/raviteja_nekkalapu_&quot;&gt;Raviteja Nekkalapu&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T19:33:31Z&lt;br/&gt;Tags: ai, agents, mcp, privacy&lt;br/&gt;Description: About a year ago I started keeping a list.  Every production AI integration I saw that shipped with...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3593416</id>
-    <title>Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍</title>
-    <link rel="alternate" href="https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"/>
-    <updated>2026-04-30T21:25:40+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3558240</id>
@@ -1155,6 +1155,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T05:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can share advice, tell us what brought you here,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3543505</id>
+    <title>🗓️ Monthly Dev Report: April 2026</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"/>
+    <updated>2026-04-29T01:34:18+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T22:44:48Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Post Cover is &quot;Soda Pop&quot; from Kpop Demon Hunters featuring @javz, @embernoglow, @konark_13,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3547210</id>
     <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
     <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
@@ -1209,13 +1216,6 @@
     <link rel="alternate" href="https://dev.to/konark_13/vibe-coding-reality-check-440a"/>
     <updated>2026-02-26T13:47:41+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T13:47:41Z&lt;br/&gt;Tags: ai, vibecoding, learning, hackathon&lt;br/&gt;Description: I was really excited about this hackathon because it was an offline event and completely focused on...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3543505</id>
-    <title>🗓️ Monthly Dev Report: April 2026</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"/>
-    <updated>2026-04-29T01:34:18+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T22:44:48Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Post Cover is &quot;Soda Pop&quot; from Kpop Demon Hunters featuring @javz, @embernoglow, @konark_13,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516290</id>
