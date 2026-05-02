@@ -189,13 +189,6 @@
     <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fransborges&quot;&gt;Fran Borges&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T16:20:34Z&lt;br/&gt;Tags: ai, productivity, beginners, braziliandevs&lt;br/&gt;Description: Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3282235</id>
-    <title>Once Upon a Time, Writing Code Was Fun</title>
-    <link rel="alternate" href="https://ismail9k.com/blog/once-upon-a-time-writing-code-was-fun"/>
-    <updated>2026-02-24T20:12:59+00:00</updated>
-    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ismail9k&quot;&gt;Abdelrahman Ismail&lt;/a&gt;&lt;br/&gt;Published: 2026-02-24T20:11:41Z&lt;br/&gt;Tags: ai, programming, development&lt;br/&gt;Description: I’m one of those developers who’s had the privilege of writing code by hand in its rawest form, the...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3510833</id>
     <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
     <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/your-agent-is-making-decisions-nobody-authorized-2bc7"/>
     <updated>2026-03-19T18:02:23+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T18:02:23Z&lt;br/&gt;Tags: ai, webdev, architecture, discuss&lt;br/&gt;Description: A quant fund ran five independent strategies. Every one passed its individual risk limits. Every...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3368617</id>
+    <title>The Agent Buddy System: When Prompt Engineering Isn&apos;t Enough</title>
+    <link rel="alternate" href="https://dev.to/aws/the-agent-buddy-system-when-prompt-engineering-isnt-enough-5dni"/>
+    <updated>2026-03-24T14:42:51+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T18:01:01Z&lt;br/&gt;Tags: ai, agents, programming, aws&lt;br/&gt;Description: Most AI agents don’t reliably follow directions, and that’s one of the biggest reasons they never...</summary>
   </entry>
 </feed>
