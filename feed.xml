@@ -56,13 +56,6 @@
     <summary type="html">Reactions: public 219 / positive 219&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3283555</id>
-    <title>The $0 Developer Phase — And How Dev.to Pulled Me Out</title>
-    <link rel="alternate" href="https://dev.to/art_light/the-0-developer-phase-and-how-devto-pulled-me-out-84g"/>
-    <updated>2026-02-27T14:59:32+00:00</updated>
-    <summary type="html">Reactions: public 211 / positive 211&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/art_light&quot;&gt;Art light&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T07:11:06Z&lt;br/&gt;Tags: career, webdev, productivity, beginners&lt;br/&gt;Description: Eight years ago, I was absolutely convinced of one thing:  I was ahead of the curve.  Not just...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3533667</id>
     <title>If AI Existed in 2011, Would We Still Have the Modern Web?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
     <updated>2026-03-17T06:22:37+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3333044</id>
+    <title>Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me</title>
+    <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
+    <updated>2026-03-11T09:26:13+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
   </entry>
 </feed>
