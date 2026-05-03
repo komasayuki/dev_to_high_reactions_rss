@@ -133,13 +133,6 @@
     <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T05:48:51Z&lt;br/&gt;Tags: discuss, mentalhealth, webdev, career&lt;br/&gt;Description: A weird thing happens when you become a developer. You can go days without anyone needing you in a...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3285292</id>
-    <title>Join the &quot;Built with Google Gemini: Writing Challenge&quot; Presented by Major League Hacking (MLH). Win a Raspberry Pi AI Kit!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-built-with-google-gemini-writing-challenge-presented-by-major-league-hacking-mlh-win-17pk"/>
-    <updated>2026-02-25T18:24:28+00:00</updated>
-    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-25T17:41:43Z&lt;br/&gt;Tags: devchallenge, geminireflections, gemini, ai&lt;br/&gt;Description: Last week, we announced that DEV has joined Major League Hacking. To kick things off, we&apos;re launching...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3416936</id>
     <title>Google Maps for Codebases: Paste a GitHub URL, Ask Anything</title>
     <link rel="alternate" href="https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8"/>
@@ -966,6 +959,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T22:44:48Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Post Cover is &quot;Soda Pop&quot; from Kpop Demon Hunters featuring @javz, @embernoglow, @konark_13,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3547210</id>
+    <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
+    <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
+    <updated>2026-04-28T19:54:21+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shirmeirlador&quot;&gt;Shir Meir Lador&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T19:54:21Z&lt;br/&gt;Tags: gemma, machinelearning, googlecloud, cloudrun&lt;br/&gt;Description: Google has just announced the release of Gemma 4! This new generation of open models brings...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3558481</id>
     <title>Why Psychology Became the Real Edge in My Trading Journey</title>
     <link rel="alternate" href="https://dev.to/mindmagic/why-psychology-became-the-real-edge-in-my-trading-journey-5hn4"/>
@@ -1055,13 +1055,6 @@
     <link rel="alternate" href="https://dev.to/dumebii/i-vibe-coded-an-internal-tool-that-slashed-my-content-workflow-by-4-hours-310f"/>
     <updated>2026-03-02T11:04:52+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T14:52:17Z&lt;br/&gt;Tags: webdev, ai, nextjs, tooling&lt;br/&gt;Description: One of the biggest challenges I face as a content expert is repurposing my written blogs for social...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3547210</id>
-    <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
-    <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
-    <updated>2026-04-28T19:54:21+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shirmeirlador&quot;&gt;Shir Meir Lador&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T19:54:21Z&lt;br/&gt;Tags: gemma, machinelearning, googlecloud, cloudrun&lt;br/&gt;Description: Google has just announced the release of Gemma 4! This new generation of open models brings...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3501735</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
     <updated>2026-03-11T09:26:13+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3331872</id>
+    <title>Can you Truly Know that you are in the Right Path?</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
+    <updated>2026-03-09T19:26:46+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
   </entry>
 </feed>
