@@ -938,13 +938,6 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3287430</id>
-    <title>The Token Economy</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/the-token-economy-3cd9"/>
-    <updated>2026-02-26T13:36:47+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-02-26T13:36:47Z&lt;br/&gt;Tags: ai, webdev, career, discuss&lt;br/&gt;Description: In 2161, time is money. Literally.  When you are born, a clock starts on your arm. One year. When it...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3543505</id>
     <title>🗓️ Monthly Dev Report: April 2026</title>
     <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
     <updated>2026-03-09T19:26:46+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3590872</id>
+    <title>vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)</title>
+    <link rel="alternate" href="https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k"/>
+    <updated>2026-04-30T09:43:24+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/1grace&quot;&gt;Grace Gong&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T09:38:40Z&lt;br/&gt;Tags: tpu, googlecloud, googledevs, tpusprint&lt;br/&gt;Description: Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...</summary>
   </entry>
 </feed>
