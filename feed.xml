@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-04T08:54:09+00:00</updated>
+  <updated>2026-05-04T10:53:42+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -158,7 +158,7 @@
     <title>Is Software Development Just a Side Quest? A Jira Story</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
     <updated>2026-04-30T06:01:20+00:00</updated>
-    <summary type="html">Reactions: public 134 / positive 134&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
+    <summary type="html">Reactions: public 135 / positive 135&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3367665</id>
@@ -595,6 +595,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-03-01T19:52:26Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community   Brent is one...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3599107</id>
+    <title>Write Code That&apos;s Easy to Delete: The Art of Impermanent Software</title>
+    <link rel="alternate" href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"/>
+    <updated>2026-05-02T08:22:42+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3558240</id>
     <title>How I turned a visual idea into a reusable OpenClaw skill</title>
     <link rel="alternate" href="https://dev.to/umarpathan/openclaw-challenge-222g"/>
@@ -614,13 +621,6 @@
     <link rel="alternate" href="https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0"/>
     <updated>2026-03-11T11:04:06+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T11:04:06Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  So it is finally time to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3599107</id>
-    <title>Write Code That&apos;s Easy to Delete: The Art of Impermanent Software</title>
-    <link rel="alternate" href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"/>
-    <updated>2026-05-02T08:22:42+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3391682</id>
@@ -1211,6 +1211,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-03T15:09:26Z&lt;br/&gt;Tags: ai, developers, coding, agents&lt;br/&gt;Description: &quot;Software engineering is solved.&quot; This is all I see lately when scrolling LinkedIn, X, or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3605102</id>
+    <title>I Love Tailwind. Sorry Not Sorry</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
+    <updated>2026-05-04T08:54:09+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3523974</id>
     <title>It Might Already Be Too Late to Fix This</title>
     <link rel="alternate" href="https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m"/>
@@ -1260,13 +1267,6 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3605102</id>
-    <title>I Love Tailwind. Sorry Not Sorry</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
-    <updated>2026-05-04T08:54:09+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3553899</id>
     <title>Google Finally Answered the Question Nobody Was Asking Out Loud</title>
     <link rel="alternate" href="https://dev.to/codedbyasim/google-finally-answered-the-question-nobody-was-asking-out-loud-1j73"/>
@@ -1307,6 +1307,13 @@
     <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
     <updated>2026-03-11T17:45:44+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3591710</id>
+    <title>OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.</title>
+    <link rel="alternate" href="https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6"/>
+    <updated>2026-05-04T10:53:42+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alimafana&quot;&gt;Ali Afana &lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T12:14:54Z&lt;br/&gt;Tags: ai, webdev, openai, monitoring&lt;br/&gt;Description: OpenAI&apos;s billing page shows total spend. It doesn&apos;t show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I&apos;d been treating as similar.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3590872</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
     <updated>2026-03-11T09:26:13+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3331872</id>
-    <title>Can you Truly Know that you are in the Right Path?</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
-    <updated>2026-03-09T19:26:46+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
   </entry>
 </feed>
