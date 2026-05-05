@@ -144,7 +144,7 @@
     <title>Is Software Development Just a Side Quest? A Jira Story</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
     <updated>2026-04-30T06:01:20+00:00</updated>
-    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
+    <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3373361</id>
@@ -637,6 +637,13 @@
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-06T05:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋  Looking back on your week -- what was something you&apos;re proud of?  All wins count -- big or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3605102</id>
+    <title>I Love Tailwind. Sorry Not Sorry</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
+    <updated>2026-05-04T08:54:09+00:00</updated>
+    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3532336</id>
     <title>Mobile Test Automation Frameworks in 2026: How to Choose</title>
     <link rel="alternate" href="https://dev.to/drizzdev/mobile-test-automation-frameworks-in-2026-how-to-choose-58ec"/>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"/>
     <updated>2026-04-28T11:23:13+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3605102</id>
-    <title>I Love Tailwind. Sorry Not Sorry</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
-    <updated>2026-05-04T08:54:09+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3512820</id>
@@ -1309,6 +1309,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3596751</id>
+    <title>I Don&apos;t Like Tailwind. Sorry Not Sorry</title>
+    <link rel="alternate" href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"/>
+    <updated>2026-05-01T16:11:48+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/freshcaffeine&quot;&gt;Andy Robinson&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T16:11:48Z&lt;br/&gt;Tags: css, webdev, discuss, frontend&lt;br/&gt;Description: An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3590872</id>
     <title>vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)</title>
     <link rel="alternate" href="https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
     <updated>2026-03-11T09:26:13+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3331872</id>
-    <title>Can you Truly Know that you are in the Right Path?</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
-    <updated>2026-03-09T19:26:46+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
   </entry>
 </feed>
