@@ -175,6 +175,13 @@
     <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3593416</id>
+    <title>Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍</title>
+    <link rel="alternate" href="https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"/>
+    <updated>2026-04-30T21:25:40+00:00</updated>
+    <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3336670</id>
     <title>Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark &amp; Demo🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i"/>
@@ -194,13 +201,6 @@
     <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
     <updated>2026-03-14T16:44:34+00:00</updated>
     <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3593416</id>
-    <title>Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍</title>
-    <link rel="alternate" href="https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"/>
-    <updated>2026-04-30T21:25:40+00:00</updated>
-    <summary type="html">Reactions: public 119 / positive 119&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3392308</id>
@@ -319,7 +319,7 @@
     <title>Write Code That&apos;s Easy to Delete: The Art of Impermanent Software</title>
     <link rel="alternate" href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"/>
     <updated>2026-05-02T08:22:42+00:00</updated>
-    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
+    <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516155</id>
@@ -1078,18 +1078,18 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T21:03:10Z&lt;br/&gt;Tags: devchallenge, githubchallenge&lt;br/&gt;Description: Hi all,  I&apos;m terribly sorry to share that we still need a few more days to announce the GitHub...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3609152</id>
+    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
+    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
+    <updated>2026-05-04T13:23:38+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3493601</id>
     <title>Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative</title>
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3609152</id>
-    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
-    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
-    <updated>2026-05-04T13:23:38+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3596751</id>
@@ -1274,6 +1274,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3591625</id>
+    <title>💰Monetize Your AI Agents with LangChain and Kong</title>
+    <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
+    <updated>2026-05-05T16:18:09+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3553899</id>
     <title>Google Finally Answered the Question Nobody Was Asking Out Loud</title>
     <link rel="alternate" href="https://dev.to/codedbyasim/google-finally-answered-the-question-nobody-was-asking-out-loud-1j73"/>
@@ -1314,13 +1321,6 @@
     <link rel="alternate" href="https://x.com/GoogleCloudTech/status/2021653941428113707"/>
     <updated>2026-03-11T17:45:44+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3591625</id>
-    <title>💰Monetize Your AI Agents with LangChain and Kong</title>
-    <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
-    <updated>2026-05-05T16:18:09+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3590872</id>
