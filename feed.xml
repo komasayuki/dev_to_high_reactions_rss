@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-05T16:18:09+00:00</updated>
+  <updated>2026-05-05T17:43:58+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -319,7 +319,7 @@
     <title>Write Code That&apos;s Easy to Delete: The Art of Impermanent Software</title>
     <link rel="alternate" href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"/>
     <updated>2026-05-02T08:22:42+00:00</updated>
-    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
+    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516155</id>
@@ -329,18 +329,18 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T16:30:22Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: The results are in!  We&apos;re thrilled to announce our winners for the Notion MCP Challenge! From...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3605102</id>
+    <title>I Love Tailwind. Sorry Not Sorry</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
+    <updated>2026-05-04T08:54:09+00:00</updated>
+    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3326254</id>
     <title>Not Everyone Gets to Be a Beginner in Tech</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8"/>
     <updated>2026-03-08T09:30:07+00:00</updated>
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T09:02:53Z&lt;br/&gt;Tags: devchallenge, wecoded, career, discuss&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Tech loves to call itself...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3605102</id>
-    <title>I Love Tailwind. Sorry Not Sorry</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
-    <updated>2026-05-04T08:54:09+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442004</id>
@@ -866,6 +866,13 @@
     <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
     <updated>2026-03-17T18:32:57+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3615091</id>
+    <title>Multimodal RAG with the Gemini API File Search Tool: A Developer Guide</title>
+    <link rel="alternate" href="https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"/>
+    <updated>2026-05-05T17:43:58+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pat_loeber&quot;&gt;Patrick Loeber&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T17:43:58Z&lt;br/&gt;Tags: api, gemini, rag, tutorial&lt;br/&gt;Description: The File Search tool in the Gemini API now supports multimodal retrieval by adding support for Gemini...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442049</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
     <updated>2026-03-17T06:22:37+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3333044</id>
-    <title>Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me</title>
-    <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
-    <updated>2026-03-11T09:26:13+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
   </entry>
 </feed>
