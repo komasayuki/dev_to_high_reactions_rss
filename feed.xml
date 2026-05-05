@@ -333,7 +333,7 @@
     <title>Write Code That&apos;s Easy to Delete: The Art of Impermanent Software</title>
     <link rel="alternate" href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1"/>
     <updated>2026-05-02T08:22:42+00:00</updated>
-    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3326254</id>
@@ -362,6 +362,13 @@
     <link rel="alternate" href="https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2"/>
     <updated>2026-03-31T15:44:25+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T15:39:56Z&lt;br/&gt;Tags: ai, webdev, programming, architecture&lt;br/&gt;Description: I&apos;ve been building an AI agent that routes requests across multiple LLM providers, OpenAI, Anthropic...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3605102</id>
+    <title>I Love Tailwind. Sorry Not Sorry</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
+    <updated>2026-05-04T08:54:09+00:00</updated>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3496217</id>
@@ -460,13 +467,6 @@
     <link rel="alternate" href="https://dev.to/miracleio/i-can-now-chat-with-my-notion-on-imessage-2e46"/>
     <updated>2026-03-30T22:21:22+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3605102</id>
-    <title>I Love Tailwind. Sorry Not Sorry</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
-    <updated>2026-05-04T08:54:09+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3467717</id>
@@ -931,13 +931,6 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-04T18:25:32Z&lt;br/&gt;Tags: algoliachallenge, devchallenge, agents&lt;br/&gt;Description: The results are in! Thank you all for your patience.  We saw a wide range of submissions and are...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3289627</id>
-    <title>Upgraded embed experience and new embed types in DEV posts</title>
-    <link rel="alternate" href="https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho"/>
-    <updated>2026-02-27T14:33:00+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonmarkgo&quot;&gt;Jon Gottfried&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T14:29:22Z&lt;br/&gt;Tags: news, devto, forem&lt;br/&gt;Description: When you paste a URL into your DEV post, if it is embeddable, you now get a handy little tooltip to...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3547210</id>
     <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
     <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
@@ -1001,6 +994,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T23:12:17Z&lt;br/&gt;Tags: claudecode, codingwithai, softwareengineering, developerlife&lt;br/&gt;Description: How to orient yourself in an unfamiliar codebase — and how Claude Code can help you find your footing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3533863</id>
+    <title>The 4 Cognitive Archetypes of Developers Using AI</title>
+    <link rel="alternate" href="https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n"/>
+    <updated>2026-05-04T14:47:35+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T14:47:35Z&lt;br/&gt;Tags: ai, productivity, learning, softwareengineering&lt;br/&gt;Description: Lately, I’ve been reflecting on something:  The question for most developers is no longer &quot;Are you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3500482</id>
     <title>Your Job Isn&apos;t Going Away. But Someone&apos;s Fundraise Depends on You Thinking It Is.</title>
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"/>
@@ -1027,13 +1027,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib"/>
     <updated>2026-02-28T02:30:21+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T02:30:21Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev, javascript&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community   This targets...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3292331</id>
-    <title>I vibe-coded an internal tool that slashed my content workflow by 4 hours</title>
-    <link rel="alternate" href="https://dev.to/dumebii/i-vibe-coded-an-internal-tool-that-slashed-my-content-workflow-by-4-hours-310f"/>
-    <updated>2026-03-02T11:04:52+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-02-27T14:52:17Z&lt;br/&gt;Tags: webdev, ai, nextjs, tooling&lt;br/&gt;Description: One of the biggest challenges I face as a content expert is repurposing my written blogs for social...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3501735</id>
@@ -1092,11 +1085,11 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3533863</id>
-    <title>The 4 Cognitive Archetypes of Developers Using AI</title>
-    <link rel="alternate" href="https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n"/>
-    <updated>2026-05-04T14:47:35+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T14:47:35Z&lt;br/&gt;Tags: ai, productivity, learning, softwareengineering&lt;br/&gt;Description: Lately, I’ve been reflecting on something:  The question for most developers is no longer &quot;Are you...</summary>
+    <id>tag:dev.to,2026:3609152</id>
+    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
+    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
+    <updated>2026-05-04T13:23:38+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3591710</id>
@@ -1225,6 +1218,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T19:30:01Z&lt;br/&gt;Tags: ai, agents, productivity, tutorial&lt;br/&gt;Description: The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3596751</id>
+    <title>I Don&apos;t Like Tailwind. Sorry Not Sorry</title>
+    <link rel="alternate" href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"/>
+    <updated>2026-05-01T16:11:48+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/freshcaffeine&quot;&gt;Andy Robinson&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T16:11:48Z&lt;br/&gt;Tags: css, webdev, discuss, frontend&lt;br/&gt;Description: An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3523974</id>
     <title>It Might Already Be Too Late to Fix This</title>
     <link rel="alternate" href="https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m"/>
@@ -1272,13 +1272,6 @@
     <link rel="alternate" href="https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f"/>
     <updated>2026-04-02T21:53:20+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3596751</id>
-    <title>I Don&apos;t Like Tailwind. Sorry Not Sorry</title>
-    <link rel="alternate" href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"/>
-    <updated>2026-05-01T16:11:48+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/freshcaffeine&quot;&gt;Andy Robinson&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T16:11:48Z&lt;br/&gt;Tags: css, webdev, discuss, frontend&lt;br/&gt;Description: An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3553899</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
     <updated>2026-03-17T06:22:37+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3333044</id>
+    <title>Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me</title>
+    <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
+    <updated>2026-03-11T09:26:13+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
   </entry>
 </feed>
