@@ -406,6 +406,13 @@
     <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev-in-progress&quot;&gt;Vaishali&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T05:30:00Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Here&apos;s a story from my...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3614671</id>
+    <title>Am I a Developer or Just a Prompt Engineer?</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"/>
+    <updated>2026-05-05T10:52:28+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T10:52:28Z&lt;br/&gt;Tags: ai, career, programming, discuss&lt;br/&gt;Description: Three years ago, if you asked me &quot;what do you do?&quot; I had an answer I&apos;m a software developer. I write...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3506618</id>
     <title>Congrats to the 2026 WeCoded Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee"/>
@@ -474,13 +481,6 @@
     <link rel="alternate" href="https://dev.to/miracleio/i-can-now-chat-with-my-notion-on-imessage-2e46"/>
     <updated>2026-03-30T22:21:22+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3614671</id>
-    <title>Am I a Developer or Just a Prompt Engineer?</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/am-i-a-developer-or-just-a-prompt-engineer-4ece"/>
-    <updated>2026-05-05T10:52:28+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T10:52:28Z&lt;br/&gt;Tags: ai, career, programming, discuss&lt;br/&gt;Description: Three years ago, if you asked me &quot;what do you do?&quot; I had an answer I&apos;m a software developer. I write...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3467717</id>
@@ -735,6 +735,13 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3609152</id>
+    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
+    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
+    <updated>2026-05-04T13:23:38+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3512820</id>
     <title>🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)</title>
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"/>
@@ -859,13 +866,6 @@
     <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
     <updated>2026-05-06T05:56:15+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3609152</id>
-    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
-    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
-    <updated>2026-05-04T13:23:38+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3543505</id>
@@ -1316,6 +1316,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3613077</id>
+    <title>Flutter Mobile Test Automation: The Complete Guide</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3"/>
+    <updated>2026-05-05T07:41:29+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T07:41:29Z&lt;br/&gt;Tags: ai, flutter, mobile, productivity&lt;br/&gt;Description: &quot;We picked Flutter because it promised one codebase for everything. But now we have three separate...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3590872</id>
     <title>vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)</title>
     <link rel="alternate" href="https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
     <updated>2026-03-17T06:22:37+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3333044</id>
-    <title>Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me</title>
-    <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
-    <updated>2026-03-11T09:26:13+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
   </entry>
 </feed>
