@@ -1029,11 +1029,11 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno S Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:30Z&lt;br/&gt;Tags: braziliandevs, learning, devjournal, networking&lt;br/&gt;Description: &quot;Um objeto deve ser responsável por manter seu próprio estado e proteger sua integridade.&quot;          ...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3293489</id>
-    <title>An App where you can Train your Own Hand Pose Model for your Project! 🤌</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib"/>
-    <updated>2026-02-28T02:30:21+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-02-28T02:30:21Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev, javascript&lt;br/&gt;Description: This is a submission for the DEV Weekend Challenge: Community           The Community   This targets...</summary>
+    <id>tag:dev.to,2026:3591710</id>
+    <title>OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.</title>
+    <link rel="alternate" href="https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6"/>
+    <updated>2026-05-04T10:53:42+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alimafana&quot;&gt;Ali Afana &lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T12:14:54Z&lt;br/&gt;Tags: ai, webdev, openai, monitoring&lt;br/&gt;Description: OpenAI&apos;s billing page shows total spend. It doesn&apos;t show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I&apos;d been treating as similar.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3501735</id>
@@ -1097,13 +1097,6 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3591710</id>
-    <title>OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.</title>
-    <link rel="alternate" href="https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6"/>
-    <updated>2026-05-04T10:53:42+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alimafana&quot;&gt;Ali Afana &lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T12:14:54Z&lt;br/&gt;Tags: ai, webdev, openai, monitoring&lt;br/&gt;Description: OpenAI&apos;s billing page shows total spend. It doesn&apos;t show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I&apos;d been treating as similar.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3511691</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
     <updated>2026-03-11T09:26:13+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3331872</id>
+    <title>Can you Truly Know that you are in the Right Path?</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
+    <updated>2026-03-09T19:26:46+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
   </entry>
 </feed>
