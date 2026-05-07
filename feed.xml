@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-07T13:48:12+00:00</updated>
+  <updated>2026-05-07T20:49:07+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -112,6 +112,13 @@
     <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ghostdotbuild&quot;&gt;ghost&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:01:56Z&lt;br/&gt;Tags: ai, mcp, postgres, agents&lt;br/&gt;Description: TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3592285</id>
+    <title>Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"/>
+    <updated>2026-05-07T13:48:12+00:00</updated>
+    <summary type="html">Reactions: public 153 / positive 153&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3553477</id>
     <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
@@ -126,13 +133,6 @@
     <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-06T13:09:38Z&lt;br/&gt;Tags: javascript, opensource, tutorial, ai&lt;br/&gt;Description: Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3592285</id>
-    <title>Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"/>
-    <updated>2026-05-07T13:48:12+00:00</updated>
-    <summary type="html">Reactions: public 147 / positive 147&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3313354</id>
     <title>Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828"/>
@@ -144,7 +144,7 @@
     <title>I Love Tailwind. Sorry Not Sorry</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh"/>
     <updated>2026-05-04T08:54:09+00:00</updated>
-    <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
+    <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T08:54:09Z&lt;br/&gt;Tags: css, tailwindcss, frontend, discuss&lt;br/&gt;Description: I’m going on a short vacation this week, so this post is coming out a bit earlier than usual. I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3588830</id>
@@ -157,7 +157,7 @@
     <id>tag:dev.to,2026:3601343</id>
     <title>AI Isn&apos;t Stupid. Your Setup Is. 🛠️</title>
     <link rel="alternate" href="https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"/>
-    <updated>2026-05-02T19:30:01+00:00</updated>
+    <updated>2026-05-07T20:49:07+00:00</updated>
     <summary type="html">Reactions: public 136 / positive 136&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T19:30:01Z&lt;br/&gt;Tags: ai, agents, productivity, tutorial&lt;br/&gt;Description: The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.</summary>
   </entry>
   <entry>
