@@ -434,6 +434,13 @@
     <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T21:34:36Z&lt;br/&gt;Tags: devchallenge, wecoded, frontend, career&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3609152</id>
+    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
+    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
+    <updated>2026-05-04T13:23:38+00:00</updated>
+    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3466256</id>
     <title>The Mental Cost of Always Being On as a Developer</title>
     <link rel="alternate" href="https://dev.to/harsh2644/the-mental-cost-of-always-being-on-as-a-developer-2el4"/>
@@ -460,13 +467,6 @@
     <link rel="alternate" href="https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4"/>
     <updated>2026-03-17T14:37:22+00:00</updated>
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T14:37:22Z&lt;br/&gt;Tags: discuss, watercooler&lt;br/&gt;Description: Let&apos;s revisit this conversation!  What music, soundtracks, podcasts, etc do you listen to and is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3609152</id>
-    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
-    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
-    <updated>2026-05-04T13:23:38+00:00</updated>
-    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3482571</id>
