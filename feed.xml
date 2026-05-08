@@ -18,7 +18,7 @@
     <title>Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"/>
     <updated>2026-05-07T13:48:12+00:00</updated>
-    <summary type="html">Reactions: public 257 / positive 257&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
+    <summary type="html">Reactions: public 260 / positive 260&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3427844</id>
@@ -469,6 +469,13 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hubedav&quot;&gt;David&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T15:42:25Z&lt;br/&gt;Tags: jobs, career, jobmarket, discuss&lt;br/&gt;Description: The job market sucks enough without being disabled.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3609152</id>
+    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
+    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
+    <updated>2026-05-04T13:23:38+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3431856</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ba0"/>
@@ -481,13 +488,6 @@
     <link rel="alternate" href="https://dev.to/miracleio/i-can-now-chat-with-my-notion-on-imessage-2e46"/>
     <updated>2026-03-30T22:21:22+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3609152</id>
-    <title>A LinkedIn Recruiter Sent Me Malware Disguised as a &quot;Pre-Interview Code Review&quot;</title>
-    <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
-    <updated>2026-05-04T13:23:38+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3467717</id>
@@ -1057,6 +1057,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:00:47Z&lt;br/&gt;Tags: aws, ai, agents, tutorial&lt;br/&gt;Description: I want an AI agent that works for me. I want it to search up the latest news, and I want it to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3619287</id>
+    <title>I Programmed an AI in 6502 Assembly - It Worked</title>
+    <link rel="alternate" href="https://medium.com/@paul.newell_20752/i-programmed-an-ai-in-6502-assembly-it-worked-23fcd7cf2a96"/>
+    <updated>2026-05-06T12:21:00+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/newellpaul&quot;&gt;Paul Newell&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T12:21:00Z&lt;br/&gt;Tags: ai, webdev, programming, productivity&lt;br/&gt;Description: In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3613077</id>
     <title>Flutter Mobile Test Automation: The Complete Guide</title>
     <link rel="alternate" href="https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3"/>
@@ -1125,13 +1132,6 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3619287</id>
-    <title>I Programmed an AI in 6502 Assembly - It Worked</title>
-    <link rel="alternate" href="https://medium.com/@paul.newell_20752/i-programmed-an-ai-in-6502-assembly-it-worked-23fcd7cf2a96"/>
-    <updated>2026-05-06T12:21:00+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/newellpaul&quot;&gt;Paul Newell&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T12:21:00Z&lt;br/&gt;Tags: ai, webdev, programming, productivity&lt;br/&gt;Description: In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3603637</id>
