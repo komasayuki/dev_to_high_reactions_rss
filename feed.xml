@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-09T05:47:38+00:00</updated>
+  <updated>2026-05-11T20:33:54+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"/>
     <updated>2026-05-07T13:48:12+00:00</updated>
-    <summary type="html">Reactions: public 379 / positive 379&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
+    <summary type="html">Reactions: public 380 / positive 380&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3432613</id>
@@ -639,9 +639,9 @@
   <entry>
     <id>tag:dev.to,2026:3617096</id>
     <title>I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper</title>
-    <link rel="alternate" href="https://dev.to/tahosin/gemma-4-computer-vision-raspberry-pi"/>
-    <updated>2026-05-08T13:50:41+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T18:35:58Z&lt;br/&gt;Tags: computervision, devchallenge, gemmachallenge, discuss&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4           I Replaced My $500 GPU...</summary>
+    <link rel="alternate" href="https://dev.to/tahosin/gemma-4-computer-vision"/>
+    <updated>2026-05-11T20:33:54+00:00</updated>
+    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T18:35:58Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, discuss, gemma&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3532336</id>
@@ -735,6 +735,13 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3597637</id>
+    <title>What was your win this week??</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-96l"/>
+    <updated>2026-05-08T19:31:34+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3533908</id>
     <title>Anthropic&apos;s Most Dangerous Model Just Got Accessed by People Who Weren&apos;t Supposed to Have It</title>
     <link rel="alternate" href="https://dev.to/om_shree_0709/anthropics-most-dangerous-model-just-got-accessed-by-people-who-werent-supposed-to-have-it-14dn"/>
@@ -754,13 +761,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn"/>
     <updated>2026-03-23T17:14:41+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:34:13Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3597637</id>
-    <title>What was your win this week??</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-96l"/>
-    <updated>2026-05-08T19:31:34+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3522879</id>
@@ -852,6 +852,13 @@
     <link rel="alternate" href="https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"/>
     <updated>2026-03-17T18:32:57+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jmew&quot;&gt;Jeffrey Mew&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:32:57Z&lt;br/&gt;Tags: cloud, agents, mcp, ai&lt;br/&gt;Description: When you’re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, their...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3619287</id>
+    <title>I Programmed an AI in 6502 Assembly - It Worked</title>
+    <link rel="alternate" href="https://medium.com/@paul.newell_20752/i-programmed-an-ai-in-6502-assembly-it-worked-23fcd7cf2a96"/>
+    <updated>2026-05-06T12:21:00+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/newellpaul&quot;&gt;Paul Newell&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T12:21:00Z&lt;br/&gt;Tags: ai, webdev, programming, productivity&lt;br/&gt;Description: In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3603637</id>
@@ -994,13 +1001,6 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:36:02Z&lt;br/&gt;Tags: ai, programming, productivity, discuss&lt;br/&gt;Description: The era of “just ask the LLM” has made us remarkably productive, but it has also made us dangerously...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3619287</id>
-    <title>I Programmed an AI in 6502 Assembly - It Worked</title>
-    <link rel="alternate" href="https://medium.com/@paul.newell_20752/i-programmed-an-ai-in-6502-assembly-it-worked-23fcd7cf2a96"/>
-    <updated>2026-05-06T12:21:00+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/newellpaul&quot;&gt;Paul Newell&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T12:21:00Z&lt;br/&gt;Tags: ai, webdev, programming, productivity&lt;br/&gt;Description: In 1975 the 6502 processed 8-bit values through memory and control flow. A Claude Code skill now uses...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3613077</id>
     <title>Flutter Mobile Test Automation: The Complete Guide</title>
     <link rel="alternate" href="https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3"/>
@@ -1076,13 +1076,6 @@
     <link rel="alternate" href="https://dev.to/thegiansorianodev/how-ai-companions-are-changing-human-connection-1a3p"/>
     <updated>2026-03-09T02:06:28+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T02:06:28Z&lt;br/&gt;Tags: ai, technology, future, society&lt;br/&gt;Description: A deep look at how artificial intelligence may reshape emotional connection and human relationships.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3313369</id>
-    <title>GitHub Copilot CLI Challenge Winner Announcement - Further Delayed</title>
-    <link rel="alternate" href="https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg"/>
-    <updated>2026-03-05T21:08:16+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-05T21:03:10Z&lt;br/&gt;Tags: devchallenge, githubchallenge&lt;br/&gt;Description: Hi all,  I&apos;m terribly sorry to share that we still need a few more days to announce the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3493601</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
     <updated>2026-03-09T19:26:46+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3560335</id>
+    <title>How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)</title>
+    <link rel="alternate" href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp"/>
+    <updated>2026-05-07T06:22:07+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T04:17:45Z&lt;br/&gt;Tags: architecture, googlecloud, tutorial, productivity&lt;br/&gt;Description: In my previous article about treating architecture documentation as a first-class asset, I had a...</summary>
   </entry>
 </feed>
