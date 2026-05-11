@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-11T20:33:54+00:00</updated>
+  <updated>2026-05-11T20:47:12+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -294,18 +294,18 @@
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3629085</id>
+    <title>Congrats to the OpenClaw Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"/>
+    <updated>2026-05-07T21:27:14+00:00</updated>
+    <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T21:27:14Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, openclaw, ai&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3470559</id>
     <title>AIMock: One Mock Server For Your Entire AI Stack</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
     <updated>2026-04-10T09:55:31+00:00</updated>
     <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3629085</id>
-    <title>Congrats to the OpenClaw Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"/>
-    <updated>2026-05-07T21:27:14+00:00</updated>
-    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T21:27:14Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, openclaw, ai&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3506970</id>
@@ -640,7 +640,7 @@
     <id>tag:dev.to,2026:3617096</id>
     <title>I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper</title>
     <link rel="alternate" href="https://dev.to/tahosin/gemma-4-computer-vision"/>
-    <updated>2026-05-11T20:33:54+00:00</updated>
+    <updated>2026-05-11T20:47:12+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T18:35:58Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, discuss, gemma&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I...</summary>
   </entry>
   <entry>
