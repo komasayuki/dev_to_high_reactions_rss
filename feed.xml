@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-11T20:47:12+00:00</updated>
+  <updated>2026-05-12T09:16:11+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -280,6 +280,13 @@
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-03-26T07:39:13Z&lt;br/&gt;Tags: webdev, programming, a11y, frontend&lt;br/&gt;Description: For a long time, I thought a website was “done” when it worked.  The pages loaded. The buttons...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3629085</id>
+    <title>Congrats to the OpenClaw Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"/>
+    <updated>2026-05-07T21:27:14+00:00</updated>
+    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T21:27:14Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, openclaw, ai&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3487725</id>
     <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
@@ -292,13 +299,6 @@
     <link rel="alternate" href="https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i"/>
     <updated>2026-04-01T05:45:19+00:00</updated>
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3629085</id>
-    <title>Congrats to the OpenClaw Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"/>
-    <updated>2026-05-07T21:27:14+00:00</updated>
-    <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T21:27:14Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, openclaw, ai&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the OpenClaw Challenge.  Over the past...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3470559</id>
@@ -333,7 +333,7 @@
     <title>5 types of engineers I met as a Technical Writer</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"/>
     <updated>2026-05-08T11:13:31+00:00</updated>
-    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T11:13:31Z&lt;br/&gt;Tags: watercooler, technicalwriting, discuss, jokes&lt;br/&gt;Description: Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...</summary>
+    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T11:13:31Z&lt;br/&gt;Tags: watercooler, technicalwriting, discuss, jokes&lt;br/&gt;Description: Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3596751</id>
@@ -1127,6 +1127,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ishanbagchi&quot;&gt;Ishan Bagchi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T20:05:58Z&lt;br/&gt;Tags: architecture, performance, typescript, react&lt;br/&gt;Description: React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3655596</id>
+    <title>I Stopped Fighting React Server Components — Here&apos;s What Finally Made It</title>
+    <link rel="alternate" href="https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho"/>
+    <updated>2026-05-12T09:16:11+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-12T09:16:11Z&lt;br/&gt;Tags: react, nextjs, webdev, javascript&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3516290</id>
     <title>Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/openclaw-vs-saas-ai-tools-2026-1387cc9567fb"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g"/>
     <updated>2026-05-08T17:26:09+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T16:37:02Z&lt;br/&gt;Tags: ai, beginners, aws, tutorial&lt;br/&gt;Description: In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3560335</id>
-    <title>How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)</title>
-    <link rel="alternate" href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp"/>
-    <updated>2026-05-07T06:22:07+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T04:17:45Z&lt;br/&gt;Tags: architecture, googlecloud, tutorial, productivity&lt;br/&gt;Description: In my previous article about treating architecture documentation as a first-class asset, I had a...</summary>
   </entry>
 </feed>
