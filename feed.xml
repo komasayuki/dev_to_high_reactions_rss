@@ -588,18 +588,18 @@
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3617096</id>
+    <title>I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper</title>
+    <link rel="alternate" href="https://dev.to/tahosin/gemma-4-computer-vision"/>
+    <updated>2026-05-11T20:47:12+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T18:35:58Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, discuss, gemma&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3523369</id>
     <title>What Building with MCP Taught Me About Its Biggest Gap</title>
     <link rel="alternate" href="https://dev.to/lovestaco/what-building-with-mcp-taught-me-about-its-biggest-gap-idl"/>
     <updated>2026-04-20T16:58:14+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T16:58:14Z&lt;br/&gt;Tags: webdev, programming, ai, mcp&lt;br/&gt;Description: I spent the last few weeks wiring up MCP at my org, stitching a handful of internal tools (GitHub,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3617096</id>
-    <title>I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper</title>
-    <link rel="alternate" href="https://dev.to/tahosin/gemma-4-computer-vision"/>
-    <updated>2026-05-11T20:47:12+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T18:35:58Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, discuss, gemma&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4           What I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3558240</id>
@@ -665,6 +665,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3597637</id>
+    <title>What was your win this week??</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-96l"/>
+    <updated>2026-05-08T19:31:34+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3626029</id>
     <title>Gemma 4: Why Local AI is Finally Becoming Personal</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5"/>
@@ -726,13 +733,6 @@
     <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
     <updated>2026-03-19T18:05:05+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3597637</id>
-    <title>What was your win this week??</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-96l"/>
-    <updated>2026-05-08T19:31:34+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3619287</id>
