@@ -679,6 +679,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3651760</id>
+    <title>Does AI Behave Like a Toxic Ex?</title>
+    <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
+    <updated>2026-05-11T18:09:56+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T18:09:56Z&lt;br/&gt;Tags: ai, webdev, discuss, learning&lt;br/&gt;Description: Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3626029</id>
     <title>Gemma 4: Why Local AI is Finally Becoming Personal</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5"/>
@@ -705,13 +712,6 @@
     <link rel="alternate" href="https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g"/>
     <updated>2026-03-16T21:25:40+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ryansolid&quot;&gt;Ryan Carniato&lt;/a&gt;&lt;br/&gt;Published: 2026-03-13T15:39:54Z&lt;br/&gt;Tags: javascript, webdev, solidjs, react&lt;br/&gt;Description: Developers have never been shy about disliking certain React APIs. They feel awkward, restrictive, or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3651760</id>
-    <title>Does AI Behave Like a Toxic Ex?</title>
-    <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
-    <updated>2026-05-11T18:09:56+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T18:09:56Z&lt;br/&gt;Tags: ai, webdev, discuss, learning&lt;br/&gt;Description: Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3561978</id>
@@ -1323,6 +1323,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3635559</id>
+    <title>Error Handling in Go: Stop Panicking, Start Wrapping</title>
+    <link rel="alternate" href="https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"/>
+    <updated>2026-05-09T13:40:23+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T19:30:03Z&lt;br/&gt;Tags: webdev, programming, beginners, go&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3605688</id>
     <title>I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.</title>
     <link rel="alternate" href="https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/aws/the-agent-buddy-system-when-prompt-engineering-isnt-enough-5dni"/>
     <updated>2026-03-24T14:42:51+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T18:01:01Z&lt;br/&gt;Tags: ai, agents, programming, aws&lt;br/&gt;Description: Most AI agents don’t reliably follow directions, and that’s one of the biggest reasons they never...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3360758</id>
-    <title>Path of Discovery</title>
-    <link rel="alternate" href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi"/>
-    <updated>2026-03-17T22:04:33+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T01:12:55Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  A bit personal, a bit all...</summary>
   </entry>
 </feed>
