@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-12T09:16:11+00:00</updated>
+  <updated>2026-05-13T09:42:37+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -294,18 +294,18 @@
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3547654</id>
+    <title>5 types of engineers I met as a Technical Writer</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"/>
+    <updated>2026-05-08T11:13:31+00:00</updated>
+    <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T11:13:31Z&lt;br/&gt;Tags: watercooler, technicalwriting, discuss, jokes&lt;br/&gt;Description: Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3470559</id>
     <title>AIMock: One Mock Server For Your Entire AI Stack</title>
     <link rel="alternate" href="https://www.copilotkit.ai/blog/aimock-one-tool-to-mock-your-entire-ai-stack"/>
     <updated>2026-04-10T09:55:31+00:00</updated>
     <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T17:14:01Z&lt;br/&gt;Tags: ai, opensource, testing, programming&lt;br/&gt;Description: TL;DR Our CI was flaky, our tests hit live APIs, and every run burned tokens unnecessarily. So the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3547654</id>
-    <title>5 types of engineers I met as a Technical Writer</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"/>
-    <updated>2026-05-08T11:13:31+00:00</updated>
-    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T11:13:31Z&lt;br/&gt;Tags: watercooler, technicalwriting, discuss, jokes&lt;br/&gt;Description: Being a Technical Writer in an engineering world can be tough. We work closely with engineers, but...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3506970</id>
@@ -756,6 +756,13 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:34:13Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3651760</id>
+    <title>Does AI Behave Like a Toxic Ex?</title>
+    <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
+    <updated>2026-05-11T18:09:56+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T18:09:56Z&lt;br/&gt;Tags: ai, webdev, discuss, learning&lt;br/&gt;Description: Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3522879</id>
     <title>EM Operating System: Your Brain Is a Terrible Database</title>
     <link rel="alternate" href="https://dev.to/alexr/em-operating-system-your-brain-is-a-terrible-database-1bce"/>
@@ -777,11 +784,11 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3651760</id>
-    <title>Does AI Behave Like a Toxic Ex?</title>
-    <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
-    <updated>2026-05-11T18:09:56+00:00</updated>
-    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T18:09:56Z&lt;br/&gt;Tags: ai, webdev, discuss, learning&lt;br/&gt;Description: Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...</summary>
+    <id>tag:dev.to,2026:3661749</id>
+    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
+    <updated>2026-05-13T09:42:37+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3591625</id>
@@ -1134,6 +1141,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ishanbagchi&quot;&gt;Ishan Bagchi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-08T20:05:58Z&lt;br/&gt;Tags: architecture, performance, typescript, react&lt;br/&gt;Description: React encourages a very specific mental model: data flows top-down.  Parents pass props to children,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3634492</id>
+    <title>Why does AI lie? Hallucinations explained simply</title>
+    <link rel="alternate" href="https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g"/>
+    <updated>2026-05-08T17:26:09+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T16:37:02Z&lt;br/&gt;Tags: ai, beginners, aws, tutorial&lt;br/&gt;Description: In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3516290</id>
     <title>Your $20/mo AI Wrapper is Dead: Why OpenClaw is Making 60% of SaaS Tools Obsolete</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/openclaw-vs-saas-ai-tools-2026-1387cc9567fb"/>
@@ -1295,13 +1309,6 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3634492</id>
-    <title>Why does AI lie? Hallucinations explained simply</title>
-    <link rel="alternate" href="https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g"/>
-    <updated>2026-05-08T17:26:09+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T16:37:02Z&lt;br/&gt;Tags: ai, beginners, aws, tutorial&lt;br/&gt;Description: In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3605688</id>
     <title>I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.</title>
     <link rel="alternate" href="https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dumebii/gemini-25-flash-vs-claude-37-sonnet-4-production-constraints-that-made-the-decision-for-me-bib"/>
     <updated>2026-03-11T09:26:13+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T13:00:34Z&lt;br/&gt;Tags: webdev, javascript, showdev, nextjs&lt;br/&gt;Description: An evaluation of the Gemini 2.5 flash and Claude 3.7 Sonnet model for an agentic engine.  I had a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3331872</id>
-    <title>Can you Truly Know that you are in the Right Path?</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745"/>
-    <updated>2026-03-09T19:26:46+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;👾 FrancisTRᴅᴇᴠ 👾&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T19:26:46Z&lt;br/&gt;Tags: discuss, codenewbie, career, programming&lt;br/&gt;Description: I have seen many people discussing online and people I know in real life having doubts about if the...</summary>
   </entry>
 </feed>
