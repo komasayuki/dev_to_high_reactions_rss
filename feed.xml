@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-13T09:42:37+00:00</updated>
+  <updated>2026-05-13T16:04:42+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -10,7 +10,7 @@
     <id>tag:dev.to,2026:3592285</id>
     <title>Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in"/>
-    <updated>2026-05-07T13:48:12+00:00</updated>
+    <updated>2026-05-13T16:04:42+00:00</updated>
     <summary type="html">Reactions: public 413 / positive 413&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
   </entry>
   <entry>
@@ -294,6 +294,13 @@
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3661749</id>
+    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
+    <updated>2026-05-13T09:42:37+00:00</updated>
+    <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3547654</id>
     <title>5 types of engineers I met as a Technical Writer</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"/>
@@ -376,13 +383,6 @@
     <link rel="alternate" href="https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2"/>
     <updated>2026-03-31T15:44:25+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T15:39:56Z&lt;br/&gt;Tags: ai, webdev, programming, architecture&lt;br/&gt;Description: I&apos;ve been building an AI agent that routes requests across multiple LLM providers, OpenAI, Anthropic...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3661749</id>
-    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
-    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
-    <updated>2026-05-13T09:42:37+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3496217</id>
@@ -1099,6 +1099,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3628919</id>
+    <title>Using Appium Inspector: Full Guide + Why Drizz Doesn&apos;t Need It</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/using-appium-inspector-full-guide-why-drizz-doesnt-need-it-41f0"/>
+    <updated>2026-05-08T07:52:47+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T07:52:47Z&lt;br/&gt;Tags: ai, android, ios, mobile&lt;br/&gt;Description: Appium has been the industry standard for mobile test automation for over a decade, a free,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3511691</id>
     <title>How to Add Device Authorization Flow to Your App With Kinde</title>
     <link rel="alternate" href="https://dev.to/sholajegede/how-to-add-device-authorization-flow-to-your-app-with-kinde-1o69"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi"/>
     <updated>2026-03-17T22:04:33+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T01:12:55Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  A bit personal, a bit all...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3334932</id>
-    <title>I Built EchoHR: The HR System That Doesn’t Ghost You</title>
-    <link rel="alternate" href="https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i"/>
-    <updated>2026-03-17T06:22:37+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ujja&quot;&gt;ujja&lt;/a&gt;&lt;br/&gt;Published: 2026-03-12T02:26:38Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge  Rejections hurt. But ghosting hurts even...</summary>
   </entry>
 </feed>
