@@ -112,18 +112,18 @@
     <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/empiree&quot;&gt;Oleg Dubovoi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T16:29:57Z&lt;br/&gt;Tags: ai, programming, discuss, news&lt;br/&gt;Description: Lately, the question “Will AI replace us?” has worried many people. We can see how LLMs handle...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3661749</id>
+    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
+    <updated>2026-05-13T09:42:37+00:00</updated>
+    <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3403502</id>
     <title>your agent can think. it can&apos;t remember.</title>
     <link rel="alternate" href="https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o"/>
     <updated>2026-03-25T15:50:49+00:00</updated>
     <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ghostdotbuild&quot;&gt;ghost&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T15:01:56Z&lt;br/&gt;Tags: ai, mcp, postgres, agents&lt;br/&gt;Description: TLDR: ghost gives your agent instant, ephemeral postgres databases. unlimited databases, unlimited...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3661749</id>
-    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
-    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
-    <updated>2026-05-13T09:42:37+00:00</updated>
-    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3553477</id>
@@ -917,6 +917,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T08:14:08Z&lt;br/&gt;Tags: ai, brightdata, convex, webdev&lt;br/&gt;Description: Most AI tools fall apart at the same point: making sure the output is grounded in what&apos;s happening...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3665564</id>
+    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
+    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
+    <updated>2026-05-13T18:36:00+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3617519</id>
     <title>Build Your Own AI Butler - A Scheduled Agent That Runs Itself!</title>
     <link rel="alternate" href="https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"/>
@@ -943,13 +950,6 @@
     <link rel="alternate" href="https://dev.to/wynandpieters/weve-seen-this-movie-before-3719"/>
     <updated>2026-03-19T08:54:35+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/wynandpieters&quot;&gt;Wynand Pieters&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T08:54:35Z&lt;br/&gt;Tags: ai, gamedev, programming&lt;br/&gt;Description: I&apos;ve been sitting on this comparison for a while, trying to decide if it was too obvious to write...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3665564</id>
-    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
-    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
-    <updated>2026-05-13T18:36:00+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3547210</id>
@@ -1120,6 +1120,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T02:06:28Z&lt;br/&gt;Tags: ai, technology, future, society&lt;br/&gt;Description: A deep look at how artificial intelligence may reshape emotional connection and human relationships.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3512879</id>
+    <title>The missing layer in prompt engineering: thinking quality</title>
+    <link rel="alternate" href="https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j"/>
+    <updated>2026-05-11T12:45:04+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:45:04Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, learning&lt;br/&gt;Description: I&apos;ve seen countless prompting trends and prompt packs to use but most discussions around prompt...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3493601</id>
     <title>Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative</title>
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
@@ -1132,13 +1139,6 @@
     <link rel="alternate" href="https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2"/>
     <updated>2026-05-13T10:47:58+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:00:09Z&lt;br/&gt;Tags: programming, leetcode, python, javascript&lt;br/&gt;Description: I didn’t realize I was starting a 1.5-year journey when I opened my first LeetCode problem.  It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3512879</id>
-    <title>The missing layer in prompt engineering: thinking quality</title>
-    <link rel="alternate" href="https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j"/>
-    <updated>2026-05-11T12:45:04+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:45:04Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, learning&lt;br/&gt;Description: I&apos;ve seen countless prompting trends and prompt packs to use but most discussions around prompt...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3511691</id>
