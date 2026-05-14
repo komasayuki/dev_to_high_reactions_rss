@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-14T05:18:47+00:00</updated>
+  <updated>2026-05-14T16:40:15+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -791,6 +791,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3628919</id>
+    <title>Using Appium Inspector: Full Guide + Why Drizz Doesn&apos;t Need It</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/using-appium-inspector-full-guide-why-drizz-doesnt-need-it-41f0"/>
+    <updated>2026-05-08T07:52:47+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T07:52:47Z&lt;br/&gt;Tags: ai, android, ios, mobile&lt;br/&gt;Description: Appium has been the industry standard for mobile test automation for over a decade, a free,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3591625</id>
     <title>💰Monetize Your AI Agents with LangChain and Kong</title>
     <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
@@ -824,13 +831,6 @@
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v368-15ed"/>
     <updated>2026-03-11T04:00:00+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3628919</id>
-    <title>Using Appium Inspector: Full Guide + Why Drizz Doesn&apos;t Need It</title>
-    <link rel="alternate" href="https://dev.to/drizzdev/using-appium-inspector-full-guide-why-drizz-doesnt-need-it-41f0"/>
-    <updated>2026-05-08T07:52:47+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T07:52:47Z&lt;br/&gt;Tags: ai, android, ios, mobile&lt;br/&gt;Description: Appium has been the industry standard for mobile test automation for over a decade, a free,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3543505</id>
@@ -1043,10 +1043,17 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno S Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T12:12:30Z&lt;br/&gt;Tags: braziliandevs, learning, devjournal, networking&lt;br/&gt;Description: &quot;Um objeto deve ser responsável por manter seu próprio estado e proteger sua integridade.&quot;          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3665564</id>
+    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
+    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
+    <updated>2026-05-13T18:36:00+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3660300</id>
     <title>Two DEV Users. Two Countries. One Weird Little Avatar Project.</title>
     <link rel="alternate" href="https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"/>
-    <updated>2026-05-13T07:07:13+00:00</updated>
+    <updated>2026-05-14T16:40:15+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T07:07:13Z&lt;br/&gt;Tags: webdev, nextjs, sideprojects, react&lt;br/&gt;Description: We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...</summary>
   </entry>
   <entry>
@@ -1104,13 +1111,6 @@
     <link rel="alternate" href="https://dev.to/thegiansorianodev/how-ai-companions-are-changing-human-connection-1a3p"/>
     <updated>2026-03-09T02:06:28+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thegiansorianodev&quot;&gt;Gian Soriano&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T02:06:28Z&lt;br/&gt;Tags: ai, technology, future, society&lt;br/&gt;Description: A deep look at how artificial intelligence may reshape emotional connection and human relationships.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3665564</id>
-    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
-    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
-    <updated>2026-05-13T18:36:00+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3493601</id>
@@ -1281,6 +1281,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3644097</id>
+    <title>How Python&apos;s GIL actually works (and when it bites you)</title>
+    <link rel="alternate" href="https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2"/>
+    <updated>2026-05-10T10:18:03+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-10T10:17:16Z&lt;br/&gt;Tags: webdev, productivity, programming, python&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3635559</id>
     <title>Error Handling in Go: Stop Panicking, Start Wrapping</title>
     <link rel="alternate" href="https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"/>
@@ -1337,11 +1344,11 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T17:45:44Z&lt;br/&gt;Tags: gemini, cli, ai, beginners&lt;br/&gt;Description: For Google Cloud&apos;s new weekly livestream series, we started with something every developer and...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3644097</id>
-    <title>How Python&apos;s GIL actually works (and when it bites you)</title>
-    <link rel="alternate" href="https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2"/>
-    <updated>2026-05-10T10:18:03+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-10T10:17:16Z&lt;br/&gt;Tags: webdev, productivity, programming, python&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
+    <id>tag:dev.to,2026:3660586</id>
+    <title>What Burnout Actually Feels Like (Not What Instagram Tells You)</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh"/>
+    <updated>2026-05-13T10:43:25+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T10:43:25Z&lt;br/&gt;Tags: burnout, career, discuss, programming&lt;br/&gt;Description: Instagram burnout: a tidy desk, a warm coffee mug, a caption about hustle culture and finally taking...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3605688</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
     <updated>2026-03-27T21:33:31+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410521</id>
-    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
-    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
-    <updated>2026-03-29T05:42:08+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
