@@ -53,7 +53,7 @@
     <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
     <updated>2026-05-13T09:42:37+00:00</updated>
-    <summary type="html">Reactions: public 206 / positive 206&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
+    <summary type="html">Reactions: public 207 / positive 207&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3533667</id>
@@ -546,13 +546,6 @@
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/subhrangsu_dev&quot;&gt;Subhrangsu Bera&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T22:39:46Z&lt;br/&gt;Tags: ai, programming, agents, webdev&lt;br/&gt;Description: Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3330853</id>
-    <title>MACP Multi-Agent Cognition Protocol – Collaborative cognition for AI agents</title>
-    <link rel="alternate" href="https://dev.to/dawidm/multi-agent-cognition-protocol-collaborative-cognition-for-ai-agents-4omd"/>
-    <updated>2026-03-12T01:18:35+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dawidm&quot;&gt;Dawid M.&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T12:46:04Z&lt;br/&gt;Tags: agents, ai, opensource, news&lt;br/&gt;Description: MACP – Collaborative cognition for AI...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3534028</id>
     <title>The 4 classic bugs every multi-service Node.js app hits (and how to stop reinventing the wheel)</title>
     <link rel="alternate" href="https://dev.to/sirelves/the-4-classic-bugs-every-multi-service-nodejs-app-hits-and-how-to-stop-reinventing-the-wheel-4og7"/>
@@ -686,6 +679,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3663201</id>
+    <title>How to Save Bloated MCP with Code Mode</title>
+    <link rel="alternate" href="https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3"/>
+    <updated>2026-05-14T05:18:47+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jiasheng&quot;&gt;JS&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T12:36:32Z&lt;br/&gt;Tags: ai, webdev, agents, database&lt;br/&gt;Description: Is MCP Dead Because of Agent Skills?   It sometimes feels like AI is not just disrupting the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3626029</id>
     <title>Gemma 4: Why Local AI is Finally Becoming Personal</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5"/>
@@ -756,11 +756,11 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3663201</id>
-    <title>How to Save Bloated MCP with Code Mode</title>
-    <link rel="alternate" href="https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3"/>
-    <updated>2026-05-14T05:18:47+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jiasheng&quot;&gt;JS&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T12:36:32Z&lt;br/&gt;Tags: ai, webdev, agents, database&lt;br/&gt;Description: Is MCP Dead Because of Agent Skills?   It sometimes feels like AI is not just disrupting the...</summary>
+    <id>tag:dev.to,2026:3666204</id>
+    <title>4 Tiny Mistakes That Secretly Destroy App Performance</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo"/>
+    <updated>2026-05-14T06:04:15+00:00</updated>
+    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T06:04:15Z&lt;br/&gt;Tags: javascript, angular, react, frontend&lt;br/&gt;Description: Ok, I’m back from my short vacation and returning with some useful content 😄 As you know, from time...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3628919</id>
@@ -789,13 +789,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn"/>
     <updated>2026-03-23T17:14:41+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:34:13Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3666204</id>
-    <title>4 Tiny Mistakes That Secretly Destroy App Performance</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo"/>
-    <updated>2026-05-14T06:04:15+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T06:04:15Z&lt;br/&gt;Tags: javascript, angular, react, frontend&lt;br/&gt;Description: Ok, I’m back from my short vacation and returning with some useful content 😄 As you know, from time...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3522879</id>
@@ -1225,13 +1218,6 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/supriya-kotturu&quot;&gt;Supriya&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T10:43:47Z&lt;br/&gt;Tags: webdev, showdev, go, beginners&lt;br/&gt;Description: I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3330944</id>
-    <title>Revamped RSS Feed Imports</title>
-    <link rel="alternate" href="https://dev.to/devteam/revamped-rss-feed-imports-3j1e"/>
-    <updated>2026-03-09T13:24:38+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonmarkgo&quot;&gt;Jon Gottfried&lt;/a&gt;&lt;br/&gt;Published: 2026-03-09T13:22:11Z&lt;br/&gt;Tags: forem, devto, rss&lt;br/&gt;Description: You can now add multiple RSS feed imports, monitor their status, and assign each one to different...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3635559</id>
     <title>Error Handling in Go: Stop Panicking, Start Wrapping</title>
     <link rel="alternate" href="https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"/>
@@ -1405,5 +1391,19 @@
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
     <updated>2026-03-27T21:33:31+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3410521</id>
+    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
+    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
+    <updated>2026-03-29T05:42:08+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3324229</id>
+    <title>Your Agent Is Making Decisions Nobody Authorized</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/your-agent-is-making-decisions-nobody-authorized-2bc7"/>
+    <updated>2026-03-19T18:02:23+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T18:02:23Z&lt;br/&gt;Tags: ai, webdev, architecture, discuss&lt;br/&gt;Description: A quant fund ran five independent strategies. Every one passed its individual risk limits. Every...</summary>
   </entry>
 </feed>
