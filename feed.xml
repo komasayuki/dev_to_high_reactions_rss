@@ -67,7 +67,7 @@
     <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
     <updated>2026-05-13T09:42:37+00:00</updated>
-    <summary type="html">Reactions: public 178 / positive 178&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
+    <summary type="html">Reactions: public 180 / positive 180&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3381788</id>
@@ -672,6 +672,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:27:33Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3665564</id>
+    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
+    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
+    <updated>2026-05-13T18:36:00+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3517007</id>
     <title>How We Built Our Own DNS Server</title>
     <link rel="alternate" href="https://sliplane.io/blog/how-we-built-our-own-dns-server"/>
@@ -789,13 +796,6 @@
     <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v370-2ddl"/>
     <updated>2026-03-25T04:00:00+00:00</updated>
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-03-25T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3665564</id>
-    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
-    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
-    <updated>2026-05-13T18:36:00+00:00</updated>
-    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3628919</id>
@@ -1064,6 +1064,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-12T09:16:11Z&lt;br/&gt;Tags: react, nextjs, webdev, javascript&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3512879</id>
+    <title>The missing layer in prompt engineering: thinking quality</title>
+    <link rel="alternate" href="https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j"/>
+    <updated>2026-05-11T12:45:04+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:45:04Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, learning&lt;br/&gt;Description: I&apos;ve seen countless prompting trends and prompt packs to use but most discussions around prompt...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3591710</id>
     <title>OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.</title>
     <link rel="alternate" href="https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6"/>
@@ -1104,13 +1111,6 @@
     <link rel="alternate" href="https://www.keycard.ai/blog/i-built-a-secure-planning-agent-with-mcp-and-keycard"/>
     <updated>2026-03-13T18:17:16+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kimmaida&quot;&gt;Kim Maida&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T19:19:14Z&lt;br/&gt;Tags: agents, mcp, productivity, showdev&lt;br/&gt;Description: My workday is scattered across many disconnected tools: Google Calendar, Linear, Gmail, Google Docs,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3512879</id>
-    <title>The missing layer in prompt engineering: thinking quality</title>
-    <link rel="alternate" href="https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j"/>
-    <updated>2026-05-11T12:45:04+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:45:04Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, learning&lt;br/&gt;Description: I&apos;ve seen countless prompting trends and prompt packs to use but most discussions around prompt...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3493601</id>
@@ -1160,6 +1160,13 @@
     <link rel="alternate" href="https://dev.to/ben/meme-monday-1bec"/>
     <updated>2026-03-23T13:03:27+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T13:03:27Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3666204</id>
+    <title>4 Tiny Mistakes That Secretly Destroy App Performance</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo"/>
+    <updated>2026-05-14T06:04:15+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T06:04:15Z&lt;br/&gt;Tags: javascript, angular, react, frontend&lt;br/&gt;Description: Ok, I’m back from my short vacation and returning with some useful content 😄 As you know, from time...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516290</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
     <updated>2026-03-27T21:33:31+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410521</id>
-    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
-    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
-    <updated>2026-03-29T05:42:08+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
