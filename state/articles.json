@@ -276,115 +276,6 @@
       "last_seen": "2026-03-26T17:32:44.292015158+00:00"
     },
     {
-      "key": "3327960",
-      "id": 3327960,
-      "canonical_url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
-      "url": "https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb",
-      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
-      "description": "Você é como eu e vem buscando formas de otimizar o uso de ferramentas como o OpenCode? Talvez este...",
-      "published_timestamp": "2026-03-09T04:37:00Z",
-      "published_at": "2026-03-09T04:37:00Z",
-      "edited_at": "2026-03-09T20:07:25Z",
-      "public_reactions_count": 75,
-      "positive_reactions_count": 75,
-      "tag_list": [
-        "ai",
-        "braziliandevs",
-        "opensource"
-      ],
-      "user_name": "Clinton Rocha",
-      "user_username": "clintonrocha98",
-      "last_seen": "2026-03-16T03:17:34.166300601+00:00"
-    },
-    {
-      "key": "3328537",
-      "id": 3328537,
-      "canonical_url": "https://dev.to/thegiansorianodev/how-ai-companions-are-changing-human-connection-1a3p",
-      "url": "https://dev.to/thegiansorianodev/how-ai-companions-are-changing-human-connection-1a3p",
-      "title": "How AI Companions Are Changing Human Connection",
-      "description": "A deep look at how artificial intelligence may reshape emotional connection and human relationships.",
-      "published_timestamp": "2026-03-09T02:06:28Z",
-      "published_at": "2026-03-09T02:06:28Z",
-      "edited_at": null,
-      "public_reactions_count": 54,
-      "positive_reactions_count": 54,
-      "tag_list": [
-        "ai",
-        "technology",
-        "future",
-        "society"
-      ],
-      "user_name": "Gian Soriano",
-      "user_username": "thegiansorianodev",
-      "last_seen": "2026-03-16T01:45:46.775935391+00:00"
-    },
-    {
-      "key": "3328691",
-      "id": 3328691,
-      "canonical_url": "https://dev.to/siti_aisyahmatzainal_73/one-sentence-from-my-senior-engineer-changed-how-i-think-about-software-4oe3",
-      "url": "https://dev.to/siti_aisyahmatzainal_73/one-sentence-from-my-senior-engineer-changed-how-i-think-about-software-4oe3",
-      "title": "One Sentence From My Senior Engineer Changed How I Think About Software",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           One Sentence From...",
-      "published_timestamp": "2026-03-09T03:36:02Z",
-      "published_at": "2026-03-09T03:36:02Z",
-      "edited_at": null,
-      "public_reactions_count": 31,
-      "positive_reactions_count": 31,
-      "tag_list": [
-        "devchallenge",
-        "wecoded",
-        "dei",
-        "career"
-      ],
-      "user_name": "Siti Aisyah Mat Zainal",
-      "user_username": "siti_aisyahmatzainal_73",
-      "last_seen": "2026-03-16T03:17:34.166300601+00:00"
-    },
-    {
-      "key": "3328692",
-      "id": 3328692,
-      "canonical_url": "https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh",
-      "url": "https://dev.to/earlgreyhot1701d/i-planned-an-exit-strategy-i-stayed-the-whole-time-4ejh",
-      "title": "I Planned an Exit Strategy. I Stayed the Whole Time.",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     I told my wife to keep...",
-      "published_timestamp": "2026-03-09T03:37:29Z",
-      "published_at": "2026-03-09T03:37:29Z",
-      "edited_at": null,
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
-      "tag_list": [
-        "devchallenge",
-        "wecoded",
-        "dei",
-        "career"
-      ],
-      "user_name": "L. Cordero",
-      "user_username": "earlgreyhot1701d",
-      "last_seen": "2026-03-16T03:17:34.166300601+00:00"
-    },
-    {
-      "key": "3328794",
-      "id": 3328794,
-      "canonical_url": "https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59",
-      "url": "https://dev.to/preeti_yadav/from-neet-aspirant-to-writing-code-a-journey-i-never-planned-l59",
-      "title": "From NEET Aspirant to Writing Code: A Journey I Never Planned",
-      "description": "This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  If someone had told me a...",
-      "published_timestamp": "2026-03-09T04:12:46Z",
-      "published_at": "2026-03-09T04:12:46Z",
-      "edited_at": null,
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
-      "tag_list": [
-        "devchallenge",
-        "wecoded",
-        "dei",
-        "career"
-      ],
-      "user_name": "Preeti yadav",
-      "user_username": "preeti_yadav",
-      "last_seen": "2026-03-16T03:17:34.166300601+00:00"
-    },
-    {
       "key": "3329280",
       "id": 3329280,
       "canonical_url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
@@ -6499,7 +6390,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3513259",
@@ -7482,7 +7373,7 @@
       ],
       "user_name": "Klaudia Grzondziel",
       "user_username": "klaudiagrz",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3549363",
@@ -8026,7 +7917,7 @@
       ],
       "user_name": "Gavin Cettolo",
       "user_username": "gavincettolo",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3586991",
@@ -8458,7 +8349,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3599107",
@@ -9092,7 +8983,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3621715",
@@ -9288,7 +9179,7 @@
       ],
       "user_name": "Jay Saadana",
       "user_username": "jaysaadana",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3629085",
@@ -9332,7 +9223,7 @@
       ],
       "user_name": "Rohini Gaonkar",
       "user_username": "rohini_gaonkar",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3635559",
@@ -9354,7 +9245,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3638624",
@@ -9376,7 +9267,7 @@
       ],
       "user_name": "Soma",
       "user_username": "somadevtoo",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3642919",
@@ -9420,7 +9311,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3647215",
@@ -9442,7 +9333,7 @@
       ],
       "user_name": "Adam - The Developer",
       "user_username": "adamthedeveloper",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3651113",
@@ -9484,7 +9375,7 @@
       ],
       "user_name": "Konark Sharma",
       "user_username": "konark_13",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3652261",
@@ -9496,8 +9387,8 @@
       "published_timestamp": "2026-05-11T20:47:59Z",
       "published_at": "2026-05-11T20:47:59Z",
       "edited_at": "2026-05-11T21:31:28Z",
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
       "tag_list": [
         "linux",
         "archlinux",
@@ -9506,7 +9397,7 @@
       ],
       "user_name": "Deepu K Sasidharan",
       "user_username": "deepu105",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3655326",
@@ -9528,7 +9419,7 @@
       ],
       "user_name": "vincanger",
       "user_username": "vincanger",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3655596",
@@ -9550,7 +9441,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3659438",
@@ -9571,7 +9462,7 @@
       ],
       "user_name": "Carlos Barbero",
       "user_username": "carlosrgomes",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3660300",
@@ -9593,7 +9484,7 @@
       ],
       "user_name": "Aryan Choudhary",
       "user_username": "itsugo",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3660586",
@@ -9605,8 +9496,8 @@
       "published_timestamp": "2026-05-13T10:43:25Z",
       "published_at": "2026-05-13T10:43:25Z",
       "edited_at": null,
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
+      "public_reactions_count": 49,
+      "positive_reactions_count": 49,
       "tag_list": [
         "burnout",
         "career",
@@ -9615,7 +9506,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3661749",
@@ -9627,8 +9518,8 @@
       "published_timestamp": "2026-05-13T09:28:52Z",
       "published_at": "2026-05-13T09:28:52Z",
       "edited_at": "2026-05-13T09:42:37Z",
-      "public_reactions_count": 177,
-      "positive_reactions_count": 177,
+      "public_reactions_count": 178,
+      "positive_reactions_count": 178,
       "tag_list": [
         "python",
         "react",
@@ -9637,7 +9528,7 @@
       ],
       "user_name": "Syed Ahmer Shah",
       "user_username": "syedahmershah",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3663201",
@@ -9659,7 +9550,7 @@
       ],
       "user_name": "JS",
       "user_username": "jiasheng",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3664687",
@@ -9681,7 +9572,7 @@
       ],
       "user_name": "Eric D Johnson",
       "user_username": "edjgeek",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3665564",
@@ -9693,8 +9584,8 @@
       "published_timestamp": "2026-05-13T18:32:33Z",
       "published_at": "2026-05-13T18:32:33Z",
       "edited_at": "2026-05-13T18:36:00Z",
-      "public_reactions_count": 58,
-      "positive_reactions_count": 58,
+      "public_reactions_count": 61,
+      "positive_reactions_count": 61,
       "tag_list": [
         "webdev",
         "beginners",
@@ -9703,7 +9594,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "tahosin",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3666204",
@@ -9715,8 +9606,8 @@
       "published_timestamp": "2026-05-14T06:04:15Z",
       "published_at": "2026-05-14T06:04:15Z",
       "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
+      "public_reactions_count": 44,
+      "positive_reactions_count": 44,
       "tag_list": [
         "javascript",
         "angular",
@@ -9725,7 +9616,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-05-15T01:10:02.555314588+00:00"
+      "last_seen": "2026-05-15T03:22:51.468140940+00:00"
     },
     {
       "key": "3670735",
