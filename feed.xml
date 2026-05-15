@@ -35,18 +35,18 @@
     <summary type="html">Reactions: public 229 / positive 229&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T21:07:21Z&lt;br/&gt;Tags: jokes, devlive&lt;br/&gt;Description: Uff, I’m finally done with my talk at jsDay 2026!  And honestly? It went at least good. People showed...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3661749</id>
+    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
+    <updated>2026-05-13T09:42:37+00:00</updated>
+    <summary type="html">Reactions: public 225 / positive 225&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3357241</id>
     <title>I Think a Lot of Developers Are Quietly Grieving the Old Internet</title>
     <link rel="alternate" href="https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8"/>
     <updated>2026-03-16T06:35:16+00:00</updated>
     <summary type="html">Reactions: public 224 / positive 224&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3661749</id>
-    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
-    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
-    <updated>2026-05-13T09:42:37+00:00</updated>
-    <summary type="html">Reactions: public 220 / positive 220&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442345</id>
@@ -630,6 +630,13 @@
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T16:05:01Z&lt;br/&gt;Tags: php, node, nextjs, angular&lt;br/&gt;Description: You know the feeling. Three browser tabs open. Reddit thread from 2019. A YouTube video titled &quot;PHP...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3660300</id>
+    <title>Two DEV Users. Two Countries. One Weird Little Avatar Project.</title>
+    <link rel="alternate" href="https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"/>
+    <updated>2026-05-14T16:40:15+00:00</updated>
+    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T07:07:13Z&lt;br/&gt;Tags: webdev, nextjs, sideprojects, react&lt;br/&gt;Description: We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3391682</id>
     <title>Beyond the Prompt: The Rise of the Sovereign Developer</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/beyond-the-prompt-the-rise-of-the-sovereign-developer-b8cb2806a8b1?source=friends_link&amp;sk=ead1cbf2e329ccc4e10ff3ad6273cf00"/>
@@ -719,13 +726,6 @@
     <link rel="alternate" href="https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"/>
     <updated>2026-04-28T11:23:13+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3660300</id>
-    <title>Two DEV Users. Two Countries. One Weird Little Avatar Project.</title>
-    <link rel="alternate" href="https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"/>
-    <updated>2026-05-14T16:40:15+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T07:07:13Z&lt;br/&gt;Tags: webdev, nextjs, sideprojects, react&lt;br/&gt;Description: We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3512820</id>
@@ -1127,6 +1127,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3660586</id>
+    <title>What Burnout Actually Feels Like (Not What Instagram Tells You)</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh"/>
+    <updated>2026-05-13T10:43:25+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T10:43:25Z&lt;br/&gt;Tags: burnout, career, discuss, programming&lt;br/&gt;Description: Instagram burnout: a tidy desk, a warm coffee mug, a caption about hustle culture and finally taking...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3511691</id>
     <title>How to Add Device Authorization Flow to Your App With Kinde</title>
     <link rel="alternate" href="https://dev.to/sholajegede/how-to-add-device-authorization-flow-to-your-app-with-kinde-1o69"/>
@@ -1160,13 +1167,6 @@
     <link rel="alternate" href="https://dev.to/ben/meme-monday-1bec"/>
     <updated>2026-03-23T13:03:27+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T13:03:27Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3660586</id>
-    <title>What Burnout Actually Feels Like (Not What Instagram Tells You)</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh"/>
-    <updated>2026-05-13T10:43:25+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T10:43:25Z&lt;br/&gt;Tags: burnout, career, discuss, programming&lt;br/&gt;Description: Instagram burnout: a tidy desk, a warm coffee mug, a caption about hustle culture and finally taking...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516290</id>
