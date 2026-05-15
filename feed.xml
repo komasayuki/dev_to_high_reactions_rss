@@ -42,18 +42,18 @@
     <summary type="html">Reactions: public 224 / positive 224&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T06:35:16Z&lt;br/&gt;Tags: discuss, webdev, programming, culture&lt;br/&gt;Description: I think a lot of developers are carrying a kind of grief right now, but rarely naming it.  Not...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3661749</id>
+    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
+    <updated>2026-05-13T09:42:37+00:00</updated>
+    <summary type="html">Reactions: public 220 / positive 220&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3442345</id>
     <title>9 Things You’re Overengineering (The Browser Already Solved Them)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99"/>
     <updated>2026-04-02T07:53:11+00:00</updated>
     <summary type="html">Reactions: public 219 / positive 219&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T07:53:11Z&lt;br/&gt;Tags: webdev, javascript, css, browser&lt;br/&gt;Description: I love writing philosophical essays — thoughts about code, work, all that stuff. I also love deep...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3661749</id>
-    <title>React is Overkill: Why Python + HTMX is Dominating in 2026</title>
-    <link rel="alternate" href="https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib"/>
-    <updated>2026-05-13T09:42:37+00:00</updated>
-    <summary type="html">Reactions: public 210 / positive 210&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:28:52Z&lt;br/&gt;Tags: python, react, javascript, discuss&lt;br/&gt;Description: Last year I spent forty minutes setting up a React project for an internal admin dashboard. Just the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3533667</id>
@@ -539,6 +539,13 @@
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/subhrangsu_dev&quot;&gt;Subhrangsu Bera&lt;/a&gt;&lt;br/&gt;Published: 2026-03-10T22:39:46Z&lt;br/&gt;Tags: ai, programming, agents, webdev&lt;br/&gt;Description: Late one night in Kolkata, a developer sat staring at a glowing screen.  That developer was me.  Two...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3665564</id>
+    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
+    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
+    <updated>2026-05-13T18:36:00+00:00</updated>
+    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3534028</id>
     <title>The 4 classic bugs every multi-service Node.js app hits (and how to stop reinventing the wheel)</title>
     <link rel="alternate" href="https://dev.to/sirelves/the-4-classic-bugs-every-multi-service-nodejs-app-hits-and-how-to-stop-reinventing-the-wheel-4og7"/>
@@ -560,11 +567,11 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2026-03-20T15:44:30Z&lt;br/&gt;Tags: webdev, ai, javascript, programming&lt;br/&gt;Description: Wikipedia is a marvel. It is the Library of Alexandria of our time, a meticulously curated repository...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3665564</id>
-    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
-    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
-    <updated>2026-05-13T18:36:00+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
+    <id>tag:dev.to,2026:3651760</id>
+    <title>Does AI Behave Like a Toxic Ex?</title>
+    <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
+    <updated>2026-05-11T18:09:56+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T18:09:56Z&lt;br/&gt;Tags: ai, webdev, discuss, learning&lt;br/&gt;Description: Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3597637</id>
@@ -579,13 +586,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
     <updated>2026-03-24T19:11:48+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3651760</id>
-    <title>Does AI Behave Like a Toxic Ex?</title>
-    <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
-    <updated>2026-05-11T18:09:56+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T18:09:56Z&lt;br/&gt;Tags: ai, webdev, discuss, learning&lt;br/&gt;Description: Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3523369</id>
@@ -644,6 +644,13 @@
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T19:31:58Z&lt;br/&gt;Tags: geminireflections, gemini, ai, devchallenge&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the Built with Google Gemini: Writing...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3666204</id>
+    <title>4 Tiny Mistakes That Secretly Destroy App Performance</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo"/>
+    <updated>2026-05-14T06:04:15+00:00</updated>
+    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T06:04:15Z&lt;br/&gt;Tags: javascript, angular, react, frontend&lt;br/&gt;Description: Ok, I’m back from my short vacation and returning with some useful content 😄 As you know, from time...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3532336</id>
     <title>Mobile Test Automation Frameworks in 2026: How to Choose</title>
     <link rel="alternate" href="https://dev.to/drizzdev/mobile-test-automation-frameworks-in-2026-how-to-choose-58ec"/>
@@ -663,13 +670,6 @@
     <link rel="alternate" href="https://dev.to/ben/meme-monday-cc9"/>
     <updated>2026-03-16T13:27:33+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T13:27:33Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3666204</id>
-    <title>4 Tiny Mistakes That Secretly Destroy App Performance</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo"/>
-    <updated>2026-05-14T06:04:15+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T06:04:15Z&lt;br/&gt;Tags: javascript, angular, react, frontend&lt;br/&gt;Description: Ok, I’m back from my short vacation and returning with some useful content 😄 As you know, from time...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3663201</id>
@@ -924,6 +924,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:00:09Z&lt;br/&gt;Tags: programming, leetcode, python, javascript&lt;br/&gt;Description: I didn’t realize I was starting a 1.5-year journey when I opened my first LeetCode problem.  It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3512879</id>
+    <title>The missing layer in prompt engineering: thinking quality</title>
+    <link rel="alternate" href="https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j"/>
+    <updated>2026-05-11T12:45:04+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:45:04Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, learning&lt;br/&gt;Description: I&apos;ve seen countless prompting trends and prompt packs to use but most discussions around prompt...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3634492</id>
     <title>Why does AI lie? Hallucinations explained simply</title>
     <link rel="alternate" href="https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g"/>
@@ -957,13 +964,6 @@
     <link rel="alternate" href="https://dev.to/wynandpieters/weve-seen-this-movie-before-3719"/>
     <updated>2026-03-19T08:54:35+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/wynandpieters&quot;&gt;Wynand Pieters&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T08:54:35Z&lt;br/&gt;Tags: ai, gamedev, programming&lt;br/&gt;Description: I&apos;ve been sitting on this comparison for a while, trying to decide if it was too obvious to write...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3512879</id>
-    <title>The missing layer in prompt engineering: thinking quality</title>
-    <link rel="alternate" href="https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j"/>
-    <updated>2026-05-11T12:45:04+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T12:45:04Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, learning&lt;br/&gt;Description: I&apos;ve seen countless prompting trends and prompt packs to use but most discussions around prompt...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3647215</id>
