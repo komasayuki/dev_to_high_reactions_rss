@@ -276,49 +276,6 @@
       "last_seen": "2026-03-26T17:32:44.292015158+00:00"
     },
     {
-      "key": "3329280",
-      "id": 3329280,
-      "canonical_url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
-      "url": "https://dev.to/egorfedorov/i-tracked-where-my-claude-code-tokens-actually-go-37-were-wasted-2gll",
-      "title": "I tracked where my Claude Code tokens actually go. 37% were wasted.",
-      "description": "Last month I hit $180 on my Claude Code bill. I use Opus daily — refactoring, bug fixes, code...",
-      "published_timestamp": "2026-03-09T06:34:30Z",
-      "published_at": "2026-03-09T06:34:30Z",
-      "edited_at": "2026-03-09T07:00:19Z",
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
-      "tag_list": [
-        "ai",
-        "productivity",
-        "opensource",
-        "webdev"
-      ],
-      "user_name": "Egor Fedorov",
-      "user_username": "egorfedorov",
-      "last_seen": "2026-03-16T05:45:41.451520429+00:00"
-    },
-    {
-      "key": "3329597",
-      "id": 3329597,
-      "canonical_url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
-      "url": "https://dev.to/timoschinkel/native-typescript-with-node-4d93",
-      "title": "Native TypeScript with Node",
-      "description": "Starting with Node 22.18.0 it is possible to run TypeScript natively from the Node interpreter. This...",
-      "published_timestamp": "2026-03-09T07:40:18Z",
-      "published_at": "2026-03-09T07:40:18Z",
-      "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
-      "tag_list": [
-        "typescript",
-        "node",
-        "esm"
-      ],
-      "user_name": "Timo Schinkel",
-      "user_username": "timoschinkel",
-      "last_seen": "2026-03-16T06:45:52.784196466+00:00"
-    },
-    {
       "key": "3329612",
       "id": 3329612,
       "canonical_url": "https://dev.to/dev-in-progress/i-was-one-day-away-from-quitting-and-then-my-career-took-an-unexpected-turn-o1k",
@@ -6390,7 +6347,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3513259",
@@ -7373,7 +7330,7 @@
       ],
       "user_name": "Klaudia Grzondziel",
       "user_username": "klaudiagrz",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3549363",
@@ -7917,7 +7874,7 @@
       ],
       "user_name": "Gavin Cettolo",
       "user_username": "gavincettolo",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3586991",
@@ -8349,7 +8306,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3599107",
@@ -8983,7 +8940,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3621715",
@@ -9169,8 +9126,8 @@
       "published_timestamp": "2026-05-08T07:52:47Z",
       "published_at": "2026-05-08T07:52:47Z",
       "edited_at": null,
-      "public_reactions_count": 61,
-      "positive_reactions_count": 61,
+      "public_reactions_count": 63,
+      "positive_reactions_count": 63,
       "tag_list": [
         "ai",
         "android",
@@ -9179,7 +9136,7 @@
       ],
       "user_name": "Jay Saadana",
       "user_username": "jaysaadana",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3629085",
@@ -9213,8 +9170,8 @@
       "published_timestamp": "2026-05-08T16:37:02Z",
       "published_at": "2026-05-08T16:37:02Z",
       "edited_at": "2026-05-08T17:26:09Z",
-      "public_reactions_count": 55,
-      "positive_reactions_count": 55,
+      "public_reactions_count": 56,
+      "positive_reactions_count": 56,
       "tag_list": [
         "ai",
         "beginners",
@@ -9223,7 +9180,7 @@
       ],
       "user_name": "Rohini Gaonkar",
       "user_username": "rohini_gaonkar",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3635559",
@@ -9245,7 +9202,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3638624",
@@ -9267,7 +9224,7 @@
       ],
       "user_name": "Soma",
       "user_username": "somadevtoo",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3642919",
@@ -9311,7 +9268,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3647215",
@@ -9333,7 +9290,7 @@
       ],
       "user_name": "Adam - The Developer",
       "user_username": "adamthedeveloper",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3651113",
@@ -9365,8 +9322,8 @@
       "published_timestamp": "2026-05-11T18:09:56Z",
       "published_at": "2026-05-11T18:09:56Z",
       "edited_at": null,
-      "public_reactions_count": 72,
-      "positive_reactions_count": 72,
+      "public_reactions_count": 73,
+      "positive_reactions_count": 73,
       "tag_list": [
         "ai",
         "webdev",
@@ -9375,7 +9332,7 @@
       ],
       "user_name": "Konark Sharma",
       "user_username": "konark_13",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3652261",
@@ -9387,8 +9344,8 @@
       "published_timestamp": "2026-05-11T20:47:59Z",
       "published_at": "2026-05-11T20:47:59Z",
       "edited_at": "2026-05-11T21:31:28Z",
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
+      "public_reactions_count": 37,
+      "positive_reactions_count": 37,
       "tag_list": [
         "linux",
         "archlinux",
@@ -9397,7 +9354,7 @@
       ],
       "user_name": "Deepu K Sasidharan",
       "user_username": "deepu105",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3655326",
@@ -9419,7 +9376,7 @@
       ],
       "user_name": "vincanger",
       "user_username": "vincanger",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3655596",
@@ -9441,7 +9398,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3659438",
@@ -9462,7 +9419,7 @@
       ],
       "user_name": "Carlos Barbero",
       "user_username": "carlosrgomes",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3660300",
@@ -9484,7 +9441,7 @@
       ],
       "user_name": "Aryan Choudhary",
       "user_username": "itsugo",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3660586",
@@ -9506,7 +9463,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3661749",
@@ -9528,7 +9485,7 @@
       ],
       "user_name": "Syed Ahmer Shah",
       "user_username": "syedahmershah",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3663201",
@@ -9550,7 +9507,7 @@
       ],
       "user_name": "JS",
       "user_username": "jiasheng",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3664687",
@@ -9572,7 +9529,7 @@
       ],
       "user_name": "Eric D Johnson",
       "user_username": "edjgeek",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3665564",
@@ -9594,7 +9551,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "tahosin",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3666204",
@@ -9616,7 +9573,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-05-15T05:28:33.024782567+00:00"
+      "last_seen": "2026-05-15T07:24:26.130394120+00:00"
     },
     {
       "key": "3670735",
