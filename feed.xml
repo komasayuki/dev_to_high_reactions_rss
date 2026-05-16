@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-16T08:34:50+00:00</updated>
+  <updated>2026-05-16T18:57:00+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -368,7 +368,7 @@
     <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
     <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
     <updated>2026-05-13T18:36:00+00:00</updated>
-    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442004</id>
@@ -1239,6 +1239,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/supriya-kotturu&quot;&gt;Supriya&lt;/a&gt;&lt;br/&gt;Published: 2026-03-11T10:43:47Z&lt;br/&gt;Tags: webdev, showdev, go, beginners&lt;br/&gt;Description: I came to Go from the React world. Frontend was comfortable. I knew the mental model: components,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3659438</id>
+    <title>Local-First AI Done Right: How Gemma 4 E2B and &apos;Thinking Mode&apos; Powered DiagramFlowAI</title>
+    <link rel="alternate" href="https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop"/>
+    <updated>2026-05-16T18:57:00+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/carlosrgomes&quot;&gt;Carlos Barbero&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T00:08:54Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3635559</id>
     <title>Error Handling in Go: Stop Panicking, Start Wrapping</title>
     <link rel="alternate" href="https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"/>
@@ -1293,13 +1300,6 @@
     <link rel="alternate" href="https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f"/>
     <updated>2026-04-02T21:53:20+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3659438</id>
-    <title>Local-First AI Done Right: How Gemma 4 E2B and &apos;Thinking Mode&apos; Powered DiagramFlowAI</title>
-    <link rel="alternate" href="https://dev.to/gde/local-first-ai-done-right-how-gemma-4-e2b-and-thinking-mode-powered-diagramflowai-3bop"/>
-    <updated>2026-05-13T01:04:59+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/carlosrgomes&quot;&gt;Carlos Barbero&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T00:08:54Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: What I Built   DiagramFlowAI is a local-first desktop application (macOS, Windows, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3644097</id>
