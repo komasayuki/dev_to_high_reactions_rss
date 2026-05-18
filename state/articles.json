@@ -367,49 +367,6 @@
       "last_seen": "2026-03-20T15:25:07.406374746+00:00"
     },
     {
-      "key": "3345368",
-      "id": 3345368,
-      "canonical_url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
-      "url": "https://dev.to/antdimot/mcp-server-with-net-5cih",
-      "title": "MCP Server with .Net",
-      "description": "Building a MCP Server with C#",
-      "published_timestamp": "2026-03-12T22:52:52Z",
-      "published_at": "2026-03-12T22:52:52Z",
-      "edited_at": "2026-03-12T23:01:29Z",
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
-      "tag_list": [
-        "dotnet",
-        "mcp",
-        "ai"
-      ],
-      "user_name": "Antonio Di Motta",
-      "user_username": "antdimot",
-      "last_seen": "2026-03-19T22:16:02.265107784+00:00"
-    },
-    {
-      "key": "3345524",
-      "id": 3345524,
-      "canonical_url": "https://debuggr.io/internet-getting-quieter/",
-      "url": "https://dev.to/sag1v/the-internet-is-getting-quieter-who-will-feed-the-next-generation-of-ai-4bl1",
-      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
-      "description": "Stack Overflow helped train the AI models that are now making it irrelevant. As developers solve problems privately with AI assistants, the public knowledge commons is quietly starving. This is an underrated problem.",
-      "published_timestamp": "2026-03-12T22:48:44Z",
-      "published_at": "2026-03-12T22:48:44Z",
-      "edited_at": null,
-      "public_reactions_count": 61,
-      "positive_reactions_count": 61,
-      "tag_list": [
-        "ai",
-        "knowledgesharing",
-        "stackoverflow",
-        "opinion"
-      ],
-      "user_name": "Sagiv ben giat",
-      "user_username": "sag1v",
-      "last_seen": "2026-03-19T22:16:02.265107784+00:00"
-    },
-    {
       "key": "3346341",
       "id": 3346341,
       "canonical_url": "https://davidcuy.github.io/es/blog/cdn-lambda-edge-desbordamiento-cookies",
@@ -5784,7 +5741,7 @@
       ],
       "user_name": "Anmol Baranwal",
       "user_username": "anmolbaranwal",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3522879",
@@ -7069,7 +7026,7 @@
       ],
       "user_name": "Gavin Cettolo",
       "user_username": "gavincettolo",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3586991",
@@ -7521,7 +7478,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3599107",
@@ -8155,7 +8112,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3621715",
@@ -8635,7 +8592,7 @@
       ],
       "user_name": "vincanger",
       "user_username": "vincanger",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3655596",
@@ -8657,7 +8614,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3656535",
@@ -8669,8 +8626,8 @@
       "published_timestamp": "2026-05-14T13:57:11Z",
       "published_at": "2026-05-14T13:57:11Z",
       "edited_at": "2026-05-14T14:00:15Z",
-      "public_reactions_count": 65,
-      "positive_reactions_count": 65,
+      "public_reactions_count": 66,
+      "positive_reactions_count": 66,
       "tag_list": [
         "discuss",
         "ai",
@@ -8679,7 +8636,7 @@
       ],
       "user_name": "Praveen Rajamani",
       "user_username": "iampraveen",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3659438",
@@ -8700,7 +8657,7 @@
       ],
       "user_name": "Carlos Barbero",
       "user_username": "carlosrgomes",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3660300",
@@ -8722,7 +8679,7 @@
       ],
       "user_name": "Aryan Choudhary",
       "user_username": "itsugo",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3660586",
@@ -8744,7 +8701,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3661730",
@@ -8766,7 +8723,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3661749",
@@ -8788,7 +8745,7 @@
       ],
       "user_name": "Syed Ahmer Shah",
       "user_username": "syedahmershah",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3663201",
@@ -8810,7 +8767,7 @@
       ],
       "user_name": "JS",
       "user_username": "jiasheng",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3664687",
@@ -8832,7 +8789,7 @@
       ],
       "user_name": "Eric D Johnson",
       "user_username": "edjgeek",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3665564",
@@ -8844,8 +8801,8 @@
       "published_timestamp": "2026-05-13T18:32:33Z",
       "published_at": "2026-05-13T18:32:33Z",
       "edited_at": "2026-05-13T18:36:00Z",
-      "public_reactions_count": 136,
-      "positive_reactions_count": 136,
+      "public_reactions_count": 141,
+      "positive_reactions_count": 141,
       "tag_list": [
         "webdev",
         "beginners",
@@ -8854,7 +8811,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "tahosin",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3665857",
@@ -8876,7 +8833,7 @@
       ],
       "user_name": "Debbie O'Brien",
       "user_username": "debs_obrien",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3666204",
@@ -8898,7 +8855,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3670730",
@@ -8953,8 +8910,8 @@
       "published_timestamp": "2026-05-16T08:34:50Z",
       "published_at": "2026-05-16T08:34:50Z",
       "edited_at": null,
-      "public_reactions_count": 217,
-      "positive_reactions_count": 217,
+      "public_reactions_count": 218,
+      "positive_reactions_count": 218,
       "tag_list": [
         "hermesagentchallenge",
         "devchallenge",
@@ -8963,7 +8920,7 @@
       ],
       "user_name": "Syed Ahmer Shah",
       "user_username": "syedahmershah",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3685189",
@@ -8995,14 +8952,14 @@
       "published_timestamp": "2026-05-17T17:34:31Z",
       "published_at": "2026-05-17T17:34:31Z",
       "edited_at": null,
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
       "tag_list": [
         "hackathon"
       ],
       "user_name": "Ladipo Samuel",
       "user_username": "ladipo_samuel_7cfaa827bf5",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     },
     {
       "key": "3693064",
@@ -9024,7 +8981,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-05-18T21:37:07.750335305+00:00"
+      "last_seen": "2026-05-18T22:30:43.487684163+00:00"
     }
   ]
 }
