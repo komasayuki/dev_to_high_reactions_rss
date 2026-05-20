@@ -224,13 +224,6 @@
     <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T06:28:42Z&lt;br/&gt;Tags: career, learning, development, workplace&lt;br/&gt;Description: Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3352107</id>
-    <title>90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3"/>
-    <updated>2026-03-14T16:44:34+00:00</updated>
-    <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-03-14T16:44:34Z&lt;br/&gt;Tags: ai, career, webdev, javascript&lt;br/&gt;Description: I read the headline at 11pm on a random Wednesday.  &quot;Anthropic CEO predicts 90% of all code will be...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3392308</id>
     <title>The Ultimate Job Finding-Management Tool</title>
     <link rel="alternate" href="https://dev.to/annavi11arrea1/the-ultimate-job-finding-managment-tool-522i"/>
@@ -1092,6 +1085,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T08:18:24Z&lt;br/&gt;Tags: webdev, ai, programming, javascript&lt;br/&gt;Description: Artificial intelligence is evolving fast, but most tools still operate the same way: you give a model...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3693795</id>
+    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
+    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
+    <updated>2026-05-19T03:41:55+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3493601</id>
     <title>Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative</title>
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
@@ -1195,13 +1195,6 @@
     <link rel="alternate" href="https://dev.to/anthonymax/the-concept-of-automatic-fallbacks-and-how-bifrost-implements-it-592p"/>
     <updated>2026-05-19T22:52:05+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T22:49:23Z&lt;br/&gt;Tags: ai, webdev, programming, api&lt;br/&gt;Description: The promise of AI is transformative. The reality is distributed, fragile, and increasingly complex....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693795</id>
-    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
-    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
-    <updated>2026-05-19T03:41:55+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3635559</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/annavi11arrea1/path-of-discovery-1aoi"/>
     <updated>2026-03-17T22:04:33+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T01:12:55Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  A bit personal, a bit all...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3696406</id>
+    <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
+    <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
+    <updated>2026-05-19T00:40:00+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bebechien&quot;&gt;bebechien&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T00:37:24Z&lt;br/&gt;Tags: turtle, gemma, ai, agents&lt;br/&gt;Description: 🐢 Speaking into Canvas   If you&apos;re anything like me, your very first taste of &quot;programming&quot;...</summary>
   </entry>
 </feed>
