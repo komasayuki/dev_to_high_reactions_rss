@@ -1043,6 +1043,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3693795</id>
+    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
+    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
+    <updated>2026-05-19T03:41:55+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3655596</id>
     <title>I Stopped Fighting React Server Components — Here&apos;s What Finally Made It</title>
     <link rel="alternate" href="https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho"/>
@@ -1083,13 +1090,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/everything-you-need-to-know-about-mirofish-the-ai-swarm-engine-predicting-everything-5fp3"/>
     <updated>2026-03-16T08:28:15+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T08:18:24Z&lt;br/&gt;Tags: webdev, ai, programming, javascript&lt;br/&gt;Description: Artificial intelligence is evolving fast, but most tools still operate the same way: you give a model...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693795</id>
-    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
-    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
-    <updated>2026-05-19T03:41:55+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3493601</id>
@@ -1260,6 +1260,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T11:21:44Z&lt;br/&gt;Tags: ai, opensource, transparency, discuss&lt;br/&gt;Description: I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3597655</id>
+    <title>What was your win this week?!</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
+    <updated>2026-05-15T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3644097</id>
     <title>How Python&apos;s GIL actually works (and when it bites you)</title>
     <link rel="alternate" href="https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2"/>
@@ -1307,13 +1314,6 @@
     <link rel="alternate" href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333"/>
     <updated>2026-03-23T17:20:41+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3597655</id>
-    <title>What was your win this week?!</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
-    <updated>2026-05-15T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3605688</id>
