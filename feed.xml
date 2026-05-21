@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-21T16:03:16+00:00</updated>
+  <updated>2026-05-21T17:33:15+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -623,6 +623,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T16:58:14Z&lt;br/&gt;Tags: webdev, programming, ai, mcp&lt;br/&gt;Description: I spent the last few weeks wiring up MCP at my org, stitching a handful of internal tools (GitHub,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3712137</id>
+    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
+    <updated>2026-05-21T07:06:41+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3638624</id>
     <title>I Found LeetCode for Software Design, and It’s Awesome</title>
     <link rel="alternate" href="https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d"/>
@@ -642,13 +649,6 @@
     <link rel="alternate" href="https://dev.to/umarpathan/openclaw-challenge-222g"/>
     <updated>2026-05-03T19:02:32+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/umarpathan&quot;&gt;Umar Pathan&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T15:39:57Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, ai&lt;br/&gt;Description: This is a submission for the OpenClaw Challenge           What I Built   A Designer Agent for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3712137</id>
-    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
-    <updated>2026-05-21T07:06:41+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3670735</id>
@@ -1176,6 +1176,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T13:03:27Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3696406</id>
+    <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
+    <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
+    <updated>2026-05-19T00:40:00+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bebechien&quot;&gt;bebechien&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T00:37:24Z&lt;br/&gt;Tags: turtle, gemma, ai, agents&lt;br/&gt;Description: 🐢 Speaking into Canvas   If you&apos;re anything like me, your very first taste of &quot;programming&quot;...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3597655</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
@@ -1230,13 +1237,6 @@
     <link rel="alternate" href="https://dev.to/anthonymax/the-concept-of-automatic-fallbacks-and-how-bifrost-implements-it-592p"/>
     <updated>2026-05-19T22:52:05+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T22:49:23Z&lt;br/&gt;Tags: ai, webdev, programming, api&lt;br/&gt;Description: The promise of AI is transformative. The reality is distributed, fragile, and increasingly complex....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3696406</id>
-    <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
-    <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
-    <updated>2026-05-19T00:40:00+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bebechien&quot;&gt;bebechien&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T00:37:24Z&lt;br/&gt;Tags: turtle, gemma, ai, agents&lt;br/&gt;Description: 🐢 Speaking into Canvas   If you&apos;re anything like me, your very first taste of &quot;programming&quot;...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3635559</id>
@@ -1344,6 +1344,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3695320</id>
+    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
+    <updated>2026-05-21T17:33:15+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3605688</id>
     <title>I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.</title>
     <link rel="alternate" href="https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
     <updated>2026-03-27T21:33:31+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410521</id>
-    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
-    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
-    <updated>2026-03-29T05:42:08+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
