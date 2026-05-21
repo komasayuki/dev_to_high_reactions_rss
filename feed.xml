@@ -917,6 +917,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3693795</id>
+    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
+    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
+    <updated>2026-05-19T03:41:55+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3634492</id>
     <title>Why does AI lie? Hallucinations explained simply</title>
     <link rel="alternate" href="https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g"/>
@@ -1015,13 +1022,6 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/aaron_rose_0787cc8b4775a0&quot;&gt;Aaron Rose&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T23:12:17Z&lt;br/&gt;Tags: claudecode, codingwithai, softwareengineering, developerlife&lt;br/&gt;Description: How to orient yourself in an unfamiliar codebase — and how Claude Code can help you find your footing...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3693795</id>
-    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
-    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
-    <updated>2026-05-19T03:41:55+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3622183</id>
     <title>Stop Letting AI Write Your Database Migrations</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/stop-letting-ai-handle-database-migrations-965b1424c9f8?source=friends_link&amp;sk=4218d64c0158b610fdb2054f58684417"/>
@@ -1048,6 +1048,13 @@
     <link rel="alternate" href="https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj"/>
     <updated>2026-04-05T10:58:16+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3693064</id>
+    <title>DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47"/>
+    <updated>2026-05-18T11:21:44+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T11:21:44Z&lt;br/&gt;Tags: ai, opensource, transparency, discuss&lt;br/&gt;Description: I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3655596</id>
@@ -1090,13 +1097,6 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/everything-you-need-to-know-about-mirofish-the-ai-swarm-engine-predicting-everything-5fp3"/>
     <updated>2026-03-16T08:28:15+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T08:18:24Z&lt;br/&gt;Tags: webdev, ai, programming, javascript&lt;br/&gt;Description: Artificial intelligence is evolving fast, but most tools still operate the same way: you give a model...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693064</id>
-    <title>DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47"/>
-    <updated>2026-05-18T11:21:44+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T11:21:44Z&lt;br/&gt;Tags: ai, opensource, transparency, discuss&lt;br/&gt;Description: I was debugging a slow response in HuggingChat last Tuesday.  Standard stuff Open DevTools, check the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3493601</id>
@@ -1260,6 +1260,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3696406</id>
+    <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
+    <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
+    <updated>2026-05-19T00:40:00+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bebechien&quot;&gt;bebechien&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T00:37:24Z&lt;br/&gt;Tags: turtle, gemma, ai, agents&lt;br/&gt;Description: 🐢 Speaking into Canvas   If you&apos;re anything like me, your very first taste of &quot;programming&quot;...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3597655</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
@@ -1314,13 +1321,6 @@
     <link rel="alternate" href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333"/>
     <updated>2026-03-23T17:20:41+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3696406</id>
-    <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
-    <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
-    <updated>2026-05-19T00:40:00+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bebechien&quot;&gt;bebechien&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T00:37:24Z&lt;br/&gt;Tags: turtle, gemma, ai, agents&lt;br/&gt;Description: 🐢 Speaking into Canvas   If you&apos;re anything like me, your very first taste of &quot;programming&quot;...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3605688</id>
