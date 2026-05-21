@@ -896,6 +896,13 @@
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T18:38:06Z&lt;br/&gt;Tags: ai, beginners, aws, learning&lt;br/&gt;Description: I just came back from maternity leave. And honestly? I felt like I&apos;d missed a decade in six months. I...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3693795</id>
+    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
+    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
+    <updated>2026-05-19T03:41:55+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3615091</id>
     <title>Multimodal RAG with the Gemini API File Search Tool: A Developer Guide</title>
     <link rel="alternate" href="https://dev.to/googleai/multimodal-rag-with-the-gemini-api-file-search-tool-a-developer-guide-5878"/>
@@ -915,13 +922,6 @@
     <link rel="alternate" href="https://builder.aws.com/content/3Cbk654mcGCtAREF1jRP7cAE885/build-your-own-blog-post-view-counter-on-aws-free-tier"/>
     <updated>2026-04-21T19:35:19+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693795</id>
-    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
-    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
-    <updated>2026-05-19T03:41:55+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3634492</id>
@@ -1099,6 +1099,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T08:18:24Z&lt;br/&gt;Tags: webdev, ai, programming, javascript&lt;br/&gt;Description: Artificial intelligence is evolving fast, but most tools still operate the same way: you give a model...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3533864</id>
+    <title>Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?</title>
+    <link rel="alternate" href="https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f"/>
+    <updated>2026-05-18T12:08:26+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T12:08:26Z&lt;br/&gt;Tags: ai, softwareengineering, engineeringmanagement, productivity&lt;br/&gt;Description: Have you ever been thrown into an unfamiliar codebase while deadlines got tighter, stress levels...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3493601</id>
     <title>Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative</title>
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
@@ -1195,13 +1202,6 @@
     <link rel="alternate" href="https://bekahhw.com/AI-Vocabulary-101"/>
     <updated>2026-03-24T17:36:14+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bekahhw&quot;&gt;BekahHW&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T22:25:31Z&lt;br/&gt;Tags: ai, beginners&lt;br/&gt;Description: Smart, curious people keep hitting the same wall with AI: they don&apos;t have the words to name what they don&apos;t understand. Here are the terms that turn vague frustration into specific, solvable problems.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3354708</id>
-    <title>I Let AI Handle My Slack Messages So I Could Actually Code (Notion MCP)</title>
-    <link rel="alternate" href="https://dev.to/balkaran/synapse-the-autonomous-ai-developer-shield-built-with-notion-mcp-5f0j"/>
-    <updated>2026-03-16T13:41:57+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/balkaran&quot;&gt;Balkaran Singh&lt;/a&gt;&lt;br/&gt;Published: 2026-03-15T13:47:24Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   Every developer knows the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693063</id>
