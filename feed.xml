@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-21T17:33:15+00:00</updated>
+  <updated>2026-05-21T20:59:59+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -504,6 +504,13 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3692233</id>
+    <title>Open Source Toolkit for Building AI Agents in 2026</title>
+    <link rel="alternate" href="https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1"/>
+    <updated>2026-05-21T16:03:16+00:00</updated>
+    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T14:59:12Z&lt;br/&gt;Tags: programming, tutorial, opensource, javascript&lt;br/&gt;Description: It used to take a lot of effort to get your first PR merged in open source. Now you can ship...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3467717</id>
     <title>Forem (Dev.to) is slow, so I del...optimized it.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln"/>
@@ -523,13 +530,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-march-2026-3ad5"/>
     <updated>2026-03-27T17:49:58+00:00</updated>
     <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T17:49:58Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3692233</id>
-    <title>Open Source Toolkit for Building AI Agents in 2026</title>
-    <link rel="alternate" href="https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1"/>
-    <updated>2026-05-21T16:03:16+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T14:59:12Z&lt;br/&gt;Tags: programming, tutorial, opensource, javascript&lt;br/&gt;Description: It used to take a lot of effort to get your first PR merged in open source. Now you can ship...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3617096</id>
@@ -609,6 +609,13 @@
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3712137</id>
+    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
+    <updated>2026-05-21T07:06:41+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3663201</id>
     <title>How to Save Bloated MCP with Code Mode</title>
     <link rel="alternate" href="https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3"/>
@@ -621,13 +628,6 @@
     <link rel="alternate" href="https://dev.to/lovestaco/what-building-with-mcp-taught-me-about-its-biggest-gap-idl"/>
     <updated>2026-04-20T16:58:14+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T16:58:14Z&lt;br/&gt;Tags: webdev, programming, ai, mcp&lt;br/&gt;Description: I spent the last few weeks wiring up MCP at my org, stitching a handful of internal tools (GitHub,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3712137</id>
-    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
-    <updated>2026-05-21T07:06:41+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3638624</id>
@@ -801,7 +801,7 @@
     <id>tag:dev.to,2026:3693795</id>
     <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
     <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
-    <updated>2026-05-19T03:41:55+00:00</updated>
+    <updated>2026-05-21T20:59:59+00:00</updated>
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
   </entry>
   <entry>
@@ -1040,7 +1040,7 @@
     <title>Building a Database Performance Testing Tool With AI: The Honest Breakdown</title>
     <link rel="alternate" href="https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"/>
     <updated>2026-05-21T15:52:48+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T15:37:54Z&lt;br/&gt;Tags: ai, testing, database, performance&lt;br/&gt;Description: It still feels a little strange to have AI writing practically all the code — but I decided to give...</summary>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne Gonçalves&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T15:37:54Z&lt;br/&gt;Tags: ai, testing, database, performance&lt;br/&gt;Description: It still feels a little strange to have AI writing practically all the code — but I decided to give...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693064</id>
@@ -1125,6 +1125,13 @@
     <link rel="alternate" href="https://dev.to/therealmrmumba/everything-you-need-to-know-about-mirofish-the-ai-swarm-engine-predicting-everything-5fp3"/>
     <updated>2026-03-16T08:28:15+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/therealmrmumba&quot;&gt;Emmanuel Mumba&lt;/a&gt;&lt;br/&gt;Published: 2026-03-16T08:18:24Z&lt;br/&gt;Tags: webdev, ai, programming, javascript&lt;br/&gt;Description: Artificial intelligence is evolving fast, but most tools still operate the same way: you give a model...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3695320</id>
+    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
+    <updated>2026-05-21T17:33:15+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3493601</id>
@@ -1342,13 +1349,6 @@
     <link rel="alternate" href="https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333"/>
     <updated>2026-03-23T17:20:41+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3695320</id>
-    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
-    <updated>2026-05-21T17:33:15+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3605688</id>
