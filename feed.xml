@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-21T20:59:59+00:00</updated>
+  <updated>2026-05-22T01:54:27+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -266,6 +266,13 @@
     <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T06:35:40Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Sometimes the biggest...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3695320</id>
+    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
+    <updated>2026-05-21T17:33:15+00:00</updated>
+    <summary type="html">Reactions: public 108 / positive 108&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3547654</id>
     <title>5 types of engineers I met as a Technical Writer</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak"/>
@@ -336,13 +343,6 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3695320</id>
-    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
-    <updated>2026-05-21T17:33:15+00:00</updated>
-    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3596751</id>
     <title>I Don&apos;t Like Tailwind. Sorry Not Sorry</title>
     <link rel="alternate" href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"/>
@@ -399,6 +399,13 @@
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3712137</id>
+    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
+    <updated>2026-05-21T07:06:41+00:00</updated>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3442047</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-28fb"/>
@@ -432,13 +439,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee"/>
     <updated>2026-04-17T01:35:15+00:00</updated>
     <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T21:34:36Z&lt;br/&gt;Tags: devchallenge, wecoded, frontend, career&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3712137</id>
-    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
-    <updated>2026-05-21T07:06:41+00:00</updated>
-    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3609152</id>
@@ -707,6 +707,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3721399</id>
+    <title>As a Gen AI Student, Here’s What Excited Me Most at Google I/O 2026</title>
+    <link rel="alternate" href="https://dev.to/zenrishi/as-a-gen-ai-student-heres-what-excited-me-most-at-google-io-2026-4hjh"/>
+    <updated>2026-05-22T01:54:27+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/zenrishi&quot;&gt;rishi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T01:54:27Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: This is a submission for the Google I/O Writing Challenge           Google AI Studio Might Be the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3626029</id>
     <title>Gemma 4: Why Local AI is Finally Becoming Personal</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5"/>
@@ -726,6 +733,13 @@
     <link rel="alternate" href="https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0"/>
     <updated>2026-04-16T10:59:58+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:59:58Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, career&lt;br/&gt;Description: I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3693795</id>
+    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
+    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
+    <updated>2026-05-21T20:59:59+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3561978</id>
@@ -805,11 +819,11 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-17T18:34:13Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3693795</id>
-    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
-    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
-    <updated>2026-05-21T20:59:59+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
+    <id>tag:dev.to,2026:3718736</id>
+    <title>Building a Database Performance Testing Tool With AI: The Honest Breakdown</title>
+    <link rel="alternate" href="https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"/>
+    <updated>2026-05-21T15:52:48+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne Gonçalves&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T15:37:54Z&lt;br/&gt;Tags: ai, testing, database, performance&lt;br/&gt;Description: It still feels a little strange to have AI writing practically all the code — but I decided to give...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3512879</id>
@@ -1043,11 +1057,11 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/katcosgrove&quot;&gt;Kat Cosgrove&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T14:39:24Z&lt;br/&gt;Tags: opensource, security, kubernetes, devops&lt;br/&gt;Description: Maintaining an open source project is hard. It requires managing a group of people who are largely...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3718736</id>
-    <title>Building a Database Performance Testing Tool With AI: The Honest Breakdown</title>
-    <link rel="alternate" href="https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"/>
-    <updated>2026-05-21T15:52:48+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne Gonçalves&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T15:37:54Z&lt;br/&gt;Tags: ai, testing, database, performance&lt;br/&gt;Description: It still feels a little strange to have AI writing practically all the code — but I decided to give...</summary>
+    <id>tag:dev.to,2026:3533864</id>
+    <title>Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?</title>
+    <link rel="alternate" href="https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f"/>
+    <updated>2026-05-18T12:08:26+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T12:08:26Z&lt;br/&gt;Tags: ai, softwareengineering, engineeringmanagement, productivity&lt;br/&gt;Description: Have you ever been thrown into an unfamiliar codebase while deadlines got tighter, stress levels...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3622183</id>
@@ -1076,13 +1090,6 @@
     <link rel="alternate" href="https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj"/>
     <updated>2026-04-05T10:58:16+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3533864</id>
-    <title>Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?</title>
-    <link rel="alternate" href="https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f"/>
-    <updated>2026-05-18T12:08:26+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T12:08:26Z&lt;br/&gt;Tags: ai, softwareengineering, engineeringmanagement, productivity&lt;br/&gt;Description: Have you ever been thrown into an unfamiliar codebase while deadlines got tighter, stress levels...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3655596</id>
@@ -1230,6 +1237,13 @@
     <link rel="alternate" href="https://bekahhw.com/AI-Vocabulary-101"/>
     <updated>2026-03-24T17:36:14+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bekahhw&quot;&gt;BekahHW&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T22:25:31Z&lt;br/&gt;Tags: ai, beginners&lt;br/&gt;Description: Smart, curious people keep hitting the same wall with AI: they don&apos;t have the words to name what they don&apos;t understand. Here are the terms that turn vague frustration into specific, solvable problems.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3716518</id>
+    <title>I Used to Get Excited About New Tools Now I Feel Tired.</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18"/>
+    <updated>2026-05-21T10:19:01+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T10:19:01Z&lt;br/&gt;Tags: ai, mentalhealth, programming, career&lt;br/&gt;Description: A new AI model dropped last week.  Twitter exploded LinkedIn was a wall of hot takes My feed filled...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693063</id>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2"/>
     <updated>2026-04-14T11:59:19+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3416968</id>
-    <title>The Next DEV Weekend Challenge Launches on April 16 - 20. Mark Your Calendar!</title>
-    <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
-    <updated>2026-03-27T21:33:31+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410521</id>
-    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
-    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
-    <updated>2026-03-29T05:42:08+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
