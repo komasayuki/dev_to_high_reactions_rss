@@ -210,6 +210,13 @@
     <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3712137</id>
+    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
+    <updated>2026-05-21T07:06:41+00:00</updated>
+    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3510833</id>
     <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
     <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
@@ -222,13 +229,6 @@
     <link rel="alternate" href="https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"/>
     <updated>2026-04-30T21:25:40+00:00</updated>
     <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3712137</id>
-    <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
-    <updated>2026-05-21T07:06:41+00:00</updated>
-    <summary type="html">Reactions: public 122 / positive 122&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3610492</id>
@@ -651,18 +651,18 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T16:58:14Z&lt;br/&gt;Tags: webdev, programming, ai, mcp&lt;br/&gt;Description: I spent the last few weeks wiring up MCP at my org, stitching a handful of internal tools (GitHub,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3693795</id>
+    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
+    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
+    <updated>2026-05-21T20:59:59+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3638624</id>
     <title>I Found LeetCode for Software Design, and It’s Awesome</title>
     <link rel="alternate" href="https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d"/>
     <updated>2026-05-09T07:17:35+00:00</updated>
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T07:17:35Z&lt;br/&gt;Tags: softwaredevelopment, systemdesign, leetcode, programming&lt;br/&gt;Description: I found LeetCode for Software Design, and it’s Awesome</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693795</id>
-    <title>Rediscovering Domain-Driven Design, one MCP server at a time</title>
-    <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
-    <updated>2026-05-21T20:59:59+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3621423</id>
@@ -763,6 +763,13 @@
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne Gonçalves&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T15:37:54Z&lt;br/&gt;Tags: ai, testing, database, performance&lt;br/&gt;Description: It still feels a little strange to have AI writing practically all the code — but I decided to give...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3693415</id>
+    <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
+    <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
+    <updated>2026-05-20T05:27:44+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T05:27:44Z&lt;br/&gt;Tags: learning, leadership, career, softwareengineering&lt;br/&gt;Description: About three months ago, after clearing JLPT N3, which is considered a good level in Japanese and gets...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3619287</id>
     <title>I Programmed an AI in 6502 Assembly - It Worked</title>
     <link rel="alternate" href="https://medium.com/@paul.newell_20752/i-programmed-an-ai-in-6502-assembly-it-worked-23fcd7cf2a96"/>
@@ -782,13 +789,6 @@
     <link rel="alternate" href="https://dev.to/jrswab/how-to-stop-babysitting-your-ai-agents-4376"/>
     <updated>2026-03-19T18:05:05+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jrswab&quot;&gt;J. R. Swab&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T13:50:00Z&lt;br/&gt;Tags: llmagents, cli, devtools, go&lt;br/&gt;Description: Define focused LLM agents in plain text. Run them from anywhere. Chain them with pipes.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693415</id>
-    <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
-    <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
-    <updated>2026-05-20T05:27:44+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T05:27:44Z&lt;br/&gt;Tags: learning, leadership, career, softwareengineering&lt;br/&gt;Description: About three months ago, after clearing JLPT N3, which is considered a good level in Japanese and gets...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3660586</id>
