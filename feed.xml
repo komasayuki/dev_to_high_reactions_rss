@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-23T21:12:27+00:00</updated>
+  <updated>2026-05-24T08:59:34+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -70,18 +70,18 @@
     <summary type="html">Reactions: public 193 / positive 193&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T02:29:18Z&lt;br/&gt;Tags: webdev, ai, programming, productivity&lt;br/&gt;Description: TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3730207</id>
-    <title>From an Abandoned Hackathon Project to an AI Study Workspace 🚀</title>
-    <link rel="alternate" href="https://dev.to/hrishika_malviya_cec808f3/from-an-abandoned-hackathon-project-to-an-ai-study-workspace-c86"/>
-    <updated>2026-05-23T05:36:20+00:00</updated>
-    <summary type="html">Reactions: public 190 / positive 190&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hrishika_malviya_cec808f3&quot;&gt;Hrishika Malviya&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T05:36:20Z&lt;br/&gt;Tags: devchallenge, githubchallenge, ai, githubcopilot&lt;br/&gt;Description: There’s a strange feeling that comes with opening an old project folder again.  You look at the messy...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3695320</id>
     <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
     <updated>2026-05-21T17:33:15+00:00</updated>
-    <summary type="html">Reactions: public 189 / positive 189&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
+    <summary type="html">Reactions: public 191 / positive 191&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3730207</id>
+    <title>From a College Hackathon Idea to an Unfinished Developer Dream — Reviving AlgoPair 🚀</title>
+    <link rel="alternate" href="https://dev.to/hrishika_malviya_cec808f3/from-an-abandoned-hackathon-project-to-an-ai-study-workspace-c86"/>
+    <updated>2026-05-24T08:59:34+00:00</updated>
+    <summary type="html">Reactions: public 190 / positive 190&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hrishika_malviya_cec808f3&quot;&gt;Hrishika Malviya&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T05:36:20Z&lt;br/&gt;Tags: devchallenge, githubchallenge, ai, githubcopilot&lt;br/&gt;Description: GitHub Finish-Up-A-Thon Challenge Submission  There’s a very different kind of nostalgia in opening...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3381788</id>
@@ -595,6 +595,13 @@
     <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T17:49:58Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3693415</id>
+    <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
+    <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
+    <updated>2026-05-20T05:27:44+00:00</updated>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T05:27:44Z&lt;br/&gt;Tags: learning, leadership, career, softwareengineering&lt;br/&gt;Description: About three months ago, after clearing JLPT N3, which is considered a good level in Japanese and gets...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3617096</id>
     <title>I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper</title>
     <link rel="alternate" href="https://dev.to/tahosin/gemma-4-computer-vision"/>
@@ -635,13 +642,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml"/>
     <updated>2026-03-20T19:57:22+00:00</updated>
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T20:26:57Z&lt;br/&gt;Tags: ai, devchallenge, weekendchallenge, webdev&lt;br/&gt;Description: It&apos;s time!! We are thrilled to announce the winners of our first DEV Weekend Challenge.  The prompt...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693415</id>
-    <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
-    <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
-    <updated>2026-05-20T05:27:44+00:00</updated>
-    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T05:27:44Z&lt;br/&gt;Tags: learning, leadership, career, softwareengineering&lt;br/&gt;Description: About three months ago, after clearing JLPT N3, which is considered a good level in Japanese and gets...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3534028</id>
@@ -693,6 +693,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T16:58:14Z&lt;br/&gt;Tags: webdev, programming, ai, mcp&lt;br/&gt;Description: I spent the last few weeks wiring up MCP at my org, stitching a handful of internal tools (GitHub,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3709803</id>
+    <title>How we&apos;re using Gemini Embeddings to build a smarter, community-driven feed on DEV</title>
+    <link rel="alternate" href="https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"/>
+    <updated>2026-05-22T16:27:19+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T16:27:19Z&lt;br/&gt;Tags: gemini, ai, googlecloud, postgres&lt;br/&gt;Description: Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3638624</id>
     <title>I Found LeetCode for Software Design, and It’s Awesome</title>
     <link rel="alternate" href="https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d"/>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/umarpathan/openclaw-challenge-222g"/>
     <updated>2026-05-03T19:02:32+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/umarpathan&quot;&gt;Umar Pathan&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T15:39:57Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, ai&lt;br/&gt;Description: This is a submission for the OpenClaw Challenge           What I Built   A Designer Agent for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3709803</id>
-    <title>How we&apos;re using Gemini Embeddings to build a smarter, community-driven feed on DEV</title>
-    <link rel="alternate" href="https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"/>
-    <updated>2026-05-22T16:27:19+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T16:27:19Z&lt;br/&gt;Tags: gemini, ai, googlecloud, postgres&lt;br/&gt;Description: Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3670735</id>
@@ -966,6 +966,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hsbt&quot;&gt;SHIBATA Hiroshi&lt;/a&gt;&lt;br/&gt;Published: 2026-03-19T01:45:21Z&lt;br/&gt;Tags: ruby, security, supplychainsecurity, packaging&lt;br/&gt;Description: I&apos;m Hiroshi Shibata (hsbt), a Ruby committer and the maintainer of RubyGems and Bundler.          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3694750</id>
+    <title>API Calls Done Right: From Messy Fetch to Clean Data Layer</title>
+    <link rel="alternate" href="https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i"/>
+    <updated>2026-05-22T13:36:04+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gavincettolo&quot;&gt;Gavin Cettolo&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:30:00Z&lt;br/&gt;Tags: typescript, javascript, webdev, beginners&lt;br/&gt;Description: I&apos;ve seen this file in almost every frontend project I&apos;ve ever touched.  It&apos;s usually called api.js...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3665857</id>
     <title>How I Documented an Entire Product in 4 Days with an AI Agent</title>
     <link rel="alternate" href="https://theaiplatform.app/blog/documenting-product-with-ai-agent/"/>
@@ -999,13 +1006,6 @@
     <link rel="alternate" href="https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj"/>
     <updated>2026-05-05T19:40:26+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T18:38:06Z&lt;br/&gt;Tags: ai, beginners, aws, learning&lt;br/&gt;Description: I just came back from maternity leave. And honestly? I felt like I&apos;d missed a decade in six months. I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3694750</id>
-    <title>API Calls Done Right: From Messy Fetch to Clean Data Layer</title>
-    <link rel="alternate" href="https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i"/>
-    <updated>2026-05-22T13:36:04+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gavincettolo&quot;&gt;Gavin Cettolo&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:30:00Z&lt;br/&gt;Tags: typescript, javascript, webdev, beginners&lt;br/&gt;Description: I&apos;ve seen this file in almost every frontend project I&apos;ve ever touched.  It&apos;s usually called api.js...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3615091</id>
@@ -1232,6 +1232,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T13:03:27Z&lt;br/&gt;Tags: discuss, watercooler, jokes&lt;br/&gt;Description: Meme Monday!  Today&apos;s cover image comes from the last thread.  DEV is an inclusive space! Humor in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3722325</id>
+    <title>The Most Concerning AI Risk of 2026</title>
+    <link rel="alternate" href="https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d"/>
+    <updated>2026-05-22T06:59:12+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sachagreif&quot;&gt;Sacha Greif&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T06:49:44Z&lt;br/&gt;Tags: ai, javascript, news, webdev&lt;br/&gt;Description: 7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. </summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3597655</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
@@ -1342,13 +1349,6 @@
     <link rel="alternate" href="https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f"/>
     <updated>2026-04-02T21:53:20+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3722325</id>
-    <title>The Most Concerning AI Risk of 2026</title>
-    <link rel="alternate" href="https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d"/>
-    <updated>2026-05-22T06:59:12+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sachagreif&quot;&gt;Sacha Greif&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T06:49:44Z&lt;br/&gt;Tags: ai, javascript, news, webdev&lt;br/&gt;Description: 7000+ dev developers shared their thoughts about AI in the recent State of Web Dev AI survey. </summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3644097</id>
