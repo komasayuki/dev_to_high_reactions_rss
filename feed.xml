@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-24T10:27:33+00:00</updated>
+  <updated>2026-05-24T18:20:41+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -67,7 +67,7 @@
     <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
     <updated>2026-05-21T17:33:15+00:00</updated>
-    <summary type="html">Reactions: public 202 / positive 202&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
+    <summary type="html">Reactions: public 205 / positive 205&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3533667</id>
@@ -403,7 +403,7 @@
     <title>I Built a Production-Grade E-Commerce Platform in 3 Months — GitHub Copilot Was My Co-Founder</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/i-built-a-production-grade-e-commerce-platform-in-3-months-github-copilot-was-my-co-founder-11m4"/>
     <updated>2026-05-24T09:36:35+00:00</updated>
-    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T20:57:12Z&lt;br/&gt;Tags: devchallenge, githubchallenge, php, webdev&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Let me be...</summary>
+    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T20:57:12Z&lt;br/&gt;Tags: devchallenge, githubchallenge, php, webdev&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Let me be...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516155</id>
@@ -411,6 +411,13 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab"/>
     <updated>2026-04-17T16:49:02+00:00</updated>
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T16:30:22Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: The results are in!  We&apos;re thrilled to announce our winners for the Notion MCP Challenge! From...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3693415</id>
+    <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
+    <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
+    <updated>2026-05-20T05:27:44+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T05:27:44Z&lt;br/&gt;Tags: learning, leadership, career, softwareengineering&lt;br/&gt;Description: About three months ago, after clearing JLPT N3, which is considered a good level in Japanese and gets...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3656535</id>
@@ -439,13 +446,6 @@
     <link rel="alternate" href="https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2"/>
     <updated>2026-03-31T15:44:25+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T15:39:56Z&lt;br/&gt;Tags: ai, webdev, programming, architecture&lt;br/&gt;Description: I&apos;ve been building an AI agent that routes requests across multiple LLM providers, OpenAI, Anthropic...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3693415</id>
-    <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
-    <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
-    <updated>2026-05-20T05:27:44+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T05:27:44Z&lt;br/&gt;Tags: learning, leadership, career, softwareengineering&lt;br/&gt;Description: About three months ago, after clearing JLPT N3, which is considered a good level in Japanese and gets...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3496217</id>
@@ -875,6 +875,13 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maria_from_mlh&quot;&gt;Maria Dunning&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T15:06:56Z&lt;br/&gt;Tags: sideprojects, ai, vibecoding, gemini&lt;br/&gt;Description: I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3676308</id>
+    <title>Recycling made easy: a Polish recycling assistant powered by Gemma 4</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a"/>
+    <updated>2026-05-24T18:20:41+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T18:55:21Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, webdev&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4  I clearly remember this scene: my...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3696406</id>
     <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
     <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
@@ -1090,13 +1097,6 @@
     <link rel="alternate" href="https://dev.to/matheusmaldaner/anki-on-my-wrist-3gi6"/>
     <updated>2026-03-18T23:28:43+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matheusmaldaner&quot;&gt;Matheus Kunzler Maldaner&lt;/a&gt;&lt;br/&gt;Published: 2026-03-18T23:28:43Z&lt;br/&gt;Tags: learning, productivity, showdev, ai&lt;br/&gt;Description: I&apos;ve long been interested in &quot;learning how to learn&quot; and have long been annoyed by how I have grown...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3676308</id>
-    <title>Recycling made easy: a Polish recycling assistant powered by Gemma 4</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a"/>
-    <updated>2026-05-21T19:03:18+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T18:55:21Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, webdev&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4  I clearly remember this scene: my...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3622183</id>
