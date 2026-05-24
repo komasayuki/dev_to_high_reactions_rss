@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-23T05:36:20+00:00</updated>
+  <updated>2026-05-23T21:12:27+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -158,7 +158,14 @@
     <title>Every Developer Is Lying About Something — And AI Won’t Fix It</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/every-developer-is-lying-about-something-and-ai-wont-fix-it-4im0"/>
     <updated>2026-05-21T07:06:41+00:00</updated>
-    <summary type="html">Reactions: public 144 / positive 144&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
+    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T07:06:41Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: Yes, all of us are lying. And you are probably lying too. Let me prove it 😉  Oh, I have so many...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3702326</id>
+    <title>Swapping Go for Rust: 10x Cheaper K8s Ingress</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/swapping-go-for-rust-10x-cheaper-k8s-ingress-2b4p"/>
+    <updated>2026-05-19T16:59:42+00:00</updated>
+    <summary type="html">Reactions: public 142 / positive 142&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T16:59:42Z&lt;br/&gt;Tags: go, rust, docker, kubernetes&lt;br/&gt;Description: Let me tell you a story that starts in 2013, peaks somewhere around 2019, and ends with me staring at...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3665564</id>
@@ -252,6 +259,13 @@
     <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3709055</id>
+    <title>Antigravity &amp; WebMCP: Why Google I/O 2026 is Terrifying for Devs</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/antigravity-webmcp-why-google-io-2026-is-terrifying-for-devs-31mb"/>
+    <updated>2026-05-20T11:44:46+00:00</updated>
+    <summary type="html">Reactions: public 122 / positive 122&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T11:44:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge, codenewbie, ai&lt;br/&gt;Description: This is a submission for the Google I/O Writing Challenge      &quot;It&apos;s been 10 years since we pivoted...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3610492</id>
     <title>I Didn’t Stop Building. I Just Left My Laptop.</title>
     <link rel="alternate" href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"/>
@@ -264,13 +278,6 @@
     <link rel="alternate" href="https://dev.to/annavi11arrea1/the-ultimate-job-finding-managment-tool-522i"/>
     <updated>2026-03-25T22:23:12+00:00</updated>
     <summary type="html">Reactions: public 119 / positive 119&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T03:05:20Z&lt;br/&gt;Tags: webdev, webscraping, ai, programming&lt;br/&gt;Description: I need to go to bed but I want to share my excitement before I crash. I built a tool finally to help...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3702326</id>
-    <title>Swapping Go for Rust: 10x Cheaper K8s Ingress</title>
-    <link rel="alternate" href="https://dev.to/syedahmershah/swapping-go-for-rust-10x-cheaper-k8s-ingress-2b4p"/>
-    <updated>2026-05-19T16:59:42+00:00</updated>
-    <summary type="html">Reactions: public 117 / positive 117&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T16:59:42Z&lt;br/&gt;Tags: go, rust, docker, kubernetes&lt;br/&gt;Description: Let me tell you a story that starts in 2013, peaks somewhere around 2019, and ends with me staring at...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3545447</id>
@@ -383,13 +390,6 @@
     <link rel="alternate" href="https://dev.to/jess/a-year-of-change-and-persistence-19cf"/>
     <updated>2026-04-01T17:17:02+00:00</updated>
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3709055</id>
-    <title>Antigravity &amp; WebMCP: Why Google I/O 2026 is Terrifying for Devs</title>
-    <link rel="alternate" href="https://dev.to/syedahmershah/antigravity-webmcp-why-google-io-2026-is-terrifying-for-devs-31mb"/>
-    <updated>2026-05-20T11:44:46+00:00</updated>
-    <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T11:44:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge, codenewbie, ai&lt;br/&gt;Description: This is a submission for the Google I/O Writing Challenge      &quot;It&apos;s been 10 years since we pivoted...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3596751</id>
@@ -509,6 +509,13 @@
     <link rel="alternate" href="https://dev.to/he4rt/construi-um-gerador-de-playlists-no-spotify-com-claude-18ge"/>
     <updated>2026-03-26T18:48:18+00:00</updated>
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/leugarcez&quot;&gt;Leo Garcez&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T02:01:08Z&lt;br/&gt;Tags: ai, api, nextjs, braziliandevs&lt;br/&gt;Description: Eu queria digitar “noite chuvosa, meio melancólica” e receber uma playlist perfeita. Então eu...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3735627</id>
+    <title>I Built a Production-Grade E-Commerce Platform in 3 Months — GitHub Copilot Was My Co-Founder</title>
+    <link rel="alternate" href="https://dev.to/syedahmershah/i-built-a-production-grade-e-commerce-platform-in-3-months-github-copilot-was-my-co-founder-11m4"/>
+    <updated>2026-05-23T21:12:27+00:00</updated>
+    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T20:57:12Z&lt;br/&gt;Tags: devchallenge, githubchallenge, php, webdev&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I Built   Let me be...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3522448</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"/>
     <updated>2026-05-04T02:20:36+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/juandastic&quot;&gt;Juan David Gómez&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T02:20:36Z&lt;br/&gt;Tags: ai, mobile, showdev, sideprojects&lt;br/&gt;Description: I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3590872</id>
-    <title>vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)</title>
-    <link rel="alternate" href="https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k"/>
-    <updated>2026-04-30T09:43:24+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/1grace&quot;&gt;Grace Gong&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T09:38:40Z&lt;br/&gt;Tags: tpu, googlecloud, googledevs, tpusprint&lt;br/&gt;Description: Picking a Cloud TPU slice for vLLM inference involves three decisions that most tutorials skip...</summary>
   </entry>
 </feed>
