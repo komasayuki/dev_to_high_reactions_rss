@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-26T19:25:19+00:00</updated>
+  <updated>2026-05-27T07:11:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -21,6 +21,13 @@
     <summary type="html">Reactions: public 413 / positive 413&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T22:44:16Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: Local AI is having a moment, and we want you to be part of it!  Running through May 24, the Gemma 4...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3695320</id>
+    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
+    <updated>2026-05-21T17:33:15+00:00</updated>
+    <summary type="html">Reactions: public 340 / positive 340&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3432613</id>
     <title>Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa"/>
@@ -33,13 +40,6 @@
     <link rel="alternate" href="https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16"/>
     <updated>2026-05-16T08:34:50+00:00</updated>
     <summary type="html">Reactions: public 270 / positive 270&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-16T08:34:50Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, git&lt;br/&gt;Description: This is a submission for the Hermes Agent Challenge     Let me be honest with you before we start.  I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3695320</id>
-    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
-    <updated>2026-05-21T17:33:15+00:00</updated>
-    <summary type="html">Reactions: public 263 / positive 263&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3722359</id>
@@ -1050,6 +1050,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T14:53:30Z&lt;br/&gt;Tags: ai, devops, devrel, programming&lt;br/&gt;Description: I’ve been going hard learning AI and tech. Building, breaking stuff, rebuilding it, reading docs at...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3759724</id>
+    <title>How Are Developers Actually Using AI At Work?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"/>
+    <updated>2026-05-27T07:11:18+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3622183</id>
     <title>Stop Letting AI Write Your Database Migrations</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/stop-letting-ai-handle-database-migrations-965b1424c9f8?source=friends_link&amp;sk=4218d64c0158b610fdb2054f58684417"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
     <updated>2026-03-29T05:42:08+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3714846</id>
-    <title>Accessibility - This looks like a job for a developer advocate!</title>
-    <link rel="alternate" href="https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12"/>
-    <updated>2026-05-21T22:12:30+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/andyhaskell&quot;&gt;Andy Haskell&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T12:56:55Z&lt;br/&gt;Tags: a11y, devrel, codenewbie, career&lt;br/&gt;Description: At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....</summary>
   </entry>
 </feed>
