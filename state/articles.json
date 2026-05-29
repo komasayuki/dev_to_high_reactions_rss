@@ -108,28 +108,6 @@
       "last_seen": "2026-04-01T03:16:21.613950796+00:00"
     },
     {
-      "key": "3333073",
-      "id": 3333073,
-      "canonical_url": "https://dev.to/he4rt/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0",
-      "url": "https://dev.to/he4rt/engenharia-de-prompt-por-que-a-forma-como-voce-pergunta-muda-tudoum-guia-introdutorio-3hb0",
-      "title": "Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)",
-      "description": "Neste artigo irei explicar alguns pontos importantes sobre Engenharia de prompt, e como saber esses...",
-      "published_timestamp": "2026-03-23T16:20:34Z",
-      "published_at": "2026-03-23T16:20:34Z",
-      "edited_at": "2026-03-26T18:52:51Z",
-      "public_reactions_count": 128,
-      "positive_reactions_count": 128,
-      "tag_list": [
-        "ai",
-        "productivity",
-        "beginners",
-        "braziliandevs"
-      ],
-      "user_name": "Fran Borges",
-      "user_username": "fransborges",
-      "last_seen": "2026-03-30T15:38:36.726926038+00:00"
-    },
-    {
       "key": "3340779",
       "id": 3340779,
       "canonical_url": "https://medium.com/google-cloud/fine-tuning-gemma-3-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-67541d3e1f27",
@@ -414,28 +392,6 @@
       "user_name": "Shola Jegede",
       "user_username": "sholajegede",
       "last_seen": "2026-04-21T13:43:39.880786678+00:00"
-    },
-    {
-      "key": "3385945",
-      "id": 3385945,
-      "canonical_url": "https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333",
-      "url": "https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333",
-      "title": "Building a Weather Station Using an Old Raspberry Pi",
-      "description": "For a long time I wanted to build a weather station at home because I like meteorology and for the...",
-      "published_timestamp": "2026-03-23T17:20:41Z",
-      "published_at": "2026-03-23T17:20:41Z",
-      "edited_at": null,
-      "public_reactions_count": 49,
-      "positive_reactions_count": 49,
-      "tag_list": [
-        "raspberrypi",
-        "sideprojects",
-        "learning",
-        "community"
-      ],
-      "user_name": "Fernando Fornieles",
-      "user_username": "nandofm",
-      "last_seen": "2026-03-30T16:31:45.196776196+00:00"
     },
     {
       "key": "3391274",
@@ -6816,7 +6772,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3634492",
@@ -7516,7 +7472,7 @@
       ],
       "user_name": "Klaudia Grzondziel",
       "user_username": "klaudiagrz",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3679499",
@@ -7528,8 +7484,8 @@
       "published_timestamp": "2026-05-22T17:36:15Z",
       "published_at": "2026-05-22T17:36:15Z",
       "edited_at": "2026-05-23T00:15:17Z",
-      "public_reactions_count": 77,
-      "positive_reactions_count": 77,
+      "public_reactions_count": 78,
+      "positive_reactions_count": 78,
       "tag_list": [
         "devchallenge",
         "gemmachallenge",
@@ -7538,7 +7494,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3682129",
@@ -7775,7 +7731,7 @@
       ],
       "user_name": "deeptej (⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ",
       "user_username": "deeptej",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3693795",
@@ -8361,7 +8317,7 @@
       ],
       "user_name": "Ashley Childress",
       "user_username": "anchildress1",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3714846",
@@ -8449,7 +8405,7 @@
       ],
       "user_name": "Teja Kummarikuntla",
       "user_username": "tejakummarikuntla",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3718736",
@@ -8665,7 +8621,7 @@
       ],
       "user_name": "Hrishika Malviya",
       "user_username": "hrishika_malviya_cec808f3",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3735344",
@@ -8686,7 +8642,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3735627",
@@ -8708,7 +8664,7 @@
       ],
       "user_name": "Syed Ahmer Shah",
       "user_username": "syedahmershah",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3736433",
@@ -8730,7 +8686,7 @@
       ],
       "user_name": "vitoriazzp",
       "user_username": "vitoriazzp",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3738401",
@@ -8751,7 +8707,7 @@
       ],
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3742950",
@@ -8773,7 +8729,7 @@
       ],
       "user_name": "Asmae ",
       "user_username": "asamaes",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3749644",
@@ -8795,7 +8751,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3750708",
@@ -8807,8 +8763,8 @@
       "published_timestamp": "2026-05-25T15:08:33Z",
       "published_at": "2026-05-25T15:08:33Z",
       "edited_at": "2026-05-27T15:07:45Z",
-      "public_reactions_count": 58,
-      "positive_reactions_count": 58,
+      "public_reactions_count": 59,
+      "positive_reactions_count": 59,
       "tag_list": [
         "ai",
         "beginners",
@@ -8817,7 +8773,7 @@
       ],
       "user_name": "Rohini Gaonkar",
       "user_username": "rohini_gaonkar",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3751170",
@@ -8839,7 +8795,7 @@
       ],
       "user_name": "Gavin Cettolo",
       "user_username": "gavincettolo",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3753103",
@@ -8861,7 +8817,7 @@
       ],
       "user_name": "Mateus Pereira",
       "user_username": "matuges",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3754668",
@@ -8881,7 +8837,7 @@
       ],
       "user_name": "Marcus Ang",
       "user_username": "heyitsmarcucu",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3756670",
@@ -8893,8 +8849,8 @@
       "published_timestamp": "2026-05-26T20:52:22Z",
       "published_at": "2026-05-26T20:52:22Z",
       "edited_at": "2026-05-27T10:37:27Z",
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
       "tag_list": [
         "llm",
         "javascript",
@@ -8903,7 +8859,7 @@
       ],
       "user_name": "Jasmin Virdi",
       "user_username": "jasmin",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3758929",
@@ -8915,15 +8871,15 @@
       "published_timestamp": "2026-05-26T19:25:19Z",
       "published_at": "2026-05-26T19:25:19Z",
       "edited_at": null,
-      "public_reactions_count": 69,
-      "positive_reactions_count": 69,
+      "public_reactions_count": 70,
+      "positive_reactions_count": 70,
       "tag_list": [
         "top7",
         "discuss"
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3759724",
@@ -8935,15 +8891,15 @@
       "published_timestamp": "2026-05-27T07:11:18Z",
       "published_at": "2026-05-27T07:11:18Z",
       "edited_at": null,
-      "public_reactions_count": 112,
-      "positive_reactions_count": 112,
+      "public_reactions_count": 114,
+      "positive_reactions_count": 114,
       "tag_list": [
         "discuss",
         "ai"
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3761174",
@@ -8965,7 +8921,7 @@
       ],
       "user_name": "Divyesh",
       "user_username": "divyesh5981",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3771843",
@@ -8977,8 +8933,8 @@
       "published_timestamp": "2026-05-28T14:19:06Z",
       "published_at": "2026-05-28T14:19:06Z",
       "edited_at": null,
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
+      "public_reactions_count": 34,
+      "positive_reactions_count": 34,
       "tag_list": [
         "freelance",
         "career",
@@ -8987,7 +8943,7 @@
       ],
       "user_name": "Aryan Choudhary",
       "user_username": "itsugo",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     },
     {
       "key": "3771991",
@@ -9009,7 +8965,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-05-29T15:20:38.701909900+00:00"
+      "last_seen": "2026-05-29T17:22:09.136526918+00:00"
     }
   ]
 }
