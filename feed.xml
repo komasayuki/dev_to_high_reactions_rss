@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-27T15:07:45+00:00</updated>
+  <updated>2026-05-29T08:09:23+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -270,7 +270,7 @@
     <title>How Are Developers Actually Using AI At Work?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"/>
     <updated>2026-05-27T07:11:18+00:00</updated>
-    <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
+    <summary type="html">Reactions: public 115 / positive 115&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3545447</id>
@@ -721,6 +721,13 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T07:17:35Z&lt;br/&gt;Tags: softwaredevelopment, systemdesign, leetcode, programming&lt;br/&gt;Description: I found LeetCode for Software Design, and it’s Awesome</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3758929</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"/>
+    <updated>2026-05-26T19:25:19+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T19:25:19Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3621423</id>
     <title>From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything</title>
     <link rel="alternate" href="https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2"/>
@@ -733,13 +740,6 @@
     <link rel="alternate" href="https://dev.to/umarpathan/openclaw-challenge-222g"/>
     <updated>2026-05-03T19:02:32+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/umarpathan&quot;&gt;Umar Pathan&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T15:39:57Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, ai&lt;br/&gt;Description: This is a submission for the OpenClaw Challenge           What I Built   A Designer Agent for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3758929</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"/>
-    <updated>2026-05-26T19:25:19+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T19:25:19Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3670735</id>
@@ -1176,6 +1176,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/peter&quot;&gt;Peter Kim Frank&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T19:46:46Z&lt;br/&gt;Tags: tutorial, cloudflare, dvd, ripping&lt;br/&gt;Description: A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3775927</id>
+    <title>How to Automate Mobile App Testing Without Writing a Single Line of Code</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17"/>
+    <updated>2026-05-29T08:09:23+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T08:09:23Z&lt;br/&gt;Tags: ai, mobile, android, productivity&lt;br/&gt;Description: You don&apos;t need to be a developer to automate your mobile app testing. Not in 2026.  For years,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3710811</id>
     <title>MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does</title>
     <link rel="alternate" href="https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/andyhaskell/accessibility-this-looks-like-a-job-for-a-developer-advocate-2a12"/>
     <updated>2026-05-21T22:12:30+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/andyhaskell&quot;&gt;Andy Haskell&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T12:56:55Z&lt;br/&gt;Tags: a11y, devrel, codenewbie, career&lt;br/&gt;Description: At the beginning of last year, I started a new role as an accessibility-focused frontend engineer....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3712389</id>
-    <title>Building a Production Company Website on AWS — Project Overview</title>
-    <link rel="alternate" href="https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm"/>
-    <updated>2026-05-21T00:07:15+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/josh_blair&quot;&gt;Josh Blair&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T00:05:06Z&lt;br/&gt;Tags: aws, webdev, tutorial, cloud&lt;br/&gt;Description: What We Built   This series documents the end-to-end process of designing, building, and...</summary>
   </entry>
 </feed>
