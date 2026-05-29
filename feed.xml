@@ -354,7 +354,7 @@
     <title>How Are Developers Actually Using AI At Work?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"/>
     <updated>2026-05-27T07:11:18+00:00</updated>
-    <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
+    <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3729946</id>
@@ -966,6 +966,13 @@
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T18:38:06Z&lt;br/&gt;Tags: ai, beginners, aws, learning&lt;br/&gt;Description: I just came back from maternity leave. And honestly? I felt like I&apos;d missed a decade in six months. I...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3750708</id>
+    <title>Why does AI forget what you said (and how to fix it)</title>
+    <link rel="alternate" href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"/>
+    <updated>2026-05-27T15:07:45+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T15:08:33Z&lt;br/&gt;Tags: ai, beginners, aws, tutorial&lt;br/&gt;Description: I received following comment on my hallucinations blog post.                       Comment on Why...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3694750</id>
     <title>API Calls Done Right: From Messy Fetch to Clean Data Layer</title>
     <link rel="alternate" href="https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i"/>
@@ -992,13 +999,6 @@
     <link rel="alternate" href="https://builder.aws.com/content/3Cbk654mcGCtAREF1jRP7cAE885/build-your-own-blog-post-view-counter-on-aws-free-tier"/>
     <updated>2026-04-21T19:35:19+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3750708</id>
-    <title>Why does AI forget what you said (and how to fix it)</title>
-    <link rel="alternate" href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"/>
-    <updated>2026-05-27T15:07:45+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T15:08:33Z&lt;br/&gt;Tags: ai, beginners, aws, tutorial&lt;br/&gt;Description: I received following comment on my hallucinations blog post.                       Comment on Why...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3634492</id>
@@ -1337,6 +1337,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nandofm&quot;&gt;Fernando Fornieles&lt;/a&gt;&lt;br/&gt;Published: 2026-03-23T17:20:41Z&lt;br/&gt;Tags: raspberrypi, sideprojects, learning, community&lt;br/&gt;Description: For a long time I wanted to build a weather station at home because I like meteorology and for the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3756670</id>
+    <title>An LLM API call, in 4 GIFs</title>
+    <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
+    <updated>2026-05-27T10:37:27+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3704774</id>
     <title>Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Architecture</title>
     <link rel="alternate" href="https://dev.to/om_shree_0709/google-ai-edge-gallery-now-runs-mcp-on-device-the-privacy-architecture-5075"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/the-next-dev-weekend-challenge-launches-on-april-16-20-mark-your-calendar-5pd"/>
     <updated>2026-03-27T21:33:31+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T21:33:31Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, hackathon, programming&lt;br/&gt;Description: We&apos;re back with another installment of our newest format: the DEV Weekend Challenge!   If you missed...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3410521</id>
-    <title>Ghost Maintainer — An AI Junior Partner for Open Source</title>
-    <link rel="alternate" href="https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0"/>
-    <updated>2026-03-29T05:42:08+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
 </feed>
