@@ -679,13 +679,6 @@
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3392075</id>
-    <title>Check Up with Each Other</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/check-up-with-each-other-2ogc"/>
-    <updated>2026-03-24T19:11:48+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-24T19:07:08Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience     Over the last year, It...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3758929</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4"/>
     <updated>2026-04-30T13:10:52+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T07:58:05Z&lt;br/&gt;Tags: ai, programming, devops, discuss&lt;br/&gt;Description: I asked AI to review its own code last week.  The code had a bug. An edge case. A variable name that...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3587952</id>
+    <title>How I Used AI to Fix Our E2E Test Architecture</title>
+    <link rel="alternate" href="https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a"/>
+    <updated>2026-04-29T18:28:37+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/debs_obrien&quot;&gt;Debbie O&apos;Brien&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T18:28:37Z&lt;br/&gt;Tags: testing, e2e, playwright, ai&lt;br/&gt;Description: I joined a project with an existing Playwright E2E test suite, 38 spec files, ~165 tests, around...</summary>
   </entry>
 </feed>
