@@ -196,18 +196,18 @@
     <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T19:30:01Z&lt;br/&gt;Tags: ai, agents, productivity, tutorial&lt;br/&gt;Description: The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3759724</id>
+    <title>How Are Developers Actually Using AI At Work?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"/>
+    <updated>2026-05-27T07:11:18+00:00</updated>
+    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3588830</id>
     <title>Is Software Development Just a Side Quest? A Jira Story</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/is-software-development-just-a-side-quest-a-jira-story-4ng3"/>
     <updated>2026-04-30T06:01:20+00:00</updated>
     <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T06:01:20Z&lt;br/&gt;Tags: discuss, productivity&lt;br/&gt;Description: How much time did you spend this week moving tickets in Jira (or other tracking tool) instead of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3759724</id>
-    <title>How Are Developers Actually Using AI At Work?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"/>
-    <updated>2026-05-27T07:11:18+00:00</updated>
-    <summary type="html">Reactions: public 133 / positive 133&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3721399</id>
@@ -749,6 +749,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3756670</id>
+    <title>An LLM API call, in 4 GIFs</title>
+    <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
+    <updated>2026-05-30T10:22:38+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3626029</id>
     <title>Gemma 4: Why Local AI is Finally Becoming Personal</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5"/>
@@ -775,13 +782,6 @@
     <link rel="alternate" href="https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo"/>
     <updated>2026-04-28T11:23:13+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3756670</id>
-    <title>An LLM API call, in 4 GIFs</title>
-    <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
-    <updated>2026-05-30T10:22:38+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3512820</id>
