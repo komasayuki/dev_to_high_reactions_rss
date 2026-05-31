@@ -749,6 +749,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3750708</id>
+    <title>Why does AI forget what you said (and how to fix it)</title>
+    <link rel="alternate" href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"/>
+    <updated>2026-05-27T15:07:45+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T15:08:33Z&lt;br/&gt;Tags: ai, beginners, aws, tutorial&lt;br/&gt;Description: I received following comment on my hallucinations blog post.                       Comment on Why...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3626029</id>
     <title>Gemma 4: Why Local AI is Finally Becoming Personal</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5"/>
@@ -768,13 +775,6 @@
     <link rel="alternate" href="https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0"/>
     <updated>2026-04-16T10:59:58+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:59:58Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, career&lt;br/&gt;Description: I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3750708</id>
-    <title>Why does AI forget what you said (and how to fix it)</title>
-    <link rel="alternate" href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"/>
-    <updated>2026-05-27T15:07:45+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rohini_gaonkar&quot;&gt;Rohini Gaonkar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-25T15:08:33Z&lt;br/&gt;Tags: ai, beginners, aws, tutorial&lt;br/&gt;Description: I received following comment on my hallucinations blog post.                       Comment on Why...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3561978</id>
@@ -1050,6 +1050,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3771843</id>
+    <title>I Thought Coding Was The Job</title>
+    <link rel="alternate" href="https://dev.to/itsugo/i-thought-coding-was-the-job-4bo7"/>
+    <updated>2026-05-28T14:19:06+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T14:19:06Z&lt;br/&gt;Tags: freelance, career, learning, discuss&lt;br/&gt;Description: Two years ago, when I got my first freelance client, I was still in my final semester of college.  A...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3691061</id>
     <title>I gave Claude six months of our retros. It found three things I&apos;d missed.</title>
     <link rel="alternate" href="https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p"/>
@@ -1097,13 +1104,6 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3771843</id>
-    <title>I Thought Coding Was The Job</title>
-    <link rel="alternate" href="https://dev.to/itsugo/i-thought-coding-was-the-job-4bo7"/>
-    <updated>2026-05-28T14:19:06+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T14:19:06Z&lt;br/&gt;Tags: freelance, career, learning, discuss&lt;br/&gt;Description: Two years ago, when I got my first freelance client, I was still in my final semester of college.  A...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3661730</id>
