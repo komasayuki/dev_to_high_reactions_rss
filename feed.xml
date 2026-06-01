@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-30T10:22:38+00:00</updated>
+  <updated>2026-05-31T16:54:50+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -116,7 +116,7 @@
     <title>How Are Developers Actually Using AI At Work?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c"/>
     <updated>2026-05-27T07:11:18+00:00</updated>
-    <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
+    <summary type="html">Reactions: public 159 / positive 159&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T07:11:18Z&lt;br/&gt;Tags: discuss, ai&lt;br/&gt;Description: JSNation is coming soon, and besides my talk (I’ll drop the link in the comments so I don’t spam you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3702326</id>
@@ -462,6 +462,13 @@
     <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T19:07:08Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   Every Monday standup,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3756670</id>
+    <title>An LLM API call, in 4 GIFs</title>
+    <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
+    <updated>2026-05-30T10:22:38+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3651760</id>
     <title>Does AI Behave Like a Toxic Ex?</title>
     <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
@@ -474,13 +481,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee"/>
     <updated>2026-04-17T01:35:15+00:00</updated>
     <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T21:34:36Z&lt;br/&gt;Tags: devchallenge, wecoded, frontend, career&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3756670</id>
-    <title>An LLM API call, in 4 GIFs</title>
-    <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
-    <updated>2026-05-30T10:22:38+00:00</updated>
-    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3758929</id>
@@ -1008,6 +1008,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:17:56Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3771991</id>
+    <title>I Spent 10x Longer Debugging AI Code Than Writing It</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"/>
+    <updated>2026-05-28T14:53:02+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T14:53:02Z&lt;br/&gt;Tags: ai, programming, productivity, discuss&lt;br/&gt;Description: AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3622183</id>
     <title>Stop Letting AI Write Your Database Migrations</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/stop-letting-ai-handle-database-migrations-965b1424c9f8?source=friends_link&amp;sk=4218d64c0158b610fdb2054f58684417"/>
@@ -1034,13 +1041,6 @@
     <link rel="alternate" href="https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj"/>
     <updated>2026-04-05T10:58:16+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3771991</id>
-    <title>I Spent 10x Longer Debugging AI Code Than Writing It</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"/>
-    <updated>2026-05-28T14:53:02+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T14:53:02Z&lt;br/&gt;Tags: ai, programming, productivity, discuss&lt;br/&gt;Description: AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3691061</id>
@@ -1160,6 +1160,13 @@
     <link rel="alternate" href="https://dev.to/yatharth4005/built-an-ai-engine-that-turns-your-github-resume-into-a-full-notion-portfolio-powered-by-mcp-l46"/>
     <updated>2026-03-30T18:04:15+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yatharth4005&quot;&gt;Yatharth K&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T18:00:03Z&lt;br/&gt;Tags: mcp, notionchallenge, ai, devchallenge&lt;br/&gt;Description: Try it live:                                  lamefolio-ai.vercel.app                         ...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3597672</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-i1"/>
+    <updated>2026-05-29T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693063</id>
@@ -1337,11 +1344,11 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sbis04&quot;&gt;Souvik Biswas&lt;/a&gt;&lt;br/&gt;Published: 2026-03-27T04:13:12Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge           What I Built   I maintain a couple of...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3597672</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-i1"/>
-    <updated>2026-05-29T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+    <id>tag:dev.to,2026:3790143</id>
+    <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
+    <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
+    <updated>2026-05-31T16:54:50+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3714846</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
     <updated>2026-04-15T14:42:59+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3486222</id>
-    <title>VarCouch — I Built an AI Therapist for Your Code Variables (They Need It)</title>
-    <link rel="alternate" href="https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec"/>
-    <updated>2026-04-11T10:50:55+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
 </feed>
