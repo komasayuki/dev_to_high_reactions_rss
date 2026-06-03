@@ -1008,6 +1008,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jarvisscript&quot;&gt;Chris Jarvis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T14:28:37Z&lt;br/&gt;Tags: career, discuss, productivity, watercooler&lt;br/&gt;Description: Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3790143</id>
+    <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
+    <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
+    <updated>2026-05-31T16:54:50+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3622183</id>
     <title>Stop Letting AI Write Your Database Migrations</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/stop-letting-ai-handle-database-migrations-965b1424c9f8?source=friends_link&amp;sk=4218d64c0158b610fdb2054f58684417"/>
@@ -1034,13 +1041,6 @@
     <link rel="alternate" href="https://dev.to/baltz/what-is-harness-design-and-why-does-it-matter-2dbj"/>
     <updated>2026-04-05T10:58:16+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/baltz&quot;&gt;baltz&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T08:52:02Z&lt;br/&gt;Tags: ai, programming, productivity, beginners&lt;br/&gt;Description: AI coding starts to feel a lot more useful when you stop expecting one agent to do everything.  The...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3790143</id>
-    <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
-    <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
-    <updated>2026-05-31T16:54:50+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3691061</id>
