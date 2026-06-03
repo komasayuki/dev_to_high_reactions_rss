@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-05-31T16:54:50+00:00</updated>
+  <updated>2026-06-01T12:21:52+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1379,6 +1379,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3778888</id>
+    <title>Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3"/>
+    <updated>2026-06-01T12:21:52+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:19:10Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  I&apos;ve missed a lot of opportunities simply because I didn&apos;t know they existed.  So every...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3678057</id>
     <title>Gemma 4 challenge inspired me to build my first app!</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://www.arunkant.com/posts/building-saas-in-2026/"/>
     <updated>2026-04-29T15:02:48+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arunkant&quot;&gt;arunkant&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T12:42:21Z&lt;br/&gt;Tags: saas, ai, agents, workflows&lt;br/&gt;Description: In-house AI agents are seductive but fragile. Here&apos;s the case for using agents to explore and concrete workflows to ship</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3561237</id>
-    <title>Vision Language Models in Mobile App Testing</title>
-    <link rel="alternate" href="https://dev.to/drizzdev/vision-language-models-in-mobile-app-testing-4a6f"/>
-    <updated>2026-04-28T09:33:24+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T09:22:38Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: For two decades, mobile test automation has been built on a flawed assumption: that an app is a...</summary>
   </entry>
 </feed>
