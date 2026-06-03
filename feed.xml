@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-01T12:21:52+00:00</updated>
+  <updated>2026-06-02T18:32:50+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -945,6 +945,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3597672</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-i1"/>
+    <updated>2026-05-29T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3775927</id>
     <title>How to Automate Mobile App Testing Without Writing a Single Line of Code</title>
     <link rel="alternate" href="https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17"/>
@@ -971,13 +978,6 @@
     <link rel="alternate" href="https://medium.com/@syedahmershah/building-commerza-security-first-ecommerce-engine-fdb103b8eada"/>
     <updated>2026-04-19T19:17:02+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T19:15:17Z&lt;br/&gt;Tags: coding, vibecoding, ai, programming&lt;br/&gt;Description: I am 19 years old. I set out to build a production-grade e-commerce system from scratch. No Laravel....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3597672</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-i1"/>
-    <updated>2026-05-29T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3547210</id>
@@ -1148,13 +1148,6 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:20:05Z&lt;br/&gt;Tags: devchallenge, showdev, 418challenge, ai&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3421778</id>
-    <title>Built an AI Engine That Turns Your GitHub + Resume Into a Full Notion Portfolio — Powered by MCP</title>
-    <link rel="alternate" href="https://dev.to/yatharth4005/built-an-ai-engine-that-turns-your-github-resume-into-a-full-notion-portfolio-powered-by-mcp-l46"/>
-    <updated>2026-03-30T18:04:15+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yatharth4005&quot;&gt;Yatharth K&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T18:00:03Z&lt;br/&gt;Tags: mcp, notionchallenge, ai, devchallenge&lt;br/&gt;Description: Try it live:                                  lamefolio-ai.vercel.app                         ...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3693063</id>
     <title>The Concept of Automatic Fallbacks And How Bifrost Implements It</title>
     <link rel="alternate" href="https://dev.to/anthonymax/the-concept-of-automatic-fallbacks-and-how-bifrost-implements-it-592p"/>
@@ -1216,6 +1209,13 @@
     <link rel="alternate" href="https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f"/>
     <updated>2026-04-02T21:53:20+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3805129</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"/>
+    <updated>2026-06-02T18:32:50+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T18:32:50Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3644097</id>
