@@ -553,13 +553,6 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T18:10:26Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3422569</id>
-    <title>Meet Zhu Li: The AI Agent That Manages Your Notion Workspace From Any Channel</title>
-    <link rel="alternate" href="https://dev.to/miracleio/i-can-now-chat-with-my-notion-on-imessage-2e46"/>
-    <updated>2026-03-30T22:21:22+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/miracleio&quot;&gt;Miracleio&lt;/a&gt;&lt;br/&gt;Published: 2026-03-28T23:06:15Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: This is a submission for the Notion MCP Challenge          Here&apos;s how a typical interaction...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3467717</id>
     <title>Forem (Dev.to) is slow, so I del...optimized it.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln"/>
@@ -936,6 +929,13 @@
     <link rel="alternate" href="https://builder.aws.com/content/3Cbk654mcGCtAREF1jRP7cAE885/build-your-own-blog-post-view-counter-on-aws-free-tier"/>
     <updated>2026-04-21T19:35:19+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3812839</id>
+    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
+    <updated>2026-06-03T20:22:10+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3790143</id>
@@ -1379,11 +1379,11 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3812839</id>
-    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
-    <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+    <id>tag:dev.to,2026:3780124</id>
+    <title>I Made My AI Models Argue, Then Let Hermes Be the Judge</title>
+    <link rel="alternate" href="https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"/>
+    <updated>2026-05-30T16:58:47+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arqamwd&quot;&gt;Arqam Waheed&lt;/a&gt;&lt;br/&gt;Published: 2026-05-30T16:00:54Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, ai&lt;br/&gt;Description: A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3678057</id>
