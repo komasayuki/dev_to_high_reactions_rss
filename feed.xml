@@ -714,6 +714,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812839</id>
+    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
+    <updated>2026-06-03T20:22:10+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3750708</id>
     <title>Why does AI forget what you said (and how to fix it)</title>
     <link rel="alternate" href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"/>
@@ -929,13 +936,6 @@
     <link rel="alternate" href="https://builder.aws.com/content/3Cbk654mcGCtAREF1jRP7cAE885/build-your-own-blog-post-view-counter-on-aws-free-tier"/>
     <updated>2026-04-21T19:35:19+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812839</id>
-    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
-    <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3790143</id>
@@ -1309,6 +1309,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3780124</id>
+    <title>I Made My AI Models Argue, Then Let Hermes Be the Judge</title>
+    <link rel="alternate" href="https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"/>
+    <updated>2026-05-30T16:58:47+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arqamwd&quot;&gt;Arqam Waheed&lt;/a&gt;&lt;br/&gt;Published: 2026-05-30T16:00:54Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, ai&lt;br/&gt;Description: A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3778888</id>
     <title>Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3"/>
@@ -1379,11 +1386,11 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3780124</id>
-    <title>I Made My AI Models Argue, Then Let Hermes Be the Judge</title>
-    <link rel="alternate" href="https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"/>
-    <updated>2026-05-30T16:58:47+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arqamwd&quot;&gt;Arqam Waheed&lt;/a&gt;&lt;br/&gt;Published: 2026-05-30T16:00:54Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, ai&lt;br/&gt;Description: A $0 multi-model decision agent: three LLMs debate, Hermes judges, and it learns who to trust.</summary>
+    <id>tag:dev.to,2026:3641400</id>
+    <title>From vibe coding to clear thinking: what non-technical builders need in the age of AI</title>
+    <link rel="alternate" href="https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd"/>
+    <updated>2026-06-01T12:43:53+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T12:43:53Z&lt;br/&gt;Tags: ai, vibecoding, softwareengineering, productivity&lt;br/&gt;Description: Over the past few months, I’ve increasingly noticed something through my network:  more people from...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3678057</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://airjam.io/blog/every-phone-a-game-controller"/>
     <updated>2026-05-19T07:46:06+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vucinatim&quot;&gt;Tim Vučina&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:42:27Z&lt;br/&gt;Tags: opensource, react, ai, gamedev&lt;br/&gt;Description: Building an open-source framework for the age of vibe-coded party games, and what nine developers built with it in seven hours.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3586685</id>
-    <title>Why I&apos;m Building SaaS in 2026</title>
-    <link rel="alternate" href="https://www.arunkant.com/posts/building-saas-in-2026/"/>
-    <updated>2026-04-29T15:02:48+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arunkant&quot;&gt;arunkant&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T12:42:21Z&lt;br/&gt;Tags: saas, ai, agents, workflows&lt;br/&gt;Description: In-house AI agents are seductive but fragile. Here&apos;s the case for using agents to explore and concrete workflows to ship</summary>
   </entry>
 </feed>
