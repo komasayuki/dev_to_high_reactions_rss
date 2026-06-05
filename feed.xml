@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-03T20:22:10+00:00</updated>
+  <updated>2026-06-05T00:46:03+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -221,7 +221,7 @@
     <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
     <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3599107</id>
@@ -616,6 +616,13 @@
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T19:25:39Z&lt;br/&gt;Tags: discuss, watercooler, challenge, community&lt;br/&gt;Description: Cover Video is from Sonic X   I am curious, What is your WPM?  The highest WPM for the 5 minute and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3773344</id>
+    <title>🗓️ Monthly Dev Report: May 2026</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj"/>
+    <updated>2026-05-29T14:17:56+00:00</updated>
+    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:17:56Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3534028</id>
     <title>The 4 classic bugs every multi-service Node.js app hits (and how to stop reinventing the wheel)</title>
     <link rel="alternate" href="https://dev.to/sirelves/the-4-classic-bugs-every-multi-service-nodejs-app-hits-and-how-to-stop-reinventing-the-wheel-4og7"/>
@@ -628,13 +635,6 @@
     <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
     <updated>2026-03-31T16:56:37+00:00</updated>
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3773344</id>
-    <title>🗓️ Monthly Dev Report: May 2026</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj"/>
-    <updated>2026-05-29T14:17:56+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:17:56Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3676308</id>
@@ -714,18 +714,18 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T07:28:58Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: There are more mobile testing frameworks available in 2026 than ever before and picking the wrong one...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3806074</id>
+    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
+    <updated>2026-06-03T07:11:55+00:00</updated>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3517007</id>
     <title>How We Built Our Own DNS Server</title>
     <link rel="alternate" href="https://sliplane.io/blog/how-we-built-our-own-dns-server"/>
     <updated>2026-04-17T20:30:49+00:00</updated>
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3806074</id>
-    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
-    <updated>2026-06-03T07:11:55+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3750708</id>
@@ -859,6 +859,13 @@
     <link rel="alternate" href="https://dev.to/alexr/em-operating-system-your-brain-is-a-terrible-database-1bce"/>
     <updated>2026-04-19T19:04:43+00:00</updated>
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexr&quot;&gt;Alex (The Engineering Bolt) ⚡&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T14:06:47Z&lt;br/&gt;Tags: ai, programming, productivity, tutorial&lt;br/&gt;Description: Monday, 8:47 a.m.   Seven Slack DMs you haven&apos;t opened. Three 1:1s stacked before lunch. A...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3805129</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"/>
+    <updated>2026-06-02T18:32:50+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T18:32:50Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3591625</id>
@@ -1013,13 +1020,6 @@
     <link rel="alternate" href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-55nm"/>
     <updated>2026-03-30T14:29:34+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jarvisscript&quot;&gt;Chris Jarvis&lt;/a&gt;&lt;br/&gt;Published: 2026-03-30T14:28:37Z&lt;br/&gt;Tags: career, discuss, productivity, watercooler&lt;br/&gt;Description: Had an increase in responses last week. Thanks to @francistrdev for the shout out in their posts. I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3805129</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"/>
-    <updated>2026-06-02T18:32:50+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T18:32:50Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3622183</id>
@@ -1400,10 +1400,10 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3678057</id>
-    <title>Gemma 4 challenge inspired me to build my first app!</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g"/>
-    <updated>2026-05-24T18:11:38+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T18:11:38Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, beginners&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4  It started with a real need....</summary>
+    <id>tag:dev.to,2026:3792290</id>
+    <title>My Company Bought a $660K AI Platform. I Was Replaced. On Friday at 2:58 AM, It Fixed Everything. Then It Rolled Back the Wrong Patch.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/my-company-bought-a-660k-ai-platform-i-was-replaced-on-friday-at-258-am-it-fixed-everything-3kc4"/>
+    <updated>2026-06-05T00:46:03+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T03:47:40Z&lt;br/&gt;Tags: ai, programming, discuss, career&lt;br/&gt;Description: Based on real system architecture decisions. About a $660K AI platform, three AI agents that kept the...</summary>
   </entry>
 </feed>
