@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-05T00:46:03+00:00</updated>
+  <updated>2026-06-05T03:05:20+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -221,7 +221,7 @@
     <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
     <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+    <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3599107</id>
@@ -686,6 +686,13 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T07:17:35Z&lt;br/&gt;Tags: softwaredevelopment, systemdesign, leetcode, programming&lt;br/&gt;Description: I found LeetCode for Software Design, and it’s Awesome</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3806074</id>
+    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
+    <updated>2026-06-03T07:11:55+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3621423</id>
     <title>From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything</title>
     <link rel="alternate" href="https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2"/>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/drizzdev/mobile-test-automation-frameworks-in-2026-how-to-choose-58ec"/>
     <updated>2026-04-24T07:28:58+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T07:28:58Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: There are more mobile testing frameworks available in 2026 than ever before and picking the wrong one...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3806074</id>
-    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
-    <updated>2026-06-03T07:11:55+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3517007</id>
@@ -1403,7 +1403,7 @@
     <id>tag:dev.to,2026:3792290</id>
     <title>My Company Bought a $660K AI Platform. I Was Replaced. On Friday at 2:58 AM, It Fixed Everything. Then It Rolled Back the Wrong Patch.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/my-company-bought-a-660k-ai-platform-i-was-replaced-on-friday-at-258-am-it-fixed-everything-3kc4"/>
-    <updated>2026-06-05T00:46:03+00:00</updated>
+    <updated>2026-06-05T03:05:20+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T03:47:40Z&lt;br/&gt;Tags: ai, programming, discuss, career&lt;br/&gt;Description: Based on real system architecture decisions. About a $660K AI platform, three AI agents that kept the...</summary>
   </entry>
 </feed>
