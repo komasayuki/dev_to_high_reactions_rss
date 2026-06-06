@@ -420,13 +420,6 @@
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne 🇧🇷 &lt;/a&gt;&lt;br/&gt;Published: 2026-04-05T12:02:52Z&lt;br/&gt;Tags: braziliandevs, testing, qa, software&lt;br/&gt;Description: A gente sabe que testar e validar um software antes de ir para produção é importante. Mas você já...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3436468</id>
-    <title>💰I Built a Token Billing System for My AI Agent - Here&apos;s How It Works</title>
-    <link rel="alternate" href="https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2"/>
-    <updated>2026-03-31T15:44:25+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T15:39:56Z&lt;br/&gt;Tags: ai, webdev, programming, architecture&lt;br/&gt;Description: I&apos;ve been building an AI agent that routes requests across multiple LLM providers, OpenAI, Anthropic...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3597666</id>
     <title>What was your win this week!?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-2ohc"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://www.arunkant.com/posts/building-saas-in-2026/"/>
     <updated>2026-04-29T15:02:48+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arunkant&quot;&gt;arunkant&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T12:42:21Z&lt;br/&gt;Tags: saas, ai, agents, workflows&lt;br/&gt;Description: In-house AI agents are seductive but fragile. Here&apos;s the case for using agents to explore and concrete workflows to ship</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3561237</id>
+    <title>Vision Language Models in Mobile App Testing</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/vision-language-models-in-mobile-app-testing-4a6f"/>
+    <updated>2026-04-28T09:33:24+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T09:22:38Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: For two decades, mobile test automation has been built on a flawed assumption: that an app is a...</summary>
   </entry>
 </feed>
