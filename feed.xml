@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-06T00:52:06+00:00</updated>
+  <updated>2026-06-06T06:42:49+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -273,13 +273,6 @@
     <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T07:49:30Z&lt;br/&gt;Tags: webdev, productivity, humor, developerlife&lt;br/&gt;Description: My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3351830</id>
-    <title>How a Payment Problem Unexpectedly Changed My Career Path in Tech</title>
-    <link rel="alternate" href="https://dev.to/hadil/how-a-payment-problem-unexpectedly-changed-my-career-path-in-tech-1oon"/>
-    <updated>2026-03-31T11:35:24+00:00</updated>
-    <summary type="html">Reactions: public 109 / positive 109&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T06:35:40Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience  Sometimes the biggest...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3771843</id>
     <title>I Thought Coding Was The Job</title>
     <link rel="alternate" href="https://dev.to/itsugo/i-thought-coding-was-the-job-4bo7"/>
@@ -399,18 +392,18 @@
     <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3806074</id>
+    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
+    <updated>2026-06-03T07:11:55+00:00</updated>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3656535</id>
     <title>AI Didn&apos;t Make Software Engineering Easier. It Made the Hard Parts Harder.</title>
     <link rel="alternate" href="https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4"/>
     <updated>2026-05-14T14:00:15+00:00</updated>
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iampraveen&quot;&gt;Praveen Rajamani&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T13:57:11Z&lt;br/&gt;Tags: discuss, ai, webdev, career&lt;br/&gt;Description: When I started using AI tools seriously across my side projects, I expected the work to get easier....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3806074</id>
-    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
-    <updated>2026-06-03T07:11:55+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442004</id>
@@ -1249,7 +1242,7 @@
     <id>tag:dev.to,2026:3792290</id>
     <title>My Company Bought a $660K AI Platform. I Was Replaced. On Friday at 2:58 AM, It Fixed Everything. Then It Rolled Back the Wrong Patch.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/my-company-bought-a-660k-ai-platform-i-was-replaced-on-friday-at-258-am-it-fixed-everything-3kc4"/>
-    <updated>2026-06-06T00:52:06+00:00</updated>
+    <updated>2026-06-06T06:42:49+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T03:47:40Z&lt;br/&gt;Tags: ai, programming, discuss, career&lt;br/&gt;Description: Based on real system architecture decisions. About a $660K AI platform, three AI agents that kept the...</summary>
   </entry>
   <entry>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://airjam.io/blog/every-phone-a-game-controller"/>
     <updated>2026-05-19T07:46:06+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vucinatim&quot;&gt;Tim Vučina&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:42:27Z&lt;br/&gt;Tags: opensource, react, ai, gamedev&lt;br/&gt;Description: Building an open-source framework for the age of vibe-coded party games, and what nine developers built with it in seven hours.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3586685</id>
+    <title>Why I&apos;m Building SaaS in 2026</title>
+    <link rel="alternate" href="https://www.arunkant.com/posts/building-saas-in-2026/"/>
+    <updated>2026-04-29T15:02:48+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arunkant&quot;&gt;arunkant&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T12:42:21Z&lt;br/&gt;Tags: saas, ai, agents, workflows&lt;br/&gt;Description: In-house AI agents are seductive but fragile. Here&apos;s the case for using agents to explore and concrete workflows to ship</summary>
   </entry>
 </feed>
