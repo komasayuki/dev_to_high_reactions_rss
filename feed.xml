@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-06T06:42:49+00:00</updated>
+  <updated>2026-06-06T07:29:08+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -133,18 +133,18 @@
     <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T11:44:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge, codenewbie, ai&lt;br/&gt;Description: This is a submission for the Google I/O Writing Challenge      &quot;It&apos;s been 10 years since we pivoted...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812839</id>
+    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
+    <updated>2026-06-03T20:22:10+00:00</updated>
+    <summary type="html">Reactions: public 154 / positive 154&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3553477</id>
     <title>15 Essential Sections Every README Needs: Give Your Project What It Deserves</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/15-essential-sections-every-readme-needs-give-your-project-what-it-deserves-fie"/>
     <updated>2026-04-26T14:31:29+00:00</updated>
     <summary type="html">Reactions: public 153 / positive 153&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T14:31:29Z&lt;br/&gt;Tags: documentation, opensource, tutorial, development&lt;br/&gt;Description: Table of Contents    Overview README Files Are Never Perfect The Primary Purpose of README...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812839</id>
-    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
-    <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 152 / positive 152&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3666204</id>
@@ -385,18 +385,18 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T16:30:22Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: The results are in!  We&apos;re thrilled to announce our winners for the Notion MCP Challenge! From...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3806074</id>
+    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
+    <updated>2026-06-03T07:11:55+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3790143</id>
     <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
     <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
     <updated>2026-05-31T16:54:50+00:00</updated>
     <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3806074</id>
-    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
-    <updated>2026-06-03T07:11:55+00:00</updated>
-    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3656535</id>
@@ -987,6 +987,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812919</id>
+    <title>Am I Becoming Too Slow for the AI World?</title>
+    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
+    <updated>2026-06-03T17:30:38+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3622183</id>
     <title>Stop Letting AI Write Your Database Migrations</title>
     <link rel="alternate" href="https://medium.com/@syedahmershah/stop-letting-ai-handle-database-migrations-965b1424c9f8?source=friends_link&amp;sk=4218d64c0158b610fdb2054f58684417"/>
@@ -1041,13 +1048,6 @@
     <link rel="alternate" href="https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln"/>
     <updated>2026-04-15T15:30:36+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812919</id>
-    <title>Am I Becoming Too Slow for the AI World?</title>
-    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
-    <updated>2026-06-03T17:30:38+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3711910</id>
@@ -1204,6 +1204,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-02T21:24:26Z&lt;br/&gt;Tags: devchallenge, wecoded, dei, career&lt;br/&gt;Description: This is a submission for the 2026 WeCoded Challenge: Echoes of Experience           Table of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3821119</id>
+    <title>How I Bridged AWS Face Liveness to Expo with a Native Module</title>
+    <link rel="alternate" href="https://dev.to/olawalethefirst/how-i-bridged-aws-face-liveness-to-expo-with-a-native-module-2o49"/>
+    <updated>2026-06-05T07:14:42+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/olawalethefirst&quot;&gt;Olawale Bashiru&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T16:29:16Z&lt;br/&gt;Tags: aws, mobile, reactnative, security&lt;br/&gt;Description: AWS Face Liveness has native SDKs for iOS and Android.  That works well if you are building fully...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3644097</id>
     <title>How Python&apos;s GIL actually works (and when it bites you)</title>
     <link rel="alternate" href="https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2"/>
@@ -1242,7 +1249,7 @@
     <id>tag:dev.to,2026:3792290</id>
     <title>My Company Bought a $660K AI Platform. I Was Replaced. On Friday at 2:58 AM, It Fixed Everything. Then It Rolled Back the Wrong Patch.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/my-company-bought-a-660k-ai-platform-i-was-replaced-on-friday-at-258-am-it-fixed-everything-3kc4"/>
-    <updated>2026-06-06T06:42:49+00:00</updated>
+    <updated>2026-06-06T07:29:08+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T03:47:40Z&lt;br/&gt;Tags: ai, programming, discuss, career&lt;br/&gt;Description: Based on real system architecture decisions. About a $660K AI platform, three AI agents that kept the...</summary>
   </entry>
   <entry>
@@ -1300,13 +1307,6 @@
     <link rel="alternate" href="https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2"/>
     <updated>2026-04-14T11:59:19+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3821119</id>
-    <title>How I Bridged AWS Face Liveness to Expo with a Native Module</title>
-    <link rel="alternate" href="https://dev.to/olawalethefirst/how-i-bridged-aws-face-liveness-to-expo-with-a-native-module-2o49"/>
-    <updated>2026-06-05T07:14:42+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/olawalethefirst&quot;&gt;Olawale Bashiru&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T16:29:16Z&lt;br/&gt;Tags: aws, mobile, reactnative, security&lt;br/&gt;Description: AWS Face Liveness has native SDKs for iOS and Android.  That works well if you are building fully...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3810139</id>
