@@ -343,13 +343,6 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T14:47:35Z&lt;br/&gt;Tags: ai, productivity, learning, softwareengineering&lt;br/&gt;Description: Lately, I’ve been reflecting on something:  The question for most developers is no longer &quot;Are you...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3437639</id>
-    <title>A Year of Change and Persistence</title>
-    <link rel="alternate" href="https://dev.to/jess/a-year-of-change-and-persistence-19cf"/>
-    <updated>2026-04-01T17:17:02+00:00</updated>
-    <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T19:01:32Z&lt;br/&gt;Tags: devchallenge, wecoded, career, dei&lt;br/&gt;Description: This marks the ninth year of our WeCoded celebration. While each year has had its highs and lows,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3806074</id>
     <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
@@ -1309,6 +1302,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T10:29:25Z&lt;br/&gt;Tags: programming, learning, productivity, discuss&lt;br/&gt;Description: The fix was one line.    if not items: return []        Enter fullscreen mode            Exit...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3800157</id>
+    <title>I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.</title>
+    <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
+    <updated>2026-06-02T05:16:18+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T05:16:18Z&lt;br/&gt;Tags: discuss, ai, programming, productivity&lt;br/&gt;Description: Everyone keeps saying AI will replace developers. Meanwhile I was sitting at 3:17 AM staring at a bug...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3778888</id>
     <title>Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3"/>
@@ -1379,13 +1379,6 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3800157</id>
-    <title>I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.</title>
-    <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
-    <updated>2026-06-02T05:16:18+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T05:16:18Z&lt;br/&gt;Tags: discuss, ai, programming, productivity&lt;br/&gt;Description: Everyone keeps saying AI will replace developers. Meanwhile I was sitting at 3:17 AM staring at a bug...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3678057</id>
     <title>Gemma 4 challenge inspired me to build my first app!</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://www.arunkant.com/posts/building-saas-in-2026/"/>
     <updated>2026-04-29T15:02:48+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arunkant&quot;&gt;arunkant&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T12:42:21Z&lt;br/&gt;Tags: saas, ai, agents, workflows&lt;br/&gt;Description: In-house AI agents are seductive but fragile. Here&apos;s the case for using agents to explore and concrete workflows to ship</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3561237</id>
+    <title>Vision Language Models in Mobile App Testing</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/vision-language-models-in-mobile-app-testing-4a6f"/>
+    <updated>2026-04-28T09:33:24+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T09:22:38Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: For two decades, mobile test automation has been built on a flawed assumption: that an app is a...</summary>
   </entry>
 </feed>
