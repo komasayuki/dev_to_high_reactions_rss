@@ -609,13 +609,6 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sirelves&quot;&gt;Elves Santos&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T02:26:00Z&lt;br/&gt;Tags: braziliandevs, node, typescript, backend&lt;br/&gt;Description: Every time I read a post-mortem from a different team, at least one of these four bugs is in...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3435564</id>
-    <title>Claude Code&apos;s Entire Source Code Was Just Leaked via npm Source Maps — Here&apos;s What&apos;s Inside</title>
-    <link rel="alternate" href="https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo"/>
-    <updated>2026-03-31T16:56:37+00:00</updated>
-    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gabrielanhaia&quot;&gt;Gabriel Anhaia&lt;/a&gt;&lt;br/&gt;Published: 2026-03-31T10:25:38Z&lt;br/&gt;Tags: claudecode, security, typescript, ai&lt;br/&gt;Description: A security researcher found Anthropic&apos;s full CLI source code exposed through a source map file. 1,900 files. 512,000+ lines. Everything.</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3676308</id>
     <title>Recycling made easy: a Polish recycling assistant powered by Gemma 4</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://www.arunkant.com/posts/building-saas-in-2026/"/>
     <updated>2026-04-29T15:02:48+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arunkant&quot;&gt;arunkant&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T12:42:21Z&lt;br/&gt;Tags: saas, ai, agents, workflows&lt;br/&gt;Description: In-house AI agents are seductive but fragile. Here&apos;s the case for using agents to explore and concrete workflows to ship</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3561237</id>
+    <title>Vision Language Models in Mobile App Testing</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/vision-language-models-in-mobile-app-testing-4a6f"/>
+    <updated>2026-04-28T09:33:24+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T09:22:38Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: For two decades, mobile test automation has been built on a flawed assumption: that an app is a...</summary>
   </entry>
 </feed>
