@@ -308,13 +308,6 @@
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T15:55:53Z&lt;br/&gt;Tags: github, opensource, development, repository&lt;br/&gt;Description: Table of Contents    Introduction What Does It Mean to &quot;Seal&quot; a Project?  The Release...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3439132</id>
-    <title>Trading My Body for Logic: The Physical Decay We Ignore</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i"/>
-    <updated>2026-04-01T05:45:19+00:00</updated>
-    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-01T05:45:19Z&lt;br/&gt;Tags: discuss, mentalhealth, career, webdev&lt;br/&gt;Description: It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3729946</id>
     <title>I Built a Smart Kitchen AI with Gemma 4 That Turns Fridge Photos Into Recipes</title>
     <link rel="alternate" href="https://dev.to/zenrishi/i-built-a-smart-kitchen-ai-with-gemma-4-that-turns-fridge-photos-into-recipes-2bm6"/>
@@ -364,6 +357,13 @@
     <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matthewrevell&quot;&gt;Matthew Revell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T15:14:12Z&lt;br/&gt;Tags: web3, solana, programming, blockchain&lt;br/&gt;Description: Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3790143</id>
+    <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
+    <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
+    <updated>2026-05-31T16:54:50+00:00</updated>
+    <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3693415</id>
     <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
     <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
@@ -376,13 +376,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab"/>
     <updated>2026-04-17T16:49:02+00:00</updated>
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T16:30:22Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: The results are in!  We&apos;re thrilled to announce our winners for the Notion MCP Challenge! From...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3790143</id>
-    <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
-    <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
-    <updated>2026-05-31T16:54:50+00:00</updated>
-    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3656535</id>
@@ -672,6 +665,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3820180</id>
+    <title>I Replaced 200 Threads With 10,000. Java Finished 13.5x Faster.</title>
+    <link rel="alternate" href="https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g"/>
+    <updated>2026-06-05T12:36:40+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T14:51:01Z&lt;br/&gt;Tags: java, beginners, programming, discuss&lt;br/&gt;Description: A visual, beginner-friendly Java 25 experiment that explains virtual threads, blocking work, carrier threads, and the production rules that matter.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3750708</id>
     <title>Why does AI forget what you said (and how to fix it)</title>
     <link rel="alternate" href="https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6"/>
@@ -784,13 +784,6 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maria_from_mlh&quot;&gt;Maria Dunning&lt;/a&gt;&lt;br/&gt;Published: 2026-04-09T15:06:56Z&lt;br/&gt;Tags: sideprojects, ai, vibecoding, gemini&lt;br/&gt;Description: I recently heard the comparison that AI is the smartphone of our generation.   Smartphones made...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3820180</id>
-    <title>I Replaced 200 Threads With 10,000. Java Finished 13.5x Faster.</title>
-    <link rel="alternate" href="https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g"/>
-    <updated>2026-06-05T12:36:40+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T14:51:01Z&lt;br/&gt;Tags: java, beginners, programming, discuss&lt;br/&gt;Description: A visual, beginner-friendly Java 25 experiment that explains virtual threads, blocking work, carrier threads, and the production rules that matter.</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3696406</id>
     <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
     <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
@@ -812,6 +805,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexr&quot;&gt;Alex (The Engineering Bolt) ⚡&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T14:06:47Z&lt;br/&gt;Tags: ai, programming, productivity, tutorial&lt;br/&gt;Description: Monday, 8:47 a.m.   Seven Slack DMs you haven&apos;t opened. Three 1:1s stacked before lunch. A...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812919</id>
+    <title>Am I Becoming Too Slow for the AI World?</title>
+    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
+    <updated>2026-06-03T17:30:38+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3805129</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"/>
@@ -824,13 +824,6 @@
     <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
     <updated>2026-05-06T05:56:15+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812919</id>
-    <title>Am I Becoming Too Slow for the AI World?</title>
-    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
-    <updated>2026-06-03T17:30:38+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3543505</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/drizzdev/vision-language-models-in-mobile-app-testing-4a6f"/>
     <updated>2026-04-28T09:33:24+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T09:22:38Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: For two decades, mobile test automation has been built on a flawed assumption: that an app is a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3542457</id>
+    <title>EasyPollVote [Dev Log #3]</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/easypollvote-dev-log-3-5hn4"/>
+    <updated>2026-04-24T15:32:22+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T15:30:43Z&lt;br/&gt;Tags: discuss, easypvdevlog, nextjs, typescript&lt;br/&gt;Description: Welcome to the Third DEV LOG!   Welcome to the third Dev Log of my full stack application...</summary>
   </entry>
 </feed>
