@@ -366,28 +366,6 @@
       "last_seen": "2026-05-01T12:35:20.097498709+00:00"
     },
     {
-      "key": "3444193",
-      "id": 3444193,
-      "canonical_url": "https://dev.to/klement_gunndu/what-512k-lines-of-leaked-claude-code-taught-me-about-ai-tool-design-8dc",
-      "url": "https://dev.to/klement_gunndu/what-512k-lines-of-leaked-claude-code-taught-me-about-ai-tool-design-8dc",
-      "title": "What 512K Lines of Leaked Claude Code Taught Me About AI Tool Design",
-      "description": "Anthropic's Claude Code source leaked via npm source maps. I read the tool architecture. Here are 5 design decisions every AI tool builder should study.",
-      "published_timestamp": "2026-04-02T08:46:54Z",
-      "published_at": "2026-04-02T08:46:54Z",
-      "edited_at": null,
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
-      "tag_list": [
-        "ai",
-        "python",
-        "architecture",
-        "programming"
-      ],
-      "user_name": "klement Gunndu",
-      "user_username": "klement_gunndu",
-      "last_seen": "2026-04-09T08:44:03.435541876+00:00"
-    },
-    {
       "key": "3445608",
       "id": 3445608,
       "canonical_url": "https://dev.to/syedahmershah/the-login-portal-that-actively-hates-you-2p94",
@@ -5177,7 +5155,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3642919",
@@ -6551,6 +6529,28 @@
       "last_seen": "2026-05-27T19:01:39.866393079+00:00"
     },
     {
+      "key": "3711597",
+      "id": 3711597,
+      "canonical_url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "url": "https://dev.to/googlecloud/surviving-the-eviction-how-to-build-interrupt-resilient-ai-workloads-on-gke-5581",
+      "title": "Surviving the eviction: How to build interrupt-resilient AI workloads on GKE",
+      "description": "Learn strategies for building interrupt-resilient AI workloads on Google Kubernetes Engine (GKE).",
+      "published_timestamp": "2026-06-02T20:02:20Z",
+      "published_at": "2026-06-02T20:02:20Z",
+      "edited_at": null,
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "user_name": "Olivier Bourgeois",
+      "user_username": "olivi-eh",
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
+    },
+    {
       "key": "3711738",
       "id": 3711738,
       "canonical_url": "https://roszkowski.dev/2026/swiftgen-jnigen/",
@@ -6896,7 +6896,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3729946",
@@ -7623,8 +7623,8 @@
       "published_timestamp": "2026-06-01T17:22:48Z",
       "published_at": "2026-06-01T17:22:48Z",
       "edited_at": "2026-06-03T15:42:17Z",
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
       "tag_list": [
         "ai",
         "programming",
@@ -7633,7 +7633,7 @@
       ],
       "user_name": "Maxim Saplin",
       "user_username": "maximsaplin",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3790143",
@@ -7721,7 +7721,7 @@
       ],
       "user_name": "TROJAN ",
       "user_username": "trojanmocx",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3801446",
@@ -7742,7 +7742,7 @@
       ],
       "user_name": "Ishant gupta",
       "user_username": "ishantgupta",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3801466",
@@ -7764,7 +7764,7 @@
       ],
       "user_name": "Rohan Sharma",
       "user_username": "rohan_sharma",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3803420",
@@ -7785,7 +7785,7 @@
       ],
       "user_name": "Ingo Steinke, web developer",
       "user_username": "ingosteinke",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3803423",
@@ -7797,8 +7797,8 @@
       "published_timestamp": "2026-06-02T13:09:00Z",
       "published_at": "2026-06-02T13:09:00Z",
       "edited_at": null,
-      "public_reactions_count": 31,
-      "positive_reactions_count": 31,
+      "public_reactions_count": 32,
+      "positive_reactions_count": 32,
       "tag_list": [
         "ai",
         "llm",
@@ -7807,7 +7807,7 @@
       ],
       "user_name": "Sergei Parfenov",
       "user_username": "p0rt",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3804289",
@@ -7829,7 +7829,7 @@
       ],
       "user_name": "Sergei Parfenov",
       "user_username": "p0rt",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3805129",
@@ -7841,15 +7841,15 @@
       "published_timestamp": "2026-06-02T18:32:50Z",
       "published_at": "2026-06-02T18:32:50Z",
       "edited_at": null,
-      "public_reactions_count": 61,
-      "positive_reactions_count": 61,
+      "public_reactions_count": 63,
+      "positive_reactions_count": 63,
       "tag_list": [
         "top7",
         "discuss"
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3805393",
@@ -7871,7 +7871,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3805489",
@@ -7892,7 +7892,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3806074",
@@ -7914,7 +7914,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3810139",
@@ -7936,7 +7936,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3811610",
@@ -7958,7 +7958,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3812098",
@@ -7970,8 +7970,8 @@
       "published_timestamp": "2026-06-04T02:32:36Z",
       "published_at": "2026-06-04T02:32:36Z",
       "edited_at": null,
-      "public_reactions_count": 42,
-      "positive_reactions_count": 42,
+      "public_reactions_count": 43,
+      "positive_reactions_count": 43,
       "tag_list": [
         "webdev",
         "opensource",
@@ -7980,7 +7980,7 @@
       ],
       "user_name": "Varshith V Hegde",
       "user_username": "varshithvhegde",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3812839",
@@ -7992,8 +7992,8 @@
       "published_timestamp": "2026-06-03T20:22:10Z",
       "published_at": "2026-06-03T20:22:10Z",
       "edited_at": null,
-      "public_reactions_count": 172,
-      "positive_reactions_count": 172,
+      "public_reactions_count": 173,
+      "positive_reactions_count": 173,
       "tag_list": [
         "devchallenge",
         "gamechallenge",
@@ -8001,7 +8001,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3812919",
@@ -8013,8 +8013,8 @@
       "published_timestamp": "2026-06-03T17:30:38Z",
       "published_at": "2026-06-03T17:30:38Z",
       "edited_at": null,
-      "public_reactions_count": 73,
-      "positive_reactions_count": 73,
+      "public_reactions_count": 77,
+      "positive_reactions_count": 77,
       "tag_list": [
         "ai",
         "programming",
@@ -8023,7 +8023,7 @@
       ],
       "user_name": "marcosomma",
       "user_username": "marcosomma",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3813677",
@@ -8067,7 +8067,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3816772",
@@ -8079,8 +8079,8 @@
       "published_timestamp": "2026-06-04T06:43:17Z",
       "published_at": "2026-06-04T06:43:17Z",
       "edited_at": null,
-      "public_reactions_count": 49,
-      "positive_reactions_count": 49,
+      "public_reactions_count": 50,
+      "positive_reactions_count": 50,
       "tag_list": [
         "learning",
         "career",
@@ -8089,7 +8089,7 @@
       ],
       "user_name": "Aryan Choudhary",
       "user_username": "itsugo",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3820180",
@@ -8111,7 +8111,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "tahosin",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3821119",
@@ -8133,7 +8133,7 @@
       ],
       "user_name": "Olawale Bashiru",
       "user_username": "olawalethefirst",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3828927",
@@ -8145,8 +8145,8 @@
       "published_timestamp": "2026-06-05T14:58:21Z",
       "published_at": "2026-06-05T14:58:21Z",
       "edited_at": null,
-      "public_reactions_count": 57,
-      "positive_reactions_count": 57,
+      "public_reactions_count": 59,
+      "positive_reactions_count": 59,
       "tag_list": [
         "discuss",
         "community",
@@ -8155,7 +8155,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     },
     {
       "key": "3836857",
@@ -8177,7 +8177,7 @@
       ],
       "user_name": "Fernando Andrade",
       "user_username": "fernandoandrade",
-      "last_seen": "2026-06-08T08:05:11.533884744+00:00"
+      "last_seen": "2026-06-08T09:50:51.828771780+00:00"
     }
   ]
 }
