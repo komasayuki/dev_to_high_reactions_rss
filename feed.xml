@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-08T13:25:36+00:00</updated>
+  <updated>2026-06-08T18:50:24+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -74,7 +74,7 @@
     <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
     <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 177 / positive 177&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+    <summary type="html">Reactions: public 178 / positive 178&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3500889</id>
@@ -1022,6 +1022,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3834057</id>
+    <title>You’re a Real TypeScript Developer Only If...</title>
+    <link rel="alternate" href="https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"/>
+    <updated>2026-06-08T18:50:24+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T09:09:29Z&lt;br/&gt;Tags: webdev, typescript, bash, programming&lt;br/&gt;Description: A few months ago, I published You&apos;re a Real JavaScript Developer Only If...  It was just a post for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3641400</id>
     <title>From vibe coding to clear thinking: what non-technical builders need in the age of AI</title>
     <link rel="alternate" href="https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd"/>
@@ -1041,6 +1048,13 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3836822</id>
+    <title>From Prototype to Production: Finishing Moonsu Link, a Chat-Native Agricultural Marketplace for Cameroon</title>
+    <link rel="alternate" href="https://dev.to/chestly_ace/from-prototype-to-production-finishing-moonsu-link-a-chat-native-agricultural-marketplace-for-16bo"/>
+    <updated>2026-06-08T11:14:06+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3661730</id>
@@ -1111,20 +1125,6 @@
     <link rel="alternate" href="https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506"/>
     <updated>2026-04-11T13:20:05+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:20:05Z&lt;br/&gt;Tags: devchallenge, showdev, 418challenge, ai&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3834057</id>
-    <title>You’re a Real TypeScript Developer Only If...</title>
-    <link rel="alternate" href="https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"/>
-    <updated>2026-06-08T13:25:36+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T09:09:29Z&lt;br/&gt;Tags: webdev, typescript, bash, devdiscuss&lt;br/&gt;Description: A few months ago, I published You&apos;re a Real JavaScript Developer Only If...  It was just a post for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3836822</id>
-    <title>From Prototype to Production: Finishing Moonsu Link, a Chat-Native Agricultural Marketplace for Cameroon</title>
-    <link rel="alternate" href="https://dev.to/chestly_ace/from-prototype-to-production-finishing-moonsu-link-a-chat-native-agricultural-marketplace-for-16bo"/>
-    <updated>2026-06-08T11:14:06+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3821119</id>
