@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-08T12:13:08+00:00</updated>
+  <updated>2026-06-08T13:25:36+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -74,7 +74,7 @@
     <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
     <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 176 / positive 176&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+    <summary type="html">Reactions: public 177 / positive 177&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3500889</id>
@@ -399,6 +399,13 @@
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812919</id>
+    <title>Am I Becoming Too Slow for the AI World?</title>
+    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
+    <updated>2026-06-03T17:30:38+00:00</updated>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3442047</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-28fb"/>
@@ -411,13 +418,6 @@
     <link rel="alternate" href="https://dev.to/he4rt/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74"/>
     <updated>2026-04-04T18:42:34+00:00</updated>
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T13:00:00Z&lt;br/&gt;Tags: ai, design, ux, braziliandevs&lt;br/&gt;Description: Sou UX/UI designer, mas antes disso fui front-end.  Atuei cerca de 5 anos trabalhando com HTML e CSS,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812919</id>
-    <title>Am I Becoming Too Slow for the AI World?</title>
-    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
-    <updated>2026-06-03T17:30:38+00:00</updated>
-    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3756670</id>
@@ -644,18 +644,18 @@
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T16:05:01Z&lt;br/&gt;Tags: php, node, nextjs, angular&lt;br/&gt;Description: You know the feeling. Three browser tabs open. Reddit thread from 2019. A YouTube video titled &quot;PHP...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3820180</id>
+    <title>I Replaced 200 Threads With 10,000. Java Finished 13.5x Faster.</title>
+    <link rel="alternate" href="https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g"/>
+    <updated>2026-06-05T12:36:40+00:00</updated>
+    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T14:51:01Z&lt;br/&gt;Tags: java, beginners, programming, discuss&lt;br/&gt;Description: A visual, beginner-friendly Java 25 experiment that explains virtual threads, blocking work, carrier threads, and the production rules that matter.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3532336</id>
     <title>Mobile Test Automation Frameworks in 2026: How to Choose</title>
     <link rel="alternate" href="https://dev.to/drizzdev/mobile-test-automation-frameworks-in-2026-how-to-choose-58ec"/>
     <updated>2026-04-24T07:28:58+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T07:28:58Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: There are more mobile testing frameworks available in 2026 than ever before and picking the wrong one...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3820180</id>
-    <title>I Replaced 200 Threads With 10,000. Java Finished 13.5x Faster.</title>
-    <link rel="alternate" href="https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g"/>
-    <updated>2026-06-05T12:36:40+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T14:51:01Z&lt;br/&gt;Tags: java, beginners, programming, discuss&lt;br/&gt;Description: A visual, beginner-friendly Java 25 experiment that explains virtual threads, blocking work, carrier threads, and the production rules that matter.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3517007</id>
@@ -700,6 +700,13 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3828927</id>
+    <title>Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4"/>
+    <updated>2026-06-08T12:13:08+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T14:58:21Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3771991</id>
     <title>I Spent 10x Longer Debugging AI Code Than Writing It</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"/>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"/>
     <updated>2026-04-21T03:36:52+00:00</updated>
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T03:36:52Z&lt;br/&gt;Tags: ai, webdev, javascript, discuss&lt;br/&gt;Description: Intro   I created an AI avatar, a VRM 3D character that reacts when you chat with AI or...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3828927</id>
-    <title>Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4"/>
-    <updated>2026-06-08T12:13:08+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T14:58:21Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3533864</id>
@@ -1225,6 +1225,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/admantium&quot;&gt;Sebastian&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T04:49:02Z&lt;br/&gt;Tags: raspberrypi, raspberryzero&lt;br/&gt;Description: Single Board Computers with the ability to run a full-fledged Linux distribution can be used as...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3836822</id>
+    <title>From Prototype to Production: Finishing Moonsu Link, a Chat-Native Agricultural Marketplace for Cameroon</title>
+    <link rel="alternate" href="https://dev.to/chestly_ace/from-prototype-to-production-finishing-moonsu-link-a-chat-native-agricultural-marketplace-for-16bo"/>
+    <updated>2026-06-08T11:14:06+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3805489</id>
     <title>Want to work with me? We&apos;re hiring a Community Program Manager at DEV!</title>
     <link rel="alternate" href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"/>
@@ -1365,6 +1372,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3834057</id>
+    <title>You’re a Real TypeScript Developer Only If...</title>
+    <link rel="alternate" href="https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"/>
+    <updated>2026-06-08T13:25:36+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T09:09:29Z&lt;br/&gt;Tags: webdev, typescript, bash, devdiscuss&lt;br/&gt;Description: A few months ago, I published You&apos;re a Real JavaScript Developer Only If...  It was just a post for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3678057</id>
     <title>Gemma 4 challenge inspired me to build my first app!</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g"/>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/drizzdev/vision-language-models-in-mobile-app-testing-4a6f"/>
     <updated>2026-04-28T09:33:24+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T09:22:38Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: For two decades, mobile test automation has been built on a flawed assumption: that an app is a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3542457</id>
-    <title>EasyPollVote [Dev Log #3]</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/easypollvote-dev-log-3-5hn4"/>
-    <updated>2026-04-24T15:32:22+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T15:30:43Z&lt;br/&gt;Tags: discuss, easypvdevlog, nextjs, typescript&lt;br/&gt;Description: Welcome to the Third DEV LOG!   Welcome to the third Dev Log of my full stack application...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3528968</id>
-    <title>Vibe Coding, Fundamentals, and the New Job Market Reality</title>
-    <link rel="alternate" href="https://dev.to/elshadhu/vibe-coding-fundamentals-and-the-new-job-market-reality-53f1"/>
-    <updated>2026-04-21T00:04:52+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/elshadhu&quot;&gt;ElshadHu&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T00:02:19Z&lt;br/&gt;Tags: ai, career, vibecoding, webdev&lt;br/&gt;Description: Reality of Today in the Job Market   I have gone through a lot over the last month....</summary>
   </entry>
 </feed>
