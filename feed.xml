@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-08T11:39:03+00:00</updated>
+  <updated>2026-06-08T12:13:08+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -70,18 +70,18 @@
     <summary type="html">Reactions: public 197 / positive 197&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T08:04:46Z&lt;br/&gt;Tags: ai, webdev, discuss, programming&lt;br/&gt;Description: Imagine it’s 2011. The web is mostly server-rendered PHP templates, maybe a bit of jQuery if you’re...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812839</id>
+    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
+    <updated>2026-06-03T20:22:10+00:00</updated>
+    <summary type="html">Reactions: public 176 / positive 176&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3500889</id>
     <title>Tune In and Join the Google Cloud NEXT &apos;26 Writing Challenge: $1,000 in Prizes!</title>
     <link rel="alternate" href="https://dev.to/devteam/tune-in-and-join-the-google-cloud-next-26-writing-challenge-1000-in-prizes-21bd"/>
     <updated>2026-04-22T14:09:18+00:00</updated>
     <summary type="html">Reactions: public 176 / positive 176&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T14:09:18Z&lt;br/&gt;Tags: devchallenge, googlecloud, cloudnextchallenge&lt;br/&gt;Description: Google Cloud NEXT &apos;26 is kicking off today (April 22) and runs through April 24 – we&apos;re launching...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812839</id>
-    <title>Join the June Solstice Game Jam: $1,000 in prizes!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla"/>
-    <updated>2026-06-03T20:22:10+00:00</updated>
-    <summary type="html">Reactions: public 175 / positive 175&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T20:22:10Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We&apos;re excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3605102</id>
@@ -203,18 +203,18 @@
     <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3806074</id>
+    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
+    <updated>2026-06-03T07:11:55+00:00</updated>
+    <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3510833</id>
     <title>AI Doesn&apos;t Fix Weak Engineering. It Just Speeds It Up.</title>
     <link rel="alternate" href="https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering"/>
     <updated>2026-04-16T13:50:47+00:00</updated>
     <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jonoherrington&quot;&gt;Jono Herrington&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T13:50:47Z&lt;br/&gt;Tags: ai, leadership, discuss&lt;br/&gt;Description: &quot;Weak engineers with AI still produce weak output. Just faster.&quot; That was the whole point. AI changes...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3806074</id>
-    <title>Is This How We&apos;ll Build Websites Soon? (webMCP Live Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33"/>
-    <updated>2026-06-03T07:11:55+00:00</updated>
-    <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3593416</id>
@@ -413,6 +413,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-04-03T13:00:00Z&lt;br/&gt;Tags: ai, design, ux, braziliandevs&lt;br/&gt;Description: Sou UX/UI designer, mas antes disso fui front-end.  Atuei cerca de 5 anos trabalhando com HTML e CSS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812919</id>
+    <title>Am I Becoming Too Slow for the AI World?</title>
+    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
+    <updated>2026-06-03T17:30:38+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3756670</id>
     <title>An LLM API call, in 4 GIFs</title>
     <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
@@ -481,13 +488,6 @@
     <link rel="alternate" href="https://dev.to/hubedav/im-a-bit-lost-2dko"/>
     <updated>2026-04-10T15:45:11+00:00</updated>
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hubedav&quot;&gt;David&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T15:42:25Z&lt;br/&gt;Tags: jobs, career, jobmarket, discuss&lt;br/&gt;Description: The job market sucks enough without being disabled.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812919</id>
-    <title>Am I Becoming Too Slow for the AI World?</title>
-    <link rel="alternate" href="https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904"/>
-    <updated>2026-06-03T17:30:38+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3679499</id>
@@ -714,6 +714,13 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T03:36:52Z&lt;br/&gt;Tags: ai, webdev, javascript, discuss&lt;br/&gt;Description: Intro   I created an AI avatar, a VRM 3D character that reacts when you chat with AI or...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3828927</id>
+    <title>Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4"/>
+    <updated>2026-06-08T12:13:08+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T14:58:21Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3533864</id>
     <title>Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?</title>
     <link rel="alternate" href="https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f"/>
@@ -824,13 +831,6 @@
     <link rel="alternate" href="https://dev.to/hadil/openclaw-explained-how-to-set-up-your-own-247-personal-ai-assistant-beginner-tutorial-35gc"/>
     <updated>2026-04-21T13:03:25+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T13:03:25Z&lt;br/&gt;Tags: devchallenge, openclawchallenge&lt;br/&gt;Description: This is a submission for the OpenClaw Writing Challenge  There’s a quiet shift happening in AI right...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3828927</id>
-    <title>Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4"/>
-    <updated>2026-06-08T11:39:03+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-05T14:58:21Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3665857</id>
@@ -950,6 +950,13 @@
     <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
     <updated>2026-04-13T09:40:43+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3816772</id>
+    <title>I Didn&apos;t Mean To Learn Marketing</title>
+    <link rel="alternate" href="https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j"/>
+    <updated>2026-06-04T06:43:17+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T06:43:17Z&lt;br/&gt;Tags: learning, career, discuss, marketing&lt;br/&gt;Description: A while back, when I was still job hunting, building mini-projects, and trying to figure out what I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3622183</id>
@@ -1111,13 +1118,6 @@
     <link rel="alternate" href="https://dev.to/olawalethefirst/how-i-bridged-aws-face-liveness-to-expo-with-a-native-module-2o49"/>
     <updated>2026-06-05T07:14:42+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/olawalethefirst&quot;&gt;Olawale Bashiru&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T16:29:16Z&lt;br/&gt;Tags: aws, mobile, reactnative, security&lt;br/&gt;Description: AWS Face Liveness has native SDKs for iOS and Android.  That works well if you are building fully...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3816772</id>
-    <title>I Didn&apos;t Mean To Learn Marketing</title>
-    <link rel="alternate" href="https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j"/>
-    <updated>2026-06-04T06:43:17+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T06:43:17Z&lt;br/&gt;Tags: learning, career, discuss, marketing&lt;br/&gt;Description: A while back, when I was still job hunting, building mini-projects, and trying to figure out what I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693063</id>
