@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-08T18:50:24+00:00</updated>
+  <updated>2026-06-09T14:39:12+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -350,18 +350,18 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3815208</id>
+    <title>Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!</title>
+    <link rel="alternate" href="https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge"/>
+    <updated>2026-06-06T01:41:40+00:00</updated>
+    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T01:41:40Z&lt;br/&gt;Tags: devchallenge, githubchallenge, discuss, showdev&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3693415</id>
     <title>Working With Japanese Clients Humbled Me Faster Than I Expected</title>
     <link rel="alternate" href="https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da"/>
     <updated>2026-05-20T05:27:44+00:00</updated>
     <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T05:27:44Z&lt;br/&gt;Tags: learning, leadership, career, softwareengineering&lt;br/&gt;Description: About three months ago, after clearing JLPT N3, which is considered a good level in Japanese and gets...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3815208</id>
-    <title>Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!</title>
-    <link rel="alternate" href="https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge"/>
-    <updated>2026-06-06T01:41:40+00:00</updated>
-    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T01:41:40Z&lt;br/&gt;Tags: devchallenge, githubchallenge, discuss, showdev&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3516155</id>
@@ -980,6 +980,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3805489</id>
+    <title>Want to work with me? We&apos;re hiring a Community Program Manager at DEV!</title>
+    <link rel="alternate" href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"/>
+    <updated>2026-06-03T18:56:57+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T18:56:57Z&lt;br/&gt;Tags: career, meta, hiring&lt;br/&gt;Description: Hey friends 👋  As the title suggests, we are hiring!   If you&apos;ve been with us for a little while, I&apos;m...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3800157</id>
     <title>I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.</title>
     <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
@@ -1013,13 +1020,6 @@
     <link rel="alternate" href="https://dev.to/javz/i-built-an-interview-prep-tool-instead-of-grinding-leetcode-35a0"/>
     <updated>2026-06-08T13:20:06+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T13:20:06Z&lt;br/&gt;Tags: softwareengineering, career, learning, productivity&lt;br/&gt;Description: I am currently preparing for Software Engineer interviews.  Like many developers, my first instinct...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3805489</id>
-    <title>Want to work with me? We&apos;re hiring a Community Program Manager at DEV!</title>
-    <link rel="alternate" href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"/>
-    <updated>2026-06-03T18:56:57+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T18:56:57Z&lt;br/&gt;Tags: career, meta, hiring&lt;br/&gt;Description: Hey friends 👋  As the title suggests, we are hiring!   If you&apos;ve been with us for a little while, I&apos;m...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3780124</id>
@@ -1076,6 +1076,13 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3844964</id>
+    <title>My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"/>
+    <updated>2026-06-09T14:39:12+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T14:00:00Z&lt;br/&gt;Tags: ai, career, discuss, programming&lt;br/&gt;Description: A story about knowledge extraction, Kafka consumer rebalance, and what happens when a company...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3821119</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g"/>
     <updated>2026-05-24T18:11:38+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T18:11:38Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, beginners&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4  It started with a real need....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3605014</id>
-    <title>What If Every Phone in the Room Was a Game Controller — in the Age of AI?</title>
-    <link rel="alternate" href="https://airjam.io/blog/every-phone-a-game-controller"/>
-    <updated>2026-05-19T07:46:06+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vucinatim&quot;&gt;Tim Vučina&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:42:27Z&lt;br/&gt;Tags: opensource, react, ai, gamedev&lt;br/&gt;Description: Building an open-source framework for the age of vibe-coded party games, and what nine developers built with it in seven hours.</summary>
   </entry>
 </feed>
