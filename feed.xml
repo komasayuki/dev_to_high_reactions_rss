@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-09T14:39:12+00:00</updated>
+  <updated>2026-06-09T16:17:41+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -959,6 +959,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T19:15:17Z&lt;br/&gt;Tags: coding, vibecoding, ai, programming&lt;br/&gt;Description: I am 19 years old. I set out to build a production-grade e-commerce system from scratch. No Laravel....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3805489</id>
+    <title>Want to work with me? We&apos;re hiring a Community Program Manager at DEV!</title>
+    <link rel="alternate" href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"/>
+    <updated>2026-06-03T18:56:57+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T18:56:57Z&lt;br/&gt;Tags: career, meta, hiring&lt;br/&gt;Description: Hey friends 👋  As the title suggests, we are hiring!   If you&apos;ve been with us for a little while, I&apos;m...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3547210</id>
     <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
     <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
@@ -978,13 +985,6 @@
     <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
     <updated>2026-04-13T09:40:43+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3805489</id>
-    <title>Want to work with me? We&apos;re hiring a Community Program Manager at DEV!</title>
-    <link rel="alternate" href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"/>
-    <updated>2026-06-03T18:56:57+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T18:56:57Z&lt;br/&gt;Tags: career, meta, hiring&lt;br/&gt;Description: Hey friends 👋  As the title suggests, we are hiring!   If you&apos;ve been with us for a little while, I&apos;m...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3800157</id>
@@ -1323,6 +1323,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3858019</id>
+    <title>The Most Valuable Thing I Found in Tech Wasn&apos;t an Opportunity</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/the-most-valuable-thing-i-found-in-tech-wasnt-an-opportunity-2j83"/>
+    <updated>2026-06-09T16:17:41+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T14:52:40Z&lt;br/&gt;Tags: discuss, community, beginners, career&lt;br/&gt;Description: TL;DR  As an international student in the United States, I joined tech communities hoping to find...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3778888</id>
     <title>Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3"/>
@@ -1393,17 +1400,10 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3812098</id>
-    <title>I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.</title>
-    <link rel="alternate" href="https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9"/>
-    <updated>2026-06-04T02:32:36+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T02:32:36Z&lt;br/&gt;Tags: webdev, opensource, productivity, tutorial&lt;br/&gt;Description: Here&apos;s a thing that happens on every team I&apos;ve been on.  Sprint ends. Someone schedules the retro....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3678057</id>
-    <title>Gemma 4 challenge inspired me to build my first app!</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g"/>
-    <updated>2026-05-24T18:11:38+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T18:11:38Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, beginners&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4  It started with a real need....</summary>
+    <id>tag:dev.to,2026:3856153</id>
+    <title>The &apos;Prompt&apos; Is Not a Skill — And We Need to Stop Pretending</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"/>
+    <updated>2026-06-09T12:38:40+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T10:50:45Z&lt;br/&gt;Tags: ai, career, programming, discuss&lt;br/&gt;Description: Writing a prompt isn&apos;t engineering. It&apos;s typing.  You type what you want. The AI figures out the rest...</summary>
   </entry>
 </feed>
