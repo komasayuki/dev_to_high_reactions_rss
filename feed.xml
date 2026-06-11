@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-09T16:17:41+00:00</updated>
+  <updated>2026-06-10T08:26:35+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -567,6 +567,13 @@
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-04-18T22:29:42Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, javascript, ai&lt;br/&gt;Description: This is a submission for Weekend Challenge: Earth Day Edition  Fluffer: someone who helps people &quot;get...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3836822</id>
+    <title>From Prototype to Production: Finishing Moonsu Link, a Chat-Native Agricultural Marketplace for Cameroon</title>
+    <link rel="alternate" href="https://dev.to/chestly_ace/from-prototype-to-production-finishing-moonsu-link-a-chat-native-agricultural-marketplace-for-16bo"/>
+    <updated>2026-06-08T11:14:06+00:00</updated>
+    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3828927</id>
     <title>Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4"/>
@@ -586,13 +593,6 @@
     <link rel="alternate" href="https://dev.to/sirelves/the-4-classic-bugs-every-multi-service-nodejs-app-hits-and-how-to-stop-reinventing-the-wheel-4og7"/>
     <updated>2026-04-22T02:26:00+00:00</updated>
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sirelves&quot;&gt;Elves Santos&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T02:26:00Z&lt;br/&gt;Tags: braziliandevs, node, typescript, backend&lt;br/&gt;Description: Every time I read a post-mortem from a different team, at least one of these four bugs is in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3836822</id>
-    <title>From Prototype to Production: Finishing Moonsu Link, a Chat-Native Agricultural Marketplace for Cameroon</title>
-    <link rel="alternate" href="https://dev.to/chestly_ace/from-prototype-to-production-finishing-moonsu-link-a-chat-native-agricultural-marketplace-for-16bo"/>
-    <updated>2026-06-08T11:14:06+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3676308</id>
@@ -672,18 +672,18 @@
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T16:05:01Z&lt;br/&gt;Tags: php, node, nextjs, angular&lt;br/&gt;Description: You know the feeling. Three browser tabs open. Reddit thread from 2019. A YouTube video titled &quot;PHP...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3696340</id>
+    <title>🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)</title>
+    <link rel="alternate" href="https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo"/>
+    <updated>2026-06-08T11:40:09+00:00</updated>
+    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3532336</id>
     <title>Mobile Test Automation Frameworks in 2026: How to Choose</title>
     <link rel="alternate" href="https://dev.to/drizzdev/mobile-test-automation-frameworks-in-2026-how-to-choose-58ec"/>
     <updated>2026-04-24T07:28:58+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T07:28:58Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: There are more mobile testing frameworks available in 2026 than ever before and picking the wrong one...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3696340</id>
-    <title>🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)</title>
-    <link rel="alternate" href="https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo"/>
-    <updated>2026-06-08T11:40:09+00:00</updated>
-    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3517007</id>
@@ -1141,6 +1141,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/peter&quot;&gt;Peter Kim Frank&lt;/a&gt;&lt;br/&gt;Published: 2026-04-08T19:46:46Z&lt;br/&gt;Tags: tutorial, cloudflare, dvd, ripping&lt;br/&gt;Description: A relative sent me a few DVDs containing really old home videos that were at one point saved to DVDs....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3861043</id>
+    <title>The Code Works. What Could Possibly Go Wrong?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"/>
+    <updated>2026-06-10T08:26:35+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T08:26:35Z&lt;br/&gt;Tags: ai, webdev, discuss&lt;br/&gt;Description: Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3810139</id>
     <title>The Bug That Took 10 Minutes to Fix and 3 Days to Find</title>
     <link rel="alternate" href="https://dev.to/harsh2644/the-bug-that-took-10-minutes-to-fix-and-3-days-to-find-1l0m"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
     <updated>2026-04-15T14:42:59+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3486222</id>
-    <title>VarCouch — I Built an AI Therapist for Your Code Variables (They Need It)</title>
-    <link rel="alternate" href="https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec"/>
-    <updated>2026-04-11T10:50:55+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
 </feed>
