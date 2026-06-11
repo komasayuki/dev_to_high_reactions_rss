@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-10T08:26:35+00:00</updated>
+  <updated>2026-06-11T15:57:26+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -490,6 +490,13 @@
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hubedav&quot;&gt;David&lt;/a&gt;&lt;br/&gt;Published: 2026-04-10T15:42:25Z&lt;br/&gt;Tags: jobs, career, jobmarket, discuss&lt;br/&gt;Description: The job market sucks enough without being disabled.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3861043</id>
+    <title>The Code Works. What Could Possibly Go Wrong?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"/>
+    <updated>2026-06-10T08:26:35+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T08:26:35Z&lt;br/&gt;Tags: ai, webdev, discuss&lt;br/&gt;Description: Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3679499</id>
     <title>Should you use Gemma 4 for your Development? A Multiversal Analysis to Determine if Gemma 4 is Right for You!</title>
     <link rel="alternate" href="https://dev.to/devengers/should-you-use-gemma-4-for-your-development-a-multiversal-analysis-to-determine-if-gemma-4-is-2iol"/>
@@ -665,13 +672,6 @@
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/umarpathan&quot;&gt;Umar Pathan&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T15:39:57Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, ai&lt;br/&gt;Description: This is a submission for the OpenClaw Challenge           What I Built   A Designer Agent for...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3861043</id>
-    <title>The Code Works. What Could Possibly Go Wrong?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"/>
-    <updated>2026-06-10T08:26:35+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T08:26:35Z&lt;br/&gt;Tags: ai, webdev, discuss&lt;br/&gt;Description: Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3670735</id>
     <title>PHP vs Node.js &amp; Next.js vs Angular: What to Learn</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/php-vs-nodejs-nextjs-vs-angular-what-to-learn-35gj"/>
@@ -754,6 +754,13 @@
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/let-superheroes-cheer-you-up-ai-avatar-v6-chrome-extension-vs-code-extension-2ak7"/>
     <updated>2026-04-21T03:36:52+00:00</updated>
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T03:36:52Z&lt;br/&gt;Tags: ai, webdev, javascript, discuss&lt;br/&gt;Description: Intro   I created an AI avatar, a VRM 3D character that reacts when you chat with AI or...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3844964</id>
+    <title>My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"/>
+    <updated>2026-06-09T14:39:12+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T14:00:00Z&lt;br/&gt;Tags: ai, career, discuss, programming&lt;br/&gt;Description: A story about knowledge extraction, Kafka consumer rebalance, and what happens when a company...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3533864</id>
@@ -847,6 +854,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexr&quot;&gt;Alex (The Engineering Bolt) ⚡&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T14:06:47Z&lt;br/&gt;Tags: ai, programming, productivity, tutorial&lt;br/&gt;Description: Monday, 8:47 a.m.   Seven Slack DMs you haven&apos;t opened. Three 1:1s stacked before lunch. A...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3875595</id>
+    <title>Congrats to the Google I/O 2026 Writing Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"/>
+    <updated>2026-06-11T15:57:26+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3591625</id>
     <title>💰Monetize Your AI Agents with LangChain and Kong</title>
     <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
@@ -866,13 +880,6 @@
     <link rel="alternate" href="https://dev.to/hadil/openclaw-explained-how-to-set-up-your-own-247-personal-ai-assistant-beginner-tutorial-35gc"/>
     <updated>2026-04-21T13:03:25+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T13:03:25Z&lt;br/&gt;Tags: devchallenge, openclawchallenge&lt;br/&gt;Description: This is a submission for the OpenClaw Writing Challenge  There’s a quiet shift happening in AI right...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3844964</id>
-    <title>My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"/>
-    <updated>2026-06-09T14:39:12+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T14:00:00Z&lt;br/&gt;Tags: ai, career, discuss, programming&lt;br/&gt;Description: A story about knowledge extraction, Kafka consumer rebalance, and what happens when a company...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3665857</id>
@@ -938,6 +945,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3727561</id>
+    <title>I Built an Interview Prep Tool Instead of Grinding LeetCode</title>
+    <link rel="alternate" href="https://dev.to/javz/i-built-an-interview-prep-tool-instead-of-grinding-leetcode-35a0"/>
+    <updated>2026-06-08T13:20:06+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T13:20:06Z&lt;br/&gt;Tags: softwareengineering, career, learning, productivity&lt;br/&gt;Description: I am currently preparing for Software Engineer interviews.  Like many developers, my first instinct...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3805489</id>
     <title>Want to work with me? We&apos;re hiring a Community Program Manager at DEV!</title>
     <link rel="alternate" href="https://dev.to/devteam/want-to-work-with-me-were-hiring-a-community-program-manager-at-dev-3fol"/>
@@ -985,13 +999,6 @@
     <link rel="alternate" href="https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"/>
     <updated>2026-06-09T12:38:40+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T10:50:45Z&lt;br/&gt;Tags: ai, career, programming, discuss&lt;br/&gt;Description: Writing a prompt isn&apos;t engineering. It&apos;s typing.  You type what you want. The AI figures out the rest...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3727561</id>
-    <title>I Built an Interview Prep Tool Instead of Grinding LeetCode</title>
-    <link rel="alternate" href="https://dev.to/javz/i-built-an-interview-prep-tool-instead-of-grinding-leetcode-35a0"/>
-    <updated>2026-06-08T13:20:06+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T13:20:06Z&lt;br/&gt;Tags: softwareengineering, career, learning, productivity&lt;br/&gt;Description: I am currently preparing for Software Engineer interviews.  Like many developers, my first instinct...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3547210</id>
@@ -1078,6 +1085,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3661599</id>
+    <title>Your app can save someone from having a panic attack (a real-life story)</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/your-app-can-save-someone-from-having-a-panic-attack-a-real-life-story-2jdp"/>
+    <updated>2026-06-07T18:18:18+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T18:18:18Z&lt;br/&gt;Tags: mentalhealth, ux, webdev, a11y&lt;br/&gt;Description: As I&apos;m observing engineers, I notice that most of them share the same characteristic: unending loads...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3641400</id>
     <title>From vibe coding to clear thinking: what non-technical builders need in the age of AI</title>
     <link rel="alternate" href="https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd"/>
@@ -1097,13 +1111,6 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3661599</id>
-    <title>Your app can save someone from having a panic attack (a real-life story)</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/your-app-can-save-someone-from-having-a-panic-attack-a-real-life-story-2jdp"/>
-    <updated>2026-06-07T18:18:18+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T18:18:18Z&lt;br/&gt;Tags: mentalhealth, ux, webdev, a11y&lt;br/&gt;Description: As I&apos;m observing engineers, I notice that most of them share the same characteristic: unending loads...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3821119</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic"/>
     <updated>2026-04-23T13:28:40+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/phalkmin&quot;&gt;Paulo Henrique&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T13:28:40Z&lt;br/&gt;Tags: discuss, career, watercooler, help&lt;br/&gt;Description: A follow-up to What to do in tech after 20 years?*   Two years ago, I was between a rock and a hard...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3505683</id>
-    <title>How I&apos;m using ASTs and Gemini to solve the &quot;Codebase Onboarding&quot; problem 🧠</title>
-    <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
-    <updated>2026-04-15T14:42:59+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
   </entry>
 </feed>
