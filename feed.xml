@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-11T15:57:26+00:00</updated>
+  <updated>2026-06-12T06:29:43+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -336,6 +336,13 @@
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T16:27:19Z&lt;br/&gt;Tags: gemini, ai, googlecloud, postgres&lt;br/&gt;Description: Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3861043</id>
+    <title>The Code Works. What Could Possibly Go Wrong?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"/>
+    <updated>2026-06-10T08:26:35+00:00</updated>
+    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T08:26:35Z&lt;br/&gt;Tags: ai, webdev, discuss&lt;br/&gt;Description: Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3596751</id>
     <title>I Don&apos;t Like Tailwind. Sorry Not Sorry</title>
     <link rel="alternate" href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"/>
@@ -378,11 +385,11 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T16:30:22Z&lt;br/&gt;Tags: devchallenge, notionchallenge, mcp, ai&lt;br/&gt;Description: The results are in!  We&apos;re thrilled to announce our winners for the Notion MCP Challenge! From...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3861043</id>
-    <title>The Code Works. What Could Possibly Go Wrong?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-code-works-what-could-possibly-go-wrong-5hbm"/>
-    <updated>2026-06-10T08:26:35+00:00</updated>
-    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T08:26:35Z&lt;br/&gt;Tags: ai, webdev, discuss&lt;br/&gt;Description: Would you treat a serious illness without seeing a doctor, relying only on whatever your favorite AI...</summary>
+    <id>tag:dev.to,2026:3875595</id>
+    <title>Congrats to the Google I/O 2026 Writing Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"/>
+    <updated>2026-06-11T15:57:26+00:00</updated>
+    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3656535</id>
@@ -390,13 +397,6 @@
     <link rel="alternate" href="https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4"/>
     <updated>2026-05-14T14:00:15+00:00</updated>
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iampraveen&quot;&gt;Praveen Rajamani&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T13:57:11Z&lt;br/&gt;Tags: discuss, ai, webdev, career&lt;br/&gt;Description: When I started using AI tools seriously across my side projects, I expected the work to get easier....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3875595</id>
-    <title>Congrats to the Google I/O 2026 Writing Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"/>
-    <updated>2026-06-11T15:57:26+00:00</updated>
-    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3834057</id>
@@ -689,7 +689,7 @@
     <id>tag:dev.to,2026:3844964</id>
     <title>My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"/>
-    <updated>2026-06-09T14:39:12+00:00</updated>
+    <updated>2026-06-12T06:29:43+00:00</updated>
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T14:00:00Z&lt;br/&gt;Tags: ai, career, discuss, programming&lt;br/&gt;Description: A story about knowledge extraction, Kafka consumer rebalance, and what happens when a company...</summary>
   </entry>
   <entry>
@@ -861,6 +861,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3856153</id>
+    <title>The &apos;Prompt&apos; Is Not a Skill — And We Need to Stop Pretending</title>
+    <link rel="alternate" href="https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"/>
+    <updated>2026-06-09T12:38:40+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T10:50:45Z&lt;br/&gt;Tags: ai, career, programming, discuss&lt;br/&gt;Description: Writing a prompt isn&apos;t engineering. It&apos;s typing.  You type what you want. The AI figures out the rest...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3543505</id>
     <title>🗓️ Monthly Dev Report: April 2026</title>
     <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-april-2026-nak"/>
@@ -873,13 +880,6 @@
     <link rel="alternate" href="https://dev.to/hadil/openclaw-explained-how-to-set-up-your-own-247-personal-ai-assistant-beginner-tutorial-35gc"/>
     <updated>2026-04-21T13:03:25+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T13:03:25Z&lt;br/&gt;Tags: devchallenge, openclawchallenge&lt;br/&gt;Description: This is a submission for the OpenClaw Writing Challenge  There’s a quiet shift happening in AI right...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3856153</id>
-    <title>The &apos;Prompt&apos; Is Not a Skill — And We Need to Stop Pretending</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"/>
-    <updated>2026-06-09T12:38:40+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T10:50:45Z&lt;br/&gt;Tags: ai, career, programming, discuss&lt;br/&gt;Description: Writing a prompt isn&apos;t engineering. It&apos;s typing.  You type what you want. The AI figures out the rest...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3665857</id>
