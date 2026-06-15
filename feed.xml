@@ -130,7 +130,7 @@
     <title>Congrats to the Google I/O 2026 Writing Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"/>
     <updated>2026-06-11T15:57:26+00:00</updated>
-    <summary type="html">Reactions: public 143 / positive 143&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
+    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3735627</id>
@@ -819,18 +819,18 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexr&quot;&gt;Alex (The Engineering Bolt) ⚡&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T14:06:47Z&lt;br/&gt;Tags: ai, programming, productivity, tutorial&lt;br/&gt;Description: Monday, 8:47 a.m.   Seven Slack DMs you haven&apos;t opened. Three 1:1s stacked before lunch. A...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3864516</id>
+    <title>Why Checkout Flows Break More Than Anything Else in Delivery Apps</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/why-checkout-flows-break-more-than-anything-else-in-delivery-apps-4637"/>
+    <updated>2026-06-10T16:08:39+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T16:08:39Z&lt;br/&gt;Tags: ai, android, mobile, productivity&lt;br/&gt;Description: Every QA team knows the feeling. The home screen works. Browse works. Search works. Cart works. And...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3591625</id>
     <title>💰Monetize Your AI Agents with LangChain and Kong</title>
     <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
     <updated>2026-05-06T05:56:15+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3864516</id>
-    <title>Why Checkout Flows Break More Than Anything Else in Delivery Apps</title>
-    <link rel="alternate" href="https://dev.to/drizzdev/why-checkout-flows-break-more-than-anything-else-in-delivery-apps-4637"/>
-    <updated>2026-06-10T16:08:39+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T16:08:39Z&lt;br/&gt;Tags: ai, android, mobile, productivity&lt;br/&gt;Description: Every QA team knows the feeling. The home screen works. Browse works. Search works. Cart works. And...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3543505</id>
@@ -952,6 +952,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T19:15:17Z&lt;br/&gt;Tags: coding, vibecoding, ai, programming&lt;br/&gt;Description: I am 19 years old. I set out to build a production-grade e-commerce system from scratch. No Laravel....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3851626</id>
+    <title>My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.</title>
+    <link rel="alternate" href="https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"/>
+    <updated>2026-06-15T03:54:50+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T14:06:23Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: My daughter, who&apos;s 11, has been doing some vibe coding.   The other day she looked over my shoulder...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3547210</id>
     <title>Fine-Tuning Gemma 4 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classification 🐈🐕</title>
     <link rel="alternate" href="https://medium.com/google-cloud/fine-tuning-gemma-4-with-cloud-run-jobs-serverless-gpus-nvidia-rtx-6000-pro-for-pet-breed-d408c7e24be2"/>
@@ -971,13 +978,6 @@
     <link rel="alternate" href="https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"/>
     <updated>2026-04-13T09:40:43+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3851626</id>
-    <title>My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.</title>
-    <link rel="alternate" href="https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"/>
-    <updated>2026-06-15T03:54:50+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T14:06:23Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: My daughter, who&apos;s 11, has been doing some vibe coding.   The other day she looked over my shoulder...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3800157</id>
@@ -1050,6 +1050,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3773107</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4k11"/>
+    <updated>2026-06-12T06:00:00+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T06:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:2414922</id>
     <title>12 Hard Truths About Coding I Learned the Hard Way After 10+ Years</title>
     <link rel="alternate" href="https://canro91.github.io/2025/04/17/HarshTruths/"/>
@@ -1083,13 +1090,6 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3773107</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4k11"/>
-    <updated>2026-06-12T06:00:00+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T06:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3821119</id>
