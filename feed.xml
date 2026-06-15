@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-12T14:53:53+00:00</updated>
+  <updated>2026-06-15T03:54:50+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -147,18 +147,18 @@
     <summary type="html">Reactions: public 142 / positive 142&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3875595</id>
+    <title>Congrats to the Google I/O 2026 Writing Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"/>
+    <updated>2026-06-11T15:57:26+00:00</updated>
+    <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3601343</id>
     <title>AI Isn&apos;t Stupid. Your Setup Is. 🛠️</title>
     <link rel="alternate" href="https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn"/>
     <updated>2026-05-07T20:49:07+00:00</updated>
     <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T19:30:01Z&lt;br/&gt;Tags: ai, agents, productivity, tutorial&lt;br/&gt;Description: The bare-minimum AI coding workflow—pick the right model, plan first, write AGENTS.md for agents not humans, and cross-check across LLMs before you blame the tool.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3875595</id>
-    <title>Congrats to the Google I/O 2026 Writing Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"/>
-    <updated>2026-06-11T15:57:26+00:00</updated>
-    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3588830</id>
@@ -431,7 +431,7 @@
     <title>The Most Valuable Thing I Found in Tech Wasn&apos;t an Opportunity</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/the-most-valuable-thing-i-found-in-tech-wasnt-an-opportunity-2j83"/>
     <updated>2026-06-12T14:53:53+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T14:52:40Z&lt;br/&gt;Tags: discuss, community, beginners, career&lt;br/&gt;Description: TL;DR  As an international student in the United States, I joined tech communities hoping to find...</summary>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T14:52:40Z&lt;br/&gt;Tags: discuss, community, beginners, career&lt;br/&gt;Description: TL;DR  As an international student in the United States, I joined tech communities hoping to find...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3651760</id>
@@ -1088,8 +1088,8 @@
     <id>tag:dev.to,2026:3851626</id>
     <title>My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.</title>
     <link rel="alternate" href="https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"/>
-    <updated>2026-06-11T14:06:23+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T14:06:23Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: My daughter Emma is 11. She&apos;s been vibe coding lately, and honestly, she&apos;s pretty good at it.  The...</summary>
+    <updated>2026-06-15T03:54:50+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/greggyb&quot;&gt;Greg Baugues&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T14:06:23Z&lt;br/&gt;Tags: ai, webdev, discuss, career&lt;br/&gt;Description: My daughter, who&apos;s 11, has been doing some vibe coding.   The other day she looked over my shoulder...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3821119</id>
@@ -1125,6 +1125,13 @@
     <link rel="alternate" href="https://medium.com/@syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-0199d4e0ec30?source=friends_link&amp;sk=0b4b4afe8d1ec9a5a7b69b8aeb3a9742"/>
     <updated>2026-04-12T11:22:02+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-12T11:22:02Z&lt;br/&gt;Tags: claude, chatgpt, coding, ai&lt;br/&gt;Description: You are paying $20 a month for GitHub Copilot. In our local economy, that is almost 6,000 PKR every...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3820684</id>
+    <title>Celebrate June rituals with Solstice Bingo!</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6"/>
+    <updated>2026-06-11T11:25:14+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T11:25:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, html&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3810139</id>
@@ -1167,13 +1174,6 @@
     <link rel="alternate" href="https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506"/>
     <updated>2026-04-11T13:20:05+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T13:20:05Z&lt;br/&gt;Tags: devchallenge, showdev, 418challenge, ai&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge  The day has finally come. I am launching my...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3820684</id>
-    <title>Celebrate June rituals with Solstice Bingo!</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6"/>
-    <updated>2026-06-11T11:25:14+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T11:25:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, html&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693063</id>
@@ -1265,6 +1265,13 @@
     <link rel="alternate" href="https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl"/>
     <updated>2026-04-16T04:49:02+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/admantium&quot;&gt;Sebastian&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T04:49:02Z&lt;br/&gt;Tags: raspberrypi, raspberryzero&lt;br/&gt;Description: Single Board Computers with the ability to run a full-fledged Linux distribution can be used as...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3883225</id>
+    <title>Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf"/>
+    <updated>2026-06-12T14:18:51+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T13:47:44Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3773107</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
     <updated>2026-04-15T14:42:59+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3486222</id>
-    <title>VarCouch — I Built an AI Therapist for Your Code Variables (They Need It)</title>
-    <link rel="alternate" href="https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec"/>
-    <updated>2026-04-11T10:50:55+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
 </feed>
