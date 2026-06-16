@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-15T03:54:50+00:00</updated>
+  <updated>2026-06-15T21:45:00+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -236,6 +236,13 @@
     <link rel="alternate" href="https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l"/>
     <updated>2026-04-24T09:50:38+00:00</updated>
     <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-04-24T09:50:38Z&lt;br/&gt;Tags: ai, career, discuss, productivity&lt;br/&gt;Description: Last weekend, I opened my laptop.  No deadline. No client. No pressure. Just me, my keyboard, and a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3901281</id>
+    <title>Quando o Pomodoro não funciona: organização realista para TDAH em burnout</title>
+    <link rel="alternate" href="https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c"/>
+    <updated>2026-06-15T21:45:00+00:00</updated>
+    <summary type="html">Reactions: public 113 / positive 113&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T21:45:00Z&lt;br/&gt;Tags: braziliandevs, productivity, mentalhealth, career&lt;br/&gt;Description: Um relato honesto de alguém que trabalha com design, vive com TDAH e está cansada de dicas...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3531384</id>
@@ -980,6 +987,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3820684</id>
+    <title>Celebrate June rituals with Solstice Bingo!</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6"/>
+    <updated>2026-06-11T11:25:14+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T11:25:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, html&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3800157</id>
     <title>I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.</title>
     <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
@@ -1006,13 +1020,6 @@
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"/>
     <updated>2026-04-14T15:00:56+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T15:00:56Z&lt;br/&gt;Tags: ai, programming, beginners, discuss&lt;br/&gt;Description: I&apos;ve been watching the AI narrative closely. Building with it. Learning in public. Talking to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3820684</id>
-    <title>Celebrate June rituals with Solstice Bingo!</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/celebrate-june-rituals-with-solstice-bingo-1al6"/>
-    <updated>2026-06-11T11:25:14+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T11:25:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, html&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3780124</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec"/>
     <updated>2026-04-11T10:50:55+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812098</id>
-    <title>I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.</title>
-    <link rel="alternate" href="https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9"/>
-    <updated>2026-06-04T02:32:36+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T02:32:36Z&lt;br/&gt;Tags: webdev, opensource, productivity, tutorial&lt;br/&gt;Description: Here&apos;s a thing that happens on every team I&apos;ve been on.  Sprint ends. Someone schedules the retro....</summary>
   </entry>
 </feed>
