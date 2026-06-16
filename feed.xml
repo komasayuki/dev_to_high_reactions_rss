@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-16T02:42:28+00:00</updated>
+  <updated>2026-06-16T14:26:21+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1057,6 +1057,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3883225</id>
+    <title>Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf"/>
+    <updated>2026-06-12T14:18:51+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T13:47:44Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:2414922</id>
     <title>12 Hard Truths About Coding I Learned the Hard Way After 10+ Years</title>
     <link rel="alternate" href="https://canro91.github.io/2025/04/17/HarshTruths/"/>
@@ -1097,13 +1104,6 @@
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"/>
     <updated>2026-06-16T02:42:28+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:28:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3883225</id>
-    <title>Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf"/>
-    <updated>2026-06-12T14:18:51+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T13:47:44Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3821119</id>
@@ -1337,6 +1337,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T15:00:23Z&lt;br/&gt;Tags: ai, robotics, gemini, opensource&lt;br/&gt;Description: Imagine a tiny desk robot that listens to you, answers back in real time, dances on command, tracks...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3916608</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"/>
+    <updated>2026-06-16T14:26:21+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T14:26:21Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3778888</id>
     <title>Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
     <updated>2026-04-15T14:42:59+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3486222</id>
-    <title>VarCouch — I Built an AI Therapist for Your Code Variables (They Need It)</title>
-    <link rel="alternate" href="https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec"/>
-    <updated>2026-04-11T10:50:55+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yashksaini&quot;&gt;Yash Kumar Saini&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T09:42:42Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   Your variables have...</summary>
   </entry>
 </feed>
