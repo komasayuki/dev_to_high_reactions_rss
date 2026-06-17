@@ -294,13 +294,6 @@
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T11:34:33Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, webdev, frontend&lt;br/&gt;Description: This is a submission for Weekend Challenge: Earth Day Edition   “I’m not asking for much. Just… stop...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3487725</id>
-    <title>The Final 1% of Every GitHub Project: Sealing It Properly</title>
-    <link rel="alternate" href="https://dev.to/georgekobaidze/the-final-1-of-every-github-project-sealing-it-properly-2app"/>
-    <updated>2026-04-11T15:55:53+00:00</updated>
-    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-04-11T15:55:53Z&lt;br/&gt;Tags: github, opensource, development, repository&lt;br/&gt;Description: Table of Contents    Introduction What Does It Mean to &quot;Seal&quot; a Project?  The Release...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3815208</id>
     <title>Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!</title>
     <link rel="alternate" href="https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge"/>
@@ -721,6 +714,13 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3917677</id>
+    <title>Ask a DEV Community Mod! 🚀</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"/>
+    <updated>2026-06-17T14:14:09+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:52:39Z&lt;br/&gt;Tags: discuss, community, publicinbox, mlh&lt;br/&gt;Description: Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3771991</id>
     <title>I Spent 10x Longer Debugging AI Code Than Writing It</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"/>
@@ -775,13 +775,6 @@
     <link rel="alternate" href="https://dev.to/syedahmershah/google-cloud-next-26-a-full-stack-developers-take-on-cloud-run-ai-37fl"/>
     <updated>2026-04-25T10:23:47+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-25T10:19:30Z&lt;br/&gt;Tags: devchallenge, cloudnextchallenge, googlecloud, laravel&lt;br/&gt;Description: This is a submission for the Google Cloud NEXT Writing Challenge           What Google Cloud NEXT &apos;26...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3917677</id>
-    <title>Ask a DEV Community Mod! 🚀</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"/>
-    <updated>2026-06-17T14:14:09+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:52:39Z&lt;br/&gt;Tags: discuss, community, publicinbox, mlh&lt;br/&gt;Description: Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3851626</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic"/>
     <updated>2026-04-23T13:28:40+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/phalkmin&quot;&gt;Paulo Henrique&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T13:28:40Z&lt;br/&gt;Tags: discuss, career, watercooler, help&lt;br/&gt;Description: A follow-up to What to do in tech after 20 years?*   Two years ago, I was between a rock and a hard...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3505683</id>
+    <title>How I&apos;m using ASTs and Gemini to solve the &quot;Codebase Onboarding&quot; problem 🧠</title>
+    <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
+    <updated>2026-04-15T14:42:59+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
   </entry>
 </feed>
