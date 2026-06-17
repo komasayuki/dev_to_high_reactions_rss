@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-16T16:41:51+00:00</updated>
+  <updated>2026-06-17T01:20:57+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -994,6 +994,20 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:19:39Z&lt;br/&gt;Tags: ai, programming, rag, graphknowledge&lt;br/&gt;Description: This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3917677</id>
+    <title>Ask a DEV Community Mod! 🚀</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"/>
+    <updated>2026-06-17T01:20:57+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:52:39Z&lt;br/&gt;Tags: discuss, community, publicinbox, mlh&lt;br/&gt;Description: Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3916608</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"/>
+    <updated>2026-06-16T14:26:21+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T14:26:21Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3800157</id>
     <title>I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.</title>
     <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
@@ -1020,13 +1034,6 @@
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"/>
     <updated>2026-04-14T15:00:56+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T15:00:56Z&lt;br/&gt;Tags: ai, programming, beginners, discuss&lt;br/&gt;Description: I&apos;ve been watching the AI narrative closely. Building with it. Learning in public. Talking to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3916608</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"/>
-    <updated>2026-06-16T14:26:21+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T14:26:21Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3907259</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/suesmith/automation-is-a-trade-off-2fh8"/>
     <updated>2026-04-28T15:06:42+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/suesmith&quot;&gt;Sue Smith&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T15:06:42Z&lt;br/&gt;Tags: ai, webdev, lowcode, automation&lt;br/&gt;Description: A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3541702</id>
-    <title>So, what am I doing after 22 years in tech?</title>
-    <link rel="alternate" href="https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic"/>
-    <updated>2026-04-23T13:28:40+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/phalkmin&quot;&gt;Paulo Henrique&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T13:28:40Z&lt;br/&gt;Tags: discuss, career, watercooler, help&lt;br/&gt;Description: A follow-up to What to do in tech after 20 years?*   Two years ago, I was between a rock and a hard...</summary>
   </entry>
 </feed>
