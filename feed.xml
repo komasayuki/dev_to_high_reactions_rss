@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-16T14:26:21+00:00</updated>
+  <updated>2026-06-16T16:41:51+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -644,6 +644,13 @@
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T16:05:01Z&lt;br/&gt;Tags: php, node, nextjs, angular&lt;br/&gt;Description: You know the feeling. Three browser tabs open. Reddit thread from 2019. A YouTube video titled &quot;PHP...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3864516</id>
+    <title>Why Checkout Flows Break More Than Anything Else in Delivery Apps</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/why-checkout-flows-break-more-than-anything-else-in-delivery-apps-4637"/>
+    <updated>2026-06-10T16:08:39+00:00</updated>
+    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T16:08:39Z&lt;br/&gt;Tags: ai, android, mobile, productivity&lt;br/&gt;Description: Every QA team knows the feeling. The home screen works. Browse works. Search works. Cart works. And...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3532336</id>
     <title>Mobile Test Automation Frameworks in 2026: How to Choose</title>
     <link rel="alternate" href="https://dev.to/drizzdev/mobile-test-automation-frameworks-in-2026-how-to-choose-58ec"/>
@@ -691,13 +698,6 @@
     <link rel="alternate" href="https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0"/>
     <updated>2026-04-16T10:59:58+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:59:58Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, career&lt;br/&gt;Description: I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3864516</id>
-    <title>Why Checkout Flows Break More Than Anything Else in Delivery Apps</title>
-    <link rel="alternate" href="https://dev.to/drizzdev/why-checkout-flows-break-more-than-anything-else-in-delivery-apps-4637"/>
-    <updated>2026-06-10T16:08:39+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T16:08:39Z&lt;br/&gt;Tags: ai, android, mobile, productivity&lt;br/&gt;Description: Every QA team knows the feeling. The home screen works. Browse works. Search works. Cart works. And...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3727561</id>
@@ -1022,6 +1022,27 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T15:00:56Z&lt;br/&gt;Tags: ai, programming, beginners, discuss&lt;br/&gt;Description: I&apos;ve been watching the AI narrative closely. Building with it. Learning in public. Talking to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3916608</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"/>
+    <updated>2026-06-16T14:26:21+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T14:26:21Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3907259</id>
+    <title>Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"/>
+    <updated>2026-06-16T02:42:28+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:28:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3883225</id>
+    <title>Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf"/>
+    <updated>2026-06-12T14:18:51+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T13:47:44Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3780124</id>
     <title>I Made My AI Models Argue, Then Let Hermes Be the Judge</title>
     <link rel="alternate" href="https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c"/>
@@ -1057,13 +1078,6 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3883225</id>
-    <title>Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf"/>
-    <updated>2026-06-12T14:18:51+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T13:47:44Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:2414922</id>
     <title>12 Hard Truths About Coding I Learned the Hard Way After 10+ Years</title>
     <link rel="alternate" href="https://canro91.github.io/2025/04/17/HarshTruths/"/>
@@ -1097,13 +1111,6 @@
     <link rel="alternate" href="https://dev.to/kanta13jp1/adding-persistent-memory-to-claude-code-with-claude-mem-plus-a-diy-lightweight-alternative-4gha"/>
     <updated>2026-04-13T09:11:53+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kanta13jp1&quot;&gt;kanta13jp1&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T09:11:53Z&lt;br/&gt;Tags: claudecode, ai, productivity, llm&lt;br/&gt;Description: The Problem: Claude Code Forgets Everything   Every time you start a new Claude Code...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3907259</id>
-    <title>Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"/>
-    <updated>2026-06-16T02:42:28+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:28:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3821119</id>
@@ -1239,6 +1246,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anik2812&quot;&gt;Anik2812&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T04:20:44Z&lt;br/&gt;Tags: devchallenge, 418challenge, showdev&lt;br/&gt;Description: This is a submission for the DEV April Fools Challenge           What I Built   DEFINITELY NOT A...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3812169</id>
+    <title>How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV</title>
+    <link rel="alternate" href="https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"/>
+    <updated>2026-06-16T16:41:51+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:41:51Z&lt;br/&gt;Tags: performance, webdev, design, bunny&lt;br/&gt;Description: Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3644097</id>
     <title>How Python&apos;s GIL actually works (and when it bites you)</title>
     <link rel="alternate" href="https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2"/>
@@ -1272,13 +1286,6 @@
     <link rel="alternate" href="https://dev.to/admantium/turning-the-raspberry-pi-zero-into-a-hacking-gadget-2ekl"/>
     <updated>2026-04-16T04:49:02+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/admantium&quot;&gt;Sebastian&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T04:49:02Z&lt;br/&gt;Tags: raspberrypi, raspberryzero&lt;br/&gt;Description: Single Board Computers with the ability to run a full-fledged Linux distribution can be used as...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3916608</id>
-    <title>Top 7 Featured DEV Posts of the Week</title>
-    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1h65"/>
-    <updated>2026-06-16T14:26:21+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T14:26:21Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3792290</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/phalkmin/so-what-am-i-doing-after-22-years-in-tech-7ic"/>
     <updated>2026-04-23T13:28:40+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/phalkmin&quot;&gt;Paulo Henrique&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T13:28:40Z&lt;br/&gt;Tags: discuss, career, watercooler, help&lt;br/&gt;Description: A follow-up to What to do in tech after 20 years?*   Two years ago, I was between a rock and a hard...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3505683</id>
-    <title>How I&apos;m using ASTs and Gemini to solve the &quot;Codebase Onboarding&quot; problem 🧠</title>
-    <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
-    <updated>2026-04-15T14:42:59+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
   </entry>
 </feed>
