@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-18T01:00:44+00:00</updated>
+  <updated>2026-06-18T07:25:04+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -399,6 +399,13 @@
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3917677</id>
+    <title>Ask a DEV Community Mod! 🚀</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"/>
+    <updated>2026-06-18T01:00:44+00:00</updated>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:52:39Z&lt;br/&gt;Tags: discuss, community, publicinbox, ama&lt;br/&gt;Description: Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3597666</id>
     <title>What was your win this week!?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-2ohc"/>
@@ -411,13 +418,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p"/>
     <updated>2026-04-13T21:42:25+00:00</updated>
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-04-13T21:42:25Z&lt;br/&gt;Tags: discuss, community, forem, opensource&lt;br/&gt;Description: Introducing a New Series &quot;The Open Sourcerer of Forem&quot;!   I have been wanting to get into...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3917677</id>
-    <title>Ask a DEV Community Mod! 🚀</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"/>
-    <updated>2026-06-18T01:00:44+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:52:39Z&lt;br/&gt;Tags: discuss, community, publicinbox, ama&lt;br/&gt;Description: Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3442047</id>
@@ -707,6 +707,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T10:59:58Z&lt;br/&gt;Tags: ai, softwareengineering, productivity, career&lt;br/&gt;Description: I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3907259</id>
+    <title>Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"/>
+    <updated>2026-06-16T02:42:28+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:28:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3851626</id>
     <title>My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.</title>
     <link rel="alternate" href="https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"/>
@@ -782,13 +789,6 @@
     <link rel="alternate" href="https://dev.to/syedahmershah/google-cloud-next-26-a-full-stack-developers-take-on-cloud-run-ai-37fl"/>
     <updated>2026-04-25T10:23:47+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-04-25T10:19:30Z&lt;br/&gt;Tags: devchallenge, cloudnextchallenge, googlecloud, laravel&lt;br/&gt;Description: This is a submission for the Google Cloud NEXT Writing Challenge           What Google Cloud NEXT &apos;26...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3907259</id>
-    <title>Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/letters-to-tomorrow-a-june-solstice-game-about-the-things-we-carry-into-tomorrow-1lnf"/>
-    <updated>2026-06-16T02:42:28+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T13:28:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  🎮 Play the Game: Letters to Tomorrow  💻 Source...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3805129</id>
@@ -1083,6 +1083,13 @@
     <link rel="alternate" href="https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln"/>
     <updated>2026-04-15T15:30:36+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3926659</id>
+    <title>Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk"/>
+    <updated>2026-06-18T07:25:04+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T07:25:04Z&lt;br/&gt;Tags: javascript, webdev, programming, architecture&lt;br/&gt;Description: I promised myself that starting this week I&apos;d switch to lighter topics. But on Monday, my JSNation...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:2414922</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tworrell/how-im-using-asts-and-gemini-to-solve-the-codebase-onboarding-problem-1la9"/>
     <updated>2026-04-15T14:42:59+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tworrell&quot;&gt;tworrell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-15T14:41:03Z&lt;br/&gt;Tags: ai, productivity, webdev, showdev&lt;br/&gt;Description: Hi everyone! 👋  I’m Tara, a Senior Software Engineer and Consultant. Over the years, I&apos;ve jumped...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3812098</id>
-    <title>I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.</title>
-    <link rel="alternate" href="https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9"/>
-    <updated>2026-06-04T02:32:36+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T02:32:36Z&lt;br/&gt;Tags: webdev, opensource, productivity, tutorial&lt;br/&gt;Description: Here&apos;s a thing that happens on every team I&apos;ve been on.  Sprint ends. Someone schedules the retro....</summary>
   </entry>
 </feed>
