@@ -672,6 +672,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/code42cate&quot;&gt;Jonas Scholz&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T20:30:49Z&lt;br/&gt;Tags: cloud, devops, docker, webdev&lt;br/&gt;Description: We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3926659</id>
+    <title>Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk"/>
+    <updated>2026-06-18T07:25:04+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T07:25:04Z&lt;br/&gt;Tags: javascript, webdev, programming, architecture&lt;br/&gt;Description: I promised myself that starting this week I&apos;d switch to lighter topics. But on Monday, my JSNation...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3856153</id>
     <title>The &apos;Prompt&apos; Is Not a Skill — And We Need to Stop Pretending</title>
     <link rel="alternate" href="https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"/>
@@ -819,11 +826,11 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/om_shree_0709&quot;&gt;Om Shree&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T01:28:17Z&lt;br/&gt;Tags: ai, security, discuss, claude&lt;br/&gt;Description: Anthropic built a model so dangerous they refused to release it publicly. Then a Discord group got in...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3926659</id>
-    <title>Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk"/>
-    <updated>2026-06-18T07:25:04+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T07:25:04Z&lt;br/&gt;Tags: javascript, webdev, programming, architecture&lt;br/&gt;Description: I promised myself that starting this week I&apos;d switch to lighter topics. But on Monday, my JSNation...</summary>
+    <id>tag:dev.to,2026:3806099</id>
+    <title>Welcome Thread - v380</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v380-oi4"/>
+    <updated>2026-06-17T04:00:00+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3696406</id>
@@ -859,13 +866,6 @@
     <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
     <updated>2026-05-06T05:56:15+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3806099</id>
-    <title>Welcome Thread - v380</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v380-oi4"/>
-    <updated>2026-06-17T04:00:00+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3543505</id>
@@ -943,6 +943,13 @@
     <link rel="alternate" href="https://builder.aws.com/content/3Cbk654mcGCtAREF1jRP7cAE885/build-your-own-blog-post-view-counter-on-aws-free-tier"/>
     <updated>2026-04-21T19:35:19+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/esin87&quot;&gt;Esin Saribudak&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T19:35:19Z&lt;br/&gt;Tags: beginners, lambda, dynamodb, tutorial&lt;br/&gt;Description: Your blog deserves to know it&apos;s being read. A Lambda function counts the views, DynamoDB remembers...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3934585</id>
+    <title>Congrats to the Gemma 4 Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"/>
+    <updated>2026-06-18T22:16:10+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T18:56:22Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3773107</id>
@@ -1048,13 +1055,6 @@
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"/>
     <updated>2026-04-14T15:00:56+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T15:00:56Z&lt;br/&gt;Tags: ai, programming, beginners, discuss&lt;br/&gt;Description: I&apos;ve been watching the AI narrative closely. Building with it. Learning in public. Talking to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3934585</id>
-    <title>Congrats to the Gemma 4 Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"/>
-    <updated>2026-06-18T22:16:10+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T18:56:22Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: We are so excited to announce the winners of the Gemma 4 Challenge!  This is officially our most...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3780124</id>
@@ -1316,13 +1316,6 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T20:47:21Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: We asked you to build something completely useless and you delivered.   The DEV April Fools Challenge...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3435890</id>
-    <title>Generative UI Project Ideas with Complete Source Code</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp"/>
-    <updated>2026-04-20T12:48:01+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T12:31:15Z&lt;br/&gt;Tags: opensource, tutorial, programming, ai&lt;br/&gt;Description: Someone reverse-engineered Claude&apos;s Generative UI and rebuilt it for a macOS terminal agent. Native...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3509384</id>
     <title>Architecture Documentation as a First-Class Engineering Asset</title>
     <link rel="alternate" href="https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9"/>
     <updated>2026-06-04T02:32:36+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T02:32:36Z&lt;br/&gt;Tags: webdev, opensource, productivity, tutorial&lt;br/&gt;Description: Here&apos;s a thing that happens on every team I&apos;ve been on.  Sprint ends. Someone schedules the retro....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3678057</id>
+    <title>Gemma 4 challenge inspired me to build my first app!</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g"/>
+    <updated>2026-05-24T18:11:38+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T18:11:38Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, beginners&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4  It started with a real need....</summary>
   </entry>
 </feed>
