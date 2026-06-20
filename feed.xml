@@ -448,13 +448,6 @@
     <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T21:34:36Z&lt;br/&gt;Tags: devchallenge, wecoded, frontend, career&lt;br/&gt;Description: The results are in! We are thrilled to announce the winners of the 2026 WeCoded Challenge.  Over the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3806099</id>
-    <title>Welcome Thread - v380</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v380-oi4"/>
-    <updated>2026-06-17T04:00:00+00:00</updated>
-    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3758929</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-45na"/>
@@ -481,6 +474,13 @@
     <link rel="alternate" href="https://deepu.tech/my-fully-offline-ai-assisted-linux-development-machine"/>
     <updated>2026-05-11T21:31:28+00:00</updated>
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/deepu105&quot;&gt;Deepu K Sasidharan&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T20:47:59Z&lt;br/&gt;Tags: linux, archlinux, development, ai&lt;br/&gt;Description: My Arch Linux, Niri, and local AI coding setup on the ASUS ROG Flow Z13</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3806099</id>
+    <title>Welcome Thread - v380</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v380-oi4"/>
+    <updated>2026-06-17T04:00:00+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3836822</id>
@@ -1071,13 +1071,6 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alimafana&quot;&gt;Ali Afana &lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T12:14:54Z&lt;br/&gt;Tags: ai, webdev, openai, monitoring&lt;br/&gt;Description: OpenAI&apos;s billing page shows total spend. It doesn&apos;t show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I&apos;d been treating as similar.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3501735</id>
-    <title>Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)</title>
-    <link rel="alternate" href="https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln"/>
-    <updated>2026-04-15T15:30:36+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/morganwilliscloud&quot;&gt;Morgan Willis&lt;/a&gt;&lt;br/&gt;Published: 2026-04-14T21:14:17Z&lt;br/&gt;Tags: ai, aws, agents, bedrock&lt;br/&gt;Description: So you want to add AI to your application. Maybe you want to build a smart assistant, add a feature...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:2414922</id>
     <title>12 Hard Truths About Coding I Learned the Hard Way After 10+ Years</title>
     <link rel="alternate" href="https://canro91.github.io/2025/04/17/HarshTruths/"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/cseeman/watching-rubygemsorg-in-real-time-11o"/>
     <updated>2026-04-16T21:46:47+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/cseeman&quot;&gt;christine&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T21:46:47Z&lt;br/&gt;Tags: ruby, rails&lt;br/&gt;Description: RubyGems.org published its first public roadmap this week. That&apos;s new, and it&apos;s worth noticing.  I&apos;ve...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3604053</id>
+    <title>We&apos;re Shipping More Code Than Ever. We Understand Less of It.</title>
+    <link rel="alternate" href="https://www.fbritoferreira.com/blog/were-shipping-more-code-than-ever-we-understand-less-of-it"/>
+    <updated>2026-05-03T13:11:26+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fbritoferreira&quot;&gt;Filipe Brito Ferreira&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T13:11:26Z&lt;br/&gt;Tags: ai, softwareengineering, devrel, burnout&lt;br/&gt;Description: A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...</summary>
   </entry>
 </feed>
