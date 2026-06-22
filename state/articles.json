@@ -23,28 +23,6 @@
       "last_seen": "2026-06-15T03:26:02.485060499+00:00"
     },
     {
-      "key": "3282063",
-      "id": 3282063,
-      "canonical_url": "https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0",
-      "url": "https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0",
-      "title": "Don’t let AI do your thinking: a practical guide for engineers",
-      "description": "I designed a \"Thinking Guide\" for engineers building with AI. And looking for your feedback.  We’re...",
-      "published_timestamp": "2026-04-16T10:59:58Z",
-      "published_at": "2026-04-16T10:59:58Z",
-      "edited_at": null,
-      "public_reactions_count": 67,
-      "positive_reactions_count": 67,
-      "tag_list": [
-        "ai",
-        "softwareengineering",
-        "productivity",
-        "career"
-      ],
-      "user_name": "Julien Avezou",
-      "user_username": "javz",
-      "last_seen": "2026-04-23T10:41:47.032773290+00:00"
-    },
-    {
       "key": "3288363",
       "id": 3288363,
       "canonical_url": "https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25",
@@ -300,50 +278,6 @@
       "user_name": "Jess Lee",
       "user_username": "jess",
       "last_seen": "2026-04-23T14:57:15.166639047+00:00"
-    },
-    {
-      "key": "3509384",
-      "id": 3509384,
-      "canonical_url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
-      "url": "https://dev.to/gdg/architecture-documentation-as-a-first-class-engineering-asset-4a1j",
-      "title": "Architecture Documentation as a First-Class Engineering Asset",
-      "description": "How autonomous AI agents can generate a complete architecture snapshot of your microservices platform...",
-      "published_timestamp": "2026-04-16T09:49:24Z",
-      "published_at": "2026-04-16T09:49:24Z",
-      "edited_at": "2026-04-22T16:49:33Z",
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
-      "tag_list": [
-        "architecture",
-        "security",
-        "ai",
-        "agents"
-      ],
-      "user_name": "Alexander Tyutin",
-      "user_username": "alexandertyutin",
-      "last_seen": "2026-04-23T09:44:36.257556302+00:00"
-    },
-    {
-      "key": "3509625",
-      "id": 3509625,
-      "canonical_url": "https://dev.to/harsh2644/vibe-coding-is-making-us-worse-developers-39bd",
-      "url": "https://dev.to/harsh2644/vibe-coding-is-making-us-worse-developers-39bd",
-      "title": "I Coded Without AI for 30 Days. The Results Were Embarrassing — And Eye-Opening",
-      "description": "How I Got There   It started with a number that scared me.  I was curious one week — how...",
-      "published_timestamp": "2026-04-16T09:58:16Z",
-      "published_at": "2026-04-16T09:58:16Z",
-      "edited_at": "2026-04-16T14:35:35Z",
-      "public_reactions_count": 52,
-      "positive_reactions_count": 52,
-      "tag_list": [
-        "ai",
-        "productivity",
-        "career",
-        "discuss"
-      ],
-      "user_name": "Harsh ",
-      "user_username": "harsh2644",
-      "last_seen": "2026-04-23T09:44:36.257556302+00:00"
     },
     {
       "key": "3510665",
@@ -4695,7 +4629,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3704010",
@@ -6397,14 +6331,14 @@
       "published_timestamp": "2026-06-17T04:00:00Z",
       "published_at": "2026-06-17T04:00:00Z",
       "edited_at": null,
-      "public_reactions_count": 89,
-      "positive_reactions_count": 89,
+      "public_reactions_count": 91,
+      "positive_reactions_count": 91,
       "tag_list": [
         "welcome"
       ],
       "user_name": "Sloan the DEV Moderator",
       "user_username": "sloan",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3810139",
@@ -6492,7 +6426,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3812839",
@@ -7156,8 +7090,8 @@
       "published_timestamp": "2026-06-18T06:49:04Z",
       "published_at": "2026-06-18T06:49:04Z",
       "edited_at": null,
-      "public_reactions_count": 50,
-      "positive_reactions_count": 50,
+      "public_reactions_count": 51,
+      "positive_reactions_count": 51,
       "tag_list": [
         "devchallenge",
         "gamechallenge",
@@ -7166,7 +7100,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3875595",
@@ -7272,7 +7206,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3883225",
@@ -7338,7 +7272,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3897983",
@@ -7382,7 +7316,7 @@
       ],
       "user_name": "vitoriazzp",
       "user_username": "vitoriazzp",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3903687",
@@ -7425,7 +7359,7 @@
       ],
       "user_name": "Gamya ",
       "user_username": "gamya_m",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3907259",
@@ -7447,7 +7381,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3910960",
@@ -7469,7 +7403,7 @@
       ],
       "user_name": "Cathy Lai",
       "user_username": "cathylai",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3913605",
@@ -7513,7 +7447,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3916501",
@@ -7535,7 +7469,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3916608",
@@ -7555,7 +7489,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3917677",
@@ -7567,8 +7501,8 @@
       "published_timestamp": "2026-06-16T16:52:39Z",
       "published_at": "2026-06-16T16:52:39Z",
       "edited_at": "2026-06-18T01:00:44Z",
-      "public_reactions_count": 114,
-      "positive_reactions_count": 114,
+      "public_reactions_count": 115,
+      "positive_reactions_count": 115,
       "tag_list": [
         "discuss",
         "community",
@@ -7577,7 +7511,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3922930",
@@ -7599,7 +7533,7 @@
       ],
       "user_name": "Pavel Kalo",
       "user_username": "pablonax",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3926602",
@@ -7621,7 +7555,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3926659",
@@ -7633,8 +7567,8 @@
       "published_timestamp": "2026-06-18T07:25:04Z",
       "published_at": "2026-06-18T07:25:04Z",
       "edited_at": null,
-      "public_reactions_count": 113,
-      "positive_reactions_count": 113,
+      "public_reactions_count": 120,
+      "positive_reactions_count": 120,
       "tag_list": [
         "javascript",
         "webdev",
@@ -7643,7 +7577,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3929764",
@@ -7664,7 +7598,7 @@
       ],
       "user_name": "Salih Guler ",
       "user_username": "salihgueler",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3934088",
@@ -7686,7 +7620,7 @@
       ],
       "user_name": "Jay Saadana",
       "user_username": "jaysaadana",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3934265",
@@ -7720,8 +7654,8 @@
       "published_timestamp": "2026-06-18T18:56:22Z",
       "published_at": "2026-06-18T18:56:22Z",
       "edited_at": "2026-06-18T22:16:10Z",
-      "public_reactions_count": 86,
-      "positive_reactions_count": 86,
+      "public_reactions_count": 87,
+      "positive_reactions_count": 87,
       "tag_list": [
         "devchallenge",
         "gemmachallenge",
@@ -7729,7 +7663,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3935459",
@@ -7741,8 +7675,8 @@
       "published_timestamp": "2026-06-18T22:13:44Z",
       "published_at": "2026-06-18T22:13:44Z",
       "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
       "tag_list": [
         "hermesagentchallenge",
         "devchallenge",
@@ -7750,7 +7684,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3939222",
@@ -7772,7 +7706,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3941365",
@@ -7784,8 +7718,8 @@
       "published_timestamp": "2026-06-19T14:37:06Z",
       "published_at": "2026-06-19T14:37:06Z",
       "edited_at": "2026-06-20T14:50:12Z",
-      "public_reactions_count": 35,
-      "positive_reactions_count": 35,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
       "tag_list": [
         "discuss",
         "community",
@@ -7794,7 +7728,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3943510",
@@ -7816,7 +7750,7 @@
       ],
       "user_name": "Jonathan Murray",
       "user_username": "jon_at_backboardio",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
       "key": "3953786",
@@ -7838,7 +7772,7 @@
       ],
       "user_name": "Tejas Patil",
       "user_username": "tejas164321",
-      "last_seen": "2026-06-22T08:25:50.929630680+00:00"
+      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     }
   ]
 }
