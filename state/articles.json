@@ -23,28 +23,6 @@
       "last_seen": "2026-06-15T03:26:02.485060499+00:00"
     },
     {
-      "key": "3288363",
-      "id": 3288363,
-      "canonical_url": "https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25",
-      "url": "https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25",
-      "title": "How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde",
-      "description": "Enterprise customers will not sign on the dotted line until they can answer: \"Who did what, and...",
-      "published_timestamp": "2026-04-16T11:48:28Z",
-      "published_at": "2026-04-16T11:48:28Z",
-      "edited_at": null,
-      "public_reactions_count": 51,
-      "positive_reactions_count": 51,
-      "tag_list": [
-        "webdev",
-        "kinde",
-        "convex",
-        "learning"
-      ],
-      "user_name": "Shola Jegede",
-      "user_username": "sholajegede",
-      "last_seen": "2026-04-23T12:37:02.953995065+00:00"
-    },
-    {
       "key": "3353098",
       "id": 3353098,
       "canonical_url": "https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6",
@@ -280,49 +258,6 @@
       "last_seen": "2026-04-23T14:57:15.166639047+00:00"
     },
     {
-      "key": "3510665",
-      "id": 3510665,
-      "canonical_url": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
-      "url": "https://dev.to/markosmilja/beyond-marker-clustering-1jmj",
-      "title": "Beyond Marker Clustering",
-      "description": "Learn about a better way to manage thousands of map markers by using priority-based ranking instead of traditional clustering.",
-      "published_timestamp": "2026-04-16T13:16:31Z",
-      "published_at": "2026-04-16T13:16:31Z",
-      "edited_at": "2026-04-18T21:05:44Z",
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
-      "tag_list": [
-        "webdev",
-        "javascript",
-        "maps",
-        "performance"
-      ],
-      "user_name": "Marko Smiljanic",
-      "user_username": "markosmilja",
-      "last_seen": "2026-04-23T12:37:02.953995065+00:00"
-    },
-    {
-      "key": "3510833",
-      "id": 3510833,
-      "canonical_url": "https://www.jonoherrington.com/blog/ai-doesnt-fix-weak-engineering",
-      "url": "https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak",
-      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
-      "description": "\"Weak engineers with AI still produce weak output. Just faster.\" That was the whole point. AI changes...",
-      "published_timestamp": "2026-04-16T13:50:47Z",
-      "published_at": "2026-04-16T13:50:47Z",
-      "edited_at": null,
-      "public_reactions_count": 124,
-      "positive_reactions_count": 124,
-      "tag_list": [
-        "ai",
-        "leadership",
-        "discuss"
-      ],
-      "user_name": "Jono Herrington",
-      "user_username": "jonoherrington",
-      "last_seen": "2026-04-23T13:43:52.667770331+00:00"
-    },
-    {
       "key": "3510931",
       "id": 3510931,
       "canonical_url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
@@ -343,25 +278,6 @@
       "user_name": "Fernando Fornieles",
       "user_username": "nandofm",
       "last_seen": "2026-05-13T16:59:58.863821975+00:00"
-    },
-    {
-      "key": "3511011",
-      "id": 3511011,
-      "canonical_url": "https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3",
-      "url": "https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3",
-      "title": "What brings you by a conference booth?",
-      "description": "What makes you stop by and chat at a booth?",
-      "published_timestamp": "2026-04-16T14:39:18Z",
-      "published_at": "2026-04-16T14:39:18Z",
-      "edited_at": null,
-      "public_reactions_count": 45,
-      "positive_reactions_count": 45,
-      "tag_list": [
-        "discuss"
-      ],
-      "user_name": "Amara Graham",
-      "user_username": "missamarakay",
-      "last_seen": "2026-04-23T13:43:52.667770331+00:00"
     },
     {
       "key": "3511691",
@@ -4619,8 +4535,8 @@
       "published_timestamp": "2026-06-15T14:44:53Z",
       "published_at": "2026-06-15T14:44:53Z",
       "edited_at": null,
-      "public_reactions_count": 46,
-      "positive_reactions_count": 46,
+      "public_reactions_count": 47,
+      "positive_reactions_count": 47,
       "tag_list": [
         "ai",
         "webdev",
@@ -4629,7 +4545,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3704010",
@@ -6331,14 +6247,14 @@
       "published_timestamp": "2026-06-17T04:00:00Z",
       "published_at": "2026-06-17T04:00:00Z",
       "edited_at": null,
-      "public_reactions_count": 91,
-      "positive_reactions_count": 91,
+      "public_reactions_count": 92,
+      "positive_reactions_count": 92,
       "tag_list": [
         "welcome"
       ],
       "user_name": "Sloan the DEV Moderator",
       "user_username": "sloan",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3810139",
@@ -6426,7 +6342,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3812839",
@@ -7090,8 +7006,8 @@
       "published_timestamp": "2026-06-18T06:49:04Z",
       "published_at": "2026-06-18T06:49:04Z",
       "edited_at": null,
-      "public_reactions_count": 51,
-      "positive_reactions_count": 51,
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
       "tag_list": [
         "devchallenge",
         "gamechallenge",
@@ -7100,7 +7016,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3875595",
@@ -7206,7 +7122,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3883225",
@@ -7262,8 +7178,8 @@
       "published_timestamp": "2026-06-17T07:56:06Z",
       "published_at": "2026-06-17T07:56:06Z",
       "edited_at": "2026-06-18T07:28:43Z",
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
+      "public_reactions_count": 39,
+      "positive_reactions_count": 39,
       "tag_list": [
         "nextjs",
         "javascript",
@@ -7272,7 +7188,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3897983",
@@ -7316,7 +7232,7 @@
       ],
       "user_name": "vitoriazzp",
       "user_username": "vitoriazzp",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3903687",
@@ -7359,7 +7275,7 @@
       ],
       "user_name": "Gamya ",
       "user_username": "gamya_m",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3907259",
@@ -7384,6 +7300,27 @@
       "last_seen": "2026-06-22T11:08:24.139228101+00:00"
     },
     {
+      "key": "3909296",
+      "id": 3909296,
+      "canonical_url": "https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p",
+      "url": "https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p",
+      "title": "End of the Year idea for DEV?",
+      "description": "Hey all!  I have this thought in mind that we should all come together as a community to celebrate...",
+      "published_timestamp": "2026-06-15T20:24:36Z",
+      "published_at": "2026-06-15T20:24:36Z",
+      "edited_at": "2026-06-15T21:15:49Z",
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "discuss",
+        "community",
+        "watercooler"
+      ],
+      "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
+      "user_username": "francistrdev",
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
+    },
+    {
       "key": "3910960",
       "id": 3910960,
       "canonical_url": "https://dev.to/cathylai/tailwind-css4-why-those-inline-styles-are-actually-more-scalable-a-senior-css-developers-guide-hdj",
@@ -7403,7 +7340,7 @@
       ],
       "user_name": "Cathy Lai",
       "user_username": "cathylai",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3913605",
@@ -7447,7 +7384,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3916501",
@@ -7469,7 +7406,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3916608",
@@ -7489,7 +7426,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3917677",
@@ -7511,7 +7448,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3922930",
@@ -7533,7 +7470,7 @@
       ],
       "user_name": "Pavel Kalo",
       "user_username": "pablonax",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3926602",
@@ -7555,7 +7492,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3926659",
@@ -7567,8 +7504,8 @@
       "published_timestamp": "2026-06-18T07:25:04Z",
       "published_at": "2026-06-18T07:25:04Z",
       "edited_at": null,
-      "public_reactions_count": 120,
-      "positive_reactions_count": 120,
+      "public_reactions_count": 121,
+      "positive_reactions_count": 121,
       "tag_list": [
         "javascript",
         "webdev",
@@ -7577,7 +7514,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3929764",
@@ -7598,7 +7535,7 @@
       ],
       "user_name": "Salih Guler ",
       "user_username": "salihgueler",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3934088",
@@ -7620,7 +7557,7 @@
       ],
       "user_name": "Jay Saadana",
       "user_username": "jaysaadana",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3934265",
@@ -7663,7 +7600,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3935459",
@@ -7684,7 +7621,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3939222",
@@ -7706,7 +7643,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3941365",
@@ -7718,8 +7655,8 @@
       "published_timestamp": "2026-06-19T14:37:06Z",
       "published_at": "2026-06-19T14:37:06Z",
       "edited_at": "2026-06-20T14:50:12Z",
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
       "tag_list": [
         "discuss",
         "community",
@@ -7728,7 +7665,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3943510",
@@ -7740,8 +7677,8 @@
       "published_timestamp": "2026-06-19T21:02:20Z",
       "published_at": "2026-06-19T21:02:20Z",
       "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
       "tag_list": [
         "ai",
         "programming",
@@ -7750,7 +7687,7 @@
       ],
       "user_name": "Jonathan Murray",
       "user_username": "jon_at_backboardio",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     },
     {
       "key": "3953786",
@@ -7762,8 +7699,8 @@
       "published_timestamp": "2026-06-21T07:08:00Z",
       "published_at": "2026-06-21T07:08:00Z",
       "edited_at": "2026-06-21T15:50:59Z",
-      "public_reactions_count": 45,
-      "positive_reactions_count": 45,
+      "public_reactions_count": 47,
+      "positive_reactions_count": 47,
       "tag_list": [
         "devchallenge",
         "gamechallenge",
@@ -7772,7 +7709,29 @@
       ],
       "user_name": "Tejas Patil",
       "user_username": "tejas164321",
-      "last_seen": "2026-06-22T11:08:24.139228101+00:00"
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
+    },
+    {
+      "key": "3955460",
+      "id": 3955460,
+      "canonical_url": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
+      "url": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
+      "title": "15 AI Stories Later, Some Honest Words",
+      "description": "May 29 I wrote my first AI trainwreck story. June 18 I finished #15.  People keep asking if this was...",
+      "published_timestamp": "2026-06-21T13:21:56Z",
+      "published_at": "2026-06-21T13:21:56Z",
+      "edited_at": null,
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "ai",
+        "discuss",
+        "programming",
+        "career"
+      ],
+      "user_name": "xulingfeng",
+      "user_username": "xulingfeng",
+      "last_seen": "2026-06-22T14:09:23.815431635+00:00"
     }
   ]
 }
