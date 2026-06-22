@@ -98,13 +98,6 @@
     <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T16:59:42Z&lt;br/&gt;Tags: go, rust, docker, kubernetes&lt;br/&gt;Description: Let me tell you a story that starts in 2013, peaks somewhere around 2019, and ends with me staring at...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3506833</id>
-    <title>Join the OpenClaw Challenge: $1,200 Prize Pool!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682"/>
-    <updated>2026-04-16T15:38:54+00:00</updated>
-    <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T15:38:54Z&lt;br/&gt;Tags: devchallenge, openclawchallenge, openclaw, ai&lt;br/&gt;Description: If you&apos;ve spent any time on the internet, you know OpenClaw has been making waves lately. We recently...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3709055</id>
     <title>Antigravity &amp; WebMCP: Why Google I/O 2026 is Terrifying for Devs</title>
     <link rel="alternate" href="https://dev.to/syedahmershah/antigravity-webmcp-why-google-io-2026-is-terrifying-for-devs-31mb"/>
@@ -336,18 +329,18 @@
     <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/matthewrevell&quot;&gt;Matthew Revell&lt;/a&gt;&lt;br/&gt;Published: 2026-04-17T15:14:12Z&lt;br/&gt;Tags: web3, solana, programming, blockchain&lt;br/&gt;Description: Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3806099</id>
+    <title>Welcome Thread - v380</title>
+    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v380-oi4"/>
+    <updated>2026-06-17T04:00:00+00:00</updated>
+    <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3790143</id>
     <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
     <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
     <updated>2026-05-31T16:54:50+00:00</updated>
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3806099</id>
-    <title>Welcome Thread - v380</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v380-oi4"/>
-    <updated>2026-06-17T04:00:00+00:00</updated>
-    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693415</id>
@@ -1050,6 +1043,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alimafana&quot;&gt;Ali Afana &lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T12:14:54Z&lt;br/&gt;Tags: ai, webdev, openai, monitoring&lt;br/&gt;Description: OpenAI&apos;s billing page shows total spend. It doesn&apos;t show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I&apos;d been treating as similar.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3867038</id>
+    <title>Tower Before Dusk: I Built a Puzzle Game for Humans and AI</title>
+    <link rel="alternate" href="https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao"/>
+    <updated>2026-06-18T06:49:04+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T06:49:04Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, ai&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  It&apos;s interesting how the most exciting ideas...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:2414922</id>
     <title>12 Hard Truths About Coding I Learned the Hard Way After 10+ Years</title>
     <link rel="alternate" href="https://canro91.github.io/2025/04/17/HarshTruths/"/>
@@ -1085,13 +1085,6 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T20:49:11Z&lt;br/&gt;Tags: ai, webdev, programming, opensource&lt;br/&gt;Description: Model Context Protocol (MCP) servers have transformed AI from passive chatbots into action-capable...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3867038</id>
-    <title>Tower Before Dusk: I Built a Puzzle Game for Humans and AI</title>
-    <link rel="alternate" href="https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao"/>
-    <updated>2026-06-18T06:49:04+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T06:49:04Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, ai&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  It&apos;s interesting how the most exciting ideas...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3821119</id>
     <title>How I Bridged AWS Face Liveness to Expo with a Native Module</title>
     <link rel="alternate" href="https://dev.to/olawalethefirst/how-i-bridged-aws-face-liveness-to-expo-with-a-native-module-2o49"/>
@@ -1104,13 +1097,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/how-to-write-a-developer-portfolio-that-reads-like-business-results-not-a-resume-2khh"/>
     <updated>2026-05-13T09:24:39+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:24:39Z&lt;br/&gt;Tags: developers, career, portfolio, discuss&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3511691</id>
-    <title>How to Add Device Authorization Flow to Your App With Kinde</title>
-    <link rel="alternate" href="https://dev.to/sholajegede/how-to-add-device-authorization-flow-to-your-app-with-kinde-1o69"/>
-    <updated>2026-04-16T17:29:50+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sholajegede&quot;&gt;Shola Jegede&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T17:29:50Z&lt;br/&gt;Tags: webdev, kinde, learning, programming&lt;br/&gt;Description: Most auth tutorials assume there is a browser. Here is what to do when there is not.  In this...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3810139</id>
@@ -1183,11 +1169,18 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/codedbyasim&quot;&gt;Muhammad Asim Hanif&lt;/a&gt;&lt;br/&gt;Published: 2026-04-26T16:51:16Z&lt;br/&gt;Tags: devchallenge, cloudnextchallenge, googlecloud, agents&lt;br/&gt;Description: There&apos;s a thing that happens at big tech conferences. You sit through an hour of polished demos,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3506732</id>
-    <title>Build a voice-enabled Telegram Bot with the Gemini Interactions API</title>
-    <link rel="alternate" href="https://dev.to/googleai/build-a-voice-enabled-telegram-bot-with-the-gemini-interactions-api-nm5"/>
-    <updated>2026-04-16T15:03:04+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thorwebdev&quot;&gt;Thor 雷神 Schaeff&lt;/a&gt;&lt;br/&gt;Published: 2026-04-16T15:03:04Z&lt;br/&gt;Tags: ai, gemini, python, tutorial&lt;br/&gt;Description: What if your Telegram bot could listen?  Not just read text — actually understand voice messages,...</summary>
+    <id>tag:dev.to,2026:3953786</id>
+    <title>Turing&apos;s Mirror - A Game About the Question We Still Haven&apos;t Answered</title>
+    <link rel="alternate" href="https://dev.to/tejas164321/turings-mirror-a-game-about-the-question-we-still-havent-answered-1e3o"/>
+    <updated>2026-06-21T15:50:59+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejas164321&quot;&gt;Tejas Patil&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T07:08:00Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, ai&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam           What I Built   Turing&apos;s Mirror is a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3935459</id>
+    <title>Congrats to the Hermes Agent Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-hermes-agent-challenge-winners-3on0"/>
+    <updated>2026-06-18T22:13:44+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T22:13:44Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents&lt;br/&gt;Description: We are thrilled to announce the winners of the Hermes Agent Challenge! Over the past few weeks, the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3792290</id>
@@ -1230,13 +1223,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"/>
     <updated>2026-04-23T20:47:21+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T20:47:21Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: We asked you to build something completely useless and you delivered.   The DEV April Fools Challenge...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3953786</id>
-    <title>Turing&apos;s Mirror - A Game About the Question We Still Haven&apos;t Answered</title>
-    <link rel="alternate" href="https://dev.to/tejas164321/turings-mirror-a-game-about-the-question-we-still-havent-answered-1e3o"/>
-    <updated>2026-06-21T15:50:59+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejas164321&quot;&gt;Tejas Patil&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T07:08:00Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, ai&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam           What I Built   Turing&apos;s Mirror is a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3703634</id>
@@ -1400,10 +1386,24 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaideepparashar&quot;&gt;Jaideep Parashar&lt;/a&gt;&lt;br/&gt;Published: 2026-04-20T07:08:57Z&lt;br/&gt;Tags: ai, webdev, beginners, devops&lt;br/&gt;Description: I’ve been using AI for months now. Not casually, seriously. And I’ve started noticing something...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3896384</id>
+    <title>I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why</title>
+    <link rel="alternate" href="https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c"/>
+    <updated>2026-06-18T07:28:43+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T07:56:06Z&lt;br/&gt;Tags: nextjs, javascript, webdev, security&lt;br/&gt;Description: A few days ago I published a post about the three-layer auth model and the invoice incident that made...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3851262</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-14hj"/>
     <updated>2026-06-08T19:39:41+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T19:39:41Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3701157</id>
+    <title>Hermes Just Killed OpenClaw (Here&apos;s Why)</title>
+    <link rel="alternate" href="https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23"/>
+    <updated>2026-05-19T13:26:24+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T13:12:33Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, discuss&lt;br/&gt;Description: A technical comparison of Hermes Agent and OpenClaw through the five claims that actually matter: memory, skills, sandboxing, messaging, and persistent infrastructure.</summary>
   </entry>
 </feed>
