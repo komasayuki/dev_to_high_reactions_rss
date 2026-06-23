@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-21T21:11:53+00:00</updated>
+  <updated>2026-06-22T15:11:59+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -987,6 +987,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mindmagic&quot;&gt;Mindmagic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T17:01:56Z&lt;br/&gt;Tags: devjournal, learning, productivity, watercooler&lt;br/&gt;Description: The Market Was Never the Enemy. It Was Me.    Most people believe trading is a purely...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3867038</id>
+    <title>Tower Before Dusk: I Built a Puzzle Game for Humans and AI</title>
+    <link rel="alternate" href="https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao"/>
+    <updated>2026-06-18T06:49:04+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T06:49:04Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, ai&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  It&apos;s interesting how the most exciting ideas...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3800157</id>
     <title>I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.</title>
     <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
@@ -1006,13 +1013,6 @@
     <link rel="alternate" href="https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3"/>
     <updated>2026-05-05T07:41:29+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T07:41:29Z&lt;br/&gt;Tags: ai, flutter, mobile, productivity&lt;br/&gt;Description: &quot;We picked Flutter because it promised one codebase for everything. But now we have three separate...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3867038</id>
-    <title>Tower Before Dusk: I Built a Puzzle Game for Humans and AI</title>
-    <link rel="alternate" href="https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao"/>
-    <updated>2026-06-18T06:49:04+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T06:49:04Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, ai&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  It&apos;s interesting how the most exciting ideas...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3780124</id>
@@ -1218,6 +1218,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T20:47:21Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: We asked you to build something completely useless and you delivered.   The DEV April Fools Challenge...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3963488</id>
+    <title>I Wish I Had Started Documenting My Tech Journey Earlier</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/i-wish-i-had-started-documenting-my-tech-journey-earlier-5d7m"/>
+    <updated>2026-06-22T15:11:59+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T14:56:08Z&lt;br/&gt;Tags: community, beginners, discuss, career&lt;br/&gt;Description: TL;DR  For a long time, I told myself I would start documenting my journey later. I thought I needed...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3941365</id>
     <title>Dev Opportunity Radar #4: Anthropic Fellows, $30K for Founders, and AWS She Builds</title>
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23"/>
     <updated>2026-05-19T13:26:24+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T13:12:33Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, discuss&lt;br/&gt;Description: A technical comparison of Hermes Agent and OpenClaw through the five claims that actually matter: memory, skills, sandboxing, messaging, and persistent infrastructure.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3596437</id>
-    <title>MCP, Skills, AI Agents, and New Models: The New Stack for Software Development</title>
-    <link rel="alternate" href="https://dev.to/muhammad_rizwan_32ec93eee/mcp-skills-ai-agents-and-new-models-the-new-stack-for-software-development-44ba"/>
-    <updated>2026-05-01T14:11:07+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/muhammad_rizwan_32ec93eee&quot;&gt;Muhammad Rizwan&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T14:11:07Z&lt;br/&gt;Tags: mcp, development, ai&lt;br/&gt;Description: Software development is moving from “AI as autocomplete” to “AI as an active teammate.” The shift is...</summary>
   </entry>
 </feed>
