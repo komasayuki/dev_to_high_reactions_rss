@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-24T09:14:11+00:00</updated>
+  <updated>2026-06-24T23:34:04+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -315,6 +315,13 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T14:47:35Z&lt;br/&gt;Tags: ai, productivity, learning, softwareengineering&lt;br/&gt;Description: Lately, I’ve been reflecting on something:  The question for most developers is no longer &quot;Are you...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3964664</id>
+    <title>I am behind, and I can&apos;t prove it but does it matter?</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6"/>
+    <updated>2026-06-22T22:14:38+00:00</updated>
+    <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T20:24:25Z&lt;br/&gt;Tags: discuss, community, mentalhealth, career&lt;br/&gt;Description: Let&apos;s be fair. The title of this post is confusing at first, but once you read it in full, I hope you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3934585</id>
     <title>Congrats to the Gemma 4 Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"/>
@@ -327,13 +334,6 @@
     <link rel="alternate" href="https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"/>
     <updated>2026-05-22T16:27:19+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T16:27:19Z&lt;br/&gt;Tags: gemini, ai, googlecloud, postgres&lt;br/&gt;Description: Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3964664</id>
-    <title>I am behind, and I can&apos;t prove it but does it matter?</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6"/>
-    <updated>2026-06-22T22:14:38+00:00</updated>
-    <summary type="html">Reactions: public 96 / positive 96&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T20:24:25Z&lt;br/&gt;Tags: discuss, community, mentalhealth, career&lt;br/&gt;Description: Let&apos;s be fair. The title of this post is confusing at first, but once you read it in full, I hope you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3596751</id>
@@ -1207,7 +1207,7 @@
     <id>tag:dev.to,2026:3955460</id>
     <title>15 AI Stories Later, Some Honest Words</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j"/>
-    <updated>2026-06-21T13:21:56+00:00</updated>
+    <updated>2026-06-24T23:34:04+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T13:21:56Z&lt;br/&gt;Tags: ai, discuss, programming, career&lt;br/&gt;Description: May 29 I wrote my first AI trainwreck story. June 18 I finished #15.  People keep asking if this was...</summary>
   </entry>
   <entry>
