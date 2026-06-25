@@ -81,7 +81,7 @@
     <title>I Wish I Had Started Documenting My Tech Journey Earlier</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/i-wish-i-had-started-documenting-my-tech-journey-earlier-5d7m"/>
     <updated>2026-06-22T15:11:59+00:00</updated>
-    <summary type="html">Reactions: public 167 / positive 167&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T14:56:08Z&lt;br/&gt;Tags: community, beginners, discuss, career&lt;br/&gt;Description: TL;DR  For a long time, I told myself I would start documenting my journey later. I thought I needed...</summary>
+    <summary type="html">Reactions: public 168 / positive 168&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T14:56:08Z&lt;br/&gt;Tags: community, beginners, discuss, career&lt;br/&gt;Description: TL;DR  For a long time, I told myself I would start documenting my journey later. I thought I needed...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3605102</id>
@@ -791,6 +791,13 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/om_shree_0709&quot;&gt;Om Shree&lt;/a&gt;&lt;br/&gt;Published: 2026-04-22T01:28:17Z&lt;br/&gt;Tags: ai, security, discuss, claude&lt;br/&gt;Description: Anthropic built a model so dangerous they refused to release it publicly. Then a Discord group got in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3972958</id>
+    <title>Too cheap to be good? Think again.</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0"/>
+    <updated>2026-06-24T23:38:43+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T20:38:37Z&lt;br/&gt;Tags: ai, benchmark, devops, webdev&lt;br/&gt;Description: I replaced aaPanel/OpenLiteSpeed with Caddy and shell scripts and turned the process into a benchmark. Two phases (architecture then code), one external code review. The winning model? Not the one you&apos;d expect.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3696406</id>
     <title>Demystifying AI Agents with Turtle &amp; Gemma</title>
     <link rel="alternate" href="https://bebechien.github.io/cozy-corner-future/posts/demystifying-ai-agents-with-turtle-gemma/"/>
@@ -810,13 +817,6 @@
     <link rel="alternate" href="https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0"/>
     <updated>2026-05-06T05:56:15+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tejakummarikuntla&quot;&gt;Teja Kummarikuntla&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T15:26:47Z&lt;br/&gt;Tags: ai, langchain, programming, webdev&lt;br/&gt;Description: Say you built an AI agent and customers are starting to pay for it. Sooner or later you&apos;ll want to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3972958</id>
-    <title>Too cheap to be good? Think again.</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0"/>
-    <updated>2026-06-24T23:38:43+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T20:38:37Z&lt;br/&gt;Tags: ai, benchmark, devops, webdev&lt;br/&gt;Description: I replaced aaPanel/OpenLiteSpeed with Caddy and shell scripts and turned the process into a benchmark. Two phases (architecture then code), one external code review. The winning model? Not the one you&apos;d expect.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3543505</id>
@@ -1113,13 +1113,6 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T19:30:03Z&lt;br/&gt;Tags: webdev, programming, beginners, go&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3523974</id>
-    <title>It Might Already Be Too Late to Fix This</title>
-    <link rel="alternate" href="https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m"/>
-    <updated>2026-04-19T22:48:17+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-04-19T22:48:17Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, ai, webdev&lt;br/&gt;Description: This is a submission for Weekend Challenge: Earth Day Edition  It might already be too late to fix...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3953786</id>
     <title>Turing&apos;s Mirror - A Game About the Question We Still Haven&apos;t Answered</title>
     <link rel="alternate" href="https://dev.to/tejas164321/turings-mirror-a-game-about-the-question-we-still-havent-answered-1e3o"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://blog.ozigi.app/blog/vercel-got-breached-a-guide-to-safety-2026"/>
     <updated>2026-04-21T13:11:44+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dumebii&quot;&gt;Dumebi Okolo&lt;/a&gt;&lt;br/&gt;Published: 2026-04-21T11:57:58Z&lt;br/&gt;Tags: webdev, security, tutorial, beginners&lt;br/&gt;Description: Vercel confirmed a security incident on April 19, 2026 affecting customer environment variables....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3964775</id>
+    <title>. .. . ... . .... . .... . ... .</title>
+    <link rel="alternate" href="https://dev.to/lovestaco/--2kb7"/>
+    <updated>2026-06-22T20:25:54+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T20:25:54Z&lt;br/&gt;Tags: ai, webdev, programming, beginners&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
 </feed>

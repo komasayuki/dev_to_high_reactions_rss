@@ -284,28 +284,6 @@
       "last_seen": "2026-04-27T16:43:23.554904142+00:00"
     },
     {
-      "key": "3523974",
-      "id": 3523974,
-      "canonical_url": "https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m",
-      "url": "https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m",
-      "title": "It Might Already Be Too Late to Fix This",
-      "description": "This is a submission for Weekend Challenge: Earth Day Edition  It might already be too late to fix...",
-      "published_timestamp": "2026-04-19T22:48:17Z",
-      "published_at": "2026-04-19T22:48:17Z",
-      "edited_at": null,
-      "public_reactions_count": 50,
-      "positive_reactions_count": 50,
-      "tag_list": [
-        "devchallenge",
-        "weekendchallenge",
-        "ai",
-        "webdev"
-      ],
-      "user_name": "Konark Sharma",
-      "user_username": "konark_13",
-      "last_seen": "2026-04-26T22:21:11.552807300+00:00"
-    },
-    {
       "key": "3524597",
       "id": 3524597,
       "canonical_url": "https://dev.to/anchildress1/unearthed-the-coal-mine-behind-every-light-switch-234m",
@@ -3001,6 +2979,28 @@
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
       "last_seen": "2026-05-17T09:44:25.721887702+00:00"
+    },
+    {
+      "key": "3645657",
+      "id": 3645657,
+      "canonical_url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
+      "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
+      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
+      "description": "Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...",
+      "published_timestamp": "2026-06-25T12:58:12Z",
+      "published_at": "2026-06-25T12:58:12Z",
+      "edited_at": null,
+      "public_reactions_count": 32,
+      "positive_reactions_count": 32,
+      "tag_list": [
+        "ai",
+        "softwareengineering",
+        "developer",
+        "productivity"
+      ],
+      "user_name": "Julien Avezou",
+      "user_username": "javz",
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3647215",
@@ -6302,7 +6302,7 @@
       ],
       "user_name": "Aryan Choudhary",
       "user_username": "itsugo",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3844964",
@@ -7210,7 +7210,7 @@
       ],
       "user_name": "Gabriel",
       "user_username": "gabrielfvdev",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3934265",
@@ -7318,7 +7318,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3941365",
@@ -7340,7 +7340,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3943510",
@@ -7362,7 +7362,7 @@
       ],
       "user_name": "Jonathan Murray",
       "user_username": "jon_at_backboardio",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3947027",
@@ -7406,7 +7406,7 @@
       ],
       "user_name": "Tejas Patil",
       "user_username": "tejas164321",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3955460",
@@ -7428,7 +7428,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3957571",
@@ -7450,7 +7450,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "tahosin",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3960585",
@@ -7493,7 +7493,7 @@
       ],
       "user_name": "Ingo Steinke, web developer",
       "user_username": "ingosteinke",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3963488",
@@ -7505,8 +7505,8 @@
       "published_timestamp": "2026-06-22T14:56:08Z",
       "published_at": "2026-06-22T14:56:08Z",
       "edited_at": "2026-06-22T15:11:59Z",
-      "public_reactions_count": 167,
-      "positive_reactions_count": 167,
+      "public_reactions_count": 168,
+      "positive_reactions_count": 168,
       "tag_list": [
         "community",
         "beginners",
@@ -7515,7 +7515,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3963551",
@@ -7537,7 +7537,7 @@
       ],
       "user_name": "Bruno Freschi",
       "user_username": "bruno_freschi",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3964664",
@@ -7559,7 +7559,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3964775",
@@ -7581,7 +7581,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3969321",
@@ -7603,7 +7603,7 @@
       ],
       "user_name": "FlutWiz",
       "user_username": "flutwiz",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3969660",
@@ -7625,7 +7625,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3971891",
@@ -7647,7 +7647,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3972958",
@@ -7659,8 +7659,8 @@
       "published_timestamp": "2026-06-23T20:38:37Z",
       "published_at": "2026-06-23T20:38:37Z",
       "edited_at": "2026-06-24T23:38:43Z",
-      "public_reactions_count": 60,
-      "positive_reactions_count": 60,
+      "public_reactions_count": 62,
+      "positive_reactions_count": 62,
       "tag_list": [
         "ai",
         "benchmark",
@@ -7669,7 +7669,7 @@
       ],
       "user_name": "Pascal CESCATO",
       "user_username": "pascal_cescato_692b7a8a20",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     },
     {
       "key": "3973904",
@@ -7691,7 +7691,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-06-25T21:43:21.759712661+00:00"
+      "last_seen": "2026-06-25T22:40:42.471735462+00:00"
     }
   ]
 }
