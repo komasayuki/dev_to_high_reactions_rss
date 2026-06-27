@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-26T18:07:40+00:00</updated>
+  <updated>2026-06-27T17:59:30+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -392,18 +392,18 @@
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3842404</id>
+    <title>To The People Who Read My Weird Little Blogs</title>
+    <link rel="alternate" href="https://dev.to/itsugo/to-the-people-who-read-my-weird-little-blogs-3icj"/>
+    <updated>2026-06-24T13:59:18+00:00</updated>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T13:59:18Z&lt;br/&gt;Tags: writing, community, discuss, learning&lt;br/&gt;Description: When I joined DEV, I had a very simple goal.  Learn in public. Maybe improve as a developer....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3756670</id>
     <title>An LLM API call, in 4 GIFs</title>
     <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
     <updated>2026-05-30T10:22:38+00:00</updated>
     <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3842404</id>
-    <title>To The People Who Read My Weird Little Blogs</title>
-    <link rel="alternate" href="https://dev.to/itsugo/to-the-people-who-read-my-weird-little-blogs-3icj"/>
-    <updated>2026-06-24T13:59:18+00:00</updated>
-    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T13:59:18Z&lt;br/&gt;Tags: writing, community, discuss, learning&lt;br/&gt;Description: When I joined DEV, I had a very simple goal.  Learn in public. Maybe improve as a developer....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3651760</id>
@@ -1291,8 +1291,8 @@
     <id>tag:dev.to,2026:3989822</id>
     <title>I Almost Didn&apos;t Learn Programming Because I Was Bad at Math</title>
     <link rel="alternate" href="https://dev.to/technogamerz/i-almost-didnt-learn-programming-because-i-was-bad-at-math-f16"/>
-    <updated>2026-06-26T10:11:25+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/technogamerz&quot;&gt;𝕋𝕙𝕖 𝕃𝕒𝕫𝕪 𝔾𝕚𝕣𝕝 &lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T09:57:36Z&lt;br/&gt;Tags: discuss, developer&lt;br/&gt;Description: For a long time, I thought programming wasn&apos;t for people like me.  Not because I wasn&apos;t interested in...</summary>
+    <updated>2026-06-27T17:59:30+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/technogamerz&quot;&gt;𝕋𝕙𝕖 𝕃𝕒𝕫𝕪 𝔾𝕚𝕣𝕝 &lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T09:57:36Z&lt;br/&gt;Tags: discuss, developer, coding, beginners&lt;br/&gt;Description: For a long time, I thought programming wasn&apos;t for people like me.  Not because I wasn&apos;t interested in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3957571</id>
@@ -1328,6 +1328,13 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl"/>
     <updated>2026-04-27T18:26:58+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T18:26:58Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3991633</id>
+    <title>How QA Teams at High Growth Startups Scale from 50 to 500 Tests Without Hiring 5 More Engineers</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/how-qa-teams-at-high-growth-startups-scale-from-50-to-500-tests-without-hiring-5-more-engineers-150f"/>
+    <updated>2026-06-25T19:26:57+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T19:26:57Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: Your QA team built 50 automated tests in the first quarter. Leadership was thrilled. Coverage was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3896384</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"/>
     <updated>2026-06-18T05:08:59+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pablonax&quot;&gt;Pavel Kalo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T10:19:30Z&lt;br/&gt;Tags: ai, claude, llm, tooling&lt;br/&gt;Description: I started using premortems for a boring reason: I did not trust the default review question.  When I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3913605</id>
-    <title>I Got Flagged by Sloan. Sloan Is a Guy I Know.</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e"/>
-    <updated>2026-06-16T16:33:58+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T13:45:03Z&lt;br/&gt;Tags: ai, discuss, meta, devto&lt;br/&gt;Description: Two weeks ago I published a piece explaining exactly why AI detectors are unreliable. Then Sloan...</summary>
   </entry>
 </feed>
