@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-29T07:18:48+00:00</updated>
+  <updated>2026-06-29T16:04:30+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -518,6 +518,13 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:17:56Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4015354</id>
+    <title>What&apos;s Next for AI?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
+    <updated>2026-06-29T07:18:48+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3676308</id>
     <title>Recycling made easy: a Polish recycling assistant powered by Gemma 4</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a"/>
@@ -537,13 +544,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-96l"/>
     <updated>2026-05-08T19:31:34+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4015354</id>
-    <title>What&apos;s Next for AI?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
-    <updated>2026-06-29T07:18:48+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3820180</id>
@@ -1092,6 +1092,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:22:28Z&lt;br/&gt;Tags: ai, geopolitics, hardware, fiction&lt;br/&gt;Description: Santa Clara, 2029. A speculative fiction about hegemony, sanctions, and the playbook nobody followed.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4011094</id>
+    <title>After a long journey, I&apos;ve reached a deep burnout</title>
+    <link rel="alternate" href="https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"/>
+    <updated>2026-06-28T10:03:01+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3693063</id>
     <title>The Concept of Automatic Fallbacks And How Bifrost Implements It</title>
     <link rel="alternate" href="https://dev.to/anthonymax/the-concept-of-automatic-fallbacks-and-how-bifrost-implements-it-592p"/>
@@ -1104,13 +1111,6 @@
     <link rel="alternate" href="https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d"/>
     <updated>2026-05-09T13:40:23+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T19:30:03Z&lt;br/&gt;Tags: webdev, programming, beginners, go&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4011094</id>
-    <title>After a long journey, I&apos;ve reached a deep burnout</title>
-    <link rel="alternate" href="https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"/>
-    <updated>2026-06-28T10:03:01+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3980327</id>
@@ -1195,6 +1195,13 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f"/>
     <updated>2026-04-23T20:47:21+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-23T20:47:21Z&lt;br/&gt;Tags: devchallenge, 418challenge, jokes&lt;br/&gt;Description: We asked you to build something completely useless and you delivered.   The DEV April Fools Challenge...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4000790</id>
+    <title>Welcome to AI Engineer World’s Fair 2026</title>
+    <link rel="alternate" href="https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"/>
+    <updated>2026-06-29T16:04:30+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swyx&quot;&gt;swyx&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:04:30Z&lt;br/&gt;Tags: aie, ai, techtalks, softwareengineering&lt;br/&gt;Description: Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3703634</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd"/>
     <updated>2026-06-19T21:02:20+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T21:02:20Z&lt;br/&gt;Tags: ai, programming, beginners, career&lt;br/&gt;Description: Internmaxxing   Somebody on your timeline this week called intern code &quot;API slop.&quot;...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3922930</id>
-    <title>How I use premortems with Claude and Codex</title>
-    <link rel="alternate" href="https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"/>
-    <updated>2026-06-18T05:08:59+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pablonax&quot;&gt;Pavel Kalo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T10:19:30Z&lt;br/&gt;Tags: ai, claude, llm, tooling&lt;br/&gt;Description: I started using premortems for a boring reason: I did not trust the default review question.  When I...</summary>
   </entry>
 </feed>
