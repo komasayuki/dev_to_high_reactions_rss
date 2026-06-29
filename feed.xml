@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-27T17:59:30+00:00</updated>
+  <updated>2026-06-28T04:43:40+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -88,7 +88,7 @@
     <title>7 New JavaScript Features (And 2 I&apos;m Still Waiting For)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8"/>
     <updated>2026-06-24T09:14:11+00:00</updated>
-    <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T09:14:11Z&lt;br/&gt;Tags: javascript, typescript, node, webdev&lt;br/&gt;Description: Remember how I promised you (or rather myself) two weeks ago that from now on I&apos;d only write light,...</summary>
+    <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T09:14:11Z&lt;br/&gt;Tags: javascript, typescript, node, webdev&lt;br/&gt;Description: Remember how I promised you (or rather myself) two weeks ago that from now on I&apos;d only write light,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3702326</id>
@@ -350,6 +350,13 @@
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T09:09:29Z&lt;br/&gt;Tags: webdev, typescript, bash, programming&lt;br/&gt;Description: A few months ago, I published You&apos;re a Real JavaScript Developer Only If...  It was just a post for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3842404</id>
+    <title>To The People Who Read My Weird Little Blogs</title>
+    <link rel="alternate" href="https://dev.to/itsugo/to-the-people-who-read-my-weird-little-blogs-3icj"/>
+    <updated>2026-06-24T13:59:18+00:00</updated>
+    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T13:59:18Z&lt;br/&gt;Tags: writing, community, discuss, learning&lt;br/&gt;Description: When I joined DEV, I had a very simple goal.  Learn in public. Maybe improve as a developer....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3858019</id>
     <title>The Most Valuable Thing I Found in Tech Wasn&apos;t an Opportunity</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/the-most-valuable-thing-i-found-in-tech-wasnt-an-opportunity-2j83"/>
@@ -369,13 +376,6 @@
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo"/>
     <updated>2026-06-08T11:40:09+00:00</updated>
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3842404</id>
-    <title>To The People Who Read My Weird Little Blogs</title>
-    <link rel="alternate" href="https://dev.to/itsugo/to-the-people-who-read-my-weird-little-blogs-3icj"/>
-    <updated>2026-06-24T13:59:18+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T13:59:18Z&lt;br/&gt;Tags: writing, community, discuss, learning&lt;br/&gt;Description: When I joined DEV, I had a very simple goal.  Learn in public. Maybe improve as a developer....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3597666</id>
@@ -651,18 +651,18 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kernelpryanic&quot;&gt;Kernel Pryanic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T11:07:28Z&lt;br/&gt;Tags: ai, discuss, llm, software&lt;br/&gt;Description: We open our IDE and let a model running somewhere in the cloud read our entire codebase to add a null...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3993836</id>
+    <title>How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers</title>
+    <link rel="alternate" href="https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"/>
+    <updated>2026-06-27T04:12:26+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar_boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T04:12:26Z&lt;br/&gt;Tags: go, architecture, career, learn&lt;br/&gt;Description: Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3771991</id>
     <title>I Spent 10x Longer Debugging AI Code Than Writing It</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4"/>
     <updated>2026-05-28T14:53:02+00:00</updated>
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T14:53:02Z&lt;br/&gt;Tags: ai, programming, productivity, discuss&lt;br/&gt;Description: AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3993836</id>
-    <title>How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers</title>
-    <link rel="alternate" href="https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"/>
-    <updated>2026-06-27T04:12:26+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar_boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T04:12:26Z&lt;br/&gt;Tags: go, architecture, career, learn&lt;br/&gt;Description: Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3661599</id>
@@ -1022,6 +1022,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:24:39Z&lt;br/&gt;Tags: developers, career, portfolio, discuss&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3645657</id>
+    <title>Thank you DEV community: the Thinking Engineer Toolkit is live</title>
+    <link rel="alternate" href="https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"/>
+    <updated>2026-06-25T12:58:12+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T12:58:12Z&lt;br/&gt;Tags: ai, softwareengineering, developer, productivity&lt;br/&gt;Description: Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3968621</id>
     <title>I&apos;m moving house🏡 - What gadgets, furniture and whatnot do I need for The Ultimate Setup™? 🚀</title>
     <link rel="alternate" href="https://dev.to/thormeier/im-moving-house-what-gadgets-furniture-and-whatnot-do-i-need-for-the-ultimate-setup-5bp9"/>
@@ -1057,11 +1064,11 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T14:59:34Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3645657</id>
-    <title>Thank you DEV community: the Thinking Engineer Toolkit is live</title>
-    <link rel="alternate" href="https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"/>
-    <updated>2026-06-25T12:58:12+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T12:58:12Z&lt;br/&gt;Tags: ai, softwareengineering, developer, productivity&lt;br/&gt;Description: Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...</summary>
+    <id>tag:dev.to,2026:3991633</id>
+    <title>How QA Teams at High Growth Startups Scale from 50 to 500 Tests Without Hiring 5 More Engineers</title>
+    <link rel="alternate" href="https://dev.to/drizzdev/how-qa-teams-at-high-growth-startups-scale-from-50-to-500-tests-without-hiring-5-more-engineers-150f"/>
+    <updated>2026-06-25T19:26:57+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T19:26:57Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: Your QA team built 50 automated tests in the first quarter. Leadership was thrilled. Coverage was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693063</id>
@@ -1083,13 +1090,6 @@
     <link rel="alternate" href="https://dev.to/technogamerz/i-almost-didnt-learn-programming-because-i-was-bad-at-math-f16"/>
     <updated>2026-06-27T17:59:30+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/technogamerz&quot;&gt;𝕋𝕙𝕖 𝕃𝕒𝕫𝕪 𝔾𝕚𝕣𝕝 &lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T09:57:36Z&lt;br/&gt;Tags: discuss, developer, coding, beginners&lt;br/&gt;Description: For a long time, I thought programming wasn&apos;t for people like me.  Not because I wasn&apos;t interested in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3991633</id>
-    <title>How QA Teams at High Growth Startups Scale from 50 to 500 Tests Without Hiring 5 More Engineers</title>
-    <link rel="alternate" href="https://dev.to/drizzdev/how-qa-teams-at-high-growth-startups-scale-from-50-to-500-tests-without-hiring-5-more-engineers-150f"/>
-    <updated>2026-06-25T19:26:57+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T19:26:57Z&lt;br/&gt;Tags: ai, mobile, android, ios&lt;br/&gt;Description: Your QA team built 50 automated tests in the first quarter. Leadership was thrilled. Coverage was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3953786</id>
@@ -1344,6 +1344,13 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thisisryanswift&quot;&gt;Ryan Swift&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T16:27:59Z&lt;br/&gt;Tags: ai, agents, mcp, cli&lt;br/&gt;Description: We&apos;re all learning how to code with agents. If you&apos;re &quot;in the bubble&quot; it can feel like everyone is...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4009817</id>
+    <title>VP of Nothing: The CEO&apos;s Nephew Took Over My AI Platform. The Client Walked Within a Month.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla"/>
+    <updated>2026-06-28T04:43:40+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T04:43:40Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Series: AI, Ego &amp;amp; Regret — Bonus Chapter   Editor&apos;s Note: While compiling the old series for the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3980327</id>
     <title>Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"/>
     <updated>2026-06-01T12:04:48+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/divyesh5981&quot;&gt;Divyesh&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T04:59:28Z&lt;br/&gt;Tags: devchallenge, githubchallenge, typescript, opensource&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3711738</id>
-    <title>jnigen and swiftgen in 2026 - some lessons learned</title>
-    <link rel="alternate" href="https://roszkowski.dev/2026/swiftgen-jnigen/"/>
-    <updated>2026-05-20T21:09:48+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/orestesgaolin&quot;&gt;Dominik Roszkowski&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T21:09:48Z&lt;br/&gt;Tags: flutter, dart, jni, ffi&lt;br/&gt;Description: Package jni 1.0.0 was recently published. It&apos;s a good opportunity to share some of my lessons from...</summary>
   </entry>
 </feed>
