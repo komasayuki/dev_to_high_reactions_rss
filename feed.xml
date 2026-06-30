@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-29T16:04:30+00:00</updated>
+  <updated>2026-06-29T22:25:08+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -392,18 +392,18 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T20:38:37Z&lt;br/&gt;Tags: ai, benchmark, devops, webdev&lt;br/&gt;Description: I replaced aaPanel/OpenLiteSpeed with Caddy and shell scripts and turned the process into a benchmark. Two phases (architecture then code), one external code review. The winning model? Not the one you&apos;d expect.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4015354</id>
+    <title>What&apos;s Next for AI?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
+    <updated>2026-06-29T07:18:48+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3756670</id>
     <title>An LLM API call, in 4 GIFs</title>
     <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
     <updated>2026-05-30T10:22:38+00:00</updated>
     <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4015354</id>
-    <title>What&apos;s Next for AI?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
-    <updated>2026-06-29T07:18:48+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3651760</id>
@@ -525,6 +525,13 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:17:56Z&lt;br/&gt;Tags: discuss, devjournal, programming, community&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3993836</id>
+    <title>How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers</title>
+    <link rel="alternate" href="https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"/>
+    <updated>2026-06-27T04:12:26+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar_boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T04:12:26Z&lt;br/&gt;Tags: go, architecture, career, learn&lt;br/&gt;Description: Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3676308</id>
     <title>Recycling made easy: a Polish recycling assistant powered by Gemma 4</title>
     <link rel="alternate" href="https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a"/>
@@ -593,13 +600,6 @@
     <link rel="alternate" href="https://dev.to/syedahmershah/php-vs-nodejs-nextjs-vs-angular-what-to-learn-35gj"/>
     <updated>2026-05-14T16:13:26+00:00</updated>
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T16:05:01Z&lt;br/&gt;Tags: php, node, nextjs, angular&lt;br/&gt;Description: You know the feeling. Three browser tabs open. Reddit thread from 2019. A YouTube video titled &quot;PHP...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3993836</id>
-    <title>How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers</title>
-    <link rel="alternate" href="https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"/>
-    <updated>2026-06-27T04:12:26+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar_boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T04:12:26Z&lt;br/&gt;Tags: go, architecture, career, learn&lt;br/&gt;Description: Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3907259</id>
@@ -938,6 +938,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mindmagic&quot;&gt;Mindmagic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T17:01:56Z&lt;br/&gt;Tags: devjournal, learning, productivity, watercooler&lt;br/&gt;Description: The Market Was Never the Enemy. It Was Me.    Most people believe trading is a purely...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4000790</id>
+    <title>Welcome to AI Engineer World’s Fair 2026</title>
+    <link rel="alternate" href="https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"/>
+    <updated>2026-06-29T16:04:30+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swyx&quot;&gt;swyx&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:04:30Z&lt;br/&gt;Tags: aie, ai, techtalks, softwareengineering&lt;br/&gt;Description: Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3800157</id>
     <title>I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.</title>
     <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
@@ -957,13 +964,6 @@
     <link rel="alternate" href="https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3"/>
     <updated>2026-05-05T07:41:29+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T07:41:29Z&lt;br/&gt;Tags: ai, flutter, mobile, productivity&lt;br/&gt;Description: &quot;We picked Flutter because it promised one codebase for everything. But now we have three separate...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4000790</id>
-    <title>Welcome to AI Engineer World’s Fair 2026</title>
-    <link rel="alternate" href="https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09"/>
-    <updated>2026-06-29T16:04:30+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swyx&quot;&gt;swyx&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:04:30Z&lt;br/&gt;Tags: aie, ai, techtalks, softwareengineering&lt;br/&gt;Description: Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3780124</id>
@@ -1036,6 +1036,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annaspies&quot;&gt;Anna&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T01:37:32Z&lt;br/&gt;Tags: ai, stripe, cli, agents&lt;br/&gt;Description: It&apos;s not a brag for me to say &quot;I&apos;ve been visualizing infrastructure since 2018&quot; - it&apos;s the actual...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4011453</id>
+    <title>1%</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/1-15n0"/>
+    <updated>2026-06-28T10:22:28+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:22:28Z&lt;br/&gt;Tags: ai, geopolitics, hardware, fiction&lt;br/&gt;Description: Santa Clara, 2029. A speculative fiction about hegemony, sanctions, and the playbook nobody followed.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3989822</id>
     <title>I Almost Didn&apos;t Learn Programming Because I Was Bad at Math</title>
     <link rel="alternate" href="https://dev.to/technogamerz/i-almost-didnt-learn-programming-because-i-was-bad-at-math-f16"/>
@@ -1069,13 +1076,6 @@
     <link rel="alternate" href="https://dev.to/thebitforge/how-to-write-a-developer-portfolio-that-reads-like-business-results-not-a-resume-2khh"/>
     <updated>2026-05-13T09:24:39+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:24:39Z&lt;br/&gt;Tags: developers, career, portfolio, discuss&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4011453</id>
-    <title>1%</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/1-15n0"/>
-    <updated>2026-06-28T10:22:28+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T10:22:28Z&lt;br/&gt;Tags: ai, geopolitics, hardware, fiction&lt;br/&gt;Description: Santa Clara, 2029. A speculative fiction about hegemony, sanctions, and the playbook nobody followed.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3810139</id>
@@ -1372,6 +1372,20 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thisisryanswift&quot;&gt;Ryan Swift&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T16:27:59Z&lt;br/&gt;Tags: ai, agents, mcp, cli&lt;br/&gt;Description: We&apos;re all learning how to code with agents. If you&apos;re &quot;in the bubble&quot; it can feel like everyone is...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4024781</id>
+    <title>Need a break? Play today&apos;s game from The Daily Context.</title>
+    <link rel="alternate" href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"/>
+    <updated>2026-06-29T22:25:08+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T20:00:00Z&lt;br/&gt;Tags: aie, gamedev, ai, gemini&lt;br/&gt;Description: We (at DEV and MLH) are covering AI Engineer&apos;s World Fair by printing a physical newspaper called...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3993837</id>
+    <title>How To Prepare For A Golang Interview: A Practical Guide For Mid &amp; Senior Engineers</title>
+    <link rel="alternate" href="https://dev.to/nazar_boyko/how-to-prepare-for-a-golang-interview-a-practical-guide-for-mid-senior-engineers-200p"/>
+    <updated>2026-06-27T15:12:49+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar_boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T15:12:49Z&lt;br/&gt;Tags: go, architecture, programming, interview&lt;br/&gt;Description: A Go interview is rarely about syntax alone.  Yes, you should know how slices work, how goroutines...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3773154</id>
     <title>What was your win this week!?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4na1"/>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/he4rt/do-localhost-para-o-mundo-2o44"/>
     <updated>2026-06-25T01:37:04+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T15:07:19Z&lt;br/&gt;Tags: braziliandevs, career, programming, softwaredevelopment&lt;br/&gt;Description: Por muito tempo eu acreditei que programação e desenvolvimento de software como sinônimos. Na...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3943510</id>
-    <title>Internmaxxing vs. Old Man Shakes Fist at Cloud</title>
-    <link rel="alternate" href="https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd"/>
-    <updated>2026-06-19T21:02:20+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T21:02:20Z&lt;br/&gt;Tags: ai, programming, beginners, career&lt;br/&gt;Description: Internmaxxing   Somebody on your timeline this week called intern code &quot;API slop.&quot;...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3922930</id>
-    <title>How I use premortems with Claude and Codex</title>
-    <link rel="alternate" href="https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"/>
-    <updated>2026-06-18T05:08:59+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pablonax&quot;&gt;Pavel Kalo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T10:19:30Z&lt;br/&gt;Tags: ai, claude, llm, tooling&lt;br/&gt;Description: I started using premortems for a boring reason: I did not trust the default review question.  When I...</summary>
   </entry>
 </feed>
