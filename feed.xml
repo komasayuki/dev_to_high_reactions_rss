@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-06-30T22:04:40+00:00</updated>
+  <updated>2026-07-01T12:36:13+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -126,6 +126,13 @@
     <summary type="html">Reactions: public 149 / positive 149&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T06:04:15Z&lt;br/&gt;Tags: javascript, angular, react, frontend&lt;br/&gt;Description: Ok, I’m back from my short vacation and returning with some useful content 😄 As you know, from time...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4015354</id>
+    <title>What&apos;s Next for AI?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
+    <updated>2026-06-29T07:18:48+00:00</updated>
+    <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3964664</id>
     <title>I am behind, and I can&apos;t prove it but does it matter?</title>
     <link rel="alternate" href="https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6"/>
@@ -159,13 +166,6 @@
     <link rel="alternate" href="https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c"/>
     <updated>2026-06-15T21:45:00+00:00</updated>
     <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T21:45:00Z&lt;br/&gt;Tags: braziliandevs, productivity, mentalhealth, career&lt;br/&gt;Description: Um relato honesto de alguém que trabalha com design, vive com TDAH e está cansada de dicas...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4015354</id>
-    <title>What&apos;s Next for AI?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
-    <updated>2026-06-29T07:18:48+00:00</updated>
-    <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3926659</id>
@@ -378,18 +378,18 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iampraveen&quot;&gt;Praveen Rajamani&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T13:57:11Z&lt;br/&gt;Tags: discuss, ai, webdev, career&lt;br/&gt;Description: When I started using AI tools seriously across my side projects, I expected the work to get easier....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4024781</id>
+    <title>Need a break? Play today&apos;s game from The Daily Context.</title>
+    <link rel="alternate" href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"/>
+    <updated>2026-06-30T22:04:40+00:00</updated>
+    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T20:00:00Z&lt;br/&gt;Tags: aie, gamedev, ai, gemini&lt;br/&gt;Description: We (at DEV and MLH) are covering AI Engineer&apos;s World Fair by printing a physical newspaper called...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3696340</id>
     <title>🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)</title>
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo"/>
     <updated>2026-06-08T11:40:09+00:00</updated>
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4024781</id>
-    <title>Need a break? Play today&apos;s game from The Daily Context.</title>
-    <link rel="alternate" href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"/>
-    <updated>2026-06-30T22:04:40+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T20:00:00Z&lt;br/&gt;Tags: aie, gamedev, ai, gemini&lt;br/&gt;Description: We (at DEV and MLH) are covering AI Engineer&apos;s World Fair by printing a physical newspaper called...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3972958</id>
@@ -917,6 +917,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:00:47Z&lt;br/&gt;Tags: aws, ai, agents, tutorial&lt;br/&gt;Description: I want an AI agent that works for me. I want it to search up the latest news, and I want it to...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4011094</id>
+    <title>After a long journey, I&apos;ve reached a deep burnout</title>
+    <link rel="alternate" href="https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"/>
+    <updated>2026-06-28T10:03:01+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3867038</id>
     <title>Tower Before Dusk: I Built a Puzzle Game for Humans and AI</title>
     <link rel="alternate" href="https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao"/>
@@ -952,17 +959,17 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mindmagic&quot;&gt;Mindmagic&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T17:01:56Z&lt;br/&gt;Tags: devjournal, learning, productivity, watercooler&lt;br/&gt;Description: The Market Was Never the Enemy. It Was Me.    Most people believe trading is a purely...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4011094</id>
-    <title>After a long journey, I&apos;ve reached a deep burnout</title>
-    <link rel="alternate" href="https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"/>
-    <updated>2026-06-28T10:03:01+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
+    <id>tag:dev.to,2026:4025159</id>
+    <title>Someone Else Pays for Your AI Access</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"/>
+    <updated>2026-06-30T07:22:16+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T07:22:16Z&lt;br/&gt;Tags: ai, webdev, security, discuss&lt;br/&gt;Description: you probably didn&apos;t think about this when you signed up.  you entered your card details, verified...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3980327</id>
     <title>Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh"/>
-    <updated>2026-06-30T09:55:10+00:00</updated>
+    <updated>2026-07-01T12:36:13+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T15:58:57Z&lt;br/&gt;Tags: ai, discuss, programming, career&lt;br/&gt;Description: Complete preparation breeds complacency. What is seen every day no longer raises suspicion. The...</summary>
   </entry>
   <entry>
@@ -1104,13 +1111,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
     <updated>2026-05-15T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4025159</id>
-    <title>Someone Else Pays for Your AI Access</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149"/>
-    <updated>2026-06-30T07:22:16+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T07:22:16Z&lt;br/&gt;Tags: ai, webdev, security, discuss&lt;br/&gt;Description: you probably didn&apos;t think about this when you signed up.  you entered your card details, verified...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3693063</id>
@@ -1309,6 +1309,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/arunkant&quot;&gt;arunkant&lt;/a&gt;&lt;br/&gt;Published: 2026-04-29T12:42:21Z&lt;br/&gt;Tags: saas, ai, agents, workflows&lt;br/&gt;Description: In-house AI agents are seductive but fragile. Here&apos;s the case for using agents to explore and concrete workflows to ship</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4032196</id>
+    <title>The Future Of AI Is Local And Open</title>
+    <link rel="alternate" href="https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c"/>
+    <updated>2026-06-30T14:47:06+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T14:47:06Z&lt;br/&gt;Tags: aie, gemma, ai&lt;br/&gt;Description: There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3957571</id>
     <title>Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber</title>
     <link rel="alternate" href="https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3"/>
@@ -1342,13 +1349,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl"/>
     <updated>2026-04-27T18:26:58+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-27T18:26:58Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4032196</id>
-    <title>The Future Of AI Is Local And Open</title>
-    <link rel="alternate" href="https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c"/>
-    <updated>2026-06-30T14:47:06+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T14:47:06Z&lt;br/&gt;Tags: aie, gemma, ai&lt;br/&gt;Description: There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4007324</id>
