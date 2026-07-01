@@ -224,18 +224,18 @@
     <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer&lt;/a&gt;&lt;br/&gt;Published: 2026-05-02T08:22:42Z&lt;br/&gt;Tags: programming, webdev, productivity, architecture&lt;br/&gt;Description: We obsess over making code last. Maybe we should obsess over making it leave gracefully.     There&apos;s...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4015354</id>
+    <title>What&apos;s Next for AI?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
+    <updated>2026-06-29T07:18:48+00:00</updated>
+    <summary type="html">Reactions: public 124 / positive 124&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3593416</id>
     <title>Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍</title>
     <link rel="alternate" href="https://dev.to/devteam/announcing-the-winners-of-the-dev-weekend-challenge-earth-day-edition-1n4"/>
     <updated>2026-04-30T21:25:40+00:00</updated>
     <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-04-30T21:25:40Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: The time has come! We are thrilled to announce the winners of our second DEV Weekend Challenge: Earth...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4015354</id>
-    <title>What&apos;s Next for AI?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
-    <updated>2026-06-29T07:18:48+00:00</updated>
-    <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3610492</id>
@@ -875,6 +875,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/technogamerz&quot;&gt;𝕋𝕙𝕖 𝕃𝕒𝕫𝕪 𝔾𝕚𝕣𝕝 &lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T09:57:36Z&lt;br/&gt;Tags: discuss, developer, coding, beginners&lt;br/&gt;Description: For a long time, I thought programming wasn&apos;t for people like me.  Not because I wasn&apos;t interested in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3645657</id>
+    <title>Thank you DEV community: the Thinking Engineer Toolkit is live</title>
+    <link rel="alternate" href="https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"/>
+    <updated>2026-06-25T12:58:12+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T12:58:12Z&lt;br/&gt;Tags: ai, softwareengineering, developer, productivity&lt;br/&gt;Description: Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3773107</id>
     <title>What was your win this week?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4k11"/>
@@ -917,13 +924,6 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:00:47Z&lt;br/&gt;Tags: aws, ai, agents, tutorial&lt;br/&gt;Description: I want an AI agent that works for me. I want it to search up the latest news, and I want it to...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3645657</id>
-    <title>Thank you DEV community: the Thinking Engineer Toolkit is live</title>
-    <link rel="alternate" href="https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"/>
-    <updated>2026-06-25T12:58:12+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T12:58:12Z&lt;br/&gt;Tags: ai, softwareengineering, developer, productivity&lt;br/&gt;Description: Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3867038</id>
     <title>Tower Before Dusk: I Built a Puzzle Game for Humans and AI</title>
     <link rel="alternate" href="https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao"/>
@@ -964,6 +964,13 @@
     <link rel="alternate" href="https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"/>
     <updated>2026-06-28T10:03:01+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3980327</id>
+    <title>Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh"/>
+    <updated>2026-06-30T09:55:10+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T15:58:57Z&lt;br/&gt;Tags: ai, discuss, programming, career&lt;br/&gt;Description: Complete preparation breeds complacency. What is seen every day no longer raises suspicion. The...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3800157</id>
@@ -1085,13 +1092,6 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:24:39Z&lt;br/&gt;Tags: developers, career, portfolio, discuss&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3980327</id>
-    <title>Stratagems #1: Mark Johnson Walked Into an AI Audit. The Benchmark Had Everything Figured Out — Except the Truth.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-1-mark-johnson-walked-into-an-ai-audit-the-benchmark-had-everything-figured-out--adh"/>
-    <updated>2026-06-30T09:55:10+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T15:58:57Z&lt;br/&gt;Tags: ai, discuss, programming, career&lt;br/&gt;Description: Complete preparation breeds complacency. What is seen every day no longer raises suspicion. The...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3810139</id>
     <title>The Bug That Took 10 Minutes to Fix and 3 Days to Find</title>
     <link rel="alternate" href="https://dev.to/harsh2644/the-bug-that-took-10-minutes-to-fix-and-3-days-to-find-1l0m"/>
@@ -1204,6 +1204,20 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rsamborski&quot;&gt;Remigiusz Samborski&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T13:02:03Z&lt;br/&gt;Tags: gemini, agents, programming, ai&lt;br/&gt;Description: Building a complex, multi-phase cloud project like a RAG migration is as much about orchestration as...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4032043</id>
+    <title>This Is Software’s iPhone Moment</title>
+    <link rel="alternate" href="https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d"/>
+    <updated>2026-06-30T14:17:40+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/theycallmeswift&quot;&gt;Swift&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T14:17:40Z&lt;br/&gt;Tags: ai, aie, devrel&lt;br/&gt;Description: In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4009817</id>
+    <title>VP of Nothing: The CEO&apos;s Nephew Took Over My AI Platform. The Client Walked Within a Month.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla"/>
+    <updated>2026-06-30T09:46:21+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T04:43:40Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Series: AI, Ego &amp;amp; Regret — Bonus Chapter   Editor&apos;s Note: While compiling the old series for the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3703634</id>
     <title>Building a Chrome Extension to Make AI Use More Intentional</title>
     <link rel="alternate" href="https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0"/>
@@ -1258,20 +1272,6 @@
     <link rel="alternate" href="https://dev.to/suesmith/automation-is-a-trade-off-2fh8"/>
     <updated>2026-04-28T15:06:42+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/suesmith&quot;&gt;Sue Smith&lt;/a&gt;&lt;br/&gt;Published: 2026-04-28T15:06:42Z&lt;br/&gt;Tags: ai, webdev, lowcode, automation&lt;br/&gt;Description: A couple of years ago I wrote a post about abstractions. I’m revisiting it here with AI-assisted...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4032043</id>
-    <title>This Is Software’s iPhone Moment</title>
-    <link rel="alternate" href="https://dev.to/dailycontext/this-is-softwares-iphone-moment-16d"/>
-    <updated>2026-06-30T14:17:40+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/theycallmeswift&quot;&gt;Swift&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T14:17:40Z&lt;br/&gt;Tags: ai, aie, devrel&lt;br/&gt;Description: In 2007, humans took roughly 85 billion photos a year. Photography was a specialized craft that...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4009817</id>
-    <title>VP of Nothing: The CEO&apos;s Nephew Took Over My AI Platform. The Client Walked Within a Month.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla"/>
-    <updated>2026-06-30T09:46:21+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T04:43:40Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Series: AI, Ego &amp;amp; Regret — Bonus Chapter   Editor&apos;s Note: While compiling the old series for the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3773154</id>
