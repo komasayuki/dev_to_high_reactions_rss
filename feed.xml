@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-02T04:39:09+00:00</updated>
+  <updated>2026-07-02T20:09:31+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -74,7 +74,7 @@
     <title>What&apos;s Next for AI?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/whats-next-for-ai-219i"/>
     <updated>2026-06-29T07:18:48+00:00</updated>
-    <summary type="html">Reactions: public 179 / positive 179&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
+    <summary type="html">Reactions: public 181 / positive 181&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T07:18:48Z&lt;br/&gt;Tags: ai, llm, webdev&lt;br/&gt;Description: I have been writing about AI for quite a while now, but this is probably the first time I genuinely...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3973904</id>
@@ -434,6 +434,13 @@
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4033830</id>
+    <title>Reading Anthropic&apos;s &quot;When AI Builds Itself&quot; Changed How I Think About AI and Software Engineering</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh"/>
+    <updated>2026-06-30T20:35:24+00:00</updated>
+    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:15:56Z&lt;br/&gt;Tags: discuss, ai, developers, softwareengineering&lt;br/&gt;Description: TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3960748</id>
     <title>The Principle of Least AI</title>
     <link rel="alternate" href="https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0"/>
@@ -495,13 +502,6 @@
     <link rel="alternate" href="https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"/>
     <updated>2026-05-14T16:40:15+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T07:07:13Z&lt;br/&gt;Tags: webdev, nextjs, sideprojects, react&lt;br/&gt;Description: We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4033830</id>
-    <title>Reading Anthropic&apos;s &quot;When AI Builds Itself&quot; Changed How I Think About AI and Software Engineering</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh"/>
-    <updated>2026-06-30T20:35:24+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:15:56Z&lt;br/&gt;Tags: discuss, ai, developers, softwareengineering&lt;br/&gt;Description: TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3828927</id>
@@ -936,6 +936,13 @@
     <link rel="alternate" href="https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk"/>
     <updated>2026-05-06T18:20:31+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T16:00:47Z&lt;br/&gt;Tags: aws, ai, agents, tutorial&lt;br/&gt;Description: I want an AI agent that works for me. I want it to search up the latest news, and I want it to...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4041758</id>
+    <title>Enterprise LLM Gateway: Route, govern, and secure your AI traffic</title>
+    <link rel="alternate" href="https://dev.to/anthonymax/enterprise-llm-gateway-route-govern-and-secure-your-ai-traffic-4e35"/>
+    <updated>2026-07-02T20:09:31+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T20:07:03Z&lt;br/&gt;Tags: ai, webdev, programming, opensource&lt;br/&gt;Description: Your company uses six different AI providers. OpenAI for ChatGPT, Anthropic for Claude and Groq for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3867038</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dailycontext/the-log-is-the-agent-5096"/>
     <updated>2026-06-30T16:41:18+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ishaansehgal&quot;&gt;Ishaan Sehgal&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T15:01:43Z&lt;br/&gt;Tags: aie, agents, ai&lt;br/&gt;Description: AI agents are hitting the same inflection point.  Most people think an agent is the model, the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4007324</id>
-    <title>Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks</title>
-    <link rel="alternate" href="https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"/>
-    <updated>2026-06-29T16:05:56+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:05:56Z&lt;br/&gt;Tags: ai, aie, productivity, leadership&lt;br/&gt;Description: Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....</summary>
   </entry>
 </feed>
