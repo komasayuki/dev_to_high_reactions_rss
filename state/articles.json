@@ -243,28 +243,6 @@
       "last_seen": "2026-05-19T05:33:06.822255007+00:00"
     },
     {
-      "key": "3589463",
-      "id": 3589463,
-      "canonical_url": "https://eevis.codes/blog/2026-04-30/more-accessible-focus-indicators-with-compose/",
-      "url": "https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4",
-      "title": "More Accessible Focus Indicators with Compose",
-      "description": "Last summer, I wrote a blog post about focus management with Compose. Ever since, I’ve had drafts of...",
-      "published_timestamp": "2026-04-30T11:22:00Z",
-      "published_at": "2026-04-30T11:22:00Z",
-      "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
-      "tag_list": [
-        "android",
-        "a11y",
-        "mobile",
-        "programming"
-      ],
-      "user_name": "Eevis",
-      "user_username": "eevajonnapanula",
-      "last_seen": "2026-05-07T10:53:22.808770931+00:00"
-    },
-    {
       "key": "3591625",
       "id": 3591625,
       "canonical_url": "https://dev.to/konghq/how-to-monetize-your-ai-agents-with-langchain-and-kong-1fn0",
@@ -285,28 +263,6 @@
       "user_name": "Teja Kummarikuntla",
       "user_username": "tejakummarikuntla",
       "last_seen": "2026-05-12T15:08:11.861664812+00:00"
-    },
-    {
-      "key": "3591710",
-      "id": 3591710,
-      "canonical_url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
-      "url": "https://dev.to/alimafana/openai-tells-you-what-you-spent-not-where-so-i-built-a-dashboard-b6",
-      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
-      "description": "OpenAI's billing page shows total spend. It doesn't show which feature, which tenant, or which conversation caused it. I built a 3-file monitoring system that does — and the first time I opened it, I caught a 100× cost gap between two features I'd been treating as similar.",
-      "published_timestamp": "2026-04-30T12:14:54Z",
-      "published_at": "2026-04-30T12:14:54Z",
-      "edited_at": "2026-05-04T10:53:42Z",
-      "public_reactions_count": 54,
-      "positive_reactions_count": 54,
-      "tag_list": [
-        "ai",
-        "webdev",
-        "openai",
-        "monitoring"
-      ],
-      "user_name": "Ali Afana ",
-      "user_username": "alimafana",
-      "last_seen": "2026-05-07T11:44:31.326794084+00:00"
     },
     {
       "key": "3592285",
@@ -5915,8 +5871,8 @@
       "published_timestamp": "2026-07-01T13:46:22Z",
       "published_at": "2026-07-01T13:46:22Z",
       "edited_at": null,
-      "public_reactions_count": 68,
-      "positive_reactions_count": 68,
+      "public_reactions_count": 69,
+      "positive_reactions_count": 69,
       "tag_list": [
         "community",
         "learning",
@@ -5925,7 +5881,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "3947027",
@@ -6342,7 +6298,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "3989822",
@@ -6539,7 +6495,7 @@
       ],
       "user_name": "swyx",
       "user_username": "swyx",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4000963",
@@ -6561,7 +6517,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4006637",
@@ -6604,7 +6560,7 @@
       ],
       "user_name": "Adam DuVander",
       "user_username": "adamd",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4007324",
@@ -6626,7 +6582,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4009817",
@@ -6736,7 +6692,7 @@
       ],
       "user_name": "Shyamala",
       "user_username": "shyamala_u",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4015354",
@@ -6779,7 +6735,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4018027",
@@ -6888,7 +6844,7 @@
       ],
       "user_name": "Ryan Swift",
       "user_username": "thisisryanswift",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4024781",
@@ -6910,7 +6866,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4025159",
@@ -6932,7 +6888,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4026641",
@@ -6954,7 +6910,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4030159",
@@ -6976,7 +6932,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4031998",
@@ -7040,7 +6996,7 @@
       ],
       "user_name": "Iain Thomson",
       "user_username": "iain_thomson",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4032196",
@@ -7061,7 +7017,7 @@
       ],
       "user_name": "Paige Bailey",
       "user_username": "dynamicwebpaige",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4032268",
@@ -7103,7 +7059,7 @@
       ],
       "user_name": "Ishaan Sehgal",
       "user_username": "ishaansehgal",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4032466",
@@ -7123,7 +7079,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4032749",
@@ -7143,7 +7099,7 @@
       ],
       "user_name": "Ryan Swift",
       "user_username": "thisisryanswift",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4032835",
@@ -7163,7 +7119,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4033346",
@@ -7175,8 +7131,8 @@
       "published_timestamp": "2026-06-30T17:59:18Z",
       "published_at": "2026-06-30T17:59:18Z",
       "edited_at": "2026-06-30T18:00:38Z",
-      "public_reactions_count": 42,
-      "positive_reactions_count": 42,
+      "public_reactions_count": 43,
+      "positive_reactions_count": 43,
       "tag_list": [
         "ai",
         "webdev",
@@ -7185,7 +7141,7 @@
       ],
       "user_name": "Erik Hanchett",
       "user_username": "erikch",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4033830",
@@ -7207,7 +7163,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4034648",
@@ -7229,7 +7185,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4040921",
@@ -7241,8 +7197,8 @@
       "published_timestamp": "2026-07-01T12:44:35Z",
       "published_at": "2026-07-01T12:44:35Z",
       "edited_at": null,
-      "public_reactions_count": 51,
-      "positive_reactions_count": 51,
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
       "tag_list": [
         "ai",
         "discuss",
@@ -7251,7 +7207,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4041539",
@@ -7273,7 +7229,7 @@
       ],
       "user_name": "UnitBuilds",
       "user_username": "unitbuilds",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4041758",
@@ -7307,8 +7263,8 @@
       "published_timestamp": "2026-07-01T14:34:35Z",
       "published_at": "2026-07-01T14:34:35Z",
       "edited_at": "2026-07-01T18:05:41Z",
-      "public_reactions_count": 59,
-      "positive_reactions_count": 59,
+      "public_reactions_count": 64,
+      "positive_reactions_count": 64,
       "tag_list": [
         "aie",
         "ai",
@@ -7317,7 +7273,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4043957",
@@ -7339,7 +7295,7 @@
       ],
       "user_name": "Konark Sharma",
       "user_username": "konark_13",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4044578",
@@ -7351,8 +7307,8 @@
       "published_timestamp": "2026-07-02T04:44:36Z",
       "published_at": "2026-07-02T04:44:36Z",
       "edited_at": "2026-07-04T00:22:23Z",
-      "public_reactions_count": 31,
-      "positive_reactions_count": 31,
+      "public_reactions_count": 32,
+      "positive_reactions_count": 32,
       "tag_list": [
         "ai",
         "testing",
@@ -7361,7 +7317,7 @@
       ],
       "user_name": "Nazar Boyko",
       "user_username": "nazar-boyko",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4051951",
@@ -7383,7 +7339,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4052254",
@@ -7395,8 +7351,8 @@
       "published_timestamp": "2026-07-02T15:29:40Z",
       "published_at": "2026-07-02T15:29:40Z",
       "edited_at": "2026-07-02T15:33:14Z",
-      "public_reactions_count": 51,
-      "positive_reactions_count": 51,
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
       "tag_list": [
         "ai",
         "discuss",
@@ -7405,7 +7361,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4052404",
@@ -7417,8 +7373,8 @@
       "published_timestamp": "2026-07-02T15:24:12Z",
       "published_at": "2026-07-02T15:24:12Z",
       "edited_at": null,
-      "public_reactions_count": 64,
-      "positive_reactions_count": 64,
+      "public_reactions_count": 65,
+      "positive_reactions_count": 65,
       "tag_list": [
         "aie",
         "ai",
@@ -7426,7 +7382,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4052573",
@@ -7448,7 +7404,7 @@
       ],
       "user_name": "dev.to staff",
       "user_username": "thepracticaldev",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4053601",
@@ -7492,7 +7448,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4060719",
@@ -7514,7 +7470,7 @@
       ],
       "user_name": "Thuangf45",
       "user_username": "thuangf45",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4061195",
@@ -7526,8 +7482,8 @@
       "published_timestamp": "2026-07-03T14:52:14Z",
       "published_at": "2026-07-03T14:52:14Z",
       "edited_at": null,
-      "public_reactions_count": 55,
-      "positive_reactions_count": 55,
+      "public_reactions_count": 57,
+      "positive_reactions_count": 57,
       "tag_list": [
         "discuss",
         "community",
@@ -7536,7 +7492,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4066918",
@@ -7548,8 +7504,8 @@
       "published_timestamp": "2026-07-04T16:44:58Z",
       "published_at": "2026-07-04T16:44:58Z",
       "edited_at": "2026-07-04T21:23:35Z",
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
+      "public_reactions_count": 38,
+      "positive_reactions_count": 38,
       "tag_list": [
         "productivity",
         "career",
@@ -7558,7 +7514,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4067956",
@@ -7580,7 +7536,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4069525",
@@ -7602,7 +7558,7 @@
       ],
       "user_name": "DAYAN ELVIS JAHUIRA PILCO",
       "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4069630",
@@ -7624,7 +7580,7 @@
       ],
       "user_name": "DAYAN ELVIS JAHUIRA PILCO",
       "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4069684",
@@ -7646,7 +7602,7 @@
       ],
       "user_name": "DAYAN ELVIS JAHUIRA PILCO",
       "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4070497",
@@ -7668,7 +7624,7 @@
       ],
       "user_name": "Cristhian Carlos MAMANI CORI",
       "user_username": "cristhiancarlosmamanic",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4072535",
@@ -7690,7 +7646,7 @@
       ],
       "user_name": "Cristhian Carlos MAMANI CORI",
       "user_username": "cristhiancarlosmamanic",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
       "key": "4072895",
@@ -7724,8 +7680,8 @@
       "published_timestamp": "2026-07-05T17:15:00Z",
       "published_at": "2026-07-05T17:15:00Z",
       "edited_at": "2026-07-05T17:36:53Z",
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 43,
+      "positive_reactions_count": 43,
       "tag_list": [
         "webdev",
         "programming",
@@ -7734,7 +7690,51 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-07-06T09:08:47.915800483+00:00"
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
+    },
+    {
+      "key": "4074163",
+      "id": 4074163,
+      "canonical_url": "https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb",
+      "url": "https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb",
+      "title": "How to Shine as an Introvert in a Loud Tech World",
+      "description": "We have all been there. You walk into a room full of tech enthusiasts, the ambient noise is humming...",
+      "published_timestamp": "2026-07-05T17:32:39Z",
+      "published_at": "2026-07-05T17:32:39Z",
+      "edited_at": null,
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "webdev",
+        "learning",
+        "career",
+        "discuss"
+      ],
+      "user_name": "Konark Sharma",
+      "user_username": "konark_13",
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
+    },
+    {
+      "key": "4076965",
+      "id": 4076965,
+      "canonical_url": "https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci",
+      "url": "https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci",
+      "title": "6 Stories, 6 People, 1/6 of the Way — An Honest Check-In on the 36 Stratagems Series",
+      "description": "1/6 done. 30 to go.  After shipping #6, I did the math — 6 stories out of 36. Exactly one-sixth. I...",
+      "published_timestamp": "2026-07-06T06:38:03Z",
+      "published_at": "2026-07-06T06:38:03Z",
+      "edited_at": "2026-07-06T12:42:31Z",
+      "public_reactions_count": 38,
+      "positive_reactions_count": 38,
+      "tag_list": [
+        "ai",
+        "discuss",
+        "career",
+        "programming"
+      ],
+      "user_name": "xulingfeng",
+      "user_username": "xulingfeng",
+      "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     }
   ]
 }
