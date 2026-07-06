@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-05T17:36:53+00:00</updated>
+  <updated>2026-07-06T12:42:31+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -655,7 +655,7 @@
     <title>Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"/>
     <updated>2026-07-02T22:04:04+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3856153</id>
@@ -677,6 +677,13 @@
     <link rel="alternate" href="https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5"/>
     <updated>2026-05-07T09:46:59+00:00</updated>
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-07T09:46:59Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, discuss&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4              The &quot;Before&quot; and...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4052404</id>
+    <title>Letting the DEV Community Weigh in on the Topics of AIE</title>
+    <link rel="alternate" href="https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l"/>
+    <updated>2026-07-02T15:24:12+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T15:24:12Z&lt;br/&gt;Tags: aie, ai, discuss&lt;br/&gt;Description: I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4025159</id>
@@ -712,13 +719,6 @@
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp"/>
     <updated>2026-07-03T14:52:14+00:00</updated>
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T14:52:14Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4052404</id>
-    <title>Letting the DEV Community Weigh in on the Topics of AIE</title>
-    <link rel="alternate" href="https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l"/>
-    <updated>2026-07-02T15:24:12+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T15:24:12Z&lt;br/&gt;Tags: aie, ai, discuss&lt;br/&gt;Description: I’m at the AI Engineer World’s Fair in San Francisco, where the vibes are enthusiastic. However,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3771991</id>
@@ -1232,6 +1232,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/juandastic&quot;&gt;Juan David Gómez&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T02:20:36Z&lt;br/&gt;Tags: ai, mobile, showdev, sideprojects&lt;br/&gt;Description: I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4043957</id>
+    <title>I Tried to Escape LeetCode for 2 Years (But Here We Are)</title>
+    <link rel="alternate" href="https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99"/>
+    <updated>2026-07-01T17:52:55+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T17:52:55Z&lt;br/&gt;Tags: webdev, beginners, dsa, coding&lt;br/&gt;Description: Seriously, LeetCode in 2026? Everyone is saying HackerRank just killed LeetCode, and yet here I am,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4032319</id>
     <title>The Log Is the Agent</title>
     <link rel="alternate" href="https://dev.to/dailycontext/the-log-is-the-agent-5096"/>
@@ -1279,6 +1286,13 @@
     <link rel="alternate" href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp"/>
     <updated>2026-05-07T06:22:07+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T04:17:45Z&lt;br/&gt;Tags: architecture, googlecloud, tutorial, productivity&lt;br/&gt;Description: In my previous article about treating architecture documentation as a first-class asset, I had a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4066918</id>
+    <title>A New Personal Best: What Six Months of Locking In Can Do</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k"/>
+    <updated>2026-07-04T21:23:35+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-07-04T16:44:58Z&lt;br/&gt;Tags: productivity, career, showdev, community&lt;br/&gt;Description: Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4026641</id>
@@ -1337,13 +1351,6 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fbritoferreira&quot;&gt;Filipe Brito Ferreira&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T13:11:26Z&lt;br/&gt;Tags: ai, softwareengineering, devrel, burnout&lt;br/&gt;Description: A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4043957</id>
-    <title>I Tried to Escape LeetCode for 2 Years (But Here We Are)</title>
-    <link rel="alternate" href="https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99"/>
-    <updated>2026-07-01T17:52:55+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T17:52:55Z&lt;br/&gt;Tags: webdev, beginners, dsa, coding&lt;br/&gt;Description: Seriously, LeetCode in 2026? Everyone is saying HackerRank just killed LeetCode, and yet here I am,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4007324</id>
     <title>Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks</title>
     <link rel="alternate" href="https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"/>
@@ -1386,24 +1393,17 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/_boweii&quot;&gt;Tombri Bowei&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T00:07:22Z&lt;br/&gt;Tags: career, beginners, productivity, webdev&lt;br/&gt;Description: You&apos;ve been here before. You just didn&apos;t have a map.     You&apos;ve done this enough times to know the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4076965</id>
+    <title>6 Stories, 6 People, 1/6 of the Way — An Honest Check-In on the 36 Stratagems Series</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci"/>
+    <updated>2026-07-06T12:42:31+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T06:38:03Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: 1/6 done. 30 to go.  After shipping #6, I did the math — 6 stories out of 36. Exactly one-sixth. I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4074064</id>
     <title>At Last, I clasp: Escaping the G&apos;s Apps Script Copy-Paste Gauntlet</title>
     <link rel="alternate" href="https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd"/>
     <updated>2026-07-05T17:36:53+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T17:15:00Z&lt;br/&gt;Tags: webdev, programming, productivity, javascript&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4033346</id>
-    <title>Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?</title>
-    <link rel="alternate" href="https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb"/>
-    <updated>2026-06-30T18:00:38+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T17:59:18Z&lt;br/&gt;Tags: ai, webdev, productivity, programming&lt;br/&gt;Description: Introduction   I keep hearing the term loop engineering. It&apos;s all over my feed, every AI...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3964775</id>
-    <title>. .. . ... . .... . .... . ... .</title>
-    <link rel="alternate" href="https://dev.to/lovestaco/--2kb7"/>
-    <updated>2026-06-22T20:25:54+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T20:25:54Z&lt;br/&gt;Tags: ai, webdev, programming, beginners&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
 </feed>
