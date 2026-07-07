@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-07T14:33:45+00:00</updated>
+  <updated>2026-07-07T16:43:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -315,13 +315,6 @@
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T16:27:19Z&lt;br/&gt;Tags: gemini, ai, googlecloud, postgres&lt;br/&gt;Description: Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3596751</id>
-    <title>I Don&apos;t Like Tailwind. Sorry Not Sorry</title>
-    <link rel="alternate" href="https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5"/>
-    <updated>2026-05-01T16:11:48+00:00</updated>
-    <summary type="html">Reactions: public 94 / positive 94&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/freshcaffeine&quot;&gt;Andy Robinson&lt;/a&gt;&lt;br/&gt;Published: 2026-05-01T16:11:48Z&lt;br/&gt;Tags: css, webdev, discuss, frontend&lt;br/&gt;Description: An opinionated defence of hand-crafted CSS in a utility-class world     There. I said it. Call me a...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3790143</id>
     <title>I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB</title>
     <link rel="alternate" href="https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18"/>
@@ -399,6 +392,13 @@
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4082637</id>
+    <title>It&apos;s You.</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/its-you-29k0"/>
+    <updated>2026-07-07T14:33:45+00:00</updated>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T21:38:25Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: To start off, I appreciate the community support I have received on the post about being behind.     ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3756670</id>
     <title>An LLM API call, in 4 GIFs</title>
     <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
@@ -406,18 +406,18 @@
     <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jasmin&quot;&gt;Jasmin Virdi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-26T20:52:22Z&lt;br/&gt;Tags: llm, javascript, ai, beginners&lt;br/&gt;Description: This is the first post of series Building TinyAgent where we are going to build a small agent from...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4054555</id>
+    <title>Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"/>
+    <updated>2026-07-02T22:04:04+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3651760</id>
     <title>Does AI Behave Like a Toxic Ex?</title>
     <link rel="alternate" href="https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n"/>
     <updated>2026-05-11T18:09:56+00:00</updated>
     <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-11T18:09:56Z&lt;br/&gt;Tags: ai, webdev, discuss, learning&lt;br/&gt;Description: Is AI that toxic ex you just can’t forget about and can’t move on from?  For every task you get...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4054555</id>
-    <title>Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"/>
-    <updated>2026-07-02T22:04:04+00:00</updated>
-    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3758929</id>
@@ -432,13 +432,6 @@
     <link rel="alternate" href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j"/>
     <updated>2026-05-04T13:23:38+00:00</updated>
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vladimirnovick&quot;&gt;Vladimir Novick&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T13:23:38Z&lt;br/&gt;Tags: security, webdev, javascript, node&lt;br/&gt;Description: A recruiter pitched me a remote engineering role and asked me to review their codebase before the technical interview. The repo turned out to be a five-stage trojan that exfiltrates your environment variables and gives the attacker arbitrary code execution. Here&apos;s exactly what was in it, and the simple precaution that defeats the whole class.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4082637</id>
-    <title>It&apos;s You.</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/its-you-29k0"/>
-    <updated>2026-07-07T14:33:45+00:00</updated>
-    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T21:38:25Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: To start off, I appreciate the community support I have received on the post about being behind.     ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3960748</id>
@@ -595,18 +588,18 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jiasheng&quot;&gt;JS&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T12:36:32Z&lt;br/&gt;Tags: ai, webdev, agents, database&lt;br/&gt;Description: Is MCP Dead Because of Agent Skills?   It sometimes feels like AI is not just disrupting the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4061195</id>
+    <title>Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackathon</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp"/>
+    <updated>2026-07-03T14:52:14+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T14:52:14Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3638624</id>
     <title>I Found LeetCode for Software Design, and It’s Awesome</title>
     <link rel="alternate" href="https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d"/>
     <updated>2026-05-09T07:17:35+00:00</updated>
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T07:17:35Z&lt;br/&gt;Tags: softwaredevelopment, systemdesign, leetcode, programming&lt;br/&gt;Description: I found LeetCode for Software Design, and it’s Awesome</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4061195</id>
-    <title>Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackathon</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp"/>
-    <updated>2026-07-03T14:52:14+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T14:52:14Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3621423</id>
@@ -665,6 +658,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T16:08:39Z&lt;br/&gt;Tags: ai, android, mobile, productivity&lt;br/&gt;Description: Every QA team knows the feeling. The home screen works. Browse works. Search works. Cart works. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4066918</id>
+    <title>A New Personal Best: What Six Months of Locking In Can Do</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k"/>
+    <updated>2026-07-04T21:23:35+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-07-04T16:44:58Z&lt;br/&gt;Tags: productivity, career, showdev, community&lt;br/&gt;Description: Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3856153</id>
     <title>The &apos;Prompt&apos; Is Not a Skill — And We Need to Stop Pretending</title>
     <link rel="alternate" href="https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"/>
@@ -712,13 +712,6 @@
     <link rel="alternate" href="https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j"/>
     <updated>2026-06-04T06:43:17+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T06:43:17Z&lt;br/&gt;Tags: learning, career, discuss, marketing&lt;br/&gt;Description: A while back, when I was still job hunting, building mini-projects, and trying to figure out what I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4066918</id>
-    <title>A New Personal Best: What Six Months of Locking In Can Do</title>
-    <link rel="alternate" href="https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k"/>
-    <updated>2026-07-04T21:23:35+00:00</updated>
-    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-07-04T16:44:58Z&lt;br/&gt;Tags: productivity, career, showdev, community&lt;br/&gt;Description: Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3771991</id>
@@ -847,6 +840,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4081125</id>
+    <title>Your Career Matters. So Does the Person Building It.</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"/>
+    <updated>2026-07-07T16:43:18+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T15:50:31Z&lt;br/&gt;Tags: discuss, career, productivity, mentalhealth&lt;br/&gt;Description: TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3665857</id>
     <title>How I Documented an Entire Product in 4 Days with an AI Agent</title>
     <link rel="alternate" href="https://theaiplatform.app/blog/documenting-product-with-ai-agent/"/>
@@ -908,13 +908,6 @@
     <link rel="alternate" href="https://dev.to/gavincettolo/api-calls-done-right-from-messy-fetch-to-clean-data-layer-419i"/>
     <updated>2026-05-22T13:36:04+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gavincettolo&quot;&gt;Gavin Cettolo&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:30:00Z&lt;br/&gt;Tags: typescript, javascript, webdev, beginners&lt;br/&gt;Description: I&apos;ve seen this file in almost every frontend project I&apos;ve ever touched.  It&apos;s usually called api.js...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4081125</id>
-    <title>Your Career Matters. So Does the Person Building It.</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"/>
-    <updated>2026-07-06T16:40:36+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T15:50:31Z&lt;br/&gt;Tags: discuss, career, productivity, mentalhealth&lt;br/&gt;Description: TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3773107</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23"/>
     <updated>2026-05-19T13:26:24+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T13:12:33Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, discuss&lt;br/&gt;Description: A technical comparison of Hermes Agent and OpenClaw through the five claims that actually matter: memory, skills, sandboxing, messaging, and persistent infrastructure.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4074064</id>
+    <title>At Last, I clasp: Escaping the G&apos;s Apps Script Copy-Paste Gauntlet</title>
+    <link rel="alternate" href="https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd"/>
+    <updated>2026-07-05T17:36:53+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T17:15:00Z&lt;br/&gt;Tags: webdev, programming, productivity, javascript&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
 </feed>
