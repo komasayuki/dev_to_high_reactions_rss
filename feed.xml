@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-07T16:43:18+00:00</updated>
+  <updated>2026-07-07T16:50:27+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -364,6 +364,13 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/iampraveen&quot;&gt;Praveen Rajamani&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T13:57:11Z&lt;br/&gt;Tags: discuss, ai, webdev, career&lt;br/&gt;Description: When I started using AI tools seriously across my side projects, I expected the work to get easier....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4082637</id>
+    <title>It&apos;s You.</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/its-you-29k0"/>
+    <updated>2026-07-07T14:33:45+00:00</updated>
+    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T21:38:25Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: To start off, I appreciate the community support I have received on the post about being behind.     ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3696340</id>
     <title>🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)</title>
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo"/>
@@ -376,13 +383,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-june-2026-530a"/>
     <updated>2026-06-29T23:34:07+00:00</updated>
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T14:40:57Z&lt;br/&gt;Tags: discuss, community, programming, devjournal&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4082637</id>
-    <title>It&apos;s You.</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/its-you-29k0"/>
-    <updated>2026-07-07T14:33:45+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T21:38:25Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: To start off, I appreciate the community support I have received on the post about being behind.     ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3972958</id>
@@ -662,7 +662,7 @@
     <title>A New Personal Best: What Six Months of Locking In Can Do</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k"/>
     <updated>2026-07-04T21:23:35+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-07-04T16:44:58Z&lt;br/&gt;Tags: productivity, career, showdev, community&lt;br/&gt;Description: Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...</summary>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-07-04T16:44:58Z&lt;br/&gt;Tags: productivity, career, showdev, community&lt;br/&gt;Description: Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3856153</id>
@@ -1239,6 +1239,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/juandastic&quot;&gt;Juan David Gómez&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T02:20:36Z&lt;br/&gt;Tags: ai, mobile, showdev, sideprojects&lt;br/&gt;Description: I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4076965</id>
+    <title>6 Stories, 6 People, 1/6 of the Way — An Honest Check-In on the 36 Stratagems Series</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci"/>
+    <updated>2026-07-06T12:42:31+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T06:38:03Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: 1/6 done. 30 to go.  After shipping #6, I did the math — 6 stories out of 36. Exactly one-sixth. I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4043957</id>
     <title>I Tried to Escape LeetCode for 2 Years (But Here We Are)</title>
     <link rel="alternate" href="https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99"/>
@@ -1293,13 +1300,6 @@
     <link rel="alternate" href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp"/>
     <updated>2026-05-07T06:22:07+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T04:17:45Z&lt;br/&gt;Tags: architecture, googlecloud, tutorial, productivity&lt;br/&gt;Description: In my previous article about treating architecture documentation as a first-class asset, I had a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4076965</id>
-    <title>6 Stories, 6 People, 1/6 of the Way — An Honest Check-In on the 36 Stratagems Series</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci"/>
-    <updated>2026-07-06T12:42:31+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T06:38:03Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: 1/6 done. 30 to go.  After shipping #6, I did the math — 6 stories out of 36. Exactly one-sixth. I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4026641</id>
@@ -1365,6 +1365,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/fbritoferreira&quot;&gt;Filipe Brito Ferreira&lt;/a&gt;&lt;br/&gt;Published: 2026-05-03T13:11:26Z&lt;br/&gt;Tags: ai, softwareengineering, devrel, burnout&lt;br/&gt;Description: A few weeks ago I watched a junior push four commits to the same pull request, each one a fresh...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4090118</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b"/>
+    <updated>2026-07-07T16:50:27+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T16:50:27Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4007324</id>
     <title>Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks</title>
     <link rel="alternate" href="https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23"/>
     <updated>2026-05-19T13:26:24+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T13:12:33Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, discuss&lt;br/&gt;Description: A technical comparison of Hermes Agent and OpenClaw through the five claims that actually matter: memory, skills, sandboxing, messaging, and persistent infrastructure.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4074064</id>
-    <title>At Last, I clasp: Escaping the G&apos;s Apps Script Copy-Paste Gauntlet</title>
-    <link rel="alternate" href="https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd"/>
-    <updated>2026-07-05T17:36:53+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T17:15:00Z&lt;br/&gt;Tags: webdev, programming, productivity, javascript&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
 </feed>
