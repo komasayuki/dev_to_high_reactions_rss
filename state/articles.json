@@ -410,71 +410,6 @@
       "last_seen": "2026-05-13T03:21:56.787586225+00:00"
     },
     {
-      "key": "3604041",
-      "id": 3604041,
-      "canonical_url": "https://harshil.dev/writings/migrating-astro-5-to-astro-6/",
-      "url": "https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c",
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "description": "I have been meaning to upgrade my personal site to Astro 6 for a while. The release notes sat in my...",
-      "published_timestamp": "2026-05-03T13:05:28Z",
-      "published_at": "2026-05-03T13:05:28Z",
-      "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
-      "tag_list": [
-        "ai",
-        "devjournal",
-        "javascript",
-        "webdev"
-      ],
-      "user_name": "Harshil Agrawal",
-      "user_username": "harshil1712",
-      "last_seen": "2026-05-10T12:33:45.286122673+00:00"
-    },
-    {
-      "key": "3604170",
-      "id": 3604170,
-      "canonical_url": "https://dev.to/huckler/how-i-built-an-offline-ai-assistant-in-python-no-openai-no-langchain-no-dependencies-4523",
-      "url": "https://dev.to/huckler/how-i-built-an-offline-ai-assistant-in-python-no-openai-no-langchain-no-dependencies-4523",
-      "title": "How I Built an Offline AI Assistant in Python - No OpenAI, No LangChain, No Dependencies",
-      "description": "Every tutorial about building an AI assistant starts the same way: pip install openai. Get an API...",
-      "published_timestamp": "2026-05-03T13:45:33Z",
-      "published_at": "2026-05-03T13:45:33Z",
-      "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
-      "tag_list": [
-        "python",
-        "ai",
-        "tutorial",
-        "opensource"
-      ],
-      "user_name": "Marcin Firmuga",
-      "user_username": "huckler",
-      "last_seen": "2026-05-10T13:42:37.468267378+00:00"
-    },
-    {
-      "key": "3604663",
-      "id": 3604663,
-      "canonical_url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi",
-      "url": "https://dev.to/yusukeiwaki/introducing-pytest-style-fixtures-into-ruby-for-smarter-browser-testing-lbi",
-      "title": "Introducing pytest-style fixtures into Ruby for smarter browser testing",
-      "description": "Why I built another Ruby test runner inspired by Playwright Test   Ruby already has great...",
-      "published_timestamp": "2026-05-03T16:22:00Z",
-      "published_at": "2026-05-03T16:22:00Z",
-      "edited_at": "2026-05-07T00:10:54Z",
-      "public_reactions_count": 39,
-      "positive_reactions_count": 39,
-      "tag_list": [
-        "rspec",
-        "playwright",
-        "ruby"
-      ],
-      "user_name": "Yusuke Iwaki",
-      "user_username": "yusukeiwaki",
-      "last_seen": "2026-05-10T15:30:08.247016402+00:00"
-    },
-    {
       "key": "3605014",
       "id": 3605014,
       "canonical_url": "https://airjam.io/blog/every-phone-a-game-controller",
@@ -1173,28 +1108,6 @@
       "user_name": "Julien Avezou",
       "user_username": "javz",
       "last_seen": "2026-06-08T11:46:38.937782591+00:00"
-    },
-    {
-      "key": "3642919",
-      "id": 3642919,
-      "canonical_url": "https://dev.to/hanzla/vibe-coding-are-we-building-faster-or-just-building-bigger-messes-53k0",
-      "url": "https://dev.to/hanzla/vibe-coding-are-we-building-faster-or-just-building-bigger-messes-53k0",
-      "title": "Vibe Coding: Are We Building Faster or Just Building Bigger Messes?",
-      "description": "Hanzla BaigFollow             Front-end dev &amp; Founder...",
-      "published_timestamp": "2026-05-10T03:09:20Z",
-      "published_at": "2026-05-10T03:09:20Z",
-      "edited_at": "2026-05-10T10:45:30Z",
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
-      "tag_list": [
-        "vibecoding",
-        "webdev",
-        "productivity",
-        "ai"
-      ],
-      "user_name": "Hanzla Baig",
-      "user_username": "hanzla",
-      "last_seen": "2026-05-10T13:42:37.468267378+00:00"
     },
     {
       "key": "3643673",
@@ -4484,8 +4397,8 @@
       "published_timestamp": "2026-07-08T12:25:01Z",
       "published_at": "2026-07-08T12:25:01Z",
       "edited_at": null,
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
+      "public_reactions_count": 48,
+      "positive_reactions_count": 48,
       "tag_list": [
         "ai",
         "webdev",
@@ -4494,7 +4407,7 @@
       ],
       "user_name": "Web Developer Hyper",
       "user_username": "webdeveloperhyper",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "3834057",
@@ -6172,6 +6085,27 @@
       "last_seen": "2026-07-02T18:00:14.412329573+00:00"
     },
     {
+      "key": "3993511",
+      "id": 3993511,
+      "canonical_url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
+      "url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
+      "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
+      "description": "A post on X last week:   \"The fact that people can't even reply to posts without AI anymore says a...",
+      "published_timestamp": "2026-07-09T07:35:37Z",
+      "published_at": "2026-07-09T07:35:37Z",
+      "edited_at": null,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
+      "tag_list": [
+        "ai",
+        "watercooler",
+        "discuss"
+      ],
+      "user_name": "Daniel Nwaneri",
+      "user_username": "dannwaneri",
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
+    },
+    {
       "key": "3993533",
       "id": 3993533,
       "canonical_url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
@@ -6181,8 +6115,8 @@
       "published_timestamp": "2026-07-07T10:33:25Z",
       "published_at": "2026-07-07T10:33:25Z",
       "edited_at": null,
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
+      "public_reactions_count": 51,
+      "positive_reactions_count": 51,
       "tag_list": [
         "ai",
         "beginners",
@@ -6191,7 +6125,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "3993829",
@@ -7253,7 +7187,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4053601",
@@ -7297,7 +7231,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4060719",
@@ -7319,7 +7253,7 @@
       ],
       "user_name": "Thuangf45",
       "user_username": "thuangf45",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4061195",
@@ -7331,8 +7265,8 @@
       "published_timestamp": "2026-07-03T14:52:14Z",
       "published_at": "2026-07-03T14:52:14Z",
       "edited_at": null,
-      "public_reactions_count": 73,
-      "positive_reactions_count": 73,
+      "public_reactions_count": 74,
+      "positive_reactions_count": 74,
       "tag_list": [
         "discuss",
         "community",
@@ -7341,7 +7275,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4061444",
@@ -7363,7 +7297,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4066918",
@@ -7375,8 +7309,8 @@
       "published_timestamp": "2026-07-04T16:44:58Z",
       "published_at": "2026-07-04T16:44:58Z",
       "edited_at": "2026-07-04T21:23:35Z",
-      "public_reactions_count": 87,
-      "positive_reactions_count": 87,
+      "public_reactions_count": 101,
+      "positive_reactions_count": 101,
       "tag_list": [
         "productivity",
         "career",
@@ -7385,7 +7319,29 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
+    },
+    {
+      "key": "4067136",
+      "id": 4067136,
+      "canonical_url": "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
+      "url": "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
+      "title": "Data structures your CS degree kind of glossed over",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "published_timestamp": "2026-07-04T12:34:37Z",
+      "published_at": "2026-07-04T12:34:37Z",
+      "edited_at": null,
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "ai",
+        "webdev",
+        "programming",
+        "beginners"
+      ],
+      "user_name": "Athreya aka Maneshwar",
+      "user_username": "lovestaco",
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4067956",
@@ -7407,7 +7363,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4069525",
@@ -7429,7 +7385,7 @@
       ],
       "user_name": "DAYAN ELVIS JAHUIRA PILCO",
       "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4069630",
@@ -7451,7 +7407,7 @@
       ],
       "user_name": "DAYAN ELVIS JAHUIRA PILCO",
       "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4069684",
@@ -7473,7 +7429,7 @@
       ],
       "user_name": "DAYAN ELVIS JAHUIRA PILCO",
       "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4070497",
@@ -7495,7 +7451,7 @@
       ],
       "user_name": "Cristhian Carlos MAMANI CORI",
       "user_username": "cristhiancarlosmamanic",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4072535",
@@ -7517,7 +7473,7 @@
       ],
       "user_name": "Cristhian Carlos MAMANI CORI",
       "user_username": "cristhiancarlosmamanic",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4072895",
@@ -7561,7 +7517,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4074064",
@@ -7583,7 +7539,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4074163",
@@ -7605,7 +7561,7 @@
       ],
       "user_name": "Konark Sharma",
       "user_username": "konark_13",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4076965",
@@ -7627,7 +7583,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4081125",
@@ -7639,8 +7595,8 @@
       "published_timestamp": "2026-07-06T15:50:31Z",
       "published_at": "2026-07-06T15:50:31Z",
       "edited_at": "2026-07-07T16:43:18Z",
-      "public_reactions_count": 81,
-      "positive_reactions_count": 81,
+      "public_reactions_count": 84,
+      "positive_reactions_count": 84,
       "tag_list": [
         "discuss",
         "career",
@@ -7649,7 +7605,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4082637",
@@ -7661,8 +7617,8 @@
       "published_timestamp": "2026-07-06T21:38:25Z",
       "published_at": "2026-07-06T21:38:25Z",
       "edited_at": "2026-07-07T14:33:45Z",
-      "public_reactions_count": 109,
-      "positive_reactions_count": 109,
+      "public_reactions_count": 114,
+      "positive_reactions_count": 114,
       "tag_list": [
         "discuss",
         "community",
@@ -7671,7 +7627,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4083725",
@@ -7683,8 +7639,8 @@
       "published_timestamp": "2026-07-07T01:44:15Z",
       "published_at": "2026-07-07T01:44:15Z",
       "edited_at": "2026-07-07T01:44:27Z",
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
+      "public_reactions_count": 34,
+      "positive_reactions_count": 34,
       "tag_list": [
         "gemma",
         "finetuning",
@@ -7693,7 +7649,7 @@
       ],
       "user_name": "bebechien",
       "user_username": "bebechien",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4085109",
@@ -7718,6 +7674,23 @@
       "last_seen": "2026-07-07T15:12:23.446170724+00:00"
     },
     {
+      "key": "4086309",
+      "id": 4086309,
+      "canonical_url": "https://vaiu.ai/blogs/ai-receptionist-vs-human-receptionist-cost-roi-accuracy-real-world-performance",
+      "url": "https://dev.to/vaiu-ai/ai-receptionist-vs-human-receptionist-cost-roi-accuracy-real-world-performance-2026-1be4",
+      "title": "AI Receptionist vs Human Receptionist: Cost, ROI, Accuracy & Real-World Performance (2026)",
+      "description": "Introduction: The Phone That Never Stops Ringing It is 9:07 on a Tuesday morning at a mid-size...",
+      "published_timestamp": "2026-07-07T08:29:08Z",
+      "published_at": "2026-07-07T08:29:08Z",
+      "edited_at": "2026-07-07T08:31:22Z",
+      "public_reactions_count": 66,
+      "positive_reactions_count": 66,
+      "tag_list": [],
+      "user_name": "Shagufta Ahmed",
+      "user_username": "shagufta_ahmed_2839eab915",
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
+    },
+    {
       "key": "4086605",
       "id": 4086605,
       "canonical_url": "https://dev.to/xulingfeng/p-watched-an-ai-that-only-looked-one-way-the-9997-was-real-it-just-missed-everything-that-1djm",
@@ -7727,8 +7700,8 @@
       "published_timestamp": "2026-07-07T09:41:33Z",
       "published_at": "2026-07-07T09:41:33Z",
       "edited_at": "2026-07-07T10:29:43Z",
-      "public_reactions_count": 46,
-      "positive_reactions_count": 46,
+      "public_reactions_count": 47,
+      "positive_reactions_count": 47,
       "tag_list": [
         "ai",
         "discuss",
@@ -7737,7 +7710,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4089829",
@@ -7771,15 +7744,15 @@
       "published_timestamp": "2026-07-07T16:50:27Z",
       "published_at": "2026-07-07T16:50:27Z",
       "edited_at": null,
-      "public_reactions_count": 68,
-      "positive_reactions_count": 68,
+      "public_reactions_count": 70,
+      "positive_reactions_count": 70,
       "tag_list": [
         "top7",
         "discuss"
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4091284",
@@ -7791,8 +7764,8 @@
       "published_timestamp": "2026-07-07T20:10:15Z",
       "published_at": "2026-07-07T20:10:15Z",
       "edited_at": null,
-      "public_reactions_count": 41,
-      "positive_reactions_count": 41,
+      "public_reactions_count": 43,
+      "positive_reactions_count": 43,
       "tag_list": [
         "ai",
         "discuss",
@@ -7801,7 +7774,7 @@
       ],
       "user_name": "Alexandra",
       "user_username": "ale3oula",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4091990",
@@ -7835,8 +7808,8 @@
       "published_timestamp": "2026-07-08T03:58:05Z",
       "published_at": "2026-07-08T03:58:05Z",
       "edited_at": null,
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
+      "public_reactions_count": 45,
+      "positive_reactions_count": 45,
       "tag_list": [
         "discuss",
         "ai",
@@ -7845,7 +7818,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4093411",
@@ -7857,8 +7830,8 @@
       "published_timestamp": "2026-07-08T03:58:48Z",
       "published_at": "2026-07-08T03:58:48Z",
       "edited_at": "2026-07-08T07:18:16Z",
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
+      "public_reactions_count": 40,
+      "positive_reactions_count": 40,
       "tag_list": [
         "discuss",
         "ai",
@@ -7866,7 +7839,7 @@
       ],
       "user_name": "Gamya ",
       "user_username": "gamya_m",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     },
     {
       "key": "4096108",
@@ -7891,6 +7864,25 @@
       "last_seen": "2026-07-08T23:21:02.369871585+00:00"
     },
     {
+      "key": "4097205",
+      "id": 4097205,
+      "canonical_url": "https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh",
+      "url": "https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh",
+      "title": "Has the audience for technical articles dropped?",
+      "description": "Is it just me, or has anyone noticed that articles on dev.to don't get as many reads/views as they...",
+      "published_timestamp": "2026-07-08T12:18:00Z",
+      "published_at": "2026-07-08T12:18:00Z",
+      "edited_at": null,
+      "public_reactions_count": 51,
+      "positive_reactions_count": 51,
+      "tag_list": [
+        "discuss"
+      ],
+      "user_name": "Dumebi Okolo",
+      "user_username": "dumebii",
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
+    },
+    {
       "key": "4099087",
       "id": 4099087,
       "canonical_url": "https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7",
@@ -7900,8 +7892,8 @@
       "published_timestamp": "2026-07-08T17:25:50Z",
       "published_at": "2026-07-08T17:25:50Z",
       "edited_at": null,
-      "public_reactions_count": 145,
-      "positive_reactions_count": 145,
+      "public_reactions_count": 147,
+      "positive_reactions_count": 147,
       "tag_list": [
         "productivity",
         "beginners",
@@ -7910,7 +7902,29 @@
       ],
       "user_name": "Daniel Reis",
       "user_username": "danielhe4rt",
-      "last_seen": "2026-07-09T08:38:05.419785372+00:00"
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
+    },
+    {
+      "key": "4101533",
+      "id": 4101533,
+      "canonical_url": "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
+      "url": "https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3",
+      "title": "Stratagems #9: Lena and P Watched Two AI Suppliers Fight. The Logs Said Neither Was Clean.",
+      "description": "Watch the fires burning on the far shore. Don't cross until they've burned themselves out. — The 36...",
+      "published_timestamp": "2026-07-09T04:06:00Z",
+      "published_at": "2026-07-09T04:06:00Z",
+      "edited_at": "2026-07-09T10:28:02Z",
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
+      "tag_list": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "user_name": "xulingfeng",
+      "user_username": "xulingfeng",
+      "last_seen": "2026-07-09T16:08:29.249505603+00:00"
     }
   ]
 }
