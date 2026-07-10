@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-09T10:28:02+00:00</updated>
+  <updated>2026-07-09T21:49:08+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -224,18 +224,18 @@
     <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4082637</id>
+    <title>It&apos;s You.</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/its-you-29k0"/>
+    <updated>2026-07-07T14:33:45+00:00</updated>
+    <summary type="html">Reactions: public 121 / positive 121&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T21:38:25Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: To start off, I appreciate the community support I have received on the post about being behind.     ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3610492</id>
     <title>I Didn’t Stop Building. I Just Left My Laptop.</title>
     <link rel="alternate" href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da"/>
     <updated>2026-05-06T06:28:42+00:00</updated>
     <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-06T06:28:42Z&lt;br/&gt;Tags: career, learning, development, workplace&lt;br/&gt;Description: Hey there again guys! It’s been almost two months since my last post. And in the back of my head,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4082637</id>
-    <title>It&apos;s You.</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/its-you-29k0"/>
-    <updated>2026-07-07T14:33:45+00:00</updated>
-    <summary type="html">Reactions: public 118 / positive 118&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T21:38:25Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: To start off, I appreciate the community support I have received on the post about being behind.     ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4024781</id>
@@ -1134,6 +1134,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:24:39Z&lt;br/&gt;Tags: developers, career, portfolio, discuss&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4100283</id>
+    <title>Should I quit IT or just live through the burnout?</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"/>
+    <updated>2026-07-09T21:49:08+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:44:40Z&lt;br/&gt;Tags: mentalhealth, career, productivity, discuss&lt;br/&gt;Description: Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4053601</id>
     <title>BrowserAct Hit #1 on Product Hunt, So I Decided to Test It 🧙‍♂️</title>
     <link rel="alternate" href="https://dev.to/dev_kiran/browseract-hit-1-on-product-hunt-so-i-decided-to-test-it-96m"/>
@@ -1160,6 +1167,13 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
     <updated>2026-05-15T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3833912</id>
+    <title>✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)</title>
+    <link rel="alternate" href="https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"/>
+    <updated>2026-07-08T12:25:01+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-07-08T12:25:01Z&lt;br/&gt;Tags: ai, webdev, discuss, productivity&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4009817</id>
@@ -1232,11 +1246,11 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maishsk&quot;&gt;Maish Saidel-Keesing&lt;/a&gt;&lt;br/&gt;Published: 2026-05-05T13:25:34Z&lt;br/&gt;Tags: ai, cloud, aws, genai&lt;br/&gt;Description: I was at an event this morning where someone said something that really resonated with me. &quot;The new...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3833912</id>
-    <title>✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)</title>
-    <link rel="alternate" href="https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec"/>
-    <updated>2026-07-08T12:25:01+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-07-08T12:25:01Z&lt;br/&gt;Tags: ai, webdev, discuss, productivity&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
+    <id>tag:dev.to,2026:4093031</id>
+    <title>Stratagems #8: Alex Watched an AI Dashboard Take Over. He Kept the Keys Under the Table.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-8-alex-watched-an-ai-dashboard-take-over-he-kept-the-keys-under-the-table-3n70"/>
+    <updated>2026-07-08T03:58:05+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-08T03:58:05Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Deceive the enemy with an obvious approach that will take a very long time, while ambushing them...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4032196</id>
@@ -1265,20 +1279,6 @@
     <link rel="alternate" href="https://dev.to/om_shree_0709/google-ai-edge-gallery-now-runs-mcp-on-device-the-privacy-architecture-5075"/>
     <updated>2026-05-20T01:20:58+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/om_shree_0709&quot;&gt;Om Shree&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T00:44:23Z&lt;br/&gt;Tags: googleiochallenge, devchallenge, ai, mcp&lt;br/&gt;Description: This is a submission for the Google I/O Writing Challenge     On-device AI has spent most of its...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3605688</id>
-    <title>I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.</title>
-    <link rel="alternate" href="https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda"/>
-    <updated>2026-05-04T02:20:36+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/juandastic&quot;&gt;Juan David Gómez&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T02:20:36Z&lt;br/&gt;Tags: ai, mobile, showdev, sideprojects&lt;br/&gt;Description: I have been building web apps for 12 years. In that time I never wrote a single line of mobile code....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4093031</id>
-    <title>Stratagems #8: Alex Watched an AI Dashboard Take Over. He Kept the Keys Under the Table.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-8-alex-watched-an-ai-dashboard-take-over-he-kept-the-keys-under-the-table-3n70"/>
-    <updated>2026-07-08T03:58:05+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-08T03:58:05Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Deceive the enemy with an obvious approach that will take a very long time, while ambushing them...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4086605</id>
@@ -1344,11 +1344,11 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/josh_blair&quot;&gt;Josh Blair&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T00:05:06Z&lt;br/&gt;Tags: aws, webdev, tutorial, cloud&lt;br/&gt;Description: What We Built   This series documents the end-to-end process of designing, building, and...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3560335</id>
-    <title>How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)</title>
-    <link rel="alternate" href="https://dev.to/gdg/how-to-build-a-custom-ai-quality-gate-on-cloud-run-from-zero-to-production-1odp"/>
-    <updated>2026-05-07T06:22:07+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/alexandertyutin&quot;&gt;Alexander Tyutin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-04T04:17:45Z&lt;br/&gt;Tags: architecture, googlecloud, tutorial, productivity&lt;br/&gt;Description: In my previous article about treating architecture documentation as a first-class asset, I had a...</summary>
+    <id>tag:dev.to,2026:4101533</id>
+    <title>Stratagems #9: Lena and P Watched Two AI Suppliers Fight. The Logs Said Neither Was Clean.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3"/>
+    <updated>2026-07-09T10:28:02+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T04:06:00Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Watch the fires burning on the far shore. Don&apos;t cross until they&apos;ve burned themselves out. — The 36...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4051951</id>
@@ -1386,13 +1386,6 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vucinatim&quot;&gt;Tim Vučina&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:42:27Z&lt;br/&gt;Tags: opensource, react, ai, gamedev&lt;br/&gt;Description: Building an open-source framework for the age of vibe-coded party games, and what nine developers built with it in seven hours.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4101533</id>
-    <title>Stratagems #9: Lena and P Watched Two AI Suppliers Fight. The Logs Said Neither Was Clean.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3"/>
-    <updated>2026-07-09T10:28:02+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T04:06:00Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Watch the fires burning on the far shore. Don&apos;t cross until they&apos;ve burned themselves out. — The 36...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4030159</id>
     <title>I Stopped Comparing Myself to AI. It Changed Everything.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/nazar_boyko/laravel-from-version-5-to-today-the-framework-grew-up-with-us-3cil"/>
     <updated>2026-06-27T04:15:07+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar_boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T03:44:01Z&lt;br/&gt;Tags: laravel, php, today&lt;br/&gt;Description: Have you ever opened an old Laravel 5 project and felt like you were walking into a house where every...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3957571</id>
+    <title>Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber</title>
+    <link rel="alternate" href="https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3"/>
+    <updated>2026-06-21T20:40:36+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T20:40:36Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.</summary>
   </entry>
 </feed>
