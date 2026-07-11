@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-10T22:47:21+00:00</updated>
+  <updated>2026-07-11T02:14:51+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -287,6 +287,13 @@
     <summary type="html">Reactions: public 102 / positive 102&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/zenrishi&quot;&gt;rishi&lt;/a&gt;&lt;br/&gt;Published: 2026-05-23T04:35:05Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4           I Built a Smart Kitchen...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4081125</id>
+    <title>Your Career Matters. So Does the Person Building It.</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"/>
+    <updated>2026-07-07T16:43:18+00:00</updated>
+    <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T15:50:31Z&lt;br/&gt;Tags: discuss, career, productivity, mentalhealth&lt;br/&gt;Description: TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3934585</id>
     <title>Congrats to the Gemma 4 Challenge Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc"/>
@@ -299,13 +306,6 @@
     <link rel="alternate" href="https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f"/>
     <updated>2026-05-22T16:27:19+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T16:27:19Z&lt;br/&gt;Tags: gemini, ai, googlecloud, postgres&lt;br/&gt;Description: Big improvements incoming 👋  Finding the right balance for a feed algorithm is historically really...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4081125</id>
-    <title>Your Career Matters. So Does the Person Building It.</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"/>
-    <updated>2026-07-07T16:43:18+00:00</updated>
-    <summary type="html">Reactions: public 95 / positive 95&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T15:50:31Z&lt;br/&gt;Tags: discuss, career, productivity, mentalhealth&lt;br/&gt;Description: TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3790143</id>
@@ -385,6 +385,13 @@
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4100283</id>
+    <title>Should I quit IT or just live through the burnout?</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"/>
+    <updated>2026-07-09T21:49:08+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:44:40Z&lt;br/&gt;Tags: mentalhealth, career, productivity, discuss&lt;br/&gt;Description: Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3756670</id>
     <title>An LLM API call, in 4 GIFs</title>
     <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
@@ -404,13 +411,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"/>
     <updated>2026-07-02T22:04:04+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4100283</id>
-    <title>Should I quit IT or just live through the burnout?</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"/>
-    <updated>2026-07-09T21:49:08+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:44:40Z&lt;br/&gt;Tags: mentalhealth, career, productivity, discuss&lt;br/&gt;Description: Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3651760</id>
@@ -651,6 +651,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T16:08:39Z&lt;br/&gt;Tags: ai, android, mobile, productivity&lt;br/&gt;Description: Every QA team knows the feeling. The home screen works. Browse works. Search works. Cart works. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3993533</id>
+    <title>you stopped reading the docs. now you don&apos;t understand the systems.</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"/>
+    <updated>2026-07-07T10:33:25+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T10:33:25Z&lt;br/&gt;Tags: ai, beginners, productivity, career&lt;br/&gt;Description: I didn&apos;t go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3856153</id>
     <title>The &apos;Prompt&apos; Is Not a Skill — And We Need to Stop Pretending</title>
     <link rel="alternate" href="https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"/>
@@ -803,13 +810,6 @@
     <link rel="alternate" href="https://dev.to/drizzdev/using-appium-inspector-full-guide-why-drizz-doesnt-need-it-41f0"/>
     <updated>2026-05-08T07:52:47+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-08T07:52:47Z&lt;br/&gt;Tags: ai, android, ios, mobile&lt;br/&gt;Description: Appium has been the industry standard for mobile test automation for over a decade, a free,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3993533</id>
-    <title>you stopped reading the docs. now you don&apos;t understand the systems.</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"/>
-    <updated>2026-07-07T10:33:25+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T10:33:25Z&lt;br/&gt;Tags: ai, beginners, productivity, career&lt;br/&gt;Description: I didn&apos;t go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3696406</id>
@@ -1239,6 +1239,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-10T10:17:16Z&lt;br/&gt;Tags: webdev, productivity, programming, python&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4114550</id>
+    <title>Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12"/>
+    <updated>2026-07-10T14:49:32+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T14:49:32Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4091284</id>
     <title>Being an engineer in the AI era</title>
     <link rel="alternate" href="https://dev.to/ale3oula/being-an-engineer-in-the-ai-era-277p"/>
@@ -1337,13 +1344,6 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/josh_blair&quot;&gt;Josh Blair&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T00:05:06Z&lt;br/&gt;Tags: aws, webdev, tutorial, cloud&lt;br/&gt;Description: What We Built   This series documents the end-to-end process of designing, building, and...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4114550</id>
-    <title>Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12"/>
-    <updated>2026-07-10T14:49:32+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T14:49:32Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4051951</id>
     <title>You&apos;re Not Lazy — You&apos;re Time Blind. Here&apos;s How Lock In Fixes It.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej"/>
@@ -1379,6 +1379,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vucinatim&quot;&gt;Tim Vučina&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:42:27Z&lt;br/&gt;Tags: opensource, react, ai, gamedev&lt;br/&gt;Description: Building an open-source framework for the age of vibe-coded party games, and what nine developers built with it in seven hours.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4113945</id>
+    <title>Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59"/>
+    <updated>2026-07-11T02:14:51+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-11T02:04:07Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Better to sacrifice a part to preserve the whole. — The 36 Stratagems, Sacrifice the Plum Tree to...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4030159</id>
     <title>I Stopped Comparing Myself to AI. It Changed Everything.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3"/>
     <updated>2026-06-21T20:40:36+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T20:40:36Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4074064</id>
-    <title>At Last, I clasp: Escaping the G&apos;s Apps Script Copy-Paste Gauntlet</title>
-    <link rel="alternate" href="https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd"/>
-    <updated>2026-07-05T17:36:53+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T17:15:00Z&lt;br/&gt;Tags: webdev, programming, productivity, javascript&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
 </feed>
