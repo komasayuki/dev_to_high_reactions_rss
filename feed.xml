@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-11T02:14:51+00:00</updated>
+  <updated>2026-07-12T16:57:52+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -210,6 +210,13 @@
     <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T07:11:55Z&lt;br/&gt;Tags: javascript, react, mcp, ai&lt;br/&gt;Description: A few years ago, we started adapting our websites for mobile devices. Then we adapted them for...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4100283</id>
+    <title>Should I quit IT or just live through the burnout?</title>
+    <link rel="alternate" href="https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"/>
+    <updated>2026-07-09T21:49:08+00:00</updated>
+    <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:44:40Z&lt;br/&gt;Tags: mentalhealth, career, productivity, discuss&lt;br/&gt;Description: Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4024781</id>
     <title>Need a break? Play today&apos;s game from The Daily Context.</title>
     <link rel="alternate" href="https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli"/>
@@ -222,13 +229,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/ask-a-dev-community-mod-50hk"/>
     <updated>2026-06-23T01:13:19+00:00</updated>
     <summary type="html">Reactions: public 117 / positive 117&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:52:39Z&lt;br/&gt;Tags: discuss, community, publicinbox, ama&lt;br/&gt;Description: Disclaimer: Please read the full post before commenting. This post will be refined overtime, so I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4100283</id>
-    <title>Should I quit IT or just live through the burnout?</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng"/>
-    <updated>2026-07-09T21:49:08+00:00</updated>
-    <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:44:40Z&lt;br/&gt;Tags: mentalhealth, career, productivity, discuss&lt;br/&gt;Description: Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3771843</id>
@@ -581,18 +581,18 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/somadevtoo&quot;&gt;Soma&lt;/a&gt;&lt;br/&gt;Published: 2026-05-09T07:17:35Z&lt;br/&gt;Tags: softwaredevelopment, systemdesign, leetcode, programming&lt;br/&gt;Description: I found LeetCode for Software Design, and it’s Awesome</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3993533</id>
+    <title>you stopped reading the docs. now you don&apos;t understand the systems.</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"/>
+    <updated>2026-07-07T10:33:25+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T10:33:25Z&lt;br/&gt;Tags: ai, beginners, productivity, career&lt;br/&gt;Description: I didn&apos;t go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3621423</id>
     <title>From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything</title>
     <link rel="alternate" href="https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2"/>
     <updated>2026-05-13T10:47:58+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:00:09Z&lt;br/&gt;Tags: programming, leetcode, python, javascript&lt;br/&gt;Description: I didn’t realize I was starting a 1.5-year journey when I opened my first LeetCode problem.  It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3993533</id>
-    <title>you stopped reading the docs. now you don&apos;t understand the systems.</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"/>
-    <updated>2026-07-07T10:33:25+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T10:33:25Z&lt;br/&gt;Tags: ai, beginners, productivity, career&lt;br/&gt;Description: I didn&apos;t go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4000790</id>
@@ -826,6 +826,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T14:49:32Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4106925</id>
+    <title>Unboxable in Tech: The Evidence Locker</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"/>
+    <updated>2026-07-09T14:42:39+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:35:00Z&lt;br/&gt;Tags: career, discuss, webdev, showdev&lt;br/&gt;Description: Eleven exhibits, last time. A career that kept refusing to fit inside a single box — trainer,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4011094</id>
     <title>After a long journey, I&apos;ve reached a deep burnout</title>
     <link rel="alternate" href="https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"/>
@@ -845,13 +852,6 @@
     <link rel="alternate" href="https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5"/>
     <updated>2026-07-10T03:12:13+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T02:00:00Z&lt;br/&gt;Tags: weekendchallenge, devchallenge&lt;br/&gt;Description: Hello! We&apos;re kicking off another DEV Weekend Challenge, a short bite-sized challenge planned to fit...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4106925</id>
-    <title>Unboxable in Tech: The Evidence Locker</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"/>
-    <updated>2026-07-09T14:42:39+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:35:00Z&lt;br/&gt;Tags: career, discuss, webdev, showdev&lt;br/&gt;Description: Eleven exhibits, last time. A career that kept refusing to fit inside a single box — trainer,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3665857</id>
@@ -1120,6 +1120,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thebitforge&quot;&gt;TheBitForge&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T09:24:39Z&lt;br/&gt;Tags: developers, career, portfolio, discuss&lt;br/&gt;Description: TheBitForgeFollow             TheBitForge Agency That...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3993511</id>
+    <title>Your Hand-Typed Slop Isn&apos;t Honest. It&apos;s Just Slower.</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei"/>
+    <updated>2026-07-09T07:35:37+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T07:35:37Z&lt;br/&gt;Tags: ai, watercooler, discuss&lt;br/&gt;Description: A post on X last week:   &quot;The fact that people can&apos;t even reply to posts without AI anymore says a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4053601</id>
     <title>BrowserAct Hit #1 on Product Hunt, So I Decided to Test It 🧙‍♂️</title>
     <link rel="alternate" href="https://dev.to/dev_kiran/browseract-hit-1-on-product-hunt-so-i-decided-to-test-it-96m"/>
@@ -1146,13 +1153,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-110l"/>
     <updated>2026-05-15T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-15T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3993511</id>
-    <title>Your Hand-Typed Slop Isn&apos;t Honest. It&apos;s Just Slower.</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei"/>
-    <updated>2026-07-09T07:35:37+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T07:35:37Z&lt;br/&gt;Tags: ai, watercooler, discuss&lt;br/&gt;Description: A post on X last week:   &quot;The fact that people can&apos;t even reply to posts without AI anymore says a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4009817</id>
@@ -1351,6 +1351,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vucinatim&quot;&gt;Tim Vučina&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T07:42:27Z&lt;br/&gt;Tags: opensource, react, ai, gamedev&lt;br/&gt;Description: Building an open-source framework for the age of vibe-coded party games, and what nine developers built with it in seven hours.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4113561</id>
+    <title>PassionCast: I Built an AI Hype Man for World Cup Fans Using Gemini + ElevenLabs</title>
+    <link rel="alternate" href="https://dev.to/sarvar_04/passioncast-i-built-an-ai-hype-man-for-world-cup-fans-using-gemini-elevenlabs-1ilh"/>
+    <updated>2026-07-12T16:57:52+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-07-12T16:57:52Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: This is a submission for Weekend Challenge: Passion Edition           What I Built   The World Cup...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4030159</id>
     <title>I Stopped Comparing Myself to AI. It Changed Everything.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"/>
     <updated>2026-06-29T16:05:43+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamd&quot;&gt;Adam DuVander&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:05:43Z&lt;br/&gt;Tags: agents, aie, tooling&lt;br/&gt;Description: Deep into a coding session, you realize you want beta testers to try some new functionality first....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3896384</id>
-    <title>I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why</title>
-    <link rel="alternate" href="https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c"/>
-    <updated>2026-06-18T07:28:43+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T07:56:06Z&lt;br/&gt;Tags: nextjs, javascript, webdev, security&lt;br/&gt;Description: A few days ago I published a post about the three-layer auth model and the invoice incident that made...</summary>
   </entry>
 </feed>
