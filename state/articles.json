@@ -237,28 +237,6 @@
       "last_seen": "2026-06-01T10:57:38.928394442+00:00"
     },
     {
-      "key": "3634492",
-      "id": 3634492,
-      "canonical_url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
-      "url": "https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g",
-      "title": "Why does AI lie? Hallucinations explained simply",
-      "description": "In the previous post, I showed you an AI doing something genuinely useful, helping me adapt a recipe...",
-      "published_timestamp": "2026-05-08T16:37:02Z",
-      "published_at": "2026-05-08T16:37:02Z",
-      "edited_at": "2026-05-08T17:26:09Z",
-      "public_reactions_count": 57,
-      "positive_reactions_count": 57,
-      "tag_list": [
-        "ai",
-        "beginners",
-        "aws",
-        "tutorial"
-      ],
-      "user_name": "Rohini Gaonkar",
-      "user_username": "rohini_gaonkar",
-      "last_seen": "2026-05-15T15:51:28.663407395+00:00"
-    },
-    {
       "key": "3635559",
       "id": 3635559,
       "canonical_url": "https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d",
@@ -3580,7 +3558,7 @@
       ],
       "user_name": "Web Developer Hyper",
       "user_username": "webdeveloperhyper",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "3834057",
@@ -5276,7 +5254,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "3993533",
@@ -6557,7 +6535,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4067956",
@@ -6990,7 +6968,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4091284",
@@ -7012,7 +6990,7 @@
       ],
       "user_name": "Alexandra",
       "user_username": "ale3oula",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4091990",
@@ -7056,7 +7034,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4093411",
@@ -7077,7 +7055,7 @@
       ],
       "user_name": "Gamya ",
       "user_username": "gamya_m",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4094691",
@@ -7099,7 +7077,7 @@
       ],
       "user_name": "Gamya ",
       "user_username": "gamya_m",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4096108",
@@ -7140,7 +7118,7 @@
       ],
       "user_name": "Dumebi Okolo",
       "user_username": "dumebii",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4099087",
@@ -7162,7 +7140,7 @@
       ],
       "user_name": "Daniel Reis",
       "user_username": "danielhe4rt",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4100283",
@@ -7184,7 +7162,7 @@
       ],
       "user_name": "Klaudia Grzondziel",
       "user_username": "klaudiagrz",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4101533",
@@ -7206,7 +7184,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4106925",
@@ -7218,8 +7196,8 @@
       "published_timestamp": "2026-07-09T14:35:00Z",
       "published_at": "2026-07-09T14:35:00Z",
       "edited_at": "2026-07-09T14:42:39Z",
-      "public_reactions_count": 73,
-      "positive_reactions_count": 73,
+      "public_reactions_count": 74,
+      "positive_reactions_count": 74,
       "tag_list": [
         "career",
         "discuss",
@@ -7228,7 +7206,7 @@
       ],
       "user_name": "Pascal CESCATO",
       "user_username": "pascal_cescato_692b7a8a20",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4107965",
@@ -7250,7 +7228,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4108558",
@@ -7271,7 +7249,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4108743",
@@ -7313,7 +7291,7 @@
       ],
       "user_name": "christine",
       "user_username": "cseeman",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4109567",
@@ -7335,7 +7313,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4109761",
@@ -7357,7 +7335,7 @@
       ],
       "user_name": "Ewerson Benigno",
       "user_username": "ewbenigno",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4110750",
@@ -7379,7 +7357,7 @@
       ],
       "user_name": "Thuangf45",
       "user_username": "thuangf45",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4113561",
@@ -7399,7 +7377,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4113945",
@@ -7421,7 +7399,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4114550",
@@ -7433,8 +7411,8 @@
       "published_timestamp": "2026-07-10T14:49:32Z",
       "published_at": "2026-07-10T14:49:32Z",
       "edited_at": null,
-      "public_reactions_count": 65,
-      "positive_reactions_count": 65,
+      "public_reactions_count": 66,
+      "positive_reactions_count": 66,
       "tag_list": [
         "discuss",
         "community",
@@ -7443,7 +7421,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4114590",
@@ -7463,7 +7441,7 @@
       ],
       "user_name": "Allen Labrague",
       "user_username": "a11en",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4118300",
@@ -7485,7 +7463,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4119058",
@@ -7507,7 +7485,7 @@
       ],
       "user_name": "Med Marrouchi",
       "user_username": "marrouchi",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4120243",
@@ -7519,12 +7497,12 @@
       "published_timestamp": "2026-07-13T08:35:28Z",
       "published_at": "2026-07-13T08:35:28Z",
       "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
       "tag_list": [],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4124340",
@@ -7546,7 +7524,7 @@
       ],
       "user_name": "Ibrahim Awab",
       "user_username": "miawab",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4125592",
@@ -7558,15 +7536,15 @@
       "published_timestamp": "2026-07-12T12:23:59Z",
       "published_at": "2026-07-12T12:23:59Z",
       "edited_at": null,
-      "public_reactions_count": 49,
-      "positive_reactions_count": 49,
+      "public_reactions_count": 50,
+      "positive_reactions_count": 50,
       "tag_list": [
         "devchallenge",
         "weekendchallenge"
       ],
       "user_name": "Varshith V Hegde",
       "user_username": "varshithvhegde",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4127328",
@@ -7588,7 +7566,7 @@
       ],
       "user_name": "Soumyadeep Dey ",
       "user_username": "soumyadeepdey",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4130229",
@@ -7608,7 +7586,7 @@
       ],
       "user_name": "Divyesh",
       "user_username": "divyesh5981",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4133344",
@@ -7630,7 +7608,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4135085",
@@ -7642,8 +7620,8 @@
       "published_timestamp": "2026-07-13T15:59:11Z",
       "published_at": "2026-07-13T15:59:11Z",
       "edited_at": null,
-      "public_reactions_count": 64,
-      "positive_reactions_count": 64,
+      "public_reactions_count": 65,
+      "positive_reactions_count": 65,
       "tag_list": [
         "ai",
         "documentation",
@@ -7652,7 +7630,7 @@
       ],
       "user_name": "Ben Halpern",
       "user_username": "ben",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4135708",
@@ -7664,8 +7642,8 @@
       "published_timestamp": "2026-07-13T17:45:47Z",
       "published_at": "2026-07-13T17:45:47Z",
       "edited_at": "2026-07-13T17:56:41Z",
-      "public_reactions_count": 123,
-      "positive_reactions_count": 123,
+      "public_reactions_count": 124,
+      "positive_reactions_count": 124,
       "tag_list": [
         "beginners",
         "braziliandevs",
@@ -7674,7 +7652,7 @@
       ],
       "user_name": "vitoriazzp",
       "user_username": "vitoriazzp",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4135723",
@@ -7686,8 +7664,8 @@
       "published_timestamp": "2026-07-13T21:22:10Z",
       "published_at": "2026-07-13T21:22:10Z",
       "edited_at": "2026-07-14T01:06:26Z",
-      "public_reactions_count": 59,
-      "positive_reactions_count": 59,
+      "public_reactions_count": 62,
+      "positive_reactions_count": 62,
       "tag_list": [
         "discuss",
         "community",
@@ -7696,7 +7674,27 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
+    },
+    {
+      "key": "4136178",
+      "id": 4136178,
+      "canonical_url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815",
+      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+      "published_timestamp": "2026-07-14T13:00:00Z",
+      "published_at": "2026-07-14T13:00:00Z",
+      "edited_at": null,
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
+      "tag_list": [
+        "top7",
+        "discuss"
+      ],
+      "user_name": "Jess Lee",
+      "user_username": "jess",
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     },
     {
       "key": "4136384",
@@ -7718,7 +7716,29 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-07-14T14:08:41.044192282+00:00"
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
+    },
+    {
+      "key": "4137611",
+      "id": 4137611,
+      "canonical_url": "https://dev.to/xulingfeng/stratagems-13-p-posted-a-question-on-a-public-forum-24-hours-later-their-sales-team-called-29h1",
+      "url": "https://dev.to/xulingfeng/stratagems-13-p-posted-a-question-on-a-public-forum-24-hours-later-their-sales-team-called-29h1",
+      "title": "Stratagems #13: P Posted a Question on a Public Forum. 24 Hours Later, an AI Sales Team Called.",
+      "description": "Startle the snake by striking the grass. — The 36 Stratagems, Stomp the Grass to Scare the...",
+      "published_timestamp": "2026-07-14T02:54:49Z",
+      "published_at": "2026-07-14T02:54:49Z",
+      "edited_at": "2026-07-14T11:41:51Z",
+      "public_reactions_count": 32,
+      "positive_reactions_count": 32,
+      "tag_list": [
+        "ai",
+        "discuss",
+        "career",
+        "programming"
+      ],
+      "user_name": "xulingfeng",
+      "user_username": "xulingfeng",
+      "last_seen": "2026-07-14T16:24:31.055791220+00:00"
     }
   ]
 }
