@@ -588,13 +588,6 @@
     <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/swyx&quot;&gt;swyx&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:04:30Z&lt;br/&gt;Tags: aie, ai, techtalks, softwareengineering&lt;br/&gt;Description: Welcome to the first edition of the AI Engineer World’s Fair newspaper!  On behalf of the organizing...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3670735</id>
-    <title>PHP vs Node.js &amp; Next.js vs Angular: What to Learn</title>
-    <link rel="alternate" href="https://dev.to/syedahmershah/php-vs-nodejs-nextjs-vs-angular-what-to-learn-35gj"/>
-    <updated>2026-05-14T16:13:26+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/syedahmershah&quot;&gt;Syed Ahmer Shah&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T16:05:01Z&lt;br/&gt;Tags: php, node, nextjs, angular&lt;br/&gt;Description: You know the feeling. Three browser tabs open. Reddit thread from 2019. A YouTube video titled &quot;PHP...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3943909</id>
     <title>My First Year at DEV Recap</title>
     <link rel="alternate" href="https://dev.to/javz/my-first-year-at-dev-recap-3na2"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"/>
     <updated>2026-06-29T16:05:43+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamd&quot;&gt;Adam DuVander&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:05:43Z&lt;br/&gt;Tags: agents, aie, tooling&lt;br/&gt;Description: Deep into a coding session, you realize you want beta testers to try some new functionality first....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3896384</id>
+    <title>I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why</title>
+    <link rel="alternate" href="https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c"/>
+    <updated>2026-06-18T07:28:43+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T07:56:06Z&lt;br/&gt;Tags: nextjs, javascript, webdev, security&lt;br/&gt;Description: A few days ago I published a post about the three-layer auth model and the invoice incident that made...</summary>
   </entry>
 </feed>
