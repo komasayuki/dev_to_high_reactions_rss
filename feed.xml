@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-14T01:06:26+00:00</updated>
+  <updated>2026-07-14T23:51:06+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -479,7 +479,7 @@
     <id>tag:dev.to,2026:4135723</id>
     <title>I am that I am.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/i-am-that-i-am-5j"/>
-    <updated>2026-07-14T01:06:26+00:00</updated>
+    <updated>2026-07-14T23:51:06+00:00</updated>
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T21:22:10Z&lt;br/&gt;Tags: discuss, community, mentalhealth, learning&lt;br/&gt;Description: We all hear about &quot;Not comparing yourself to others&quot; and that &quot;comparing yourself is the thief of...</summary>
   </entry>
   <entry>
@@ -521,7 +521,7 @@
     <id>tag:dev.to,2026:4106925</id>
     <title>Unboxable in Tech: The Evidence Locker</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4"/>
-    <updated>2026-07-09T14:42:39+00:00</updated>
+    <updated>2026-07-14T23:50:25+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:35:00Z&lt;br/&gt;Tags: career, discuss, webdev, showdev&lt;br/&gt;Description: Eleven exhibits, last time. A career that kept refusing to fit inside a single box — trainer,...</summary>
   </entry>
   <entry>
@@ -987,6 +987,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T05:16:18Z&lt;br/&gt;Tags: discuss, ai, programming, productivity&lt;br/&gt;Description: Everyone keeps saying AI will replace developers. Meanwhile I was sitting at 3:17 AM staring at a bug...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4125592</id>
+    <title>I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery</title>
+    <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e"/>
+    <updated>2026-07-12T12:23:59+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-07-12T12:23:59Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: This is a submission for Weekend Challenge: Passion Edition           What I Built   Every developer...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4052254</id>
     <title>Stratagems #5: Leo Walked Into an AI-Powered Burning House. He Walked Out With a Client.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-5-leo-walked-into-a-burning-house-he-walked-out-with-a-client-2afg"/>
@@ -1055,13 +1062,6 @@
     <link rel="alternate" href="https://dev.to/annaspies/from-years-to-hours-joe"/>
     <updated>2026-05-21T01:37:32+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annaspies&quot;&gt;Anna&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T01:37:32Z&lt;br/&gt;Tags: ai, stripe, cli, agents&lt;br/&gt;Description: It&apos;s not a brag for me to say &quot;I&apos;ve been visualizing infrastructure since 2018&quot; - it&apos;s the actual...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4125592</id>
-    <title>I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery</title>
-    <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e"/>
-    <updated>2026-07-12T12:23:59+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-07-12T12:23:59Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: This is a submission for Weekend Challenge: Passion Edition           What I Built   Every developer...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3993511</id>
@@ -1204,6 +1204,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-05-10T10:17:16Z&lt;br/&gt;Tags: webdev, productivity, programming, python&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4136178</id>
+    <title>Top 7 Featured DEV Posts of the Week</title>
+    <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815"/>
+    <updated>2026-07-14T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T13:00:00Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4032196</id>
     <title>The Future Of AI Is Local And Open</title>
     <link rel="alternate" href="https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c"/>
@@ -1251,6 +1258,13 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-june-solstice-game-jam-winners-46c0"/>
     <updated>2026-07-09T20:23:01+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T20:23:01Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev&lt;br/&gt;Description: We are so excited to announce the winners of the June Solstice Game Jam, our celebration of the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4094691</id>
+    <title>I Deleted 200 Lines of Code I Didn&apos;t Write and Learned More Than When I Wrote It...</title>
+    <link rel="alternate" href="https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd"/>
+    <updated>2026-07-09T08:44:00+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gamya_m&quot;&gt;Gamya &lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T08:44:00Z&lt;br/&gt;Tags: devops, programming, ai, career&lt;br/&gt;Description: Quick note before we dive in — I know I&apos;ve been off track from the iOS/Swift series lately. I just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4076965</id>
@@ -1307,13 +1321,6 @@
     <link rel="alternate" href="https://dev.to/josh_blair/building-a-production-company-website-on-aws-project-overview-2dhm"/>
     <updated>2026-05-21T00:07:15+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/josh_blair&quot;&gt;Josh Blair&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T00:05:06Z&lt;br/&gt;Tags: aws, webdev, tutorial, cloud&lt;br/&gt;Description: What We Built   This series documents the end-to-end process of designing, building, and...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4094691</id>
-    <title>I Deleted 200 Lines of Code I Didn&apos;t Write and Learned More Than When I Wrote It...</title>
-    <link rel="alternate" href="https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd"/>
-    <updated>2026-07-09T08:44:00+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gamya_m&quot;&gt;Gamya &lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T08:44:00Z&lt;br/&gt;Tags: devops, programming, ai, career&lt;br/&gt;Description: Quick note before we dive in — I know I&apos;ve been off track from the iOS/Swift series lately. I just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4051951</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"/>
     <updated>2026-06-29T16:05:43+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamd&quot;&gt;Adam DuVander&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:05:43Z&lt;br/&gt;Tags: agents, aie, tooling&lt;br/&gt;Description: Deep into a coding session, you realize you want beta testers to try some new functionality first....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3896384</id>
-    <title>I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why</title>
-    <link rel="alternate" href="https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c"/>
-    <updated>2026-06-18T07:28:43+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T07:56:06Z&lt;br/&gt;Tags: nextjs, javascript, webdev, security&lt;br/&gt;Description: A few days ago I published a post about the three-layer auth model and the invoice incident that made...</summary>
   </entry>
 </feed>
