@@ -189,18 +189,18 @@
     <summary type="html">Reactions: public 139 / positive 139&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T21:45:00Z&lt;br/&gt;Tags: braziliandevs, productivity, mentalhealth, career&lt;br/&gt;Description: Um relato honesto de alguém que trabalha com design, vive com TDAH e está cansada de dicas...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4144123</id>
+    <title>8 Things Developers Confidently Explain After Watching One YouTube Video</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio"/>
+    <updated>2026-07-14T17:57:43+00:00</updated>
+    <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T17:57:43Z&lt;br/&gt;Tags: jokes, webdev, ai&lt;br/&gt;Description: I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3926659</id>
     <title>Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk"/>
     <updated>2026-06-18T07:25:04+00:00</updated>
     <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T07:25:04Z&lt;br/&gt;Tags: javascript, webdev, programming, architecture&lt;br/&gt;Description: I promised myself that starting this week I&apos;d switch to lighter topics. But on Monday, my JSNation...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4144123</id>
-    <title>8 Things Developers Confidently Explain After Watching One YouTube Video</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio"/>
-    <updated>2026-07-14T17:57:43+00:00</updated>
-    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T17:57:43Z&lt;br/&gt;Tags: jokes, webdev, ai&lt;br/&gt;Description: I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3721399</id>
@@ -488,13 +488,6 @@
     <link rel="alternate" href="https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79"/>
     <updated>2026-05-21T20:59:59+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dennistraub&quot;&gt;Dennis Traub&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T13:17:09Z&lt;br/&gt;Tags: ai, architecture, mcp, systemdesign&lt;br/&gt;Description: Developers are reinventing Bounded Contexts and Anti-Corruption Layers for MCP servers without knowing it. The patterns already exist - and they&apos;ve been battle-tested for 20 years.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3660300</id>
-    <title>Two DEV Users. Two Countries. One Weird Little Avatar Project.</title>
-    <link rel="alternate" href="https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3"/>
-    <updated>2026-05-14T16:40:15+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T07:07:13Z&lt;br/&gt;Tags: webdev, nextjs, sideprojects, react&lt;br/&gt;Description: We Gave Our DEV Avatar Project a V2… and It Escalated Quickly   A few months ago,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4135085</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/dailycontext/pragmatism-in-an-age-of-infinite-code-and-unavoidable-bottlenecks-1bkd"/>
     <updated>2026-06-29T16:05:56+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:05:56Z&lt;br/&gt;Tags: ai, aie, productivity, leadership&lt;br/&gt;Description: Leading into the AI Engineer event in San Francisco, I’m looking forward to having my mind blown....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4007287</id>
+    <title>Coding Agents Play Favorites With Your Dependencies</title>
+    <link rel="alternate" href="https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6"/>
+    <updated>2026-06-29T16:05:43+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamd&quot;&gt;Adam DuVander&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T16:05:43Z&lt;br/&gt;Tags: agents, aie, tooling&lt;br/&gt;Description: Deep into a coding session, you realize you want beta testers to try some new functionality first....</summary>
   </entry>
 </feed>
