@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-17T18:28:22+00:00</updated>
+  <updated>2026-07-18T01:41:25+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -95,7 +95,7 @@
     <title>I am that I am.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/i-am-that-i-am-5j"/>
     <updated>2026-07-14T23:51:06+00:00</updated>
-    <summary type="html">Reactions: public 160 / positive 160&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T21:22:10Z&lt;br/&gt;Tags: discuss, community, mentalhealth, learning&lt;br/&gt;Description: We all hear about &quot;Not comparing yourself to others&quot; and that &quot;comparing yourself is the thief of...</summary>
+    <summary type="html">Reactions: public 161 / positive 161&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T21:22:10Z&lt;br/&gt;Tags: discuss, community, mentalhealth, learning&lt;br/&gt;Description: We all hear about &quot;Not comparing yourself to others&quot; and that &quot;comparing yourself is the thief of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3702326</id>
@@ -166,13 +166,6 @@
     <link rel="alternate" href="https://dev.to/nazar-boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5"/>
     <updated>2026-06-27T04:12:26+00:00</updated>
     <summary type="html">Reactions: public 142 / positive 142&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T04:12:26Z&lt;br/&gt;Tags: go, architecture, career, learn&lt;br/&gt;Description: Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3665564</id>
-    <title>My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.</title>
-    <link rel="alternate" href="https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9"/>
-    <updated>2026-05-13T18:36:00+00:00</updated>
-    <summary type="html">Reactions: public 142 / positive 142&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-13T18:32:33Z&lt;br/&gt;Tags: webdev, beginners, productivity, discuss&lt;br/&gt;Description: I recently opened my GitHub account and filtered by private repositories. I actually counted them:...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3861043</id>
@@ -1398,6 +1391,13 @@
     <link rel="alternate" href="https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23"/>
     <updated>2026-05-19T13:26:24+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T13:12:33Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, discuss&lt;br/&gt;Description: A technical comparison of Hermes Agent and OpenClaw through the five claims that actually matter: memory, skills, sandboxing, messaging, and persistent infrastructure.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4167260</id>
+    <title>Stratagems #17: Alex Set an AI Bait. The Catch Wasn&apos;t Code — It Was Someone Who Shouldn&apos;t Have Been Watching.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"/>
+    <updated>2026-07-18T01:41:25+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-18T01:41:25Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Toss out a brick to lure a jade gem. — The 36 Stratagems, Throw Out a Brick to Get a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4033346</id>
