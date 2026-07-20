@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-18T01:41:25+00:00</updated>
+  <updated>2026-07-19T10:19:10+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -131,13 +131,6 @@
     <link rel="alternate" href="https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf"/>
     <updated>2026-07-13T17:56:41+00:00</updated>
     <summary type="html">Reactions: public 149 / positive 149&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T17:45:47Z&lt;br/&gt;Tags: beginners, braziliandevs, networking, career&lt;br/&gt;Description: Quando comecei a ir a eventos de tecnologia, estava na faculdade e ia a todos os gratuitos ou que...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3666204</id>
-    <title>4 Tiny Mistakes That Secretly Destroy App Performance</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo"/>
-    <updated>2026-05-14T06:04:15+00:00</updated>
-    <summary type="html">Reactions: public 149 / positive 149&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-05-14T06:04:15Z&lt;br/&gt;Tags: javascript, angular, react, frontend&lt;br/&gt;Description: Ok, I’m back from my short vacation and returning with some useful content 😄 As you know, from time...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4082637</id>
@@ -966,6 +959,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mattlewandowski93&quot;&gt;Matt&lt;/a&gt;&lt;br/&gt;Published: 2026-05-18T05:45:10Z&lt;br/&gt;Tags: ai, mcp, productivity, agile&lt;br/&gt;Description: There&apos;s a thing PMs do that nobody puts on a job description. Every couple of weeks, after a retro,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4168448</id>
+    <title>Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency &amp; Free AI Dev Course</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc"/>
+    <updated>2026-07-17T18:28:22+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T17:11:03Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3993511</id>
     <title>Your Hand-Typed Slop Isn&apos;t Honest. It&apos;s Just Slower.</title>
     <link rel="alternate" href="https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei"/>
@@ -1013,13 +1013,6 @@
     <link rel="alternate" href="https://dev.to/annaspies/from-years-to-hours-joe"/>
     <updated>2026-05-21T01:37:32+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annaspies&quot;&gt;Anna&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T01:37:32Z&lt;br/&gt;Tags: ai, stripe, cli, agents&lt;br/&gt;Description: It&apos;s not a brag for me to say &quot;I&apos;ve been visualizing infrastructure since 2018&quot; - it&apos;s the actual...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4168448</id>
-    <title>Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency &amp; Free AI Dev Course</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc"/>
-    <updated>2026-07-17T18:28:22+00:00</updated>
-    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T17:11:03Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4093031</id>
@@ -1099,6 +1092,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T04:43:40Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Series: AI, Ego &amp;amp; Regret — Bonus Chapter   Editor&apos;s Note: While compiling the old series for the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4158034</id>
+    <title>Stratagems #16: Mark Left a Hole in His AI Audit. Lena Counted Every Layer.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p"/>
+    <updated>2026-07-17T06:29:06+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T01:09:52Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: When the enemy occupies favorable terrain, don&apos;t attack head-on. Let them think they&apos;re safe, let...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4143090</id>
     <title>DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20+ winners. 🐛🐞🪲</title>
     <link rel="alternate" href="https://dev.to/devteam/devs-big-summer-bug-smash-is-now-live-share-5000-in-cash-prizes-skateboards-and-more-across-57mk"/>
@@ -1146,13 +1146,6 @@
     <link rel="alternate" href="https://dev.to/gamya_m/my-first-week-on-dev-badges-game-jams-and-way-more-than-i-expected-3ec2"/>
     <updated>2026-06-18T09:55:00+00:00</updated>
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gamya_m&quot;&gt;Gamya &lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T09:55:00Z&lt;br/&gt;Tags: discuss, watercooler, beginners, devjournal&lt;br/&gt;Description: I joined DEV at the start of January, but it&apos;s only really been in the past week or so that things...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4158034</id>
-    <title>Stratagems #16: Mark Left a Hole in His AI Audit. Lena Counted Every Layer.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p"/>
-    <updated>2026-07-17T06:29:06+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T01:09:52Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: When the enemy occupies favorable terrain, don&apos;t attack head-on. Let them think they&apos;re safe, let...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4130229</id>
@@ -1260,6 +1253,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/josh_blair&quot;&gt;Josh Blair&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T00:05:06Z&lt;br/&gt;Tags: aws, webdev, tutorial, cloud&lt;br/&gt;Description: What We Built   This series documents the end-to-end process of designing, building, and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4167260</id>
+    <title>Stratagems #17: Alex Set an AI Bait. The Catch Wasn&apos;t Code — It Was Someone Who Shouldn&apos;t Have Been Watching.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"/>
+    <updated>2026-07-18T01:41:25+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-18T01:41:25Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Toss out a brick to lure a jade gem. — The 36 Stratagems, Throw Out a Brick to Get a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4140016</id>
     <title>I Stopped Debugging at My Desk. Here&apos;s What Changed</title>
     <link rel="alternate" href="https://shubhra.dev/blog/before-i-write-a-single-line-of-code"/>
@@ -1323,11 +1323,11 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T20:40:36Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4167260</id>
-    <title>Stratagems #17: Alex Set an AI Bait. The Catch Wasn&apos;t Code — It Was Someone Who Shouldn&apos;t Have Been Watching.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"/>
-    <updated>2026-07-18T01:41:25+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-18T01:41:25Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Toss out a brick to lure a jade gem. — The 36 Stratagems, Throw Out a Brick to Get a...</summary>
+    <id>tag:dev.to,2026:4172656</id>
+    <title>Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4"/>
+    <updated>2026-07-19T10:19:10+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-19T01:47:12Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Capture the ringleader first. The rest will scatter on their own. — The 36 Stratagems, Capture the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4108939</id>
