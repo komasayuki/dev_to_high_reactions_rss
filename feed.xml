@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-21T01:31:30+00:00</updated>
+  <updated>2026-07-21T19:03:30+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -784,6 +784,13 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4170828</id>
+    <title>AI And Code Ownership: Who Is Responsible For Generated Code?</title>
+    <link rel="alternate" href="https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"/>
+    <updated>2026-07-20T13:20:45+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T13:20:24Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4108743</id>
     <title>Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.</title>
     <link rel="alternate" href="https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5"/>
@@ -803,13 +810,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/choose-your-burden-4dgl"/>
     <updated>2026-07-21T01:31:30+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T15:59:30Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4170828</id>
-    <title>AI And Code Ownership: Who Is Responsible For Generated Code?</title>
-    <link rel="alternate" href="https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"/>
-    <updated>2026-07-20T13:20:45+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T13:20:24Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4085109</id>
@@ -1090,6 +1090,13 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567"/>
     <updated>2026-05-20T21:45:01+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T17:09:24Z&lt;br/&gt;Tags: googleiochallenge, gemma, mcp, devchallenge&lt;br/&gt;Description: This is a submission for the Google I/O Writing Challenge     I was already running MCP servers on my...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4195412</id>
+    <title>How To Cut MCP Token Costs? Save Up To 92% At Scale With Code Mode 💎</title>
+    <link rel="alternate" href="https://dev.to/anthonymax/how-to-cut-mcp-token-costs-save-up-to-92-at-scale-with-code-mode-3fco"/>
+    <updated>2026-07-21T19:03:30+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anthonymax&quot;&gt;Anthony Max&lt;/a&gt;&lt;br/&gt;Published: 2026-07-21T19:03:30Z&lt;br/&gt;Tags: ai, webdev, programming, opensource&lt;br/&gt;Description: Today, new artificial intelligence models are released every six months, such as GPT 5.6, Fable 5,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4113561</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23"/>
     <updated>2026-05-19T13:26:24+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T13:12:33Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, discuss&lt;br/&gt;Description: A technical comparison of Hermes Agent and OpenClaw through the five claims that actually matter: memory, skills, sandboxing, messaging, and persistent infrastructure.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4033346</id>
-    <title>Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?</title>
-    <link rel="alternate" href="https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb"/>
-    <updated>2026-06-30T18:00:38+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T17:59:18Z&lt;br/&gt;Tags: ai, webdev, productivity, programming&lt;br/&gt;Description: Introduction   I keep hearing the term loop engineering. It&apos;s all over my feed, every AI...</summary>
   </entry>
 </feed>
