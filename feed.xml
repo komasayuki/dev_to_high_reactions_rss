@@ -1372,13 +1372,6 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-19T13:12:33Z&lt;br/&gt;Tags: hermesagentchallenge, devchallenge, agents, discuss&lt;br/&gt;Description: A technical comparison of Hermes Agent and OpenClaw through the five claims that actually matter: memory, skills, sandboxing, messaging, and persistent infrastructure.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4190061</id>
-    <title>4 Silent Failures, 2 Undocumented APIs, and a Container That Crashed Because of a Missing User Directive</title>
-    <link rel="alternate" href="https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n"/>
-    <updated>2026-07-20T18:20:15+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T18:20:15Z&lt;br/&gt;Tags: devchallenge, bugsmash, ai, aws&lt;br/&gt;Description: What happened when I tried to deploy a CrewAI agent to AWS Bedrock AgentCore. Every error was a 200 OK. Every fix took hours to find. Here&apos;s the full debugging trail.</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4143027</id>
     <title>I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)</title>
     <link rel="alternate" href="https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/he4rt/do-localhost-para-o-mundo-2o44"/>
     <updated>2026-06-25T01:37:04+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T15:07:19Z&lt;br/&gt;Tags: braziliandevs, career, programming, softwaredevelopment&lt;br/&gt;Description: Por muito tempo eu acreditei que programação e desenvolvimento de software como sinônimos. Na...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3943510</id>
+    <title>Internmaxxing vs. Old Man Shakes Fist at Cloud</title>
+    <link rel="alternate" href="https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd"/>
+    <updated>2026-06-19T21:02:20+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T21:02:20Z&lt;br/&gt;Tags: ai, programming, beginners, career&lt;br/&gt;Description: Internmaxxing   Somebody on your timeline this week called intern code &quot;API slop.&quot;...</summary>
   </entry>
 </feed>
