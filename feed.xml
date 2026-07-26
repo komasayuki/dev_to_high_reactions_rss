@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-24T14:37:23+00:00</updated>
+  <updated>2026-07-26T16:49:09+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -203,18 +203,18 @@
     <summary type="html">Reactions: public 111 / positive 111&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T13:20:24Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4207770</id>
+    <title>The Dirty Secret Behind AI Agents (Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"/>
+    <updated>2026-07-23T07:03:51+00:00</updated>
+    <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T07:03:51Z&lt;br/&gt;Tags: node, ai, agents, javascript&lt;br/&gt;Description: For quite a while now, I&apos;ve had the feeling that AI agents are surrounded by this mystical aura....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3771843</id>
     <title>I Thought Coding Was The Job</title>
     <link rel="alternate" href="https://dev.to/itsugo/i-thought-coding-was-the-job-4bo7"/>
     <updated>2026-05-28T14:19:06+00:00</updated>
     <summary type="html">Reactions: public 108 / positive 108&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T14:19:06Z&lt;br/&gt;Tags: freelance, career, learning, discuss&lt;br/&gt;Description: Two years ago, when I got my first freelance client, I was still in my final semester of college.  A...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4207770</id>
-    <title>The Dirty Secret Behind AI Agents (Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"/>
-    <updated>2026-07-23T07:03:51+00:00</updated>
-    <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T07:03:51Z&lt;br/&gt;Tags: node, ai, agents, javascript&lt;br/&gt;Description: For quite a while now, I&apos;ve had the feeling that AI agents are surrounded by this mystical aura....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3806099</id>
@@ -826,6 +826,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T08:09:23Z&lt;br/&gt;Tags: ai, mobile, android, productivity&lt;br/&gt;Description: You don&apos;t need to be a developer to automate your mobile app testing. Not in 2026.  For years,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4221652</id>
+    <title>The Person Who Fixed the Bugs Just Vanished</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm"/>
+    <updated>2026-07-24T08:02:58+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T08:02:58Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: We&apos;ve been testing a new project this week.  The project&apos;s origin story is a mess. Upper management...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4136178</id>
     <title>Top 7 Featured DEV Posts of the Week</title>
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-815"/>
@@ -868,13 +875,6 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T11:25:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, html&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4221652</id>
-    <title>The Person Who Fixed the Bugs Just Vanished</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm"/>
-    <updated>2026-07-24T08:02:58+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T08:02:58Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: We&apos;ve been testing a new project this week.  The project&apos;s origin story is a mess. Upper management...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3991633</id>
     <title>How QA Teams at High Growth Startups Scale from 50 to 500 Tests Without Hiring 5 More Engineers</title>
     <link rel="alternate" href="https://dev.to/drizzdev/how-qa-teams-at-high-growth-startups-scale-from-50-to-500-tests-without-hiring-5-more-engineers-150f"/>
@@ -894,6 +894,13 @@
     <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
     <updated>2026-06-02T05:16:18+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T05:16:18Z&lt;br/&gt;Tags: discuss, ai, programming, productivity&lt;br/&gt;Description: Everyone keeps saying AI will replace developers. Meanwhile I was sitting at 3:17 AM staring at a bug...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3756614</id>
+    <title>How AI Endpoints Change the Traditional API Flow</title>
+    <link rel="alternate" href="https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773"/>
+    <updated>2026-07-26T16:49:09+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T06:59:35Z&lt;br/&gt;Tags: ai, architecture, webdev, api&lt;br/&gt;Description: As a backend developer, I have built hundreds of endpoints, so the typical endpoint flow is deeply...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4158034</id>
@@ -1043,18 +1050,11 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T10:29:25Z&lt;br/&gt;Tags: programming, learning, productivity, discuss&lt;br/&gt;Description: The fix was one line.    if not items: return []        Enter fullscreen mode            Exit...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3710811</id>
-    <title>MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567"/>
-    <updated>2026-05-20T21:45:01+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-05-20T17:09:24Z&lt;br/&gt;Tags: googleiochallenge, gemma, mcp, devchallenge&lt;br/&gt;Description: This is a submission for the Google I/O Writing Challenge     I was already running MCP servers on my...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3756614</id>
-    <title>How AI Endpoints Change the Traditional API Flow</title>
-    <link rel="alternate" href="https://dev.to/gramli/how-ai-endpoints-change-the-traditional-api-flow-3773"/>
-    <updated>2026-07-23T13:43:10+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T06:59:35Z&lt;br/&gt;Tags: ai, architecture, webdev, api&lt;br/&gt;Description: As a backend developer, I have built hundreds of endpoints, so the typical endpoint flow is deeply...</summary>
+    <id>tag:dev.to,2026:4218511</id>
+    <title>🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]</title>
+    <link rel="alternate" href="https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"/>
+    <updated>2026-07-23T22:50:45+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T22:44:58Z&lt;br/&gt;Tags: javascript, webdev, programming, css&lt;br/&gt;Description: I have been quiet lately I know - but don&apos;t worry I haven&apos;t forgotten you all and how much you like...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4195412</id>
@@ -1076,13 +1076,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla"/>
     <updated>2026-06-30T09:46:21+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T04:43:40Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Series: AI, Ego &amp;amp; Regret — Bonus Chapter   Editor&apos;s Note: While compiling the old series for the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4218511</id>
-    <title>🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]</title>
-    <link rel="alternate" href="https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"/>
-    <updated>2026-07-23T22:50:45+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T22:44:58Z&lt;br/&gt;Tags: javascript, webdev, programming, css&lt;br/&gt;Description: I have been quiet lately I know - but don&apos;t worry I haven&apos;t forgotten you all and how much you like...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4143090</id>
@@ -1295,6 +1288,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T20:40:36Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4207448</id>
+    <title>The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI</title>
+    <link rel="alternate" href="https://blog.yechiel.me/learning-and-teaching-in-the-age-of-ai"/>
+    <updated>2026-07-22T15:36:03+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yechielk&quot;&gt;Yechiel Kalmenson&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T15:36:03Z&lt;br/&gt;Tags: mentorship, ai, learning, discuss&lt;br/&gt;Description: Those who have been following me for a while will know that teaching and mentoring are a Big Deal™️...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4108939</id>
     <title>Return on Attention: Why AI Code Reviews Are Wearing Us Out</title>
     <link rel="alternate" href="https://christine-seeman.com/return-on-attention-ai-code-review/"/>
@@ -1351,13 +1351,6 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T19:39:41Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4207448</id>
-    <title>The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI</title>
-    <link rel="alternate" href="https://blog.yechiel.me/learning-and-teaching-in-the-age-of-ai"/>
-    <updated>2026-07-22T15:36:03+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/yechielk&quot;&gt;Yechiel Kalmenson&lt;/a&gt;&lt;br/&gt;Published: 2026-07-22T15:36:03Z&lt;br/&gt;Tags: mentorship, ai, learning, discuss&lt;br/&gt;Description: Those who have been following me for a while will know that teaching and mentoring are a Big Deal™️...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4143027</id>
     <title>I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)</title>
     <link rel="alternate" href="https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e"/>
     <updated>2026-06-16T16:33:58+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T13:45:03Z&lt;br/&gt;Tags: ai, discuss, meta, devto&lt;br/&gt;Description: Two weeks ago I published a piece explaining exactly why AI detectors are unreliable. Then Sloan...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3750611</id>
+    <title>What Building My Own AI Bot Taught Me About Generative AI</title>
+    <link rel="alternate" href="https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il"/>
+    <updated>2026-05-27T19:57:35+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T19:57:35Z&lt;br/&gt;Tags: ai, webdev, rag, llm&lt;br/&gt;Description: I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...</summary>
   </entry>
 </feed>
