@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-26T16:49:09+00:00</updated>
+  <updated>2026-07-26T19:59:24+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -196,18 +196,18 @@
     <summary type="html">Reactions: public 113 / positive 113&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T15:59:30Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4207770</id>
+    <title>The Dirty Secret Behind AI Agents (Demo 🚀)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"/>
+    <updated>2026-07-23T07:03:51+00:00</updated>
+    <summary type="html">Reactions: public 111 / positive 111&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T07:03:51Z&lt;br/&gt;Tags: node, ai, agents, javascript&lt;br/&gt;Description: For quite a while now, I&apos;ve had the feeling that AI agents are surrounded by this mystical aura....</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4170828</id>
     <title>AI And Code Ownership: Who Is Responsible For Generated Code?</title>
     <link rel="alternate" href="https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj"/>
     <updated>2026-07-20T13:20:45+00:00</updated>
     <summary type="html">Reactions: public 111 / positive 111&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T13:20:24Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4207770</id>
-    <title>The Dirty Secret Behind AI Agents (Demo 🚀)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"/>
-    <updated>2026-07-23T07:03:51+00:00</updated>
-    <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T07:03:51Z&lt;br/&gt;Tags: node, ai, agents, javascript&lt;br/&gt;Description: For quite a while now, I&apos;ve had the feeling that AI agents are surrounded by this mystical aura....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3771843</id>
@@ -714,6 +714,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thuangf45&quot;&gt;Thuangf45&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T06:15:15Z&lt;br/&gt;Tags: javascript, webdev, showdev, architecture&lt;br/&gt;Description: Here is a question that sounds simple until you&apos;ve actually shipped a UI: how many files does it take...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4158432</id>
+    <title>Começando com Redes: Camadas de uma conexão TCP/IP</title>
+    <link rel="alternate" href="https://dev.to/he4rt/comecando-com-redes-camadas-de-uma-conexao-tcpip-1bjn"/>
+    <updated>2026-07-24T12:37:44+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/cristuker&quot;&gt;Cristian Magalhães&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T12:37:44Z&lt;br/&gt;Tags: braziliandevs, aws, cloud, programming&lt;br/&gt;Description: Eae gente bonita, beleza? Depois de um longo período, resolvi voltar aqui e continuar compartilhando...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4148515</id>
     <title>Stratagems #15: Derek and Alex Shared One Server. ACL&apos;s AI Was Listening to Both.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-15-derek-and-alex-shared-one-server-acls-ai-was-listening-to-both-2j73"/>
@@ -824,13 +831,6 @@
     <link rel="alternate" href="https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17"/>
     <updated>2026-05-29T08:09:23+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T08:09:23Z&lt;br/&gt;Tags: ai, mobile, android, productivity&lt;br/&gt;Description: You don&apos;t need to be a developer to automate your mobile app testing. Not in 2026.  For years,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4158432</id>
-    <title>Começando com Redes: Camadas de uma conexão TCP/IP</title>
-    <link rel="alternate" href="https://dev.to/he4rt/comecando-com-redes-camadas-de-uma-conexao-tcpip-1bjn"/>
-    <updated>2026-07-24T12:37:44+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/cristuker&quot;&gt;Cristian Magalhães&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T12:37:44Z&lt;br/&gt;Tags: braziliandevs, aws, cloud, programming&lt;br/&gt;Description: Eae gente bonita, beleza? Depois de um longo período, resolvi voltar aqui e continuar compartilhando...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4221652</id>
@@ -987,6 +987,13 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annaspies&quot;&gt;Anna&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T01:37:32Z&lt;br/&gt;Tags: ai, stripe, cli, agents&lt;br/&gt;Description: It&apos;s not a brag for me to say &quot;I&apos;ve been visualizing infrastructure since 2018&quot; - it&apos;s the actual...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4188628</id>
+    <title>Context Is King: Rethinking Domain Ownership, Product, and the &quot;Spec Phase&quot;</title>
+    <link rel="alternate" href="https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"/>
+    <updated>2026-07-20T14:05:39+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T14:05:39Z&lt;br/&gt;Tags: discuss, management, codequality, product&lt;br/&gt;Description: If you’ve spent any time recently writing detailed product requirement documents or meticulously...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4093031</id>
     <title>Stratagems #8: Alex Watched an AI Dashboard Take Over. He Kept the Keys Under the Table.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-8-alex-watched-an-ai-dashboard-take-over-he-kept-the-keys-under-the-table-3n70"/>
@@ -1022,18 +1029,18 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/olawalethefirst&quot;&gt;Olawale Bashiru&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T16:29:16Z&lt;br/&gt;Tags: aws, mobile, reactnative, security&lt;br/&gt;Description: AWS Face Liveness has native SDKs for iOS and Android.  That works well if you are building fully...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4237848</id>
+    <title>Como eu venci o medo da transição de carreira</title>
+    <link rel="alternate" href="https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c"/>
+    <updated>2026-07-26T19:59:24+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/barbaramsilveira&quot;&gt;Bárbara Martins da Silveira&lt;/a&gt;&lt;br/&gt;Published: 2026-07-26T19:12:49Z&lt;br/&gt;Tags: carreira, aprendizado, networking, braziliandevs&lt;br/&gt;Description: Migrar de carreira para a área de tecnologia pode parecer difícil no início. O mercado está cada vez...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4218511</id>
     <title>🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]</title>
     <link rel="alternate" href="https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"/>
     <updated>2026-07-23T22:50:45+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T22:44:58Z&lt;br/&gt;Tags: javascript, webdev, programming, css&lt;br/&gt;Description: I have been quiet lately I know - but don&apos;t worry I haven&apos;t forgotten you all and how much you like...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4188628</id>
-    <title>Context Is King: Rethinking Domain Ownership, Product, and the &quot;Spec Phase&quot;</title>
-    <link rel="alternate" href="https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8"/>
-    <updated>2026-07-20T14:05:39+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T14:05:39Z&lt;br/&gt;Tags: discuss, management, codequality, product&lt;br/&gt;Description: If you’ve spent any time recently writing detailed product requirement documents or meticulously...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4167260</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e"/>
     <updated>2026-06-16T16:33:58+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T13:45:03Z&lt;br/&gt;Tags: ai, discuss, meta, devto&lt;br/&gt;Description: Two weeks ago I published a piece explaining exactly why AI detectors are unreliable. Then Sloan...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3750611</id>
-    <title>What Building My Own AI Bot Taught Me About Generative AI</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il"/>
-    <updated>2026-05-27T19:57:35+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T19:57:35Z&lt;br/&gt;Tags: ai, webdev, rag, llm&lt;br/&gt;Description: I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...</summary>
   </entry>
 </feed>
