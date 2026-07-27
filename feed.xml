@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-27T00:29:07+00:00</updated>
+  <updated>2026-07-27T14:58:19+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
-  <entry>
-    <id>tag:dev.to,2026:3695320</id>
-    <title>Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-the-github-finish-up-a-thon-challenge-3000-prize-pool-f41"/>
-    <updated>2026-05-21T17:33:15+00:00</updated>
-    <summary type="html">Reactions: public 547 / positive 547&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T17:33:15Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot&lt;br/&gt;Description: We&apos;re thrilled to announce our newest challenge with GitHub!  Running through June 7, the GitHub...</summary>
-  </entry>
   <entry>
     <id>tag:dev.to,2026:3963488</id>
     <title>I Wish I Had Started Documenting My Tech Journey Earlier</title>
@@ -179,7 +172,7 @@
     <title>The Dirty Secret Behind AI Agents (Demo 🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"/>
     <updated>2026-07-23T07:03:51+00:00</updated>
-    <summary type="html">Reactions: public 120 / positive 120&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T07:03:51Z&lt;br/&gt;Tags: node, ai, agents, javascript&lt;br/&gt;Description: For quite a while now, I&apos;ve had the feeling that AI agents are surrounded by this mystical aura....</summary>
+    <summary type="html">Reactions: public 122 / positive 122&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T07:03:51Z&lt;br/&gt;Tags: node, ai, agents, javascript&lt;br/&gt;Description: For quite a while now, I&apos;ve had the feeling that AI agents are surrounded by this mystical aura....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4024781</id>
@@ -490,25 +483,11 @@
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T14:52:14Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3676308</id>
-    <title>Recycling made easy: a Polish recycling assistant powered by Gemma 4</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a"/>
-    <updated>2026-05-24T18:20:41+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T18:55:21Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, webdev&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Build with Gemma 4  I clearly remember this scene: my...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3820180</id>
     <title>I Replaced 200 Threads With 10,000. Java Finished 13.5x Faster.</title>
     <link rel="alternate" href="https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g"/>
     <updated>2026-06-05T12:36:40+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T14:51:01Z&lt;br/&gt;Tags: java, beginners, programming, discuss&lt;br/&gt;Description: A visual, beginner-friendly Java 25 experiment that explains virtual threads, blocking work, carrier threads, and the production rules that matter.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3718736</id>
-    <title>Building a Database Performance Testing Tool With AI: The Honest Breakdown</title>
-    <link rel="alternate" href="https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"/>
-    <updated>2026-05-21T15:52:48+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/m4rri4nne&quot;&gt;Alicia Marianne Gonçalves&lt;/a&gt;&lt;br/&gt;Published: 2026-05-21T15:37:54Z&lt;br/&gt;Tags: ai, testing, database, performance&lt;br/&gt;Description: It still feels a little strange to have AI writing practically all the code — but I decided to give...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3993533</id>
@@ -658,6 +637,13 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-05-28T14:53:02Z&lt;br/&gt;Tags: ai, programming, productivity, discuss&lt;br/&gt;Description: AI wrote the code in 30 seconds  Three lines A simple function I prompted it generated I copied It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4224572</id>
+    <title>Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus Leaders &amp; More</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-9-a-fully-funded-ai-security-residency-sf-founder-residency-figma-campus-1j88"/>
+    <updated>2026-07-24T14:37:23+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T14:06:55Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4042396</id>
     <title>From Harness Engineering to Evals: What’s Trending at AI Engineer</title>
     <link rel="alternate" href="https://dev.to/dailycontext/from-harness-engineering-to-evals-4212"/>
@@ -670,13 +656,6 @@
     <link rel="alternate" href="https://dev.to/klaudiagrz/your-app-can-save-someone-from-having-a-panic-attack-a-real-life-story-2jdp"/>
     <updated>2026-06-07T18:18:18+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T18:18:18Z&lt;br/&gt;Tags: mentalhealth, ux, webdev, a11y&lt;br/&gt;Description: As I&apos;m observing engineers, I notice that most of them share the same characteristic: unending loads...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4224572</id>
-    <title>Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus Leaders &amp; More</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-9-a-fully-funded-ai-security-residency-sf-founder-residency-figma-campus-1j88"/>
-    <updated>2026-07-24T14:37:23+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T14:06:55Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4168448</id>
@@ -721,6 +700,13 @@
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T18:32:50Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4218511</id>
+    <title>🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]</title>
+    <link rel="alternate" href="https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"/>
+    <updated>2026-07-23T22:50:45+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T22:44:58Z&lt;br/&gt;Tags: javascript, webdev, programming, css&lt;br/&gt;Description: I have been quiet lately I know - but don&apos;t worry I haven&apos;t forgotten you all and how much you like...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4110750</id>
     <title>I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.</title>
     <link rel="alternate" href="https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl"/>
@@ -735,11 +721,11 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-16T00:22:34Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: When the enemy occupies favorable terrain, don&apos;t attack head-on. Use a decoy to lure the tiger down...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4218511</id>
-    <title>🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]</title>
-    <link rel="alternate" href="https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i"/>
-    <updated>2026-07-23T22:50:45+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T22:44:58Z&lt;br/&gt;Tags: javascript, webdev, programming, css&lt;br/&gt;Description: I have been quiet lately I know - but don&apos;t worry I haven&apos;t forgotten you all and how much you like...</summary>
+    <id>tag:dev.to,2026:4240237</id>
+    <title>The Junior Developer Pipeline Is Broken... And AI Broke It</title>
+    <link rel="alternate" href="https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"/>
+    <updated>2026-07-27T13:16:13+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T13:16:13Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4109567</id>
@@ -852,6 +838,13 @@
     <link rel="alternate" href="https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17"/>
     <updated>2026-05-29T08:09:23+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T08:09:23Z&lt;br/&gt;Tags: ai, mobile, android, productivity&lt;br/&gt;Description: You don&apos;t need to be a developer to automate your mobile app testing. Not in 2026.  For years,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4236815</id>
+    <title>How terminal-sharing tools put your shell in a browser</title>
+    <link rel="alternate" href="https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"/>
+    <updated>2026-07-26T16:43:17+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-07-26T16:43:17Z&lt;br/&gt;Tags: webdev, programming, productivity, cli&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4136178</id>
@@ -1027,13 +1020,6 @@
     <link rel="alternate" href="https://dev.to/olawalethefirst/how-i-bridged-aws-face-liveness-to-expo-with-a-native-module-2o49"/>
     <updated>2026-06-05T07:14:42+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/olawalethefirst&quot;&gt;Olawale Bashiru&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T16:29:16Z&lt;br/&gt;Tags: aws, mobile, reactnative, security&lt;br/&gt;Description: AWS Face Liveness has native SDKs for iOS and Android.  That works well if you are building fully...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4236815</id>
-    <title>How terminal-sharing tools put your shell in a browser</title>
-    <link rel="alternate" href="https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328"/>
-    <updated>2026-07-26T16:43:17+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-07-26T16:43:17Z&lt;br/&gt;Tags: webdev, programming, productivity, cli&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4167260</id>
@@ -1260,6 +1246,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-05-24T18:11:38Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, beginners&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4  It started with a real need....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4245718</id>
+    <title>2 métodos que usei (E USO) nos estudos de programação.</title>
+    <link rel="alternate" href="https://dev.to/he4rt/2-metodos-que-usei-e-uso-nos-estudos-de-programacao-4n1f"/>
+    <updated>2026-07-27T14:58:19+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/capituincode&quot;&gt;Aline Santana&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T14:58:19Z&lt;br/&gt;Tags: braziliandevs, aprendizado, estudos&lt;br/&gt;Description: Prólogo   Para uma pessoa que tem TDAH (eu), é extremamente difícil e desafiador encontrar...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4030159</id>
     <title>I Stopped Comparing Myself to AI. It Changed Everything.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"/>
     <updated>2026-06-01T12:04:48+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/divyesh5981&quot;&gt;Divyesh&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T04:59:28Z&lt;br/&gt;Tags: devchallenge, githubchallenge, typescript, opensource&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4190061</id>
+    <title>4 Silent Failures, 2 Undocumented APIs, and a Container That Crashed Because of a Missing User Directive</title>
+    <link rel="alternate" href="https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n"/>
+    <updated>2026-07-20T18:20:15+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T18:20:15Z&lt;br/&gt;Tags: devchallenge, bugsmash, ai, aws&lt;br/&gt;Description: What happened when I tried to deploy a CrewAI agent to AWS Bedrock AgentCore. Every error was a 200 OK. Every fix took hours to find. Here&apos;s the full debugging trail.</summary>
   </entry>
 </feed>
