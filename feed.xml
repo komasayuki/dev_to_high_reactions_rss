@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-27T14:58:19+00:00</updated>
+  <updated>2026-07-27T18:15:45+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -357,6 +357,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T16:50:27Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4240237</id>
+    <title>The Junior Developer Pipeline Is Broken... And AI Broke It</title>
+    <link rel="alternate" href="https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"/>
+    <updated>2026-07-27T13:16:13+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T13:16:13Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3756670</id>
     <title>An LLM API call, in 4 GIFs</title>
     <link rel="alternate" href="https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1"/>
@@ -397,13 +404,6 @@
     <link rel="alternate" href="https://dev.to/devteam/how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev-3d53"/>
     <updated>2026-06-16T16:41:51+00:00</updated>
     <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T16:41:51Z&lt;br/&gt;Tags: performance, webdev, design, bunny&lt;br/&gt;Description: Hey everyone, Ben here.  If you’ve been following the journey of DEV and our open source project...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4240237</id>
-    <title>The Junior Developer Pipeline Is Broken... And AI Broke It</title>
-    <link rel="alternate" href="https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"/>
-    <updated>2026-07-27T13:16:13+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T13:16:13Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3836822</id>
@@ -1330,6 +1330,13 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T19:39:41Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4247137</id>
+    <title>From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j"/>
+    <updated>2026-07-27T18:15:45+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T17:47:04Z&lt;br/&gt;Tags: discuss, community, writing, ama&lt;br/&gt;Description: 📌 TL;DR  Three months ago, I decided to start writing consistently on DEV. Twenty-five articles...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4174960</id>
     <title>The Optimistic UI Race Condition That Only Showed Up on the Fifth Click</title>
     <link rel="alternate" href="https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"/>
     <updated>2026-06-01T12:04:48+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/divyesh5981&quot;&gt;Divyesh&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T04:59:28Z&lt;br/&gt;Tags: devchallenge, githubchallenge, typescript, opensource&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4190061</id>
-    <title>4 Silent Failures, 2 Undocumented APIs, and a Container That Crashed Because of a Missing User Directive</title>
-    <link rel="alternate" href="https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n"/>
-    <updated>2026-07-20T18:20:15+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T18:20:15Z&lt;br/&gt;Tags: devchallenge, bugsmash, ai, aws&lt;br/&gt;Description: What happened when I tried to deploy a CrewAI agent to AWS Bedrock AgentCore. Every error was a 200 OK. Every fix took hours to find. Here&apos;s the full debugging trail.</summary>
   </entry>
 </feed>
