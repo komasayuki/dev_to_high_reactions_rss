@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-28T00:43:32+00:00</updated>
+  <updated>2026-07-28T13:32:12+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -158,7 +158,7 @@
     <title>The Junior Developer Pipeline Is Broken... And AI Broke It</title>
     <link rel="alternate" href="https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"/>
     <updated>2026-07-27T13:16:13+00:00</updated>
-    <summary type="html">Reactions: public 131 / positive 131&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T13:16:13Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...</summary>
+    <summary type="html">Reactions: public 133 / positive 133&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T13:16:13Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4033830</id>
@@ -406,13 +406,6 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3679499</id>
-    <title>Should you use Gemma 4 for your Development? A Multiversal Analysis to Determine if Gemma 4 is Right for You!</title>
-    <link rel="alternate" href="https://dev.to/devengers/should-you-use-gemma-4-for-your-development-a-multiversal-analysis-to-determine-if-gemma-4-is-2iol"/>
-    <updated>2026-05-23T00:15:17+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-05-22T17:36:15Z&lt;br/&gt;Tags: devchallenge, gemmachallenge, gemma, discuss&lt;br/&gt;Description: This is a submission for the Gemma 4 Challenge: Write About Gemma 4   Disclaimer: This is an...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4135085</id>
     <title>The Myth of the Post-Documentation Era</title>
     <link rel="alternate" href="https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"/>
@@ -497,18 +490,18 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/grahamthedev&quot;&gt;GrahamTheDev&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T22:44:58Z&lt;br/&gt;Tags: javascript, webdev, programming, css&lt;br/&gt;Description: I have been quiet lately I know - but don&apos;t worry I haven&apos;t forgotten you all and how much you like...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4221652</id>
+    <title>The Person Who Fixed the Bugs Just Vanished</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm"/>
+    <updated>2026-07-24T08:02:58+00:00</updated>
+    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T08:02:58Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: We&apos;ve been testing a new project this week.  The project&apos;s origin story is a mess. Upper management...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3993533</id>
     <title>you stopped reading the docs. now you don&apos;t understand the systems.</title>
     <link rel="alternate" href="https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"/>
     <updated>2026-07-07T10:33:25+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T10:33:25Z&lt;br/&gt;Tags: ai, beginners, productivity, career&lt;br/&gt;Description: I didn&apos;t go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4221652</id>
-    <title>The Person Who Fixed the Bugs Just Vanished</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm"/>
-    <updated>2026-07-24T08:02:58+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T08:02:58Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: We&apos;ve been testing a new project this week.  The project&apos;s origin story is a mess. Upper management...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4000790</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"/>
     <updated>2026-06-01T12:04:48+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/divyesh5981&quot;&gt;Divyesh&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T04:59:28Z&lt;br/&gt;Tags: devchallenge, githubchallenge, typescript, opensource&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4240661</id>
+    <title>Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations</title>
+    <link rel="alternate" href="https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"/>
+    <updated>2026-07-28T13:32:12+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T13:28:33Z&lt;br/&gt;Tags: security, ai, webdev, programming&lt;br/&gt;Description: Typosquatting bets on your typo. Slopsquatting bets on your AI assistant. When a model invents a...</summary>
   </entry>
 </feed>
