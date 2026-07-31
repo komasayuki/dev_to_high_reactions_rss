@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-07-30T08:02:27+00:00</updated>
+  <updated>2026-07-31T16:02:04+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -11,7 +11,7 @@
     <title>The Junior Developer Pipeline Is Broken... And AI Broke It</title>
     <link rel="alternate" href="https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai"/>
     <updated>2026-07-27T13:16:13+00:00</updated>
-    <summary type="html">Reactions: public 249 / positive 249&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T13:16:13Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...</summary>
+    <summary type="html">Reactions: public 251 / positive 251&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T13:16:13Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Everyone agrees AI makes senior engineers more valuable. Almost nobody asks where the next generation...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3963488</id>
@@ -193,7 +193,7 @@
     <title>Join our latest Frontend Challenge: Comfort Food Edition 🍲</title>
     <link rel="alternate" href="https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"/>
     <updated>2026-07-29T18:32:45+00:00</updated>
-    <summary type="html">Reactions: public 113 / positive 113&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
+    <summary type="html">Reactions: public 114 / positive 114&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4188851</id>
@@ -336,18 +336,18 @@
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T14:52:40Z&lt;br/&gt;Tags: discuss, community, beginners, career&lt;br/&gt;Description: TL;DR  As an international student in the United States, I joined tech communities hoping to find...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4247992</id>
+    <title>Passkeys Explained Simply</title>
+    <link rel="alternate" href="https://thomasbnt.dev/blog/passkeys-expliquees-simplement/"/>
+    <updated>2026-07-28T00:43:32+00:00</updated>
+    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thomasbnt&quot;&gt;Thomas Bnt&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T21:09:04Z&lt;br/&gt;Tags: security, api, webdev, discuss&lt;br/&gt;Description: You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3696340</id>
     <title>🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)</title>
     <link rel="alternate" href="https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo"/>
     <updated>2026-06-08T11:40:09+00:00</updated>
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4247992</id>
-    <title>Passkeys Explained Simply</title>
-    <link rel="alternate" href="https://thomasbnt.dev/blog/passkeys-expliquees-simplement/"/>
-    <updated>2026-07-28T00:43:32+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thomasbnt&quot;&gt;Thomas Bnt&lt;/a&gt;&lt;br/&gt;Published: 2026-07-27T21:09:04Z&lt;br/&gt;Tags: security, api, webdev, discuss&lt;br/&gt;Description: You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4000963</id>
@@ -1225,6 +1225,13 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-05-29T14:19:10Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  I&apos;ve missed a lot of opportunities simply because I didn&apos;t know they existed.  So every...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4282095</id>
+    <title>Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week &amp; Learning How to Learn</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2"/>
+    <updated>2026-07-31T16:02:04+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T16:02:04Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4232408</id>
     <title>I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)</title>
     <link rel="alternate" href="https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb"/>
@@ -1337,6 +1344,20 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T19:39:41Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4273537</id>
+    <title>Skills vs MCP: How AI tools have evolved</title>
+    <link rel="alternate" href="https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"/>
+    <updated>2026-07-30T17:50:23+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annthurium&quot;&gt;Tilde A. Thurium&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T17:50:23Z&lt;br/&gt;Tags: ai, agents, mcp, agentskills&lt;br/&gt;Description: Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4256220</id>
+    <title>I Built a Chat App That Rewrites Its Own UI in Real Time</title>
+    <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5"/>
+    <updated>2026-07-28T18:35:05+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-07-28T18:35:05Z&lt;br/&gt;Tags: ai, agents, webdev, productivity&lt;br/&gt;Description: So I had this idea that kept nagging at me.  Every AI chat app works the same way. You type...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4174960</id>
     <title>The Optimistic UI Race Condition That Only Showed Up on the Fifth Click</title>
     <link rel="alternate" href="https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55"/>
@@ -1384,26 +1405,5 @@
     <link rel="alternate" href="https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"/>
     <updated>2026-06-18T05:08:59+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pablonax&quot;&gt;Pavel Kalo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T10:19:30Z&lt;br/&gt;Tags: ai, claude, llm, tooling&lt;br/&gt;Description: I started using premortems for a boring reason: I did not trust the default review question.  When I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3913605</id>
-    <title>I Got Flagged by Sloan. Sloan Is a Guy I Know.</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e"/>
-    <updated>2026-06-16T16:33:58+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T13:45:03Z&lt;br/&gt;Tags: ai, discuss, meta, devto&lt;br/&gt;Description: Two weeks ago I published a piece explaining exactly why AI detectors are unreliable. Then Sloan...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3750611</id>
-    <title>What Building My Own AI Bot Taught Me About Generative AI</title>
-    <link rel="alternate" href="https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il"/>
-    <updated>2026-05-27T19:57:35+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T19:57:35Z&lt;br/&gt;Tags: ai, webdev, rag, llm&lt;br/&gt;Description: I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3761174</id>
-    <title>Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞</title>
-    <link rel="alternate" href="https://dev.to/divyesh5981/reviving-a-12k-star-abandoned-library-toastr-next-v3-25mf"/>
-    <updated>2026-06-01T12:04:48+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/divyesh5981&quot;&gt;Divyesh&lt;/a&gt;&lt;br/&gt;Published: 2026-05-27T04:59:28Z&lt;br/&gt;Tags: devchallenge, githubchallenge, typescript, opensource&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge              What I...</summary>
   </entry>
 </feed>
