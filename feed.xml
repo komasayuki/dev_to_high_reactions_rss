@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-02T12:49:29+00:00</updated>
+  <updated>2026-08-03T13:11:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -49,18 +49,18 @@
     <summary type="html">Reactions: public 169 / positive 169&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:44:40Z&lt;br/&gt;Tags: mentalhealth, career, productivity, discuss&lt;br/&gt;Description: Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4256781</id>
+    <title>Join our latest Frontend Challenge: Comfort Food Edition 🍲</title>
+    <link rel="alternate" href="https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"/>
+    <updated>2026-07-29T18:32:45+00:00</updated>
+    <summary type="html">Reactions: public 168 / positive 168&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3973904</id>
     <title>7 New JavaScript Features (And 2 I&apos;m Still Waiting For)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8"/>
     <updated>2026-06-24T09:14:11+00:00</updated>
     <summary type="html">Reactions: public 166 / positive 166&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T09:14:11Z&lt;br/&gt;Tags: javascript, typescript, node, webdev&lt;br/&gt;Description: Remember how I promised you (or rather myself) two weeks ago that from now on I&apos;d only write light,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4256781</id>
-    <title>Join our latest Frontend Challenge: Comfort Food Edition 🍲</title>
-    <link rel="alternate" href="https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"/>
-    <updated>2026-07-29T18:32:45+00:00</updated>
-    <summary type="html">Reactions: public 165 / positive 165&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4015406</id>
@@ -413,6 +413,13 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4266395</id>
+    <title>It Was Just a Patch Update. What Could Possibly Go Wrong?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"/>
+    <updated>2026-07-30T08:02:27+00:00</updated>
+    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T08:02:27Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, javascript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  You know those...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4135085</id>
     <title>The Myth of the Post-Documentation Era</title>
     <link rel="alternate" href="https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"/>
@@ -516,13 +523,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"/>
     <updated>2026-07-07T10:33:25+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T10:33:25Z&lt;br/&gt;Tags: ai, beginners, productivity, career&lt;br/&gt;Description: I didn&apos;t go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4266395</id>
-    <title>It Was Just a Patch Update. What Could Possibly Go Wrong?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"/>
-    <updated>2026-07-30T08:02:27+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T08:02:27Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, javascript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  You know those...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4000790</id>
@@ -705,6 +705,13 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-62k"/>
     <updated>2026-06-02T18:32:50+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T18:32:50Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4296692</id>
+    <title>TypeScript 7 Went Native: What Actually Changes And What Doesn&apos;t</title>
+    <link rel="alternate" href="https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"/>
+    <updated>2026-08-03T13:11:18+00:00</updated>
+    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4110750</id>
@@ -1029,6 +1036,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/olawalethefirst&quot;&gt;Olawale Bashiru&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T16:29:16Z&lt;br/&gt;Tags: aws, mobile, reactnative, security&lt;br/&gt;Description: AWS Face Liveness has native SDKs for iOS and Android.  That works well if you are building fully...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4273537</id>
+    <title>Skills vs MCP: How AI tools have evolved</title>
+    <link rel="alternate" href="https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"/>
+    <updated>2026-07-30T17:50:23+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annthurium&quot;&gt;Tilde A. Thurium&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T17:50:23Z&lt;br/&gt;Tags: ai, agents, mcp, agentskills&lt;br/&gt;Description: Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4256634</id>
     <title>Vibe Coding: Endgame</title>
     <link rel="alternate" href="https://dev.to/konark_13/vibe-coding-endgame-3bbn"/>
@@ -1062,13 +1076,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7"/>
     <updated>2026-08-02T12:49:29+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-02T12:49:29Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Keep the shell. Preserve the presence. The ally doesn&apos;t suspect; the enemy doesn&apos;t move. — The 36...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4273537</id>
-    <title>Skills vs MCP: How AI tools have evolved</title>
-    <link rel="alternate" href="https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"/>
-    <updated>2026-07-30T17:50:23+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annthurium&quot;&gt;Tilde A. Thurium&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T17:50:23Z&lt;br/&gt;Tags: ai, agents, mcp, agentskills&lt;br/&gt;Description: Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4236310</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/he4rt/do-localhost-para-o-mundo-2o44"/>
     <updated>2026-06-25T01:37:04+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T15:07:19Z&lt;br/&gt;Tags: braziliandevs, career, programming, softwaredevelopment&lt;br/&gt;Description: Por muito tempo eu acreditei que programação e desenvolvimento de software como sinônimos. Na...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3943510</id>
-    <title>Internmaxxing vs. Old Man Shakes Fist at Cloud</title>
-    <link rel="alternate" href="https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd"/>
-    <updated>2026-06-19T21:02:20+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T21:02:20Z&lt;br/&gt;Tags: ai, programming, beginners, career&lt;br/&gt;Description: Internmaxxing   Somebody on your timeline this week called intern code &quot;API slop.&quot;...</summary>
   </entry>
 </feed>
