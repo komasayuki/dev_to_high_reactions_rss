@@ -327,72 +327,6 @@
       "last_seen": "2026-07-03T10:47:57.863231574+00:00"
     },
     {
-      "key": "3773344",
-      "id": 3773344,
-      "canonical_url": "https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj",
-      "url": "https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj",
-      "title": "🗓️ Monthly Dev Report: May 2026",
-      "description": "Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...",
-      "published_timestamp": "2026-05-29T14:17:56Z",
-      "published_at": "2026-05-29T14:17:56Z",
-      "edited_at": null,
-      "public_reactions_count": 75,
-      "positive_reactions_count": 75,
-      "tag_list": [
-        "discuss",
-        "devjournal",
-        "programming",
-        "community"
-      ],
-      "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
-      "user_username": "francistrdev",
-      "last_seen": "2026-06-05T13:20:09.097874470+00:00"
-    },
-    {
-      "key": "3778167",
-      "id": 3778167,
-      "canonical_url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
-      "url": "https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o",
-      "title": "How Model Distillation Actually Works (and What the 'China Distilled Our Model' Headlines Really Mean)",
-      "description": "A practical, no-hype explainer of knowledge distillation in LLMs — the actual mechanics, why distilling from a closed API is different, and what the OpenAI/Anthropic vs DeepSeek allegations are really about.",
-      "published_timestamp": "2026-05-29T12:11:12Z",
-      "published_at": "2026-05-29T12:11:12Z",
-      "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
-      "tag_list": [
-        "machinelearning",
-        "ai",
-        "llm",
-        "deeplearning"
-      ],
-      "user_name": "Sergei Parfenov",
-      "user_username": "p0rt",
-      "last_seen": "2026-06-05T13:20:09.097874470+00:00"
-    },
-    {
-      "key": "3778888",
-      "id": 3778888,
-      "canonical_url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3",
-      "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3",
-      "title": "Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource",
-      "description": "TL;DR  I've missed a lot of opportunities simply because I didn't know they existed.  So every...",
-      "published_timestamp": "2026-05-29T14:19:10Z",
-      "published_at": "2026-05-29T14:19:10Z",
-      "edited_at": "2026-06-01T12:21:52Z",
-      "public_reactions_count": 47,
-      "positive_reactions_count": 47,
-      "tag_list": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "user_name": "Hemapriya Kanagala",
-      "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-05T13:20:09.097874470+00:00"
-    },
-    {
       "key": "3780124",
       "id": 3780124,
       "canonical_url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
@@ -2735,7 +2669,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "3980025",
@@ -6379,7 +6313,7 @@
       ],
       "user_name": "Carla Urrea Stabile",
       "user_username": "carlastabile",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4222807",
@@ -6401,7 +6335,7 @@
       ],
       "user_name": "Yuri Souza",
       "user_username": "yuri_os",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4224065",
@@ -6884,7 +6818,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4253939",
@@ -6928,7 +6862,7 @@
       ],
       "user_name": "Varshith V Hegde",
       "user_username": "varshithvhegde",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4256634",
@@ -6950,7 +6884,7 @@
       ],
       "user_name": "Konark Sharma",
       "user_username": "konark_13",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4256781",
@@ -6972,7 +6906,29 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
+    },
+    {
+      "key": "4256960",
+      "id": 4256960,
+      "canonical_url": "https://dev.to/mia_keller_ffd2584c046ecb/how-an-unindexed-column-silently-killed-our-database-under-load-and-the-5-minute-fix-m32",
+      "url": "https://dev.to/mia_keller_ffd2584c046ecb/how-an-unindexed-column-silently-killed-our-database-under-load-and-the-5-minute-fix-m32",
+      "title": "How an Unindexed Column Silently Killed Our Database under Load (and the 5-Minute Fix)",
+      "description": "How a Missing Database Index Turned an 8ms API into an 8-Second Nightmare   Every developer...",
+      "published_timestamp": "2026-07-29T13:00:00Z",
+      "published_at": "2026-07-29T13:00:00Z",
+      "edited_at": null,
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
+      "tag_list": [
+        "webdev",
+        "database",
+        "javascript",
+        "performance"
+      ],
+      "user_name": "Mia Keller",
+      "user_username": "mia_keller_ffd2584c046ecb",
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4257196",
@@ -6994,7 +6950,7 @@
       ],
       "user_name": "Pascal CESCATO",
       "user_username": "pascal_cescato_692b7a8a20",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4260309",
@@ -7016,7 +6972,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4264656",
@@ -7038,7 +6994,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4266395",
@@ -7060,7 +7016,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4270238",
@@ -7092,8 +7048,8 @@
       "published_timestamp": "2026-07-30T11:27:07Z",
       "published_at": "2026-07-30T11:27:07Z",
       "edited_at": null,
-      "public_reactions_count": 59,
-      "positive_reactions_count": 59,
+      "public_reactions_count": 60,
+      "positive_reactions_count": 60,
       "tag_list": [
         "ai",
         "learning",
@@ -7102,7 +7058,7 @@
       ],
       "user_name": "Roberto B.",
       "user_username": "robertobutti",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4271771",
@@ -7123,7 +7079,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4273537",
@@ -7145,7 +7101,7 @@
       ],
       "user_name": "Tilde A. Thurium",
       "user_username": "annthurium",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4274330",
@@ -7177,8 +7133,8 @@
       "published_timestamp": "2026-07-31T16:02:04Z",
       "published_at": "2026-07-31T16:02:04Z",
       "edited_at": null,
-      "public_reactions_count": 79,
-      "positive_reactions_count": 79,
+      "public_reactions_count": 85,
+      "positive_reactions_count": 85,
       "tag_list": [
         "discuss",
         "community",
@@ -7187,7 +7143,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4282824",
@@ -7199,8 +7155,8 @@
       "published_timestamp": "2026-08-03T14:47:20Z",
       "published_at": "2026-08-03T14:47:20Z",
       "edited_at": "2026-08-03T18:10:03Z",
-      "public_reactions_count": 69,
-      "positive_reactions_count": 69,
+      "public_reactions_count": 79,
+      "positive_reactions_count": 79,
       "tag_list": [
         "discuss",
         "community",
@@ -7209,7 +7165,51 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
+    },
+    {
+      "key": "4284396",
+      "id": 4284396,
+      "canonical_url": "https://dev.to/pascal_cescato_692b7a8a20/cyberpanels-ssl-auto-renewal-can-silently-fail-heres-the-fix-5g1o",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/cyberpanels-ssl-auto-renewal-can-silently-fail-heres-the-fix-5g1o",
+      "title": "CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix",
+      "description": "Last week I was doing a routine check on a CyberPanel server and noticed something that didn't add...",
+      "published_timestamp": "2026-08-01T02:44:11Z",
+      "published_at": "2026-08-01T02:44:11Z",
+      "edited_at": null,
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "cybersecurity",
+        "devops",
+        "infrastructure",
+        "linux"
+      ],
+      "user_name": "Pascal CESCATO",
+      "user_username": "pascal_cescato_692b7a8a20",
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
+    },
+    {
+      "key": "4288467",
+      "id": 4288467,
+      "canonical_url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "published_timestamp": "2026-08-01T16:03:02Z",
+      "published_at": "2026-08-01T16:03:02Z",
+      "edited_at": "2026-08-02T01:10:09Z",
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "devchallenge",
+        "bugsmash",
+        "catbot",
+        "ai"
+      ],
+      "user_name": "Anna Villarreal",
+      "user_username": "annavi11arrea1",
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4288794",
@@ -7221,8 +7221,8 @@
       "published_timestamp": "2026-08-01T17:27:12Z",
       "published_at": "2026-08-01T17:27:12Z",
       "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
       "tag_list": [
         "webdev",
         "learning",
@@ -7231,7 +7231,7 @@
       ],
       "user_name": "Elmar Chavez",
       "user_username": "codingwithjiro",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4289790",
@@ -7243,8 +7243,8 @@
       "published_timestamp": "2026-08-01T21:19:16Z",
       "published_at": "2026-08-01T21:19:16Z",
       "edited_at": "2026-08-02T13:10:43Z",
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
       "tag_list": [
         "devchallenge",
         "frontendchallenge",
@@ -7253,7 +7253,7 @@
       ],
       "user_name": "Alexandra",
       "user_username": "ale3oula",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4290386",
@@ -7274,7 +7274,7 @@
       ],
       "user_name": "Sara Aniceto",
       "user_username": "szaranct",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4290696",
@@ -7296,7 +7296,7 @@
       ],
       "user_name": "Numb Code",
       "user_username": "numb_code_07",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4292612",
@@ -7308,8 +7308,8 @@
       "published_timestamp": "2026-08-03T15:34:05Z",
       "published_at": "2026-08-03T15:34:05Z",
       "edited_at": null,
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
+      "public_reactions_count": 58,
+      "positive_reactions_count": 58,
       "tag_list": [
         "discuss",
         "security",
@@ -7318,7 +7318,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4293044",
@@ -7330,8 +7330,8 @@
       "published_timestamp": "2026-08-02T12:49:29Z",
       "published_at": "2026-08-02T12:49:29Z",
       "edited_at": null,
-      "public_reactions_count": 52,
-      "positive_reactions_count": 52,
+      "public_reactions_count": 53,
+      "positive_reactions_count": 53,
       "tag_list": [
         "ai",
         "discuss",
@@ -7340,7 +7340,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4296692",
@@ -7352,8 +7352,8 @@
       "published_timestamp": "2026-08-03T13:11:18Z",
       "published_at": "2026-08-03T13:11:18Z",
       "edited_at": null,
-      "public_reactions_count": 118,
-      "positive_reactions_count": 118,
+      "public_reactions_count": 121,
+      "positive_reactions_count": 121,
       "tag_list": [
         "discuss",
         "javascript",
@@ -7362,7 +7362,7 @@
       ],
       "user_name": "Nazar Boyko",
       "user_username": "nazar-boyko",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4302662",
@@ -7374,15 +7374,15 @@
       "published_timestamp": "2026-08-04T07:30:25Z",
       "published_at": "2026-08-04T07:30:25Z",
       "edited_at": null,
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
+      "public_reactions_count": 57,
+      "positive_reactions_count": 57,
       "tag_list": [
         "career",
         "mentalhealth"
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-08-04T12:11:50.774399428+00:00"
+      "last_seen": "2026-08-04T15:32:32.472227370+00:00"
     },
     {
       "key": "4306109",
