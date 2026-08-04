@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-04T20:28:57+00:00</updated>
+  <updated>2026-08-04T23:10:31+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -46,7 +46,7 @@
     <title>Join our latest Frontend Challenge: Comfort Food Edition 🍲</title>
     <link rel="alternate" href="https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"/>
     <updated>2026-07-29T18:32:45+00:00</updated>
-    <summary type="html">Reactions: public 178 / positive 178&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
+    <summary type="html">Reactions: public 179 / positive 179&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4100283</id>
@@ -154,6 +154,13 @@
     <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-23T07:03:51Z&lt;br/&gt;Tags: node, ai, agents, javascript&lt;br/&gt;Description: For quite a while now, I&apos;ve had the feeling that AI agents are surrounded by this mystical aura....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4296692</id>
+    <title>TypeScript 7 Went Native: What Actually Changes And What Doesn&apos;t</title>
+    <link rel="alternate" href="https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"/>
+    <updated>2026-08-03T13:11:18+00:00</updated>
+    <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4240661</id>
     <title>Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations</title>
     <link rel="alternate" href="https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"/>
@@ -166,13 +173,6 @@
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh"/>
     <updated>2026-06-30T20:35:24+00:00</updated>
     <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:15:56Z&lt;br/&gt;Tags: discuss, ai, developers, softwareengineering&lt;br/&gt;Description: TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4296692</id>
-    <title>TypeScript 7 Went Native: What Actually Changes And What Doesn&apos;t</title>
-    <link rel="alternate" href="https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"/>
-    <updated>2026-08-03T13:11:18+00:00</updated>
-    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3806074</id>
@@ -364,6 +364,13 @@
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4312654</id>
+    <title>Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof"/>
+    <updated>2026-08-04T23:10:31+00:00</updated>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T17:18:52Z&lt;br/&gt;Tags: tutorial, programming, beginners, discuss&lt;br/&gt;Description: Getting any agent into messaging platforms like Slack is complex. You create a Slack app, handle its...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4000963</id>
     <title>🗓️ Monthly Dev Report: June 2026</title>
     <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-june-2026-530a"/>
@@ -371,18 +378,18 @@
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T14:40:57Z&lt;br/&gt;Tags: discuss, community, programming, devjournal&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4282824</id>
+    <title>How would you decide, whether the content is good or bad?</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"/>
+    <updated>2026-08-03T18:10:03+00:00</updated>
+    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T14:47:20Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I want to talk about what I have notice on the platform and want to address what we all have been...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3972958</id>
     <title>Too cheap to be good? Think again.</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0"/>
     <updated>2026-06-24T23:38:43+00:00</updated>
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T20:38:37Z&lt;br/&gt;Tags: ai, benchmark, devops, webdev&lt;br/&gt;Description: I replaced aaPanel/OpenLiteSpeed with Caddy and shell scripts and turned the process into a benchmark. Two phases (architecture then code), one external code review. The winning model? Not the one you&apos;d expect.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4282824</id>
-    <title>How would you decide, whether the content is good or bad?</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"/>
-    <updated>2026-08-03T18:10:03+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T14:47:20Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I want to talk about what I have notice on the platform and want to address what we all have been...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4252295</id>
@@ -397,13 +404,6 @@
     <link rel="alternate" href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b"/>
     <updated>2026-07-07T16:50:27+00:00</updated>
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T16:50:27Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4312654</id>
-    <title>Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)</title>
-    <link rel="alternate" href="https://dev.to/copilotkit/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof"/>
-    <updated>2026-08-04T20:28:57+00:00</updated>
-    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T17:18:52Z&lt;br/&gt;Tags: tutorial, programming, opensource, beginners&lt;br/&gt;Description: Getting any agent into messaging platforms like Slack is complex. You create a Slack app, handle its...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4125592</id>
@@ -592,7 +592,7 @@
     <title>Stop Calling Everything Impostor Syndrome: The Myth of &quot;Just Push Harder&quot;</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm"/>
     <updated>2026-08-04T07:30:25+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4097205</id>
