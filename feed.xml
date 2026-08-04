@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-04T15:51:09+00:00</updated>
+  <updated>2026-08-04T20:28:57+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -322,6 +322,13 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/marcosomma&quot;&gt;marcosomma&lt;/a&gt;&lt;br/&gt;Published: 2026-06-03T17:30:38Z&lt;br/&gt;Tags: ai, programming, productivity, career&lt;br/&gt;Description: The AI world is full of old infrastructure with stochastic organs.   That sentence probably explains...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4282095</id>
+    <title>Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week &amp; Learning How to Learn</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2"/>
+    <updated>2026-07-31T16:02:04+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T16:02:04Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3834057</id>
     <title>You’re a Real TypeScript Developer Only If...</title>
     <link rel="alternate" href="https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"/>
@@ -364,18 +371,18 @@
     <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-29T14:40:57Z&lt;br/&gt;Tags: discuss, community, programming, devjournal&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4282095</id>
-    <title>Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week &amp; Learning How to Learn</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2"/>
-    <updated>2026-07-31T16:02:04+00:00</updated>
-    <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T16:02:04Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:3972958</id>
     <title>Too cheap to be good? Think again.</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0"/>
     <updated>2026-06-24T23:38:43+00:00</updated>
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T20:38:37Z&lt;br/&gt;Tags: ai, benchmark, devops, webdev&lt;br/&gt;Description: I replaced aaPanel/OpenLiteSpeed with Caddy and shell scripts and turned the process into a benchmark. Two phases (architecture then code), one external code review. The winning model? Not the one you&apos;d expect.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4282824</id>
+    <title>How would you decide, whether the content is good or bad?</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"/>
+    <updated>2026-08-03T18:10:03+00:00</updated>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T14:47:20Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I want to talk about what I have notice on the platform and want to address what we all have been...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4252295</id>
@@ -392,11 +399,11 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T16:50:27Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4282824</id>
-    <title>How would you decide, whether the content is good or bad?</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"/>
-    <updated>2026-08-03T18:10:03+00:00</updated>
-    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T14:47:20Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I want to talk about what I have notice on the platform and want to address what we all have been...</summary>
+    <id>tag:dev.to,2026:4312654</id>
+    <title>Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)</title>
+    <link rel="alternate" href="https://dev.to/copilotkit/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof"/>
+    <updated>2026-08-04T20:28:57+00:00</updated>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anmolbaranwal&quot;&gt;Anmol Baranwal&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T17:18:52Z&lt;br/&gt;Tags: tutorial, programming, opensource, beginners&lt;br/&gt;Description: Getting any agent into messaging platforms like Slack is complex. You create a Slack app, handle its...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4125592</id>
@@ -581,6 +588,13 @@
     <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jaysaadana&quot;&gt;Jay Saadana&lt;/a&gt;&lt;br/&gt;Published: 2026-06-10T16:08:39Z&lt;br/&gt;Tags: ai, android, mobile, productivity&lt;br/&gt;Description: Every QA team knows the feeling. The home screen works. Browse works. Search works. Cart works. And...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4302662</id>
+    <title>Stop Calling Everything Impostor Syndrome: The Myth of &quot;Just Push Harder&quot;</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm"/>
+    <updated>2026-08-04T07:30:25+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4097205</id>
     <title>Has the audience for technical articles dropped?</title>
     <link rel="alternate" href="https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh"/>
@@ -649,13 +663,6 @@
     <link rel="alternate" href="https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j"/>
     <updated>2026-06-04T06:43:17+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T06:43:17Z&lt;br/&gt;Tags: learning, career, discuss, marketing&lt;br/&gt;Description: A while back, when I was still job hunting, building mini-projects, and trying to figure out what I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4302662</id>
-    <title>Stop Calling Everything Impostor Syndrome: The Myth of &quot;Just Push Harder&quot;</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm"/>
-    <updated>2026-08-04T07:30:25+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3756614</id>
@@ -1197,6 +1204,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-01T03:47:40Z&lt;br/&gt;Tags: ai, programming, discuss, career&lt;br/&gt;Description: Based on real system architecture decisions. About a $660K AI platform, three AI agents that kept the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:3980001</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1ed"/>
+    <updated>2026-07-31T04:00:00+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T04:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4220414</id>
     <title>Sentry&apos;s Span Hierarchy Exposed a Silent Retry in My 5-Agent Pipeline. One Agent Took 22.6s, the Others Took 5.</title>
     <link rel="alternate" href="https://dev.to/sarvar_04/sentrys-span-hierarchy-exposed-a-silent-retry-in-my-5-agent-pipeline-one-agent-took-226s-the-fb4"/>
@@ -1258,13 +1272,6 @@
     <link rel="alternate" href="https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0"/>
     <updated>2026-06-15T14:44:53+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T14:44:53Z&lt;br/&gt;Tags: ai, webdev, productivity, buildinpublic&lt;br/&gt;Description: After posting several articles about the impact of AI on developers and sharing resources to help...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3980001</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1ed"/>
-    <updated>2026-07-31T04:00:00+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T04:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4232408</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/lovestaco/--2kb7"/>
     <updated>2026-06-22T20:25:54+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T20:25:54Z&lt;br/&gt;Tags: ai, webdev, programming, beginners&lt;br/&gt;Description: Hello, I&apos;m Maneshwar. I&apos;m building git-lrc, a Micro AI code reviewer that runs on every commit. It is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3963551</id>
-    <title>Do localhost para o mundo</title>
-    <link rel="alternate" href="https://dev.to/he4rt/do-localhost-para-o-mundo-2o44"/>
-    <updated>2026-06-25T01:37:04+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/bruno_freschi&quot;&gt;Bruno Freschi&lt;/a&gt;&lt;br/&gt;Published: 2026-06-22T15:07:19Z&lt;br/&gt;Tags: braziliandevs, career, programming, softwaredevelopment&lt;br/&gt;Description: Por muito tempo eu acreditei que programação e desenvolvimento de software como sinônimos. Na...</summary>
   </entry>
 </feed>
