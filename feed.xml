@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-05T05:03:23+00:00</updated>
+  <updated>2026-08-05T14:52:35+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -39,7 +39,7 @@
     <title>Join our latest Frontend Challenge: Comfort Food Edition 🍲</title>
     <link rel="alternate" href="https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0"/>
     <updated>2026-07-29T18:32:45+00:00</updated>
-    <summary type="html">Reactions: public 185 / positive 185&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
+    <summary type="html">Reactions: public 192 / positive 192&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T18:18:58Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, css, javascript&lt;br/&gt;Description: We&apos;re back with another Frontend Challenge, and this time we&apos;re hungry! 🍜🥧  Running through August...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3812839</id>
@@ -91,6 +91,13 @@
     <summary type="html">Reactions: public 151 / positive 151&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T17:57:43Z&lt;br/&gt;Tags: jokes, webdev, ai&lt;br/&gt;Description: I just got back from my vacation which, like 99% of Polish people, I spent in Croatia. Dobar dan!...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4296692</id>
+    <title>TypeScript 7 Went Native: What Actually Changes And What Doesn&apos;t</title>
+    <link rel="alternate" href="https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"/>
+    <updated>2026-08-03T13:11:18+00:00</updated>
+    <summary type="html">Reactions: public 150 / positive 150&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4135708</id>
     <title>Como escolher eventos de tecnologia para participar</title>
     <link rel="alternate" href="https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf"/>
@@ -103,13 +110,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/its-you-29k0"/>
     <updated>2026-07-07T14:33:45+00:00</updated>
     <summary type="html">Reactions: public 148 / positive 148&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-07-06T21:38:25Z&lt;br/&gt;Tags: discuss, community, productivity, mentalhealth&lt;br/&gt;Description: To start off, I appreciate the community support I have received on the post about being behind.     ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4296692</id>
-    <title>TypeScript 7 Went Native: What Actually Changes And What Doesn&apos;t</title>
-    <link rel="alternate" href="https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"/>
-    <updated>2026-08-03T13:11:18+00:00</updated>
-    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3964664</id>
@@ -220,8 +220,8 @@
     <id>tag:dev.to,2026:4282824</id>
     <title>How would you decide, whether the content is good or bad?</title>
     <link rel="alternate" href="https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"/>
-    <updated>2026-08-03T18:10:03+00:00</updated>
-    <summary type="html">Reactions: public 108 / positive 108&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T14:47:20Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I want to talk about what I have notice on the platform and want to address what we all have been...</summary>
+    <updated>2026-08-05T14:52:35+00:00</updated>
+    <summary type="html">Reactions: public 110 / positive 110&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T14:47:20Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I want to talk about what I have notice on the platform and want to address what we all have been...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3806099</id>
@@ -250,6 +250,13 @@
     <link rel="alternate" href="https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge"/>
     <updated>2026-06-06T01:41:40+00:00</updated>
     <summary type="html">Reactions: public 103 / positive 103&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-06-06T01:41:40Z&lt;br/&gt;Tags: devchallenge, githubchallenge, discuss, showdev&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge   Note: AI is currently a Hot Topic in...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4302662</id>
+    <title>Stop Calling Everything Impostor Syndrome: The Myth of &quot;Just Push Harder&quot;</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm"/>
+    <updated>2026-08-04T07:30:25+00:00</updated>
+    <summary type="html">Reactions: public 101 / positive 101&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4247137</id>
@@ -315,11 +322,11 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-05-31T16:54:50Z&lt;br/&gt;Tags: python, ai, debugging, tutorial&lt;br/&gt;Description: A practical Python pattern for recording agent tool calls, sanitizing traces, stopping runaway runs, and querying failures with DuckDB.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4302662</id>
-    <title>Stop Calling Everything Impostor Syndrome: The Myth of &quot;Just Push Harder&quot;</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm"/>
-    <updated>2026-08-04T07:30:25+00:00</updated>
-    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
+    <id>tag:dev.to,2026:4266395</id>
+    <title>It Was Just a Patch Update. What Could Possibly Go Wrong?</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"/>
+    <updated>2026-07-30T08:02:27+00:00</updated>
+    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T08:02:27Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, javascript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  You know those...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3842404</id>
@@ -362,13 +369,6 @@
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/the-most-valuable-thing-i-found-in-tech-wasnt-an-opportunity-2j83"/>
     <updated>2026-06-12T14:53:53+00:00</updated>
     <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-09T14:52:40Z&lt;br/&gt;Tags: discuss, community, beginners, career&lt;br/&gt;Description: TL;DR  As an international student in the United States, I joined tech communities hoping to find...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4266395</id>
-    <title>It Was Just a Patch Update. What Could Possibly Go Wrong?</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"/>
-    <updated>2026-07-30T08:02:27+00:00</updated>
-    <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-07-30T08:02:27Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, javascript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  You know those...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3696340</id>
@@ -599,7 +599,7 @@
     <title>We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"/>
     <updated>2026-08-05T05:03:23+00:00</updated>
-    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T15:34:05Z&lt;br/&gt;Tags: discuss, security, agents, programming&lt;br/&gt;Description: 📌 TL;DR  AI agents are becoming useful because we&apos;re giving them the ability to do more than just...</summary>
+    <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T15:34:05Z&lt;br/&gt;Tags: discuss, security, agents, programming&lt;br/&gt;Description: 📌 TL;DR  AI agents are becoming useful because we&apos;re giving them the ability to do more than just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4097205</id>
@@ -1302,6 +1302,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T02:32:36Z&lt;br/&gt;Tags: webdev, opensource, productivity, tutorial&lt;br/&gt;Description: Here&apos;s a thing that happens on every team I&apos;ve been on.  Sprint ends. Someone schedules the retro....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4263580</id>
+    <title>How I Smashed a Bug in a Shared Authentication Library</title>
+    <link rel="alternate" href="https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"/>
+    <updated>2026-08-05T10:37:39+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T06:58:57Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, typescript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4030159</id>
     <title>I Stopped Comparing Myself to AI. It Changed Everything.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo"/>
     <updated>2026-07-15T12:04:25+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T12:04:25Z&lt;br/&gt;Tags: showdev, typescript, dsa, react&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer currently fighting the intense European heatwave by...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4033346</id>
-    <title>Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?</title>
-    <link rel="alternate" href="https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb"/>
-    <updated>2026-06-30T18:00:38+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T17:59:18Z&lt;br/&gt;Tags: ai, webdev, productivity, programming&lt;br/&gt;Description: Introduction   I keep hearing the term loop engineering. It&apos;s all over my feed, every AI...</summary>
   </entry>
 </feed>
