@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-05T14:52:35+00:00</updated>
+  <updated>2026-08-06T14:16:54+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -53,7 +53,7 @@
     <title>TypeScript 7 Went Native: What Actually Changes And What Doesn&apos;t</title>
     <link rel="alternate" href="https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"/>
     <updated>2026-08-03T13:11:18+00:00</updated>
-    <summary type="html">Reactions: public 175 / positive 175&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
+    <summary type="html">Reactions: public 179 / positive 179&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4100283</id>
@@ -136,7 +136,7 @@
     <id>tag:dev.to,2026:4282824</id>
     <title>How would you decide, whether the content is good or bad?</title>
     <link rel="alternate" href="https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p"/>
-    <updated>2026-08-05T14:52:35+00:00</updated>
+    <updated>2026-08-06T14:16:54+00:00</updated>
     <summary type="html">Reactions: public 141 / positive 141&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T14:47:20Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I want to talk about what I have notice on the platform and want to address what we all have been...</summary>
   </entry>
   <entry>
@@ -186,7 +186,7 @@
     <title>Stop Calling Everything Impostor Syndrome: The Myth of &quot;Just Push Harder&quot;</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm"/>
     <updated>2026-08-04T07:30:25+00:00</updated>
-    <summary type="html">Reactions: public 127 / positive 127&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
+    <summary type="html">Reactions: public 128 / positive 128&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T07:30:25Z&lt;br/&gt;Tags: career, mentalhealth&lt;br/&gt;Description: Not everyone who doubts themselves is suffering from impostor syndrome. Sometimes the real problem...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3806074</id>
@@ -784,13 +784,6 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4293044</id>
-    <title>Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7"/>
-    <updated>2026-08-02T12:49:29+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-02T12:49:29Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Keep the shell. Preserve the presence. The ally doesn&apos;t suspect; the enemy doesn&apos;t move. — The 36...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4256220</id>
     <title>I Built a Chat App That Rewrites Its Own UI in Real Time</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5"/>
@@ -824,6 +817,13 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-9-lena-and-p-watched-two-ai-suppliers-fight-the-logs-said-neither-was-clean-2pj3"/>
     <updated>2026-07-09T10:28:02+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T04:06:00Z&lt;br/&gt;Tags: discuss, ai, career, programming&lt;br/&gt;Description: Watch the fires burning on the far shore. Don&apos;t cross until they&apos;ve burned themselves out. — The 36...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4293044</id>
+    <title>Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7"/>
+    <updated>2026-08-02T12:49:29+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-02T12:49:29Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Keep the shell. Preserve the presence. The ally doesn&apos;t suspect; the enemy doesn&apos;t move. — The 36...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4085109</id>
@@ -924,6 +924,13 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T11:25:14Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, html&lt;br/&gt;Description: This is a submission for the June Solstice Game Jam  Before we dive into technicalities, let me make...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4263580</id>
+    <title>How I Smashed a Bug in a Shared Authentication Library</title>
+    <link rel="alternate" href="https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"/>
+    <updated>2026-08-05T10:37:39+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T06:58:57Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, typescript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3991633</id>
     <title>How QA Teams at High Growth Startups Scale from 50 to 500 Tests Without Hiring 5 More Engineers</title>
     <link rel="alternate" href="https://dev.to/drizzdev/how-qa-teams-at-high-growth-startups-scale-from-50-to-500-tests-without-hiring-5-more-engineers-150f"/>
@@ -943,13 +950,6 @@
     <link rel="alternate" href="https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh"/>
     <updated>2026-06-02T05:16:18+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/trojanmocx&quot;&gt;TROJAN &lt;/a&gt;&lt;br/&gt;Published: 2026-06-02T05:16:18Z&lt;br/&gt;Tags: discuss, ai, programming, productivity&lt;br/&gt;Description: Everyone keeps saying AI will replace developers. Meanwhile I was sitting at 3:17 AM staring at a bug...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4263580</id>
-    <title>How I Smashed a Bug in a Shared Authentication Library</title>
-    <link rel="alternate" href="https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"/>
-    <updated>2026-08-05T10:37:39+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T06:58:57Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, typescript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4207448</id>
