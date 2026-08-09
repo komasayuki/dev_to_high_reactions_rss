@@ -25,7 +25,7 @@
     <title>TypeScript 7 Went Native: What Actually Changes And What Doesn&apos;t</title>
     <link rel="alternate" href="https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3"/>
     <updated>2026-08-03T13:11:18+00:00</updated>
-    <summary type="html">Reactions: public 204 / positive 204&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
+    <summary type="html">Reactions: public 207 / positive 207&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T13:11:18Z&lt;br/&gt;Tags: discuss, javascript, typescript, performance&lt;br/&gt;Description: Everyone&apos;s heard by now that TypeScript &quot;went native.&quot; And I keep seeing the same wrong conclusion...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4099087</id>
@@ -357,6 +357,13 @@
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/webdeveloperhyper&quot;&gt;Web Developer Hyper&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T11:40:09Z&lt;br/&gt;Tags: ai, webdev, productivity, discuss&lt;br/&gt;Description: Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4263580</id>
+    <title>How I Smashed a Bug in a Shared Authentication Library</title>
+    <link rel="alternate" href="https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"/>
+    <updated>2026-08-05T10:37:39+00:00</updated>
+    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T06:58:57Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, typescript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4312654</id>
     <title>Channels SDK: How to bring your Agent to any Channel (Slack, Microsoft Teams)</title>
     <link rel="alternate" href="https://dev.to/copilotkit/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof"/>
@@ -376,13 +383,6 @@
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0"/>
     <updated>2026-06-24T23:38:43+00:00</updated>
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-06-23T20:38:37Z&lt;br/&gt;Tags: ai, benchmark, devops, webdev&lt;br/&gt;Description: I replaced aaPanel/OpenLiteSpeed with Caddy and shell scripts and turned the process into a benchmark. Two phases (architecture then code), one external code review. The winning model? Not the one you&apos;d expect.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4263580</id>
-    <title>How I Smashed a Bug in a Shared Authentication Library</title>
-    <link rel="alternate" href="https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"/>
-    <updated>2026-08-05T10:37:39+00:00</updated>
-    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T06:58:57Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, typescript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4252295</id>
@@ -924,6 +924,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T15:58:57Z&lt;br/&gt;Tags: ai, discuss, programming, career&lt;br/&gt;Description: Complete preparation breeds complacency. What is seen every day no longer raises suspicion. The...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4350779</id>
+    <title>Restate&apos;s Single Binary vs Temporal&apos;s Cluster: When the Lighter Engine Wins</title>
+    <link rel="alternate" href="https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635"/>
+    <updated>2026-08-09T19:05:41+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/andriiboyko&quot;&gt;Andrii B.&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T19:05:41Z&lt;br/&gt;Tags: architecture, typescript, discuss, devops&lt;br/&gt;Description: Here is a bet that will save you a lot of arguing: pick your durable execution engine on what you...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4207448</id>
     <title>The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI</title>
     <link rel="alternate" href="https://blog.yechiel.me/learning-and-teaching-in-the-age-of-ai"/>
@@ -1281,6 +1288,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T20:40:36Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4332434</id>
+    <title>I Recreated Management With AI: 9 Things I Do Differently</title>
+    <link rel="alternate" href="https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g"/>
+    <updated>2026-08-06T12:42:10+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T12:42:10Z&lt;br/&gt;Tags: discuss, ai, writing, productivity&lt;br/&gt;Description: I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4108939</id>
     <title>Return on Attention: Why AI Code Reviews Are Wearing Us Out</title>
     <link rel="alternate" href="https://christine-seeman.com/return-on-attention-ai-code-review/"/>
@@ -1328,13 +1342,6 @@
     <link rel="alternate" href="https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c"/>
     <updated>2026-06-18T07:28:43+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T07:56:06Z&lt;br/&gt;Tags: nextjs, javascript, webdev, security&lt;br/&gt;Description: A few days ago I published a post about the three-layer auth model and the invoice incident that made...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4350779</id>
-    <title>Restate&apos;s Single Binary vs Temporal&apos;s Cluster: When the Lighter Engine Wins</title>
-    <link rel="alternate" href="https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635"/>
-    <updated>2026-08-09T19:05:41+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/andriiboyko&quot;&gt;Andrii B.&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T19:05:41Z&lt;br/&gt;Tags: architecture, typescript, discuss, devops&lt;br/&gt;Description: Here is a bet that will save you a lot of arguing: pick your durable execution engine on what you...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4315279</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e"/>
     <updated>2026-06-16T16:33:58+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T13:45:03Z&lt;br/&gt;Tags: ai, discuss, meta, devto&lt;br/&gt;Description: Two weeks ago I published a piece explaining exactly why AI detectors are unreliable. Then Sloan...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4288794</id>
-    <title>How I Contributed to a Laravel Application Without Knowing Laravel</title>
-    <link rel="alternate" href="https://dev.to/devengers/how-i-contributed-to-a-laravel-application-without-knowing-laravel-1dkl"/>
-    <updated>2026-08-01T17:27:12+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/codingwithjiro&quot;&gt;Elmar Chavez&lt;/a&gt;&lt;br/&gt;Published: 2026-08-01T17:27:12Z&lt;br/&gt;Tags: webdev, learning, laravel, productivity&lt;br/&gt;Description: Two months ago, I was given access to a codebase with an unfamiliar language and framework. I felt a...</summary>
   </entry>
 </feed>
