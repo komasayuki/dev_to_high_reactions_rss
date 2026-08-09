@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-07T08:44:41+00:00</updated>
+  <updated>2026-08-09T10:42:39+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -406,6 +406,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T16:50:27Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4263580</id>
+    <title>How I Smashed a Bug in a Shared Authentication Library</title>
+    <link rel="alternate" href="https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"/>
+    <updated>2026-08-05T10:37:39+00:00</updated>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T06:58:57Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, typescript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4125592</id>
     <title>I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e"/>
@@ -418,13 +425,6 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h"/>
     <updated>2026-07-02T22:04:04+00:00</updated>
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4263580</id>
-    <title>How I Smashed a Bug in a Shared Authentication Library</title>
-    <link rel="alternate" href="https://dev.to/gramli/how-i-smashed-a-bug-in-a-shared-authentication-library-33fm"/>
-    <updated>2026-08-05T10:37:39+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-08-05T06:58:57Z&lt;br/&gt;Tags: devchallenge, bugsmash, angular, typescript&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  This happened a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3960748</id>
@@ -542,7 +542,7 @@
     <id>tag:dev.to,2026:4308466</id>
     <title>Understanding Over Origin: The Missing Friction</title>
     <link rel="alternate" href="https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag"/>
-    <updated>2026-08-04T05:09:10+00:00</updated>
+    <updated>2026-08-09T10:42:39+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-08-04T04:36:13Z&lt;br/&gt;Tags: ai, programming, productivity, learning&lt;br/&gt;Description: A few days ago, I wrote &quot;Understanding Over Origin&quot; and it got alot of engagement and I&apos;m really...</summary>
   </entry>
   <entry>
@@ -962,7 +962,7 @@
     <id>tag:dev.to,2026:4334370</id>
     <title>🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum</title>
     <link rel="alternate" href="https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h"/>
-    <updated>2026-08-07T08:44:41+00:00</updated>
+    <updated>2026-08-09T10:07:00+00:00</updated>
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/minhlong2605&quot;&gt;Mike&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T17:47:27Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, webdev, javascript&lt;br/&gt;Description: This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...</summary>
   </entry>
   <entry>
