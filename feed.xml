@@ -322,18 +322,18 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T13:59:18Z&lt;br/&gt;Tags: writing, community, discuss, learning&lt;br/&gt;Description: When I joined DEV, I had a very simple goal.  Learn in public. Maybe improve as a developer....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4292612</id>
+    <title>We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"/>
+    <updated>2026-08-05T05:03:23+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T15:34:05Z&lt;br/&gt;Tags: discuss, security, agents, programming&lt;br/&gt;Description: 📌 TL;DR  AI agents are becoming useful because we&apos;re giving them the ability to do more than just...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3834057</id>
     <title>You’re a Real TypeScript Developer Only If...</title>
     <link rel="alternate" href="https://dev.to/hadil/youre-a-real-typescript-developer-only-if-1d9o"/>
     <updated>2026-06-08T18:50:24+00:00</updated>
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T09:09:29Z&lt;br/&gt;Tags: webdev, typescript, bash, programming&lt;br/&gt;Description: A few months ago, I published You&apos;re a Real JavaScript Developer Only If...  It was just a post for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4292612</id>
-    <title>We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"/>
-    <updated>2026-08-05T05:03:23+00:00</updated>
-    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T15:34:05Z&lt;br/&gt;Tags: discuss, security, agents, programming&lt;br/&gt;Description: 📌 TL;DR  AI agents are becoming useful because we&apos;re giving them the ability to do more than just...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4120243</id>
@@ -649,13 +649,6 @@
     <link rel="alternate" href="https://dev.to/javz/i-built-an-interview-prep-tool-instead-of-grinding-leetcode-35a0"/>
     <updated>2026-06-08T13:20:06+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-08T13:20:06Z&lt;br/&gt;Tags: softwareengineering, career, learning, productivity&lt;br/&gt;Description: I am currently preparing for Software Engineer interviews.  Like many developers, my first instinct...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3816772</id>
-    <title>I Didn&apos;t Mean To Learn Marketing</title>
-    <link rel="alternate" href="https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j"/>
-    <updated>2026-06-04T06:43:17+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-04T06:43:17Z&lt;br/&gt;Tags: learning, career, discuss, marketing&lt;br/&gt;Description: A while back, when I was still job hunting, building mini-projects, and trying to figure out what I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3756614</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/devengers/how-i-contributed-to-a-laravel-application-without-knowing-laravel-1dkl"/>
     <updated>2026-08-01T17:27:12+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/codingwithjiro&quot;&gt;Elmar Chavez&lt;/a&gt;&lt;br/&gt;Published: 2026-08-01T17:27:12Z&lt;br/&gt;Tags: webdev, learning, laravel, productivity&lt;br/&gt;Description: Two months ago, I was given access to a codebase with an unfamiliar language and framework. I felt a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4238806</id>
+    <title>I Built Something Good With AI. Now Some Developer Communities Don&apos;t Want to See It.</title>
+    <link rel="alternate" href="https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo"/>
+    <updated>2026-07-27T16:34:19+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/madsendev&quot;&gt;Christoffer Madsen&lt;/a&gt;&lt;br/&gt;Published: 2026-07-26T20:53:41Z&lt;br/&gt;Tags: ai, opensource, programming, discuss&lt;br/&gt;Description: I recently tried to share an open-source project I&apos;ve been working on called Open Vectorizer.  It&apos;s a...</summary>
   </entry>
 </feed>
