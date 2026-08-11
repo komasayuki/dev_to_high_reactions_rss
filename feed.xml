@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-11T07:25:07+00:00</updated>
+  <updated>2026-08-11T15:47:29+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -308,6 +308,13 @@
     <summary type="html">Reactions: public 93 / positive 93&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-31T16:02:04Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4323325</id>
+    <title>Hey all! I’m Jem, the DEV Community Program Coordinator</title>
+    <link rel="alternate" href="https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"/>
+    <updated>2026-08-10T17:43:59+00:00</updated>
+    <summary type="html">Reactions: public 92 / positive 92&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T15:13:30Z&lt;br/&gt;Tags: meta&lt;br/&gt;Description: It feels good to finally be writing this.  I&apos;ve been working part-time behind the scenes at DEV for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4266395</id>
     <title>It Was Just a Patch Update. What Could Possibly Go Wrong?</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3"/>
@@ -413,6 +420,13 @@
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4344653</id>
+    <title>I Joined dev.to because...</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/i-joined-devto-because-fl0"/>
+    <updated>2026-08-11T01:15:18+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:24:24Z&lt;br/&gt;Tags: discuss, community, writing, motivation&lt;br/&gt;Description: Why not?     Just kidding, there is more to it. Just thought it flows well with the title...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3960748</id>
     <title>The Principle of Least AI</title>
     <link rel="alternate" href="https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0"/>
@@ -448,25 +462,11 @@
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/chestly_ace&quot;&gt;Chestly Ace&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T23:58:08Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: This is a submission for the GitHub Finish-Up-A-Thon Challenge  What We Built  Moonsu Link is a...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4323325</id>
-    <title>Hey all! I’m Jem, the DEV Community Program Coordinator</title>
-    <link rel="alternate" href="https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"/>
-    <updated>2026-08-10T17:43:59+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T15:13:30Z&lt;br/&gt;Tags: meta&lt;br/&gt;Description: It feels good to finally be writing this.  I&apos;ve been working part-time behind the scenes at DEV for...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4135085</id>
     <title>The Myth of the Post-Documentation Era</title>
     <link rel="alternate" href="https://dev.to/ben/the-myth-of-the-post-documentation-era-39al"/>
     <updated>2026-07-13T15:59:11+00:00</updated>
     <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T15:59:11Z&lt;br/&gt;Tags: ai, documentation, opensource, codequality&lt;br/&gt;Description: There is a growing sentiment in engineering circles right now that documentation is a relic of the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4344653</id>
-    <title>I Joined dev.to because...</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/i-joined-devto-because-fl0"/>
-    <updated>2026-08-11T01:15:18+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:24:24Z&lt;br/&gt;Tags: discuss, community, writing, motivation&lt;br/&gt;Description: Why not?     Just kidding, there is more to it. Just thought it flows well with the title...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4011453</id>
@@ -595,6 +595,13 @@
     <summary type="html">Reactions: public 68 / positive 68&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/andriiboyko&quot;&gt;Andrii B.&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T19:05:41Z&lt;br/&gt;Tags: architecture, typescript, discuss, devops&lt;br/&gt;Description: Here is a bet that will save you a lot of arguing: pick your durable execution engine on what you...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4334370</id>
+    <title>🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum</title>
+    <link rel="alternate" href="https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h"/>
+    <updated>2026-08-11T15:47:29+00:00</updated>
+    <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/minhlong2605&quot;&gt;Mike&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T17:47:27Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, webdev, javascript&lt;br/&gt;Description: This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4097205</id>
     <title>Has the audience for technical articles dropped?</title>
     <link rel="alternate" href="https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh"/>
@@ -614,13 +621,6 @@
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76"/>
     <updated>2026-08-11T07:25:07+00:00</updated>
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T12:42:18Z&lt;br/&gt;Tags: discuss, community, beginners, career&lt;br/&gt;Description: 📌 TL;DR  I&apos;m still early in my own career, and lately I&apos;ve been thinking about how much advice we...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4334370</id>
-    <title>🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum</title>
-    <link rel="alternate" href="https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h"/>
-    <updated>2026-08-09T15:51:48+00:00</updated>
-    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/minhlong2605&quot;&gt;Mike&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T17:47:27Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, webdev, javascript&lt;br/&gt;Description: This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4158432</id>
@@ -1155,6 +1155,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gamya_m&quot;&gt;Gamya &lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T09:55:00Z&lt;br/&gt;Tags: discuss, watercooler, beginners, devjournal&lt;br/&gt;Description: I joined DEV at the start of January, but it&apos;s only really been in the past week or so that things...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4359412</id>
+    <title>Stratagems #24: Leo Built a Corridor. The AI Thought It Was a Road.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf"/>
+    <updated>2026-08-10T10:18:13+00:00</updated>
+    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T09:54:57Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: Between two great powers, when a neighbor presses you to follow, borrow its momentum. A cornered...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4130229</id>
     <title>I Built an AI That Turns Your Passion Into a Cinematic Origin Story</title>
     <link rel="alternate" href="https://dev.to/divyesh5981/i-built-an-ai-that-turns-your-passion-into-a-cinematic-origin-story-4j8l"/>
@@ -1174,13 +1181,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4na1"/>
     <updated>2026-06-26T13:00:00+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T13:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4359412</id>
-    <title>Stratagems #24: Leo Built a Corridor. The AI Thought It Was a Road.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf"/>
-    <updated>2026-08-10T10:18:13+00:00</updated>
-    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T09:54:57Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: Between two great powers, when a neighbor presses you to follow, borrow its momentum. A cornered...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4220414</id>
