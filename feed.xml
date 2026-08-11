@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-11T01:15:18+00:00</updated>
+  <updated>2026-08-11T06:58:01+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -721,6 +721,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thuangf45&quot;&gt;Thuangf45&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T06:15:15Z&lt;br/&gt;Tags: javascript, webdev, showdev, architecture&lt;br/&gt;Description: Here is a question that sounds simple until you&apos;ve actually shipped a UI: how many files does it take...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4323325</id>
+    <title>Hey all! I’m Jem, the DEV Community Program Coordinator</title>
+    <link rel="alternate" href="https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"/>
+    <updated>2026-08-10T17:43:59+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T15:13:30Z&lt;br/&gt;Tags: meta&lt;br/&gt;Description: It feels good to finally be writing this.  I&apos;ve been working part-time behind the scenes at DEV for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4235251</id>
     <title>18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0"/>
@@ -763,11 +770,11 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4323325</id>
-    <title>Hey all! I’m Jem, the DEV Community Program Coordinator</title>
-    <link rel="alternate" href="https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"/>
-    <updated>2026-08-10T17:43:59+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T15:13:30Z&lt;br/&gt;Tags: meta&lt;br/&gt;Description: It feels good to finally be writing this.  I&apos;ve been working part-time behind the scenes at DEV for...</summary>
+    <id>tag:dev.to,2026:4344653</id>
+    <title>I Joined dev.to because...</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/i-joined-devto-because-fl0"/>
+    <updated>2026-08-11T01:15:18+00:00</updated>
+    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:24:24Z&lt;br/&gt;Tags: discuss, community, writing, motivation&lt;br/&gt;Description: Why not?     Just kidding, there is more to it. Just thought it flows well with the title...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4293044</id>
@@ -833,6 +840,13 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-16T14:06:45Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: A story about an AI content moderation system that flagged 347 posts since launch — and what...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4332434</id>
+    <title>I Recreated Management With AI: 9 Things I Do Differently</title>
+    <link rel="alternate" href="https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g"/>
+    <updated>2026-08-06T12:42:10+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T12:42:10Z&lt;br/&gt;Tags: discuss, ai, writing, productivity&lt;br/&gt;Description: I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4326434</id>
     <title>When Your VPS Never Had the Resources It Was Sold With</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o"/>
@@ -866,20 +880,6 @@
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4k11"/>
     <updated>2026-06-12T06:00:00+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-12T06:00:00Z&lt;br/&gt;Tags: discuss, weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4344653</id>
-    <title>I Joined dev.to because...</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/i-joined-devto-because-fl0"/>
-    <updated>2026-08-11T01:15:18+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T14:24:24Z&lt;br/&gt;Tags: discuss, community, writing, motivation&lt;br/&gt;Description: Why not?     Just kidding, there is more to it. Just thought it flows well with the title...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4332434</id>
-    <title>I Recreated Management With AI: 9 Things I Do Differently</title>
-    <link rel="alternate" href="https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g"/>
-    <updated>2026-08-06T12:42:10+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-06T12:42:10Z&lt;br/&gt;Tags: discuss, ai, writing, productivity&lt;br/&gt;Description: I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4136178</id>
@@ -927,7 +927,7 @@
     <id>tag:dev.to,2026:4360969</id>
     <title>What Would You Tell Someone Early in Their Career?</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/what-would-you-tell-someone-early-in-their-career-1k76"/>
-    <updated>2026-08-10T12:42:18+00:00</updated>
+    <updated>2026-08-11T06:58:01+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T12:42:18Z&lt;br/&gt;Tags: discuss, community, beginners, career&lt;br/&gt;Description: 📌 TL;DR  I&apos;m still early in my own career, and lately I&apos;ve been thinking about how much advice we...</summary>
   </entry>
   <entry>
