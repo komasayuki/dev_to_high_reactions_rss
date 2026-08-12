@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-11T16:22:46+00:00</updated>
+  <updated>2026-08-12T18:31:33+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1367,8 +1367,8 @@
   <entry>
     <id>tag:dev.to,2026:4352204</id>
     <title>Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.</title>
-    <link rel="alternate" href="https://dev.to/parsajiravand/stop-using-the-localstorage-hack-to-sync-browser-tabs-broadcastchannel-does-it-natively-4an9"/>
-    <updated>2026-08-11T16:22:46+00:00</updated>
+    <link rel="alternate" href="https://bestpractic.org/blog/broadcast-channel-cross-tab-messaging"/>
+    <updated>2026-08-12T18:31:33+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/parsajiravand&quot;&gt;Parsa Jiravand&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T07:02:41Z&lt;br/&gt;Tags: javascript, webdev, frontend, api&lt;br/&gt;Description: When a user logs out in one tab, the other tabs should follow. When they update their cart, every...</summary>
   </entry>
   <entry>
