@@ -161,6 +161,13 @@
     <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-06-18T07:25:04Z&lt;br/&gt;Tags: javascript, webdev, programming, architecture&lt;br/&gt;Description: I promised myself that starting this week I&apos;d switch to lighter topics. But on Monday, my JSNation...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4323325</id>
+    <title>Hey all! I’m Jem, the DEV Community Program Coordinator</title>
+    <link rel="alternate" href="https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"/>
+    <updated>2026-08-10T17:43:59+00:00</updated>
+    <summary type="html">Reactions: public 130 / positive 130&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T15:13:30Z&lt;br/&gt;Tags: meta&lt;br/&gt;Description: It feels good to finally be writing this.  I&apos;ve been working part-time behind the scenes at DEV for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4207770</id>
     <title>The Dirty Secret Behind AI Agents (Demo 🚀)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d"/>
@@ -180,13 +187,6 @@
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh"/>
     <updated>2026-06-30T20:35:24+00:00</updated>
     <summary type="html">Reactions: public 129 / positive 129&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T19:15:56Z&lt;br/&gt;Tags: discuss, ai, developers, softwareengineering&lt;br/&gt;Description: TL;DR  Anthropic recently published When AI Builds Itself, an essay explaining how AI is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4323325</id>
-    <title>Hey all! I’m Jem, the DEV Community Program Coordinator</title>
-    <link rel="alternate" href="https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2"/>
-    <updated>2026-08-10T17:43:59+00:00</updated>
-    <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T15:13:30Z&lt;br/&gt;Tags: meta&lt;br/&gt;Description: It feels good to finally be writing this.  I&apos;ve been working part-time behind the scenes at DEV for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4170828</id>
@@ -684,13 +684,6 @@
     <link rel="alternate" href="https://dev.to/dailycontext/from-harness-engineering-to-evals-4212"/>
     <updated>2026-07-01T18:05:41+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T14:34:35Z&lt;br/&gt;Tags: aie, ai, agents, security&lt;br/&gt;Description: I’m at the AI Engineer conference in San Francisco this week. The event has every major brand-name...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3661599</id>
-    <title>Your app can save someone from having a panic attack (a real-life story)</title>
-    <link rel="alternate" href="https://dev.to/klaudiagrz/your-app-can-save-someone-from-having-a-panic-attack-a-real-life-story-2jdp"/>
-    <updated>2026-06-07T18:18:18+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/klaudiagrz&quot;&gt;Klaudia Grzondziel&lt;/a&gt;&lt;br/&gt;Published: 2026-06-07T18:18:18Z&lt;br/&gt;Tags: mentalhealth, ux, webdev, a11y&lt;br/&gt;Description: As I&apos;m observing engineers, I notice that most of them share the same characteristic: unending loads...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4271466</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo"/>
     <updated>2026-07-15T12:04:25+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T12:04:25Z&lt;br/&gt;Tags: showdev, typescript, dsa, react&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer currently fighting the intense European heatwave by...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4033346</id>
+    <title>Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?</title>
+    <link rel="alternate" href="https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb"/>
+    <updated>2026-06-30T18:00:38+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T17:59:18Z&lt;br/&gt;Tags: ai, webdev, productivity, programming&lt;br/&gt;Description: Introduction   I keep hearing the term loop engineering. It&apos;s all over my feed, every AI...</summary>
   </entry>
 </feed>
