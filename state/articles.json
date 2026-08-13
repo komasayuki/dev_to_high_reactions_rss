@@ -6251,7 +6251,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4271466",
@@ -6849,14 +6849,14 @@
       "published_timestamp": "2026-08-10T15:13:30Z",
       "published_at": "2026-08-10T15:13:30Z",
       "edited_at": "2026-08-10T17:43:59Z",
-      "public_reactions_count": 115,
-      "positive_reactions_count": 115,
+      "public_reactions_count": 116,
+      "positive_reactions_count": 116,
       "tag_list": [
         "meta"
       ],
       "user_name": "Jem",
       "user_username": "heyitsjem",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4323385",
@@ -6919,7 +6919,29 @@
       ],
       "user_name": "Ashley Childress",
       "user_username": "anchildress1",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
+    },
+    {
+      "key": "4333926",
+      "id": 4333926,
+      "canonical_url": "https://dev.to/aws-builders/i-spent-a-day-with-kiro-crew-heres-what-it-actually-does-fk0",
+      "url": "https://dev.to/aws-builders/i-spent-a-day-with-kiro-crew-heres-what-it-actually-does-fk0",
+      "title": "I Spent a Day With Kiro Crew. Here's What It Actually Does.",
+      "description": "4-minute demo: AI agent investigates a P1 latency spike, sets up prevention automation, and documents tribal knowledge. Cost: $0.04 per incident.",
+      "published_timestamp": "2026-08-06T16:18:31Z",
+      "published_at": "2026-08-06T16:18:31Z",
+      "edited_at": "2026-08-08T17:16:41Z",
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
+      "tag_list": [
+        "agents",
+        "ai",
+        "showdev",
+        "discuss"
+      ],
+      "user_name": "Sarvar Nadaf",
+      "user_username": "sarvar_04",
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4334370",
@@ -6941,7 +6963,7 @@
       ],
       "user_name": "Mike",
       "user_username": "minhlong2605",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4342741",
@@ -6963,7 +6985,7 @@
       ],
       "user_name": "christine",
       "user_username": "cseeman",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4344653",
@@ -6985,7 +7007,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4349477",
@@ -6997,8 +7019,8 @@
       "published_timestamp": "2026-08-08T17:16:03Z",
       "published_at": "2026-08-08T17:16:03Z",
       "edited_at": null,
-      "public_reactions_count": 44,
-      "positive_reactions_count": 44,
+      "public_reactions_count": 45,
+      "positive_reactions_count": 45,
       "tag_list": [
         "frontendchallenge",
         "devchallenge",
@@ -7006,7 +7028,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4349779",
@@ -7018,8 +7040,8 @@
       "published_timestamp": "2026-08-08T17:30:42Z",
       "published_at": "2026-08-08T17:30:42Z",
       "edited_at": null,
-      "public_reactions_count": 44,
-      "positive_reactions_count": 44,
+      "public_reactions_count": 45,
+      "positive_reactions_count": 45,
       "tag_list": [
         "ai",
         "webdev",
@@ -7028,7 +7050,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4350779",
@@ -7072,7 +7094,7 @@
       ],
       "user_name": "Parsa Jiravand",
       "user_username": "parsajiravand",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4353204",
@@ -7084,15 +7106,15 @@
       "published_timestamp": "2026-08-09T19:42:53Z",
       "published_at": "2026-08-09T19:42:53Z",
       "edited_at": null,
-      "public_reactions_count": 56,
-      "positive_reactions_count": 56,
+      "public_reactions_count": 57,
+      "positive_reactions_count": 57,
       "tag_list": [
         "devchallenge",
         "bugsmash"
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4359412",
@@ -7114,7 +7136,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4360523",
@@ -7126,8 +7148,8 @@
       "published_timestamp": "2026-08-11T06:50:28Z",
       "published_at": "2026-08-11T06:50:28Z",
       "edited_at": "2026-08-11T07:20:29Z",
-      "public_reactions_count": 53,
-      "positive_reactions_count": 53,
+      "public_reactions_count": 54,
+      "positive_reactions_count": 54,
       "tag_list": [
         "programming",
         "webdev",
@@ -7136,7 +7158,7 @@
       ],
       "user_name": "Athulya R",
       "user_username": "athulya_r",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4360969",
@@ -7158,7 +7180,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4361150",
@@ -7202,7 +7224,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4361820",
@@ -7214,8 +7236,8 @@
       "published_timestamp": "2026-08-10T14:50:38Z",
       "published_at": "2026-08-10T14:50:38Z",
       "edited_at": null,
-      "public_reactions_count": 31,
-      "positive_reactions_count": 31,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
       "tag_list": [
         "devchallenge",
         "frontendchallenge",
@@ -7224,7 +7246,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4362781",
@@ -7246,7 +7268,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     },
     {
       "key": "4369791",
@@ -7268,7 +7290,7 @@
       ],
       "user_name": "Shrijal Acharya",
       "user_username": "shricodev",
-      "last_seen": "2026-08-13T02:40:47.137100873+00:00"
+      "last_seen": "2026-08-13T05:00:39.558567372+00:00"
     }
   ]
 }
