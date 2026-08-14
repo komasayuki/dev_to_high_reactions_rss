@@ -336,18 +336,18 @@
     <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-06-24T13:59:18Z&lt;br/&gt;Tags: writing, community, discuss, learning&lt;br/&gt;Description: When I joined DEV, I had a very simple goal.  Learn in public. Maybe improve as a developer....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4353204</id>
+    <title>Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"/>
+    <updated>2026-08-09T19:42:53+00:00</updated>
+    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T19:42:53Z&lt;br/&gt;Tags: devchallenge, bugsmash&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4292612</id>
     <title>We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"/>
     <updated>2026-08-05T05:03:23+00:00</updated>
     <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-08-03T15:34:05Z&lt;br/&gt;Tags: discuss, security, agents, programming&lt;br/&gt;Description: 📌 TL;DR  AI agents are becoming useful because we&apos;re giving them the ability to do more than just...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4353204</id>
-    <title>Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor</title>
-    <link rel="alternate" href="https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd"/>
-    <updated>2026-08-09T19:42:53+00:00</updated>
-    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T19:42:53Z&lt;br/&gt;Tags: devchallenge, bugsmash&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4120243</id>
@@ -721,6 +721,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thuangf45&quot;&gt;Thuangf45&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T06:15:15Z&lt;br/&gt;Tags: javascript, webdev, showdev, architecture&lt;br/&gt;Description: Here is a question that sounds simple until you&apos;ve actually shipped a UI: how many files does it take...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4372605</id>
+    <title>The End of Undetectable AI Text? Claude’s New Watermark Explained</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2"/>
+    <updated>2026-08-11T22:33:57+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T22:33:57Z&lt;br/&gt;Tags: ai, llm, news&lt;br/&gt;Description: For the past few hours, the whole world,&amp;nbsp; or at least my LinkedIn feed,&amp;nbsp;has been talking...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4235251</id>
     <title>18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0"/>
@@ -1036,6 +1043,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T13:16:48Z&lt;br/&gt;Tags: typescript, opensource, webdev, frontend&lt;br/&gt;Description: Hoi hoi!  I&apos;m @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4352204</id>
+    <title>Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.</title>
+    <link rel="alternate" href="https://bestpractic.org/blog/broadcast-channel-cross-tab-messaging"/>
+    <updated>2026-08-12T18:31:33+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/parsajiravand&quot;&gt;Parsa Jiravand&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T07:02:41Z&lt;br/&gt;Tags: javascript, webdev, frontend, api&lt;br/&gt;Description: When a user logs out in one tab, the other tabs should follow. When they update their cart, every...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4167260</id>
     <title>Stratagems #17: Alex Set an AI Bait. The Catch Wasn&apos;t Code — It Was Someone Who Shouldn&apos;t Have Been Watching.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"/>
@@ -1232,13 +1246,6 @@
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-15T14:44:53Z&lt;br/&gt;Tags: ai, webdev, productivity, buildinpublic&lt;br/&gt;Description: After posting several articles about the impact of AI on developers and sharing resources to help...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4352204</id>
-    <title>Stop using the localStorage hack to sync browser tabs. BroadcastChannel does it natively.</title>
-    <link rel="alternate" href="https://bestpractic.org/blog/broadcast-channel-cross-tab-messaging"/>
-    <updated>2026-08-12T18:31:33+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/parsajiravand&quot;&gt;Parsa Jiravand&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T07:02:41Z&lt;br/&gt;Tags: javascript, webdev, frontend, api&lt;br/&gt;Description: When a user logs out in one tab, the other tabs should follow. When they update their cart, every...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4349779</id>
     <title>Teaching Your AI Web Design Some Actual Taste</title>
     <link rel="alternate" href="https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd"/>
     <updated>2026-06-19T21:02:20+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T21:02:20Z&lt;br/&gt;Tags: ai, programming, beginners, career&lt;br/&gt;Description: Internmaxxing   Somebody on your timeline this week called intern code &quot;API slop.&quot;...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3922930</id>
-    <title>How I use premortems with Claude and Codex</title>
-    <link rel="alternate" href="https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"/>
-    <updated>2026-06-18T05:08:59+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pablonax&quot;&gt;Pavel Kalo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T10:19:30Z&lt;br/&gt;Tags: ai, claude, llm, tooling&lt;br/&gt;Description: I started using premortems for a boring reason: I did not trust the default review question.  When I...</summary>
   </entry>
 </feed>
