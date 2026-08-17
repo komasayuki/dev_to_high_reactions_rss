@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-15T13:06:49+00:00</updated>
+  <updated>2026-08-16T13:31:22+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -98,13 +98,6 @@
     <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T15:13:30Z&lt;br/&gt;Tags: meta&lt;br/&gt;Description: It feels good to finally be writing this.  I&apos;ve been working part-time behind the scenes at DEV for...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3875595</id>
-    <title>Congrats to the Google I/O 2026 Writing Challenge Winners!</title>
-    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364"/>
-    <updated>2026-06-11T15:57:26+00:00</updated>
-    <summary type="html">Reactions: public 155 / positive 155&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-06-11T15:38:46Z&lt;br/&gt;Tags: devchallenge, googleiochallenge&lt;br/&gt;Description: We are so excited to announce the winners of the Google I/O 2026 Writing Challenge!  We asked you to...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4144123</id>
     <title>8 Things Developers Confidently Explain After Watching One YouTube Video</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio"/>
@@ -165,7 +158,7 @@
     <title>The End of Undetectable AI Text? Claude’s New Watermark Explained</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2"/>
     <updated>2026-08-11T22:33:57+00:00</updated>
-    <summary type="html">Reactions: public 136 / positive 136&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T22:33:57Z&lt;br/&gt;Tags: ai, llm, news&lt;br/&gt;Description: For the past few hours, the whole world,&amp;nbsp; or at least my LinkedIn feed,&amp;nbsp;has been talking...</summary>
+    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T22:33:57Z&lt;br/&gt;Tags: ai, llm, news&lt;br/&gt;Description: For the past few hours, the whole world,&amp;nbsp; or at least my LinkedIn feed,&amp;nbsp;has been talking...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4344653</id>
@@ -273,18 +266,18 @@
     <summary type="html">Reactions: public 100 / positive 100&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-13T20:23:31Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, showdev, discuss&lt;br/&gt;Description: This is a submission for Weekend Challenge: Passion Edition   📌 TL;DR  I found this challenge on the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4379248</id>
+    <title>I Built a Notebook for Sharing Notes That Doesn&apos;t Ask You to Sign Up First</title>
+    <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd"/>
+    <updated>2026-08-12T15:53:06+00:00</updated>
+    <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T15:53:06Z&lt;br/&gt;Tags: ai, webdev, programming, productivity&lt;br/&gt;Description: Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4163024</id>
     <title>O que são essas letrinhas: ACID</title>
     <link rel="alternate" href="https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e"/>
     <updated>2026-07-17T22:50:19+00:00</updated>
     <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/luisnadachi&quot;&gt;Nadachi&lt;/a&gt;&lt;br/&gt;Published: 2026-07-17T17:33:10Z&lt;br/&gt;Tags: database, tutorial, sql, learning&lt;br/&gt;Description: Nesses últimos tempos, estou tentando entender muito mais como funciona, quando usar ou o porquê de...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4379248</id>
-    <title>I Built a Notebook for Sharing Notes That Doesn&apos;t Ask You to Sign Up First</title>
-    <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd"/>
-    <updated>2026-08-12T15:53:06+00:00</updated>
-    <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T15:53:06Z&lt;br/&gt;Tags: ai, webdev, programming, productivity&lt;br/&gt;Description: Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3934585</id>
@@ -476,6 +469,13 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T15:12:49Z&lt;br/&gt;Tags: go, architecture, programming, interview&lt;br/&gt;Description: A Go interview is rarely about syntax alone.  Yes, you should know how slices work, how goroutines...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4385699</id>
+    <title>24 Cups, 36 Seats — The Bartender&apos;s Ledger</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj"/>
+    <updated>2026-08-13T08:04:00+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-13T07:58:42Z&lt;br/&gt;Tags: career, discuss, ai, programming&lt;br/&gt;Description: 24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4114550</id>
     <title>Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon</title>
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12"/>
@@ -502,13 +502,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm"/>
     <updated>2026-07-24T08:02:58+00:00</updated>
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T08:02:58Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: We&apos;ve been testing a new project this week.  The project&apos;s origin story is a mess. Upper management...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4385699</id>
-    <title>24 Cups, 36 Seats — The Bartender&apos;s Ledger</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj"/>
-    <updated>2026-08-13T08:04:00+00:00</updated>
-    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-13T07:58:42Z&lt;br/&gt;Tags: career, discuss, ai, programming&lt;br/&gt;Description: 24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4224572</id>
@@ -700,6 +693,13 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thuangf45&quot;&gt;Thuangf45&lt;/a&gt;&lt;br/&gt;Published: 2026-07-10T06:15:15Z&lt;br/&gt;Tags: javascript, webdev, showdev, architecture&lt;br/&gt;Description: Here is a question that sounds simple until you&apos;ve actually shipped a UI: how many files does it take...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4372189</id>
+    <title>The Next Evolution of Software Developers</title>
+    <link rel="alternate" href="https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh"/>
+    <updated>2026-08-12T14:39:40+00:00</updated>
+    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/robertobutti&quot;&gt;Roberto B.&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T14:36:41Z&lt;br/&gt;Tags: ai, learning, mentorship, software&lt;br/&gt;Description: The next evolution of software developers: from implementation to intent, orchestration, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4235251</id>
     <title>18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0"/>
@@ -712,13 +712,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-15-derek-and-alex-shared-one-server-acls-ai-was-listening-to-both-2j73"/>
     <updated>2026-07-16T00:22:34+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-16T00:22:34Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: When the enemy occupies favorable terrain, don&apos;t attack head-on. Use a decoy to lure the tiger down...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4372189</id>
-    <title>The Next Evolution of Software Developers</title>
-    <link rel="alternate" href="https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh"/>
-    <updated>2026-08-12T14:39:40+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/robertobutti&quot;&gt;Roberto B.&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T14:36:41Z&lt;br/&gt;Tags: ai, learning, mentorship, software&lt;br/&gt;Description: The next evolution of software developers: from implementation to intent, orchestration, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4352154</id>
@@ -1253,6 +1246,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T04:25:10Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: To dispose of an enemy, make use of another enemy. Use a second party to deliver the blow yourself....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4403713</id>
+    <title>The &quot;AI&quot; Badge Doesn&apos;t Measure What You Think It Does</title>
+    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9"/>
+    <updated>2026-08-15T13:06:49+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-08-15T13:06:49Z&lt;br/&gt;Tags: ai, llm, writing, discuss&lt;br/&gt;Description: Anthropic signed the EU AI Act&apos;s Code of Practice on Transparency of AI-Generated Content, and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4030159</id>
     <title>I Stopped Comparing Myself to AI. It Changed Everything.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb"/>
@@ -1272,13 +1272,6 @@
     <link rel="alternate" href="https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3"/>
     <updated>2026-06-21T20:40:36+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-06-21T20:40:36Z&lt;br/&gt;Tags: devchallenge, gamechallenge, gamedev, discuss&lt;br/&gt;Description: My submission for the June Solstice Game Jam: A 3D endless runner where you chase the sun with React Three Fiber and the Gemini API.</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4403713</id>
-    <title>The &quot;AI&quot; Badge Doesn&apos;t Measure What You Think It Does</title>
-    <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9"/>
-    <updated>2026-08-15T13:06:49+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-08-15T13:06:49Z&lt;br/&gt;Tags: ai, llm, writing, discuss&lt;br/&gt;Description: Anthropic signed the EU AI Act&apos;s Code of Practice on Transparency of AI-Generated Content, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4108939</id>
@@ -1391,6 +1384,13 @@
     <link rel="alternate" href="https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"/>
     <updated>2026-06-18T05:08:59+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pablonax&quot;&gt;Pavel Kalo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T10:19:30Z&lt;br/&gt;Tags: ai, claude, llm, tooling&lt;br/&gt;Description: I started using premortems for a boring reason: I did not trust the default review question.  When I...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4410317</id>
+    <title>Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸</title>
+    <link rel="alternate" href="https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"/>
+    <updated>2026-08-16T13:31:22+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gamya_m&quot;&gt;Gamya &lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T13:31:22Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, webdev, javascript&lt;br/&gt;Description: This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4288794</id>
