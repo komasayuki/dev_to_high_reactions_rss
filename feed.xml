@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-20T19:52:14+00:00</updated>
+  <updated>2026-08-21T10:18:48+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -200,7 +200,7 @@
     <title>7 Productivity Tips That Sound Wrong (But Actually Work)</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602"/>
     <updated>2026-08-18T08:32:32+00:00</updated>
-    <summary type="html">Reactions: public 122 / positive 122&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T08:32:32Z&lt;br/&gt;Tags: productivity, mentalhealth, career&lt;br/&gt;Description: Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...</summary>
+    <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T08:32:32Z&lt;br/&gt;Tags: productivity, mentalhealth, career&lt;br/&gt;Description: Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4024781</id>
@@ -283,7 +283,7 @@
     <id>tag:dev.to,2026:4403713</id>
     <title>The &quot;AI&quot; Badge Doesn&apos;t Measure What You Think It Does</title>
     <link rel="alternate" href="https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9"/>
-    <updated>2026-08-15T13:06:49+00:00</updated>
+    <updated>2026-08-21T10:18:48+00:00</updated>
     <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-08-15T13:06:49Z&lt;br/&gt;Tags: ai, llm, writing, discuss&lt;br/&gt;Description: Anthropic signed the EU AI Act&apos;s Code of Practice on Transparency of AI-Generated Content, and...</summary>
   </entry>
   <entry>
@@ -532,6 +532,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T08:02:58Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: We&apos;ve been testing a new project this week.  The project&apos;s origin story is a mess. Upper management...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4410317</id>
+    <title>Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸</title>
+    <link rel="alternate" href="https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"/>
+    <updated>2026-08-16T13:31:22+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gamya_m&quot;&gt;Gamya &lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T13:31:22Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, webdev, javascript&lt;br/&gt;Description: This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4224572</id>
     <title>Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus Leaders &amp; More</title>
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-9-a-fully-funded-ai-security-residency-sf-founder-residency-figma-campus-1j88"/>
@@ -544,13 +551,6 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1"/>
     <updated>2026-07-07T10:33:25+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T10:33:25Z&lt;br/&gt;Tags: ai, beginners, productivity, career&lt;br/&gt;Description: I didn&apos;t go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4410317</id>
-    <title>Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸</title>
-    <link rel="alternate" href="https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8"/>
-    <updated>2026-08-16T13:31:22+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gamya_m&quot;&gt;Gamya &lt;/a&gt;&lt;br/&gt;Published: 2026-08-16T13:31:22Z&lt;br/&gt;Tags: devchallenge, frontendchallenge, webdev, javascript&lt;br/&gt;Description: This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4000790</id>
