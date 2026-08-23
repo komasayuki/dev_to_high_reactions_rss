@@ -231,13 +231,6 @@
     <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T15:53:06Z&lt;br/&gt;Tags: ai, webdev, programming, productivity&lt;br/&gt;Description: Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3806099</id>
-    <title>Welcome Thread - v380</title>
-    <link rel="alternate" href="https://dev.to/devteam/welcome-thread-v380-oi4"/>
-    <updated>2026-06-17T04:00:00+00:00</updated>
-    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sloan&quot;&gt;Sloan the DEV Moderator&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T04:00:00Z&lt;br/&gt;Tags: welcome&lt;br/&gt;Description: Leave a comment below to introduce yourself! You can talk about what brought you here, what you&apos;re...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4081125</id>
     <title>Your Career Matters. So Does the Person Building It.</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle"/>
@@ -728,6 +721,13 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-16T00:22:34Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: When the enemy occupies favorable terrain, don&apos;t attack head-on. Use a decoy to lure the tiger down...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4435427</id>
+    <title>Greatness Is Forged by Limitation</title>
+    <link rel="alternate" href="https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"/>
+    <updated>2026-08-19T13:10:38+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T13:04:47Z&lt;br/&gt;Tags: ai, programming, webdev, career&lt;br/&gt;Description: Can&apos;t believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4361704</id>
     <title>You Don&apos;t Have an AI Problem You Have a Thinking Problem.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07"/>
@@ -754,13 +754,6 @@
     <link rel="alternate" href="https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b"/>
     <updated>2026-06-28T10:03:01+00:00</updated>
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/embernoglow&quot;&gt;EmberNoGlow&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T09:04:04Z&lt;br/&gt;Tags: discuss, ai, learning, productivity&lt;br/&gt;Description: Hi everyone, I&apos;ve been rarely posting on dev, or even being active at all. I&apos;ve started thinking...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4435427</id>
-    <title>Greatness Is Forged by Limitation</title>
-    <link rel="alternate" href="https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"/>
-    <updated>2026-08-19T13:10:38+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T13:04:47Z&lt;br/&gt;Tags: ai, programming, webdev, career&lt;br/&gt;Description: Can&apos;t believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4293044</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo"/>
     <updated>2026-07-27T16:34:19+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/madsendev&quot;&gt;Christoffer Madsen&lt;/a&gt;&lt;br/&gt;Published: 2026-07-26T20:53:41Z&lt;br/&gt;Tags: ai, opensource, programming, discuss&lt;br/&gt;Description: I recently tried to share an open-source project I&apos;ve been working on called Open Vectorizer.  It&apos;s a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4190061</id>
+    <title>4 Silent Failures, 2 Undocumented APIs, and a Container That Crashed Because of a Missing User Directive</title>
+    <link rel="alternate" href="https://dev.to/sarvar_04/4-silent-failures-2-undocumented-apis-and-a-container-that-crashed-because-of-a-missing-user-1b9n"/>
+    <updated>2026-07-20T18:20:15+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-07-20T18:20:15Z&lt;br/&gt;Tags: devchallenge, bugsmash, ai, aws&lt;br/&gt;Description: What happened when I tried to deploy a CrewAI agent to AWS Bedrock AgentCore. Every error was a 200 OK. Every fix took hours to find. Here&apos;s the full debugging trail.</summary>
   </entry>
 </feed>
