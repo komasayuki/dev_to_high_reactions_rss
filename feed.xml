@@ -1372,13 +1372,6 @@
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T21:02:20Z&lt;br/&gt;Tags: ai, programming, beginners, career&lt;br/&gt;Description: Internmaxxing   Somebody on your timeline this week called intern code &quot;API slop.&quot;...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3922930</id>
-    <title>How I use premortems with Claude and Codex</title>
-    <link rel="alternate" href="https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"/>
-    <updated>2026-06-18T05:08:59+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pablonax&quot;&gt;Pavel Kalo&lt;/a&gt;&lt;br/&gt;Published: 2026-06-17T10:19:30Z&lt;br/&gt;Tags: ai, claude, llm, tooling&lt;br/&gt;Description: I started using premortems for a boring reason: I did not trust the default review question.  When I...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4288794</id>
     <title>How I Contributed to a Laravel Application Without Knowing Laravel</title>
     <link rel="alternate" href="https://dev.to/devengers/how-i-contributed-to-a-laravel-application-without-knowing-laravel-1dkl"/>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb"/>
     <updated>2026-07-05T17:32:39+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T17:32:39Z&lt;br/&gt;Tags: webdev, learning, career, discuss&lt;br/&gt;Description: We have all been there. You walk into a room full of tech enthusiasts, the ambient noise is humming...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:3982143</id>
+    <title>Build a Minimal WebMCP Agent with Playwright and Gemini</title>
+    <link rel="alternate" href="https://dev.to/gramli/build-a-minimal-webmcp-agent-with-playwright-and-gemini-24fh"/>
+    <updated>2026-07-01T06:58:36+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T06:58:36Z&lt;br/&gt;Tags: ai, agents, tutorial, webdev&lt;br/&gt;Description: WebMCP lets a web page expose tools that AI agents can discover and execute inside the browser. That...</summary>
   </entry>
 </feed>
