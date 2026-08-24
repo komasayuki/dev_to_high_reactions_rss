@@ -153,27 +153,6 @@
       "last_seen": "2026-06-25T09:18:57.254808099+00:00"
     },
     {
-      "key": "3929764",
-      "id": 3929764,
-      "canonical_url": "https://dev.to/aws/building-a-world-cup-bracket-picker-with-aws-blocks-1k8",
-      "url": "https://dev.to/aws/building-a-world-cup-bracket-picker-with-aws-blocks-1k8",
-      "title": "Building a World Cup Bracket Picker with AWS Blocks",
-      "description": "AWS just launched AWS Blocks, an open-source TypeScript framework that gives you backend capabilities...",
-      "published_timestamp": "2026-06-18T07:28:45Z",
-      "published_at": "2026-06-18T07:28:45Z",
-      "edited_at": "2026-06-18T13:26:54Z",
-      "public_reactions_count": 39,
-      "positive_reactions_count": 39,
-      "tag_list": [
-        "aws",
-        "fullstack",
-        "blocks"
-      ],
-      "user_name": "Salih Guler ",
-      "user_username": "salihgueler",
-      "last_seen": "2026-06-25T07:28:06.805271734+00:00"
-    },
-    {
       "key": "3933967",
       "id": 3933967,
       "canonical_url": "https://dev.to/shannonianthe/codewars-did-not-teach-me-javascript-my-job-did-379k",
@@ -6419,7 +6398,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4385107",
@@ -6636,7 +6615,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4410317",
@@ -6714,8 +6693,8 @@
       "published_timestamp": "2026-08-20T14:03:00Z",
       "published_at": "2026-08-20T14:03:00Z",
       "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "ai",
         "agents",
@@ -6724,7 +6703,7 @@
       ],
       "user_name": "Ken W Alger",
       "user_username": "kenwalger",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4424149",
@@ -6767,7 +6746,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4426816",
@@ -6789,7 +6768,7 @@
       ],
       "user_name": "Aryan Choudhary",
       "user_username": "itsugo",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4427144",
@@ -6814,6 +6793,28 @@
       "last_seen": "2026-08-19T17:36:32.811836965+00:00"
     },
     {
+      "key": "4434336",
+      "id": 4434336,
+      "canonical_url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "published_timestamp": "2026-08-19T11:08:16Z",
+      "published_at": "2026-08-19T11:08:16Z",
+      "edited_at": "2026-08-19T11:09:55Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "user_name": "marcosomma",
+      "user_username": "marcosomma",
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
+    },
+    {
       "key": "4435144",
       "id": 4435144,
       "canonical_url": "https://dev.to/shubhradev/i-turned-on-cache-components-in-nextjs-163-it-refused-to-build-my-simplest-page-3ak0",
@@ -6833,7 +6834,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4435427",
@@ -6845,8 +6846,8 @@
       "published_timestamp": "2026-08-19T13:04:47Z",
       "published_at": "2026-08-19T13:04:47Z",
       "edited_at": "2026-08-19T13:10:38Z",
-      "public_reactions_count": 71,
-      "positive_reactions_count": 71,
+      "public_reactions_count": 75,
+      "positive_reactions_count": 75,
       "tag_list": [
         "ai",
         "programming",
@@ -6855,7 +6856,7 @@
       ],
       "user_name": "Adam - The Developer ✨",
       "user_username": "adamthedeveloper",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4437094",
@@ -6889,8 +6890,8 @@
       "published_timestamp": "2026-08-20T00:43:48Z",
       "published_at": "2026-08-20T00:43:48Z",
       "edited_at": "2026-08-23T04:03:57Z",
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
       "tag_list": [
         "career",
         "devjournal",
@@ -6899,7 +6900,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4439037",
@@ -6921,7 +6922,7 @@
       ],
       "user_name": "vitoriazzp",
       "user_username": "vitoriazzp",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4443581",
@@ -6943,7 +6944,7 @@
       ],
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4454568",
@@ -6965,7 +6966,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4455641",
@@ -6987,7 +6988,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     },
     {
       "key": "4458421",
@@ -6999,8 +7000,8 @@
       "published_timestamp": "2026-08-22T05:19:16Z",
       "published_at": "2026-08-22T05:19:16Z",
       "edited_at": "2026-08-22T05:22:29Z",
-      "public_reactions_count": 41,
-      "positive_reactions_count": 41,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "devchallenge",
         "bugsmash",
@@ -7009,7 +7010,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-08-24T07:15:49.332609713+00:00"
+      "last_seen": "2026-08-24T09:00:04.926899241+00:00"
     }
   ]
 }
