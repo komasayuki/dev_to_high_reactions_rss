@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-22T05:22:29+00:00</updated>
+  <updated>2026-08-24T16:50:39+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -1351,6 +1351,13 @@
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jon_at_backboardio&quot;&gt;Jonathan Murray&lt;/a&gt;&lt;br/&gt;Published: 2026-06-19T21:02:20Z&lt;br/&gt;Tags: ai, programming, beginners, career&lt;br/&gt;Description: Internmaxxing   Somebody on your timeline this week called intern code &quot;API slop.&quot;...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4433940</id>
+    <title>I Used React DataGrid to Build a Real Space Mission Explorer</title>
+    <link rel="alternate" href="https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b"/>
+    <updated>2026-08-24T16:50:39+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T09:09:25Z&lt;br/&gt;Tags: webdev, programming, react, nextjs&lt;br/&gt;Description: I went through the documentation and feature list of React DataGrid, and I wrote React DataGrid: A...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4288794</id>
     <title>How I Contributed to a Laravel Application Without Knowing Laravel</title>
     <link rel="alternate" href="https://dev.to/devengers/how-i-contributed-to-a-laravel-application-without-knowing-laravel-1dkl"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-14-leo-found-an-ai-leak-he-wasnt-the-first-to-find-it-jd6"/>
     <updated>2026-07-15T00:40:43+00:00</updated>
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-15T00:40:43Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Take the opportunity to pilfer a goat. — The 36 Stratagems, Take the Opportunity to Pilfer a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4138281</id>
-    <title>Stop Saying You Want Ownership Mindset</title>
-    <link rel="alternate" href="https://dev.to/adamthedeveloper/stop-saying-you-want-ownership-mindset-34nf"/>
-    <updated>2026-07-14T05:59:52+00:00</updated>
-    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-07-14T05:59:52Z&lt;br/&gt;Tags: productivity, programming, architecture, software&lt;br/&gt;Description: My 2nd article this week, I&apos;m supposed to keep it to just once per week but whateverrr, I&apos;ve had this...</summary>
   </entry>
 </feed>
