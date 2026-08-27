@@ -196,28 +196,6 @@
       "last_seen": "2026-07-08T12:49:19.535302001+00:00"
     },
     {
-      "key": "3955460",
-      "id": 3955460,
-      "canonical_url": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
-      "url": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
-      "title": "15 AI Stories Later, Some Honest Words",
-      "description": "May 29 I wrote my first AI trainwreck story. June 18 I finished #15.  People keep asking if this was...",
-      "published_timestamp": "2026-06-21T13:21:56Z",
-      "published_at": "2026-06-21T13:21:56Z",
-      "edited_at": "2026-06-24T23:34:04Z",
-      "public_reactions_count": 53,
-      "positive_reactions_count": 53,
-      "tag_list": [
-        "ai",
-        "discuss",
-        "programming",
-        "career"
-      ],
-      "user_name": "xulingfeng",
-      "user_username": "xulingfeng",
-      "last_seen": "2026-06-28T12:42:26.443634684+00:00"
-    },
-    {
       "key": "3957571",
       "id": 3957571,
       "canonical_url": "https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3",
@@ -849,28 +827,6 @@
       "last_seen": "2026-07-06T13:59:25.611589337+00:00"
     },
     {
-      "key": "4006637",
-      "id": 4006637,
-      "canonical_url": "https://dev.to/nazar_boyko/inside-an-ai-agent-planning-tool-use-memory-constraints-and-verification-2fcc",
-      "url": "https://dev.to/nazar_boyko/inside-an-ai-agent-planning-tool-use-memory-constraints-and-verification-2fcc",
-      "title": "Inside An AI Agent: Planning, Tool Use, Memory, Constraints, And Verification",
-      "description": "Have you noticed how every demo of \"an AI agent\" looks impressive in the video and falls apart the...",
-      "published_timestamp": "2026-06-27T21:50:51Z",
-      "published_at": "2026-06-27T21:50:51Z",
-      "edited_at": null,
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
-      "tag_list": [
-        "ai",
-        "agents",
-        "planning",
-        "tools"
-      ],
-      "user_name": "Nazar Boyko",
-      "user_username": "nazar_boyko",
-      "last_seen": "2026-06-28T16:36:54.663929597+00:00"
-    },
-    {
       "key": "4007287",
       "id": 4007287,
       "canonical_url": "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
@@ -1142,8 +1098,8 @@
       "published_timestamp": "2026-08-24T12:31:27Z",
       "published_at": "2026-08-24T12:31:27Z",
       "edited_at": null,
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
       "tag_list": [
         "ai",
         "agents",
@@ -1152,7 +1108,7 @@
       ],
       "user_name": "Anannya Roy Chowdhury",
       "user_username": "royanannya",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4020665",
@@ -4991,7 +4947,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4271466",
@@ -6648,8 +6604,8 @@
       "published_timestamp": "2026-08-24T09:09:25Z",
       "published_at": "2026-08-24T09:09:25Z",
       "edited_at": "2026-08-24T16:50:39Z",
-      "public_reactions_count": 78,
-      "positive_reactions_count": 78,
+      "public_reactions_count": 79,
+      "positive_reactions_count": 79,
       "tag_list": [
         "webdev",
         "programming",
@@ -6658,7 +6614,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4434336",
@@ -6899,7 +6855,7 @@
       ],
       "user_name": "Debashish Ghosal",
       "user_username": "debashish_ghosal",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4448969",
@@ -6921,7 +6877,29 @@
       ],
       "user_name": "Debashish Ghosal",
       "user_username": "debashish_ghosal",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
+    },
+    {
+      "key": "4452425",
+      "id": 4452425,
+      "canonical_url": "https://www.aimadetools.com/blog/i-let-ai-agents-run-saas-like-startup-team/",
+      "url": "https://dev.to/ai_made_tools/i-let-an-ai-agent-run-a-saas-like-a-solo-founder-it-made-the-same-mistakes-humans-make-3b6l",
+      "title": "I Let an AI Agent Run a SaaS Like a Solo Founder. It Made the Same Mistakes Humans Make.",
+      "description": "I expected the audit to find broken code. That's what I was bracing for going in — a pile of...",
+      "published_timestamp": "2026-08-21T09:40:47Z",
+      "published_at": "2026-08-21T09:40:47Z",
+      "edited_at": "2026-08-21T09:41:26Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "aiagents",
+        "aicoding",
+        "casestudy",
+        "productmanagement"
+      ],
+      "user_name": "Joske Vermeulen",
+      "user_username": "ai_made_tools",
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4454568",
@@ -6943,7 +6921,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4455641",
@@ -6965,7 +6943,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4457024",
@@ -6985,7 +6963,29 @@
       ],
       "user_name": "Alexandra",
       "user_username": "ale3oula",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
+    },
+    {
+      "key": "4458012",
+      "id": 4458012,
+      "canonical_url": "https://dev.to/nazar-boyko/your-mcpjson-is-a-backdoor-nobody-reviewed-56b2",
+      "url": "https://dev.to/nazar-boyko/your-mcpjson-is-a-backdoor-nobody-reviewed-56b2",
+      "title": "Your .mcp.json Is a Backdoor Nobody Reviewed",
+      "description": "Everyone has probably tried adding an MCP server and knows that it only takes a few lines of JSON....",
+      "published_timestamp": "2026-08-22T04:37:52Z",
+      "published_at": "2026-08-22T04:37:52Z",
+      "edited_at": null,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
+      "tag_list": [
+        "ai",
+        "mcp",
+        "security",
+        "architecture"
+      ],
+      "user_name": "Nazar Boyko",
+      "user_username": "nazar-boyko",
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4458421",
@@ -7007,7 +7007,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4465798",
@@ -7018,9 +7018,9 @@
       "description": "Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...",
       "published_timestamp": "2026-08-26T14:18:19Z",
       "published_at": "2026-08-26T14:18:19Z",
-      "edited_at": "2026-08-27T09:31:36Z",
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
+      "edited_at": "2026-08-27T14:54:23Z",
+      "public_reactions_count": 48,
+      "positive_reactions_count": 48,
       "tag_list": [
         "typescript",
         "algorithms",
@@ -7029,7 +7029,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4471072",
@@ -7041,8 +7041,8 @@
       "published_timestamp": "2026-08-24T03:24:26Z",
       "published_at": "2026-08-24T03:24:26Z",
       "edited_at": null,
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
       "tag_list": [
         "ai",
         "llm",
@@ -7051,7 +7051,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4471245",
@@ -7073,7 +7073,7 @@
       ],
       "user_name": "Gabriel Abreu",
       "user_username": "gabbs279",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4471334",
@@ -7095,7 +7095,7 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4479046",
@@ -7107,8 +7107,8 @@
       "published_timestamp": "2026-08-24T23:23:06Z",
       "published_at": "2026-08-24T23:23:06Z",
       "edited_at": null,
-      "public_reactions_count": 44,
-      "positive_reactions_count": 44,
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
       "tag_list": [
         "ai",
         "productivity",
@@ -7117,7 +7117,7 @@
       ],
       "user_name": "Heinrich Neb",
       "user_username": "heinrichneb",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4479144",
@@ -7129,8 +7129,8 @@
       "published_timestamp": "2026-08-26T09:05:06Z",
       "published_at": "2026-08-26T09:05:06Z",
       "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
       "tag_list": [
         "ai",
         "design",
@@ -7139,7 +7139,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4485612",
@@ -7151,8 +7151,8 @@
       "published_timestamp": "2026-08-25T13:10:21Z",
       "published_at": "2026-08-25T13:10:21Z",
       "edited_at": null,
-      "public_reactions_count": 37,
-      "positive_reactions_count": 37,
+      "public_reactions_count": 39,
+      "positive_reactions_count": 39,
       "tag_list": [
         "mentalhealth",
         "career",
@@ -7161,7 +7161,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4485862",
@@ -7173,8 +7173,8 @@
       "published_timestamp": "2026-08-25T13:36:11Z",
       "published_at": "2026-08-25T13:36:11Z",
       "edited_at": null,
-      "public_reactions_count": 75,
-      "positive_reactions_count": 75,
+      "public_reactions_count": 86,
+      "positive_reactions_count": 86,
       "tag_list": [
         "discuss",
         "ai",
@@ -7183,7 +7183,7 @@
       ],
       "user_name": "Ashley Childress",
       "user_username": "anchildress1",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4488685",
@@ -7195,8 +7195,8 @@
       "published_timestamp": "2026-08-26T07:59:06Z",
       "published_at": "2026-08-26T07:59:06Z",
       "edited_at": null,
-      "public_reactions_count": 101,
-      "positive_reactions_count": 101,
+      "public_reactions_count": 121,
+      "positive_reactions_count": 121,
       "tag_list": [
         "git",
         "programming",
@@ -7205,7 +7205,29 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
+    },
+    {
+      "key": "4489060",
+      "id": 4489060,
+      "canonical_url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
+      "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
+      "title": "Velocidade de entrega e custo de manutenção pós IA",
+      "description": "Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...",
+      "published_timestamp": "2026-08-27T13:58:08Z",
+      "published_at": "2026-08-27T13:58:08Z",
+      "edited_at": null,
+      "public_reactions_count": 45,
+      "positive_reactions_count": 45,
+      "tag_list": [
+        "ai",
+        "braziliandevs",
+        "career",
+        "productivity"
+      ],
+      "user_name": "Elves Santos",
+      "user_username": "sirelves",
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4491917",
@@ -7217,8 +7239,8 @@
       "published_timestamp": "2026-08-26T08:00:04Z",
       "published_at": "2026-08-26T08:00:04Z",
       "edited_at": "2026-08-26T09:08:26Z",
-      "public_reactions_count": 58,
-      "positive_reactions_count": 58,
+      "public_reactions_count": 60,
+      "positive_reactions_count": 60,
       "tag_list": [
         "discuss",
         "career",
@@ -7227,7 +7249,29 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
+    },
+    {
+      "key": "4496280",
+      "id": 4496280,
+      "canonical_url": "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
+      "url": "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
+      "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.",
+      "description": "Keep the beams standing. Replace what they carry. — The 36 Stratagems, Replace the beams with rotten...",
+      "published_timestamp": "2026-08-27T07:19:37Z",
+      "published_at": "2026-08-27T07:19:37Z",
+      "edited_at": null,
+      "public_reactions_count": 39,
+      "positive_reactions_count": 39,
+      "tag_list": [
+        "discuss",
+        "ai",
+        "programming",
+        "career"
+      ],
+      "user_name": "xulingfeng",
+      "user_username": "xulingfeng",
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     },
     {
       "key": "4496859",
@@ -7249,7 +7293,29 @@
       ],
       "user_name": "Dusan Malusev",
       "user_username": "malusev998",
-      "last_seen": "2026-08-27T09:32:13.951073848+00:00"
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
+    },
+    {
+      "key": "4496903",
+      "id": 4496903,
+      "canonical_url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
+      "url": "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
+      "title": "NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code",
+      "description": "Your AI coding agent does exactly what you ask, which isn't always what you mean. NexPath catches vague prompts before they become bugs.",
+      "published_timestamp": "2026-08-27T13:21:53Z",
+      "published_at": "2026-08-27T13:21:53Z",
+      "edited_at": null,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
+      "tag_list": [
+        "ai",
+        "programming",
+        "showdev",
+        "discuss"
+      ],
+      "user_name": "Sarvar Nadaf",
+      "user_username": "sarvar_04",
+      "last_seen": "2026-08-27T20:21:30.767558119+00:00"
     }
   ]
 }
