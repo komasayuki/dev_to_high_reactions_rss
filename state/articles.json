@@ -196,71 +196,6 @@
       "last_seen": "2026-07-08T12:49:19.535302001+00:00"
     },
     {
-      "key": "3960748",
-      "id": 3960748,
-      "canonical_url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0",
-      "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0",
-      "title": "The Principle of Least AI",
-      "description": "Why AI Alternatives Matter   AI is prone to problems affecting its output: hallucinations,...",
-      "published_timestamp": "2026-06-22T09:47:15Z",
-      "published_at": "2026-06-22T09:47:15Z",
-      "edited_at": "2026-06-26T18:07:40Z",
-      "public_reactions_count": 79,
-      "positive_reactions_count": 79,
-      "tag_list": [
-        "ai",
-        "productivity",
-        "watercooler"
-      ],
-      "user_name": "Ingo Steinke, web developer",
-      "user_username": "ingosteinke",
-      "last_seen": "2026-06-29T08:06:11.231235805+00:00"
-    },
-    {
-      "key": "3963488",
-      "id": 3963488,
-      "canonical_url": "https://dev.to/hemapriya_kanagala/i-wish-i-had-started-documenting-my-tech-journey-earlier-5d7m",
-      "url": "https://dev.to/hemapriya_kanagala/i-wish-i-had-started-documenting-my-tech-journey-earlier-5d7m",
-      "title": "I Wish I Had Started Documenting My Tech Journey Earlier",
-      "description": "TL;DR  For a long time, I told myself I would start documenting my journey later. I thought I needed...",
-      "published_timestamp": "2026-06-22T14:56:08Z",
-      "published_at": "2026-06-22T14:56:08Z",
-      "edited_at": "2026-06-22T15:11:59Z",
-      "public_reactions_count": 218,
-      "positive_reactions_count": 218,
-      "tag_list": [
-        "community",
-        "beginners",
-        "discuss",
-        "career"
-      ],
-      "user_name": "Hemapriya Kanagala",
-      "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-06-29T13:44:56.009441730+00:00"
-    },
-    {
-      "key": "3963551",
-      "id": 3963551,
-      "canonical_url": "https://dev.to/he4rt/do-localhost-para-o-mundo-2o44",
-      "url": "https://dev.to/he4rt/do-localhost-para-o-mundo-2o44",
-      "title": "Do localhost para o mundo",
-      "description": "Por muito tempo eu acreditei que programação e desenvolvimento de software como sinônimos. Na...",
-      "published_timestamp": "2026-06-22T15:07:19Z",
-      "published_at": "2026-06-22T15:07:19Z",
-      "edited_at": "2026-06-25T01:37:04Z",
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
-      "tag_list": [
-        "braziliandevs",
-        "career",
-        "programming",
-        "softwaredevelopment"
-      ],
-      "user_name": "Bruno Freschi",
-      "user_username": "bruno_freschi",
-      "last_seen": "2026-06-29T13:44:56.009441730+00:00"
-    },
-    {
       "key": "3964664",
       "id": 3964664,
       "canonical_url": "https://dev.to/francistrdev/i-am-behind-and-i-cant-prove-it-but-does-it-matter-49a6",
@@ -1023,28 +958,6 @@
       "last_seen": "2026-07-07T05:03:41.265061510+00:00"
     },
     {
-      "key": "4018027",
-      "id": 4018027,
-      "canonical_url": "https://dev.to/flutwiz/5-open-source-alternatives-ive-been-using-lately-182l",
-      "url": "https://dev.to/flutwiz/5-open-source-alternatives-ive-been-using-lately-182l",
-      "title": "5 Open Source Alternatives I've Been Using Lately",
-      "description": "Like most developers, I have a set of tools I use every day. Most of them work great, and I don't...",
-      "published_timestamp": "2026-06-29T07:02:44Z",
-      "published_at": "2026-06-29T07:02:44Z",
-      "edited_at": null,
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
-      "tag_list": [
-        "opensource",
-        "ai",
-        "productivity",
-        "development"
-      ],
-      "user_name": "FlutWiz",
-      "user_username": "flutwiz",
-      "last_seen": "2026-06-29T13:44:56.009441730+00:00"
-    },
-    {
       "key": "4018033",
       "id": 4018033,
       "canonical_url": "https://dev.to/cristopherpds/modernizando-a-automacao-no-linux-por-que-e-como-migrar-do-cron-para-systemd-timers-1amf",
@@ -1086,7 +999,7 @@
       ],
       "user_name": "Anannya Roy Chowdhury",
       "user_username": "royanannya",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4020665",
@@ -6582,8 +6495,8 @@
       "published_timestamp": "2026-08-24T09:09:25Z",
       "published_at": "2026-08-24T09:09:25Z",
       "edited_at": "2026-08-24T16:50:39Z",
-      "public_reactions_count": 80,
-      "positive_reactions_count": 80,
+      "public_reactions_count": 86,
+      "positive_reactions_count": 86,
       "tag_list": [
         "webdev",
         "programming",
@@ -6592,7 +6505,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4434336",
@@ -6845,8 +6758,8 @@
       "published_timestamp": "2026-08-25T00:15:18Z",
       "published_at": "2026-08-25T00:15:18Z",
       "edited_at": "2026-08-25T00:28:09Z",
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
+      "public_reactions_count": 34,
+      "positive_reactions_count": 34,
       "tag_list": [
         "ai",
         "agents",
@@ -6855,7 +6768,7 @@
       ],
       "user_name": "Debashish Ghosal",
       "user_username": "debashish_ghosal",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4452425",
@@ -6941,7 +6854,7 @@
       ],
       "user_name": "Alexandra",
       "user_username": "ale3oula",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4458012",
@@ -6963,7 +6876,7 @@
       ],
       "user_name": "Nazar Boyko",
       "user_username": "nazar-boyko",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4458421",
@@ -6985,7 +6898,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4465798",
@@ -6997,8 +6910,8 @@
       "published_timestamp": "2026-08-26T14:18:19Z",
       "published_at": "2026-08-26T14:18:19Z",
       "edited_at": "2026-08-27T14:54:23Z",
-      "public_reactions_count": 47,
-      "positive_reactions_count": 47,
+      "public_reactions_count": 57,
+      "positive_reactions_count": 57,
       "tag_list": [
         "typescript",
         "algorithms",
@@ -7007,7 +6920,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4471072",
@@ -7019,8 +6932,8 @@
       "published_timestamp": "2026-08-24T03:24:26Z",
       "published_at": "2026-08-24T03:24:26Z",
       "edited_at": null,
-      "public_reactions_count": 35,
-      "positive_reactions_count": 35,
+      "public_reactions_count": 37,
+      "positive_reactions_count": 37,
       "tag_list": [
         "ai",
         "llm",
@@ -7029,7 +6942,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4471245",
@@ -7041,8 +6954,8 @@
       "published_timestamp": "2026-08-24T04:02:37Z",
       "published_at": "2026-08-24T04:02:37Z",
       "edited_at": null,
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
       "tag_list": [
         "ai",
         "productivity",
@@ -7051,7 +6964,7 @@
       ],
       "user_name": "Gabriel Abreu",
       "user_username": "gabbs279",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4471334",
@@ -7063,8 +6976,8 @@
       "published_timestamp": "2026-08-24T04:24:57Z",
       "published_at": "2026-08-24T04:24:57Z",
       "edited_at": "2026-08-24T19:46:48Z",
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
+      "public_reactions_count": 37,
+      "positive_reactions_count": 37,
       "tag_list": [
         "ai",
         "testing",
@@ -7073,7 +6986,29 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
+    },
+    {
+      "key": "4477238",
+      "id": 4477238,
+      "canonical_url": "https://dev.to/devstackcommunity/best-uiux-design-tools-i-keep-coming-back-to-as-a-designer-31fa",
+      "url": "https://dev.to/devstackcommunity/best-uiux-design-tools-i-keep-coming-back-to-as-a-designer-31fa",
+      "title": "Best UI/UX Design Tools I Keep Coming Back to as a Designer",
+      "description": "If you’re a designer, you’ve probably had the same problem I’ve had: there are dozens of UI/UX design...",
+      "published_timestamp": "2026-08-24T16:45:48Z",
+      "published_at": "2026-08-24T16:45:48Z",
+      "edited_at": "2026-08-24T17:10:19Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "uidesign",
+        "uxdesign",
+        "design",
+        "productivity"
+      ],
+      "user_name": "Dev Stack Hub",
+      "user_username": "devstackhub",
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4479046",
@@ -7085,8 +7020,8 @@
       "published_timestamp": "2026-08-24T23:23:06Z",
       "published_at": "2026-08-24T23:23:06Z",
       "edited_at": null,
-      "public_reactions_count": 52,
-      "positive_reactions_count": 52,
+      "public_reactions_count": 60,
+      "positive_reactions_count": 60,
       "tag_list": [
         "ai",
         "productivity",
@@ -7095,7 +7030,7 @@
       ],
       "user_name": "Heinrich Neb",
       "user_username": "heinrichneb",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4479144",
@@ -7107,8 +7042,8 @@
       "published_timestamp": "2026-08-26T09:05:06Z",
       "published_at": "2026-08-26T09:05:06Z",
       "edited_at": null,
-      "public_reactions_count": 41,
-      "positive_reactions_count": 41,
+      "public_reactions_count": 48,
+      "positive_reactions_count": 48,
       "tag_list": [
         "ai",
         "design",
@@ -7117,7 +7052,29 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
+    },
+    {
+      "key": "4480470",
+      "id": 4480470,
+      "canonical_url": "https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a",
+      "url": "https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a",
+      "title": "The Retrieval Checklist I Wish I'd Had Before Shipping RAG",
+      "description": "The first time my RAG system gave a confidently wrong answer, I did what everyone does: I blamed the...",
+      "published_timestamp": "2026-08-25T04:02:30Z",
+      "published_at": "2026-08-25T04:02:30Z",
+      "edited_at": "2026-08-28T05:37:01Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "ai",
+        "llm",
+        "rag",
+        "webdev"
+      ],
+      "user_name": "James Anderson",
+      "user_username": "james_anderson_h",
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4485612",
@@ -7139,7 +7096,7 @@
       ],
       "user_name": "Harsh ",
       "user_username": "harsh2644",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4485862",
@@ -7151,8 +7108,8 @@
       "published_timestamp": "2026-08-25T13:36:11Z",
       "published_at": "2026-08-25T13:36:11Z",
       "edited_at": null,
-      "public_reactions_count": 91,
-      "positive_reactions_count": 91,
+      "public_reactions_count": 110,
+      "positive_reactions_count": 110,
       "tag_list": [
         "discuss",
         "ai",
@@ -7161,7 +7118,7 @@
       ],
       "user_name": "Ashley Childress",
       "user_username": "anchildress1",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4488685",
@@ -7173,8 +7130,8 @@
       "published_timestamp": "2026-08-26T07:59:06Z",
       "published_at": "2026-08-26T07:59:06Z",
       "edited_at": null,
-      "public_reactions_count": 132,
-      "positive_reactions_count": 132,
+      "public_reactions_count": 161,
+      "positive_reactions_count": 161,
       "tag_list": [
         "git",
         "programming",
@@ -7183,7 +7140,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4489060",
@@ -7195,8 +7152,8 @@
       "published_timestamp": "2026-08-27T13:58:08Z",
       "published_at": "2026-08-27T13:58:08Z",
       "edited_at": null,
-      "public_reactions_count": 66,
-      "positive_reactions_count": 66,
+      "public_reactions_count": 72,
+      "positive_reactions_count": 72,
       "tag_list": [
         "ai",
         "braziliandevs",
@@ -7205,7 +7162,7 @@
       ],
       "user_name": "Elves Santos",
       "user_username": "sirelves",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4491917",
@@ -7217,8 +7174,8 @@
       "published_timestamp": "2026-08-26T08:00:04Z",
       "published_at": "2026-08-26T08:00:04Z",
       "edited_at": "2026-08-26T09:08:26Z",
-      "public_reactions_count": 60,
-      "positive_reactions_count": 60,
+      "public_reactions_count": 65,
+      "positive_reactions_count": 65,
       "tag_list": [
         "discuss",
         "career",
@@ -7227,7 +7184,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4496280",
@@ -7238,9 +7195,9 @@
       "description": "Keep the beams standing. Replace what they carry. — The 36 Stratagems, Replace the beams with rotten...",
       "published_timestamp": "2026-08-27T07:19:37Z",
       "published_at": "2026-08-27T07:19:37Z",
-      "edited_at": null,
-      "public_reactions_count": 46,
-      "positive_reactions_count": 46,
+      "edited_at": "2026-08-28T10:10:19Z",
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
       "tag_list": [
         "discuss",
         "ai",
@@ -7249,7 +7206,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4496859",
@@ -7261,8 +7218,8 @@
       "published_timestamp": "2026-08-26T18:32:20Z",
       "published_at": "2026-08-26T18:32:20Z",
       "edited_at": null,
-      "public_reactions_count": 71,
-      "positive_reactions_count": 71,
+      "public_reactions_count": 72,
+      "positive_reactions_count": 72,
       "tag_list": [
         "ssh",
         "macos",
@@ -7271,7 +7228,7 @@
       ],
       "user_name": "Dusan Malusev",
       "user_username": "malusev998",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     },
     {
       "key": "4496903",
@@ -7283,8 +7240,8 @@
       "published_timestamp": "2026-08-27T13:21:53Z",
       "published_at": "2026-08-27T13:21:53Z",
       "edited_at": null,
-      "public_reactions_count": 41,
-      "positive_reactions_count": 41,
+      "public_reactions_count": 49,
+      "positive_reactions_count": 49,
       "tag_list": [
         "ai",
         "programming",
@@ -7293,7 +7250,29 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-08-28T05:19:49.060234417+00:00"
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
+    },
+    {
+      "key": "4497705",
+      "id": 4497705,
+      "canonical_url": "https://dev.to/francistrdev/monthly-dev-report-august-2026-4mh2",
+      "url": "https://dev.to/francistrdev/monthly-dev-report-august-2026-4mh2",
+      "title": "🗓️ Monthly Dev Report: August 2026",
+      "description": "Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...",
+      "published_timestamp": "2026-08-28T14:17:09Z",
+      "published_at": "2026-08-28T14:17:09Z",
+      "edited_at": "2026-08-28T14:30:29Z",
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
+      "tag_list": [
+        "discuss",
+        "community",
+        "devjournal",
+        "programming"
+      ],
+      "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
+      "user_username": "francistrdev",
+      "last_seen": "2026-08-28T18:36:10.772936218+00:00"
     }
   ]
 }
