@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-08-29T08:03:09+00:00</updated>
+  <updated>2026-08-29T09:30:00+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -18,7 +18,7 @@
     <title>10 Git Commands You’ll Wish You Knew Earlier</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp"/>
     <updated>2026-08-26T07:59:06+00:00</updated>
-    <summary type="html">Reactions: public 236 / positive 236&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T07:59:06Z&lt;br/&gt;Tags: git, programming, productivity, beginners&lt;br/&gt;Description: Do you know Git?&amp;nbsp;Of course you do! Today, I’ve got a few of my favorite Git commands for...</summary>
+    <summary type="html">Reactions: public 240 / positive 240&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T07:59:06Z&lt;br/&gt;Tags: git, programming, productivity, beginners&lt;br/&gt;Description: Do you know Git?&amp;nbsp;Of course you do! Today, I’ve got a few of my favorite Git commands for...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4296692</id>
@@ -133,18 +133,18 @@
     <summary type="html">Reactions: public 142 / positive 142&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-27T04:12:26Z&lt;br/&gt;Tags: go, architecture, career, learn&lt;br/&gt;Description: Why I Am Writing This: A PHP Developer Crossing Into Go   I am a PHP developer.  I have...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4485862</id>
+    <title>What Do You Do While AI Codes?</title>
+    <link rel="alternate" href="https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"/>
+    <updated>2026-08-25T13:36:11+00:00</updated>
+    <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T13:36:11Z&lt;br/&gt;Tags: discuss, ai, productivity, devex&lt;br/&gt;Description: AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one &quot;quick&quot; habit that makes you the bottleneck.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4372605</id>
     <title>The End of Undetectable AI Text? Claude’s New Watermark Explained</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2"/>
     <updated>2026-08-11T22:33:57+00:00</updated>
     <summary type="html">Reactions: public 138 / positive 138&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T22:33:57Z&lt;br/&gt;Tags: ai, llm, news&lt;br/&gt;Description: For the past few hours, the whole world,&amp;nbsp; or at least my LinkedIn feed,&amp;nbsp;has been talking...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4485862</id>
-    <title>What Do You Do While AI Codes?</title>
-    <link rel="alternate" href="https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k"/>
-    <updated>2026-08-25T13:36:11+00:00</updated>
-    <summary type="html">Reactions: public 137 / positive 137&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T13:36:11Z&lt;br/&gt;Tags: discuss, ai, productivity, devex&lt;br/&gt;Description: AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one &quot;quick&quot; habit that makes you the bottleneck.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4344653</id>
@@ -385,6 +385,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T16:50:27Z&lt;br/&gt;Tags: top7, discuss&lt;br/&gt;Description: Welcome to this week&apos;s Top 7, where the DEV editorial team handpicks their favorite posts from the...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4497705</id>
+    <title>🗓️ Monthly Dev Report: August 2026</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-august-2026-4mh2"/>
+    <updated>2026-08-28T14:30:29+00:00</updated>
+    <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T14:17:09Z&lt;br/&gt;Tags: discuss, community, devjournal, programming&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4125592</id>
     <title>I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery</title>
     <link rel="alternate" href="https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e"/>
@@ -399,13 +406,6 @@
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-07-02T22:04:04Z&lt;br/&gt;Tags: githubchallenge, devchallenge, githubcopilot, ai&lt;br/&gt;Description: We are so excited to finally announce the winners of the GitHub Finish-Up-A-Thon Challenge, our...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4497705</id>
-    <title>🗓️ Monthly Dev Report: August 2026</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/monthly-dev-report-august-2026-4mh2"/>
-    <updated>2026-08-28T14:30:29+00:00</updated>
-    <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T14:17:09Z&lt;br/&gt;Tags: discuss, community, devjournal, programming&lt;br/&gt;Description: Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4435427</id>
     <title>Greatness Is Forged by Limitation</title>
     <link rel="alternate" href="https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20"/>
@@ -417,7 +417,7 @@
     <title>Velocidade de entrega e custo de manutenção pós IA</title>
     <link rel="alternate" href="https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei"/>
     <updated>2026-08-27T13:58:08+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sirelves&quot;&gt;Elves Santos&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:58:08Z&lt;br/&gt;Tags: ai, braziliandevs, career, productivity&lt;br/&gt;Description: Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...</summary>
+    <summary type="html">Reactions: public 79 / positive 79&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sirelves&quot;&gt;Elves Santos&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:58:08Z&lt;br/&gt;Tags: ai, braziliandevs, career, productivity&lt;br/&gt;Description: Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4385699</id>
@@ -812,13 +812,6 @@
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/tahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-07-07T06:08:02Z&lt;br/&gt;Tags: react, python, beginners, discuss&lt;br/&gt;Description: A 150-component React dashboard went from 142.7ms to 4.1ms per keystroke after I stopped keeping search state too high in the tree.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:3645657</id>
-    <title>Thank you DEV community: the Thinking Engineer Toolkit is live</title>
-    <link rel="alternate" href="https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"/>
-    <updated>2026-06-25T12:58:12+00:00</updated>
-    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-06-25T12:58:12Z&lt;br/&gt;Tags: ai, softwareengineering, developer, productivity&lt;br/&gt;Description: Over the past weeks, I’ve been sharing a series of posts that gravitate around one question:  How do...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4273537</id>
     <title>Skills vs MCP: How AI tools have evolved</title>
     <link rel="alternate" href="https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk"/>
@@ -938,6 +931,20 @@
     <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T07:35:37Z&lt;br/&gt;Tags: ai, watercooler, discuss&lt;br/&gt;Description: A post on X last week:   &quot;The fact that people can&apos;t even reply to posts without AI anymore says a...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4514731</id>
+    <title>Amazon AI Blocked My Kindle Book. I Asked What Went Wrong. Then They Approved It.</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi"/>
+    <updated>2026-08-28T16:50:00+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:50:00Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Yesterday, I published a post titled &quot;My Book &apos;AI, Ego &amp;amp; Regret&apos; Paperback Is Live. Kindle Is...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4496903</id>
+    <title>NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code</title>
+    <link rel="alternate" href="https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n"/>
+    <updated>2026-08-27T13:21:53+00:00</updated>
+    <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:21:53Z&lt;br/&gt;Tags: ai, programming, showdev, discuss&lt;br/&gt;Description: Your AI coding agent does exactly what you ask, which isn&apos;t always what you mean. NexPath catches vague prompts before they become bugs.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:3980001</id>
     <title>What was your win this week?</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-1ed"/>
@@ -980,6 +987,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T12:44:35Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Exhaust the enemy&apos;s strength without fighting. Weaken the strong by nurturing the soft. — The 36...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4479144</id>
+    <title>I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard</title>
+    <link rel="alternate" href="https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk"/>
+    <updated>2026-08-26T09:05:06+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T09:05:06Z&lt;br/&gt;Tags: ai, design, coding, programming&lt;br/&gt;Description: A polished UI can make a product feel completely different, but getting there usually takes more than...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4457024</id>
     <title>HTML is getting cool again: Meet the Invoker Commands API</title>
     <link rel="alternate" href="https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367"/>
@@ -1013,20 +1027,6 @@
     <link rel="alternate" href="https://dev.to/dev_kiran/browseract-hit-1-on-product-hunt-so-i-decided-to-test-it-96m"/>
     <updated>2026-07-05T10:14:20+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dev_kiran&quot;&gt;Kiran Naragund&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T10:14:20Z&lt;br/&gt;Tags: ai, cli, tutorial, automation&lt;br/&gt;Description: Hello Devs 👋  Over the last few months, AI agents have been evolving very quickly. We are no longer...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4514731</id>
-    <title>Amazon AI Blocked My Kindle Book. I Asked What Went Wrong. Then They Approved It.</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi"/>
-    <updated>2026-08-28T16:50:00+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T16:50:00Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Yesterday, I published a post titled &quot;My Book &apos;AI, Ego &amp;amp; Regret&apos; Paperback Is Live. Kindle Is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4479144</id>
-    <title>I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard</title>
-    <link rel="alternate" href="https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk"/>
-    <updated>2026-08-26T09:05:06+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T09:05:06Z&lt;br/&gt;Tags: ai, design, coding, programming&lt;br/&gt;Description: A polished UI can make a product feel completely different, but getting there usually takes more than...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4408146</id>
@@ -1069,13 +1069,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/vp-of-nothing-the-ceos-nephew-took-over-my-ai-platform-the-client-walked-within-a-month-5dla"/>
     <updated>2026-06-30T09:46:21+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-28T04:43:40Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Series: AI, Ego &amp;amp; Regret — Bonus Chapter   Editor&apos;s Note: While compiling the old series for the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4496903</id>
-    <title>NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code</title>
-    <link rel="alternate" href="https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n"/>
-    <updated>2026-08-27T13:21:53+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:21:53Z&lt;br/&gt;Tags: ai, programming, showdev, discuss&lt;br/&gt;Description: Your AI coding agent does exactly what you ask, which isn&apos;t always what you mean. NexPath catches vague prompts before they become bugs.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4242749</id>
@@ -1253,6 +1246,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T04:25:10Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: To dispose of an enemy, make use of another enemy. Use a second party to deliver the blow yourself....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4271218</id>
+    <title>What was your win this week?!</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-51oc"/>
+    <updated>2026-08-28T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4030159</id>
     <title>I Stopped Comparing Myself to AI. It Changed Everything.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/i-stopped-comparing-myself-to-ai-it-changed-everything-1djb"/>
@@ -1265,13 +1265,6 @@
     <link rel="alternate" href="https://dev.to/nazar_boyko/laravel-from-version-5-to-today-the-framework-grew-up-with-us-3cil"/>
     <updated>2026-06-27T04:15:07+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar_boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-06-26T03:44:01Z&lt;br/&gt;Tags: laravel, php, today&lt;br/&gt;Description: Have you ever opened an old Laravel 5 project and felt like you were walking into a house where every...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4271218</id>
-    <title>What was your win this week?!</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-51oc"/>
-    <updated>2026-08-28T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T13:00:00Z&lt;br/&gt;Tags: weeklyretro, discuss&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4369791</id>
@@ -1358,6 +1351,13 @@
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/erikch&quot;&gt;Erik Hanchett&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T17:59:18Z&lt;br/&gt;Tags: ai, webdev, productivity, programming&lt;br/&gt;Description: Introduction   I keep hearing the term loop engineering. It&apos;s all over my feed, every AI...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4494599</id>
+    <title>Your AI Has a Reviewer. Has Anyone Ever Seen It Say No?</title>
+    <link rel="alternate" href="https://dev.to/heinrichneb/your-ai-has-a-reviewer-has-anyone-ever-seen-it-say-no-4ja8"/>
+    <updated>2026-08-27T06:31:57+00:00</updated>
+    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heinrichneb&quot;&gt;Heinrich Neb&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T04:25:16Z&lt;br/&gt;Tags: ai, agents, discuss, programming&lt;br/&gt;Description: Two weeks ago I counted 204 guards in my repos and found that 89 % had never been shown they can...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4485612</id>
     <title>Your Job Ends at 5. Your Developer Brain Doesn&apos;t.</title>
     <link rel="alternate" href="https://dev.to/harsh2644/your-job-ends-at-5-your-developer-brain-doesnt-26m8"/>
@@ -1400,10 +1400,10 @@
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T06:58:36Z&lt;br/&gt;Tags: ai, agents, tutorial, webdev&lt;br/&gt;Description: WebMCP lets a web page expose tools that AI agents can discover and execute inside the browser. That...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4252629</id>
-    <title>How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)</title>
-    <link rel="alternate" href="https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4"/>
-    <updated>2026-07-29T10:42:13+00:00</updated>
-    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T10:42:13Z&lt;br/&gt;Tags: javascript, typescript, webdev, opensource&lt;br/&gt;Description: Hoi hoi!  I&apos;m @nyaomaru, a frontend engineer who was recently knocked off my feet by how good the...</summary>
+    <id>tag:dev.to,2026:4519645</id>
+    <title>What Happens After You Win a DEV Challenge? A Complete Guide to Getting Paid</title>
+    <link rel="alternate" href="https://dev.to/dj29/what-happens-after-you-win-a-dev-challenge-a-complete-guide-to-getting-paid-3f8n"/>
+    <updated>2026-08-29T09:30:00+00:00</updated>
+    <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T07:03:14Z&lt;br/&gt;Tags: devjournal, discuss, career, hackathon&lt;br/&gt;Description: Winning is the part everyone posts about. The two months after — the part where a cash prize actually...</summary>
   </entry>
 </feed>
