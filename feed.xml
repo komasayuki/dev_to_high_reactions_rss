@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-09-03T06:44:57+00:00</updated>
+  <updated>2026-09-03T15:24:18+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -476,6 +476,20 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-07-09T14:35:00Z&lt;br/&gt;Tags: career, discuss, webdev, showdev&lt;br/&gt;Description: Eleven exhibits, last time. A career that kept refusing to fit inside a single box — trainer,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4559844</id>
+    <title>20 Agentic AI Terms Every Developer Should Know (Explained Simply)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"/>
+    <updated>2026-09-03T06:44:57+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T06:44:57Z&lt;br/&gt;Tags: ai, agents, mcp, beginners&lt;br/&gt;Description: Do you ever feel like the AI world has moved forward a little too quickly?&amp;nbsp;You hear about...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4522857</id>
+    <title>I Asked for a Portfolio but Got a Filing Cabinet</title>
+    <link rel="alternate" href="https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8"/>
+    <updated>2026-08-29T17:04:00+00:00</updated>
+    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T16:28:50Z&lt;br/&gt;Tags: ai, webdev, design, ux&lt;br/&gt;Description: Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn&apos;t fix — and the one instruction that did.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4114550</id>
     <title>Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon</title>
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12"/>
@@ -488,13 +502,6 @@
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp"/>
     <updated>2026-07-03T14:52:14+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-03T14:52:14Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4522857</id>
-    <title>I Asked for a Portfolio but Got a Filing Cabinet</title>
-    <link rel="alternate" href="https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8"/>
-    <updated>2026-08-29T17:04:00+00:00</updated>
-    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T16:28:50Z&lt;br/&gt;Tags: ai, webdev, design, ux&lt;br/&gt;Description: Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn&apos;t fix — and the one instruction that did.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4308466</id>
@@ -530,13 +537,6 @@
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-9-a-fully-funded-ai-security-residency-sf-founder-residency-figma-campus-1j88"/>
     <updated>2026-07-24T14:37:23+00:00</updated>
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-07-24T14:06:55Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4559844</id>
-    <title>20 Agentic AI Terms Every Developer Should Know (Explained Simply)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"/>
-    <updated>2026-09-03T06:44:57+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T06:44:57Z&lt;br/&gt;Tags: ai, agents, mcp, beginners&lt;br/&gt;Description: Do you ever feel like the AI world has moved forward a little too quickly?&amp;nbsp;You hear about...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4465798</id>
@@ -994,6 +994,13 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T12:44:35Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Exhaust the enemy&apos;s strength without fighting. Weaken the strong by nurturing the soft. — The 36...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4539686</id>
+    <title>Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution</title>
+    <link rel="alternate" href="https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"/>
+    <updated>2026-08-31T19:21:38+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T19:21:38Z&lt;br/&gt;Tags: webdev, architecture, webperf, rails&lt;br/&gt;Description: How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4479144</id>
     <title>I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard</title>
     <link rel="alternate" href="https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk"/>
@@ -1027,13 +1034,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893"/>
     <updated>2026-07-18T01:41:25+00:00</updated>
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-07-18T01:41:25Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Toss out a brick to lure a jade gem. — The 36 Stratagems, Throw Out a Brick to Get a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4539686</id>
-    <title>Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution</title>
-    <link rel="alternate" href="https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9"/>
-    <updated>2026-08-31T19:21:38+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ben&quot;&gt;Ben Halpern&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T19:21:38Z&lt;br/&gt;Tags: webdev, architecture, webperf, rails&lt;br/&gt;Description: How we eliminated subtle stylesheet caching glitches during deployments on DEV without a massive rewrite.</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4408146</id>
@@ -1134,6 +1134,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dynamicwebpaige&quot;&gt;Paige Bailey&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T14:47:06Z&lt;br/&gt;Tags: aie, gemma, ai&lt;br/&gt;Description: There’s a specific moment that happens at every single hackathon. It’s usually around 2 or 3 a.m.,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4543414</id>
+    <title>React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is</title>
+    <link rel="alternate" href="https://shubhra.dev/tutorials/react-19-actions"/>
+    <updated>2026-09-01T07:30:35+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T07:30:35Z&lt;br/&gt;Tags: react, javascript, webdev, programming&lt;br/&gt;Description: Three parts into this series, and if you&apos;d asked me to define the word sitting underneath every...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4458421</id>
     <title>The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren&apos;t Looking</title>
     <link rel="alternate" href="https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d"/>
@@ -1188,13 +1195,6 @@
     <link rel="alternate" href="https://dev.to/dailycontext/the-log-is-the-agent-5096"/>
     <updated>2026-06-30T16:41:18+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ishaansehgal&quot;&gt;Ishaan Sehgal&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T15:01:43Z&lt;br/&gt;Tags: aie, agents, ai&lt;br/&gt;Description: AI agents are hitting the same inflection point.  Most people think an agent is the model, the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4543414</id>
-    <title>React 19 Actions: I Explained 3 Hooks Without Ever Explaining What an Action Is</title>
-    <link rel="alternate" href="https://shubhra.dev/tutorials/react-19-actions"/>
-    <updated>2026-09-01T07:30:35+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T07:30:35Z&lt;br/&gt;Tags: react, javascript, webdev, programming&lt;br/&gt;Description: Three parts into this series, and if you&apos;d asked me to define the word sitting underneath every...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4519645</id>
@@ -1258,6 +1258,13 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-3-lena-walked-into-an-ai-deal-she-walked-out-with-three-borrowed-knives-3li4"/>
     <updated>2026-07-01T12:34:18+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-06-30T04:25:10Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: To dispose of an enemy, make use of another enemy. Use a second party to deliver the blow yourself....</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4566862</id>
+    <title>I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg"/>
+    <updated>2026-09-03T15:24:18+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-09-03T15:24:18Z&lt;br/&gt;Tags: discuss, aws, beginners, agents&lt;br/&gt;Description: TL;DR  I recently finished a project from Udacity&apos;s Future AWS Agent Engineer Nanodegree Program,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4499807</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/konark_13/how-to-shine-as-an-introvert-in-a-loud-tech-world-4ipb"/>
     <updated>2026-07-05T17:32:39+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/konark_13&quot;&gt;Konark Sharma&lt;/a&gt;&lt;br/&gt;Published: 2026-07-05T17:32:39Z&lt;br/&gt;Tags: webdev, learning, career, discuss&lt;br/&gt;Description: We have all been there. You walk into a room full of tech enthusiasts, the ambient noise is humming...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:3982143</id>
-    <title>Build a Minimal WebMCP Agent with Playwright and Gemini</title>
-    <link rel="alternate" href="https://dev.to/gramli/build-a-minimal-webmcp-agent-with-playwright-and-gemini-24fh"/>
-    <updated>2026-07-01T06:58:36+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-07-01T06:58:36Z&lt;br/&gt;Tags: ai, agents, tutorial, webdev&lt;br/&gt;Description: WebMCP lets a web page expose tools that AI agents can discover and execute inside the browser. That...</summary>
   </entry>
 </feed>
