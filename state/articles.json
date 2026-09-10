@@ -281,72 +281,6 @@
       "last_seen": "2026-07-15T06:25:07.127135598+00:00"
     },
     {
-      "key": "4069525",
-      "id": 4069525,
-      "canonical_url": "https://dev.to/dayan_elvisjahuirapilco/finding-security-bugs-before-they-ship-applying-bandit-sast-to-a-python-web-app-38kh",
-      "url": "https://dev.to/dayan_elvisjahuirapilco/finding-security-bugs-before-they-ship-applying-bandit-sast-to-a-python-web-app-38kh",
-      "title": "Finding Security Bugs Before They Ship: Applying Bandit (SAST) to a Python Web App",
-      "description": "TL;DR: I took a small Flask application with 7 classic security flaws, ran Bandit (a SAST tool from...",
-      "published_timestamp": "2026-07-04T22:40:34Z",
-      "published_at": "2026-07-04T22:40:34Z",
-      "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
-      "tag_list": [
-        "security",
-        "python",
-        "devsecops",
-        "sast"
-      ],
-      "user_name": "DAYAN ELVIS JAHUIRA PILCO",
-      "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-11T22:01:33.754124450+00:00"
-    },
-    {
-      "key": "4069630",
-      "id": 4069630,
-      "canonical_url": "https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk",
-      "url": "https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk",
-      "title": "Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov (IaC SAST)",
-      "description": "TL;DR: Application code isn't the only thing that ships vulnerabilities — your Terraform does too. I...",
-      "published_timestamp": "2026-07-04T23:24:24Z",
-      "published_at": "2026-07-04T23:24:24Z",
-      "edited_at": null,
-      "public_reactions_count": 39,
-      "positive_reactions_count": 39,
-      "tag_list": [
-        "security",
-        "terraform",
-        "devsecops",
-        "aws"
-      ],
-      "user_name": "DAYAN ELVIS JAHUIRA PILCO",
-      "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-12T00:06:39.112749279+00:00"
-    },
-    {
-      "key": "4069684",
-      "id": 4069684,
-      "canonical_url": "https://dev.to/dayan_elvisjahuirapilco/cicd-testing-tools-compared-the-same-pipeline-in-github-actions-gitlab-ci-and-jenkins-53",
-      "url": "https://dev.to/dayan_elvisjahuirapilco/cicd-testing-tools-compared-the-same-pipeline-in-github-actions-gitlab-ci-and-jenkins-53",
-      "title": "CI/CD Testing Tools Compared: the Same Pipeline in GitHub Actions, GitLab CI and Jenkins",
-      "description": "TL;DR: I compared the major CI/CD tools for test automation (GitHub Actions, GitLab CI, Jenkins,...",
-      "published_timestamp": "2026-07-04T23:54:20Z",
-      "published_at": "2026-07-04T23:54:20Z",
-      "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
-      "tag_list": [
-        "cicd",
-        "devops",
-        "testing",
-        "tutorial"
-      ],
-      "user_name": "DAYAN ELVIS JAHUIRA PILCO",
-      "user_username": "dayan_elvisjahuirapilco",
-      "last_seen": "2026-07-11T23:04:22.154755227+00:00"
-    },
-    {
       "key": "4073269",
       "id": 4073269,
       "canonical_url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
@@ -5813,7 +5747,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4516188",
@@ -6252,7 +6186,7 @@
       ],
       "user_name": "Sanidhya Goel",
       "user_username": "sanidhya_at_mlh",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4552700",
@@ -6395,8 +6329,8 @@
       "published_timestamp": "2026-09-03T06:44:57Z",
       "published_at": "2026-09-03T06:44:57Z",
       "edited_at": null,
-      "public_reactions_count": 215,
-      "positive_reactions_count": 215,
+      "public_reactions_count": 216,
+      "positive_reactions_count": 216,
       "tag_list": [
         "ai",
         "agents",
@@ -6405,7 +6339,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4566862",
@@ -6427,7 +6361,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4570404",
@@ -6449,7 +6383,7 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4571347",
@@ -6471,7 +6405,7 @@
       ],
       "user_name": "Dimitris Kyrkos ",
       "user_username": "cyclopt_dimitrisk",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4572132",
@@ -6493,7 +6427,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4572783",
@@ -6515,7 +6449,7 @@
       ],
       "user_name": "ujja",
       "user_username": "ujja",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4573643",
@@ -6537,7 +6471,7 @@
       ],
       "user_name": "Harsh Raval",
       "user_username": "devstackhub",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4576085",
@@ -6549,8 +6483,8 @@
       "published_timestamp": "2026-09-07T03:34:19Z",
       "published_at": "2026-09-07T03:34:19Z",
       "edited_at": "2026-09-07T04:06:21Z",
-      "public_reactions_count": 95,
-      "positive_reactions_count": 95,
+      "public_reactions_count": 109,
+      "positive_reactions_count": 109,
       "tag_list": [
         "devchallenge",
         "weekendchallenge",
@@ -6559,7 +6493,7 @@
       ],
       "user_name": "Pascal CESCATO",
       "user_username": "pascal_cescato_692b7a8a20",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4576547",
@@ -6581,7 +6515,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4581392",
@@ -6625,7 +6559,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4583484",
@@ -6647,7 +6581,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4585846",
@@ -6669,7 +6603,7 @@
       ],
       "user_name": "Mahmoud Harmouch",
       "user_username": "wiseai",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4585958",
@@ -6681,8 +6615,8 @@
       "published_timestamp": "2026-09-09T12:48:25Z",
       "published_at": "2026-09-09T12:48:25Z",
       "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
+      "public_reactions_count": 40,
+      "positive_reactions_count": 40,
       "tag_list": [
         "typescript",
         "algorithms",
@@ -6691,7 +6625,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4586482",
@@ -6713,7 +6647,7 @@
       ],
       "user_name": "Nazar Boyko",
       "user_username": "nazar-boyko",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4587783",
@@ -6735,7 +6669,7 @@
       ],
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4588681",
@@ -6757,7 +6691,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4589253",
@@ -6779,7 +6713,7 @@
       ],
       "user_name": "Soumyadeep Dey ",
       "user_username": "soumyadeepdey",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4589476",
@@ -6801,7 +6735,7 @@
       ],
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4589958",
@@ -6813,8 +6747,8 @@
       "published_timestamp": "2026-09-06T19:18:44Z",
       "published_at": "2026-09-06T19:18:44Z",
       "edited_at": null,
-      "public_reactions_count": 37,
-      "positive_reactions_count": 37,
+      "public_reactions_count": 38,
+      "positive_reactions_count": 38,
       "tag_list": [
         "learning",
         "beginners",
@@ -6823,7 +6757,7 @@
       ],
       "user_name": "Anna Villarreal",
       "user_username": "annavi11arrea1",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4590564",
@@ -6845,7 +6779,7 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4594813",
@@ -6867,7 +6801,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4596945",
@@ -6889,7 +6823,7 @@
       ],
       "user_name": "Nazar Boyko",
       "user_username": "nazar-boyko",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4603458",
@@ -6911,7 +6845,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4603823",
@@ -6977,7 +6911,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
       "user_username": "francistrdev",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     },
     {
       "key": "4607925",
@@ -7019,7 +6953,7 @@
       ],
       "user_name": "Sther",
       "user_username": "stherzada",
-      "last_seen": "2026-09-09T21:39:58.064611900+00:00"
+      "last_seen": "2026-09-10T00:08:14.234265541+00:00"
     }
   ]
 }
