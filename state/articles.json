@@ -151,28 +151,6 @@
       "last_seen": "2026-08-31T05:24:06.683496707+00:00"
     },
     {
-      "key": "4140016",
-      "id": 4140016,
-      "canonical_url": "https://shubhra.dev/blog/before-i-write-a-single-line-of-code",
-      "url": "https://dev.to/shubhradev/i-stopped-debugging-at-my-desk-heres-what-changed-43n3",
-      "title": "I Stopped Debugging at My Desk. Here's What Changed",
-      "description": "I usually write here about Next.js, caching, and the bugs that steal your sleep. But this post is...",
-      "published_timestamp": "2026-07-14T11:43:12Z",
-      "published_at": "2026-07-14T11:43:12Z",
-      "edited_at": null,
-      "public_reactions_count": 47,
-      "positive_reactions_count": 47,
-      "tag_list": [
-        "debugging",
-        "programming",
-        "productivity",
-        "webdev"
-      ],
-      "user_name": "Shubhra Pokhariya",
-      "user_username": "shubhradev",
-      "last_seen": "2026-07-21T09:34:37.608939705+00:00"
-    },
-    {
       "key": "4143027",
       "id": 4143027,
       "canonical_url": "https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo",
@@ -4511,14 +4489,14 @@
       "published_timestamp": "2026-09-18T13:00:00Z",
       "published_at": "2026-09-18T13:00:00Z",
       "edited_at": null,
-      "public_reactions_count": 41,
-      "positive_reactions_count": 41,
+      "public_reactions_count": 44,
+      "positive_reactions_count": 44,
       "tag_list": [
         "weeklyretro"
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4516188",
@@ -4571,14 +4549,14 @@
       "published_timestamp": "2026-09-16T13:00:00Z",
       "published_at": "2026-09-16T13:00:00Z",
       "edited_at": null,
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
       "tag_list": [
         "welcome"
       ],
       "user_name": "Sloan the DEV Moderator",
       "user_username": "sloan",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4519645",
@@ -5061,7 +5039,7 @@
       ],
       "user_name": "Web Developer Hyper",
       "user_username": "webdeveloperhyper",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4556145",
@@ -6198,7 +6176,7 @@
       ],
       "user_name": "Rodrigo Castro",
       "user_username": "redrodrigoc",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4626365",
@@ -6210,8 +6188,8 @@
       "published_timestamp": "2026-09-17T06:56:32Z",
       "published_at": "2026-09-17T06:56:32Z",
       "edited_at": null,
-      "public_reactions_count": 54,
-      "positive_reactions_count": 54,
+      "public_reactions_count": 57,
+      "positive_reactions_count": 57,
       "tag_list": [
         "testing",
         "performance",
@@ -6220,7 +6198,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4626455",
@@ -6341,8 +6319,8 @@
       "published_timestamp": "2026-09-14T06:16:39Z",
       "published_at": "2026-09-14T06:16:39Z",
       "edited_at": null,
-      "public_reactions_count": 132,
-      "positive_reactions_count": 132,
+      "public_reactions_count": 133,
+      "positive_reactions_count": 133,
       "tag_list": [
         "discuss",
         "meta",
@@ -6351,7 +6329,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4642181",
@@ -6371,7 +6349,7 @@
       ],
       "user_name": "Cathy Lai",
       "user_username": "cathylai",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4642462",
@@ -6393,7 +6371,7 @@
       ],
       "user_name": "Varshith V Hegde",
       "user_username": "varshithvhegde",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4642467",
@@ -6415,7 +6393,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4643514",
@@ -6459,7 +6437,7 @@
       ],
       "user_name": "Harsh Raval",
       "user_username": "devstackhub",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4646467",
@@ -6481,7 +6459,7 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4648231",
@@ -6493,8 +6471,8 @@
       "published_timestamp": "2026-09-15T05:41:21Z",
       "published_at": "2026-09-15T05:41:21Z",
       "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "javascript",
         "webdev",
@@ -6503,7 +6481,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4650332",
@@ -6525,7 +6503,7 @@
       ],
       "user_name": "Nazar Boyko",
       "user_username": "nazar-boyko",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4650950",
@@ -6547,7 +6525,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4652133",
@@ -6559,8 +6537,8 @@
       "published_timestamp": "2026-09-14T17:12:10Z",
       "published_at": "2026-09-14T17:12:10Z",
       "edited_at": "2026-09-14T17:52:34Z",
-      "public_reactions_count": 113,
-      "positive_reactions_count": 113,
+      "public_reactions_count": 114,
+      "positive_reactions_count": 114,
       "tag_list": [
         "discuss",
         "ai",
@@ -6569,7 +6547,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4652870",
@@ -6613,7 +6591,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4657434",
@@ -6657,7 +6635,7 @@
       ],
       "user_name": "Elmar Chavez",
       "user_username": "codingwithjiro",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4658227",
@@ -6669,8 +6647,8 @@
       "published_timestamp": "2026-09-15T10:44:53Z",
       "published_at": "2026-09-15T10:44:53Z",
       "edited_at": null,
-      "public_reactions_count": 95,
-      "positive_reactions_count": 95,
+      "public_reactions_count": 103,
+      "positive_reactions_count": 103,
       "tag_list": [
         "ai",
         "discuss",
@@ -6679,7 +6657,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4660332",
@@ -6721,7 +6699,7 @@
       ],
       "user_name": "bebechien",
       "user_username": "bebechien",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4668050",
@@ -6743,7 +6721,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4669106",
@@ -6765,7 +6743,7 @@
       ],
       "user_name": "Thor 雷神 Schaeff",
       "user_username": "thorwebdev",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4669606",
@@ -6787,7 +6765,7 @@
       ],
       "user_name": "Harun - solo dev ",
       "user_username": "koda2026",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4676293",
@@ -6809,7 +6787,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4676493",
@@ -6821,8 +6799,8 @@
       "published_timestamp": "2026-09-17T12:24:54Z",
       "published_at": "2026-09-17T12:24:54Z",
       "edited_at": null,
-      "public_reactions_count": 37,
-      "positive_reactions_count": 37,
+      "public_reactions_count": 40,
+      "positive_reactions_count": 40,
       "tag_list": [
         "ai",
         "llm",
@@ -6831,7 +6809,7 @@
       ],
       "user_name": "Prosper Otemuyiwa",
       "user_username": "unicodeveloper",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4679179",
@@ -6843,8 +6821,8 @@
       "published_timestamp": "2026-09-17T20:22:43Z",
       "published_at": "2026-09-17T20:22:43Z",
       "edited_at": "2026-09-18T00:20:39Z",
-      "public_reactions_count": 57,
-      "positive_reactions_count": 57,
+      "public_reactions_count": 58,
+      "positive_reactions_count": 58,
       "tag_list": [
         "devchallenge",
         "weekendchallenge",
@@ -6853,7 +6831,7 @@
       ],
       "user_name": "Jem",
       "user_username": "heyitsjem",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     },
     {
       "key": "4680252",
@@ -6875,7 +6853,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-09-19T05:46:25.122273264+00:00"
+      "last_seen": "2026-09-19T10:50:57.782117475+00:00"
     }
   ]
 }
