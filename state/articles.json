@@ -131,72 +131,6 @@
       "last_seen": "2026-08-31T05:24:06.683496707+00:00"
     },
     {
-      "key": "4158432",
-      "id": 4158432,
-      "canonical_url": "https://dev.to/he4rt/comecando-com-redes-camadas-de-uma-conexao-tcpip-1bjn",
-      "url": "https://dev.to/he4rt/comecando-com-redes-camadas-de-uma-conexao-tcpip-1bjn",
-      "title": "Começando com Redes: Camadas de uma conexão TCP/IP",
-      "description": "Eae gente bonita, beleza? Depois de um longo período, resolvi voltar aqui e continuar compartilhando...",
-      "published_timestamp": "2026-07-24T12:37:44Z",
-      "published_at": "2026-07-24T12:37:44Z",
-      "edited_at": null,
-      "public_reactions_count": 66,
-      "positive_reactions_count": 66,
-      "tag_list": [
-        "braziliandevs",
-        "aws",
-        "cloud",
-        "programming"
-      ],
-      "user_name": "Cristian Magalhães",
-      "user_username": "cristuker",
-      "last_seen": "2026-07-27T11:35:52.218137661+00:00"
-    },
-    {
-      "key": "4164519",
-      "id": 4164519,
-      "canonical_url": "https://dev.to/dannwaneri/the-part-of-this-year-i-dont-put-in-the-commit-messages-l6m",
-      "url": "https://dev.to/dannwaneri/the-part-of-this-year-i-dont-put-in-the-commit-messages-l6m",
-      "title": "the part of this year I don't put in the commit messages",
-      "description": "24 hours. That's how long a contract lasted before someone pulled it because I was running Windows,...",
-      "published_timestamp": "2026-07-20T10:22:22Z",
-      "published_at": "2026-07-20T10:22:22Z",
-      "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
-      "tag_list": [
-        "career",
-        "devto",
-        "community",
-        "mentalhealth"
-      ],
-      "user_name": "Daniel Nwaneri",
-      "user_username": "dannwaneri",
-      "last_seen": "2026-07-27T07:45:43.915707571+00:00"
-    },
-    {
-      "key": "4170828",
-      "id": 4170828,
-      "canonical_url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "published_timestamp": "2026-07-20T13:20:24Z",
-      "published_at": "2026-07-20T13:20:24Z",
-      "edited_at": "2026-07-20T13:20:45Z",
-      "public_reactions_count": 124,
-      "positive_reactions_count": 124,
-      "tag_list": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "user_name": "Nazar Boyko",
-      "user_username": "nazar-boyko",
-      "last_seen": "2026-07-27T11:35:52.218137661+00:00"
-    },
-    {
       "key": "4174960",
       "id": 4174960,
       "canonical_url": "https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55",
@@ -239,28 +173,6 @@
       "user_name": "Jenna Pederson",
       "user_username": "jennapederson",
       "last_seen": "2026-07-28T14:33:39.887405288+00:00"
-    },
-    {
-      "key": "4188628",
-      "id": 4188628,
-      "canonical_url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "published_timestamp": "2026-07-20T14:05:39Z",
-      "published_at": "2026-07-20T14:05:39Z",
-      "edited_at": null,
-      "public_reactions_count": 52,
-      "positive_reactions_count": 52,
-      "tag_list": [
-        "discuss",
-        "management",
-        "codequality",
-        "product"
-      ],
-      "user_name": "Ben Halpern",
-      "user_username": "ben",
-      "last_seen": "2026-07-27T11:35:52.218137661+00:00"
     },
     {
       "key": "4188851",
@@ -4131,14 +4043,14 @@
       "published_timestamp": "2026-09-23T13:00:00Z",
       "published_at": "2026-09-23T13:00:00Z",
       "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
       "tag_list": [
         "welcome"
       ],
       "user_name": "Sloan the DEV Moderator",
       "user_username": "sloan",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4519645",
@@ -5879,8 +5791,8 @@
       "published_timestamp": "2026-09-22T15:27:32Z",
       "published_at": "2026-09-22T15:27:32Z",
       "edited_at": null,
-      "public_reactions_count": 70,
-      "positive_reactions_count": 70,
+      "public_reactions_count": 78,
+      "positive_reactions_count": 78,
       "tag_list": [
         "discuss",
         "ai",
@@ -5889,7 +5801,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4636320",
@@ -6041,7 +5953,7 @@
       ],
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4644469",
@@ -6533,8 +6445,8 @@
       "published_timestamp": "2026-09-24T07:07:21Z",
       "published_at": "2026-09-24T07:07:21Z",
       "edited_at": null,
-      "public_reactions_count": 46,
-      "positive_reactions_count": 46,
+      "public_reactions_count": 47,
+      "positive_reactions_count": 47,
       "tag_list": [
         "csharp",
         "opensource",
@@ -6543,7 +6455,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4678031",
@@ -6575,8 +6487,8 @@
       "published_timestamp": "2026-09-23T14:23:57Z",
       "published_at": "2026-09-23T14:23:57Z",
       "edited_at": null,
-      "public_reactions_count": 60,
-      "positive_reactions_count": 60,
+      "public_reactions_count": 61,
+      "positive_reactions_count": 61,
       "tag_list": [
         "typescript",
         "javascript",
@@ -6585,7 +6497,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4679179",
@@ -6667,7 +6579,7 @@
       ],
       "user_name": "UnitBuilds",
       "user_username": "unitbuilds",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4690278",
@@ -6689,7 +6601,7 @@
       ],
       "user_name": "Robert Adamson",
       "user_username": "robertadam987_",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4691936",
@@ -6701,8 +6613,8 @@
       "published_timestamp": "2026-09-19T07:53:38Z",
       "published_at": "2026-09-19T07:53:38Z",
       "edited_at": null,
-      "public_reactions_count": 50,
-      "positive_reactions_count": 50,
+      "public_reactions_count": 51,
+      "positive_reactions_count": 51,
       "tag_list": [
         "ai",
         "webdev",
@@ -6711,7 +6623,7 @@
       ],
       "user_name": "Info Inlet",
       "user_username": "infoinlet1",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4694383",
@@ -6733,7 +6645,7 @@
       ],
       "user_name": "Divya",
       "user_username": "divyasinghdev",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4699313",
@@ -6755,7 +6667,7 @@
       ],
       "user_name": "Mika Flowers",
       "user_username": "mikachu",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4699896",
@@ -6767,8 +6679,8 @@
       "published_timestamp": "2026-09-21T04:00:59Z",
       "published_at": "2026-09-21T04:00:59Z",
       "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "productivity",
         "discuss",
@@ -6777,7 +6689,7 @@
       ],
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4700250",
@@ -6799,7 +6711,7 @@
       ],
       "user_name": "Brad Traversy",
       "user_username": "bradtraversy",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4701626",
@@ -6811,8 +6723,8 @@
       "published_timestamp": "2026-09-21T18:07:10Z",
       "published_at": "2026-09-21T18:07:10Z",
       "edited_at": "2026-09-22T04:15:22Z",
-      "public_reactions_count": 112,
-      "positive_reactions_count": 112,
+      "public_reactions_count": 117,
+      "positive_reactions_count": 117,
       "tag_list": [
         "programming",
         "discuss",
@@ -6821,7 +6733,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4701824",
@@ -6843,7 +6755,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4702045",
@@ -6855,8 +6767,8 @@
       "published_timestamp": "2026-09-21T07:14:46Z",
       "published_at": "2026-09-21T07:14:46Z",
       "edited_at": null,
-      "public_reactions_count": 156,
-      "positive_reactions_count": 156,
+      "public_reactions_count": 160,
+      "positive_reactions_count": 160,
       "tag_list": [
         "ai",
         "webdev",
@@ -6865,7 +6777,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4702313",
@@ -6877,8 +6789,8 @@
       "published_timestamp": "2026-09-24T00:01:13Z",
       "published_at": "2026-09-24T00:01:13Z",
       "edited_at": null,
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "career",
         "softwaredevelopment",
@@ -6887,7 +6799,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4703644",
@@ -6909,7 +6821,7 @@
       ],
       "user_name": "Info Inlet",
       "user_username": "infoinlet1",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4705617",
@@ -6930,7 +6842,7 @@
       ],
       "user_name": "UnitBuilds",
       "user_username": "unitbuilds",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4706194",
@@ -6974,7 +6886,29 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
+    },
+    {
+      "key": "4708887",
+      "id": 4708887,
+      "canonical_url": "https://shubhra.dev/tutorials/react-19-suspense",
+      "url": "https://dev.to/shubhradev/react-19s-usetransition-looked-simple-then-i-found-a-second-bug-hiding-inside-the-first-one-35dk",
+      "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
+      "description": "Every hook in this series so far has been a passenger. useActionState rides inside a Transition and...",
+      "published_timestamp": "2026-09-21T15:32:13Z",
+      "published_at": "2026-09-21T15:32:13Z",
+      "edited_at": "2026-09-21T15:32:28Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "webdev",
+        "programming",
+        "react",
+        "javascript"
+      ],
+      "user_name": "Shubhra Pokhariya",
+      "user_username": "shubhradev",
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4710440",
@@ -6996,7 +6930,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4710702",
@@ -7017,7 +6951,29 @@
       ],
       "user_name": "Daniel Reis",
       "user_username": "danielhe4rt",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
+    },
+    {
+      "key": "4712938",
+      "id": 4712938,
+      "canonical_url": "https://dev.to/james_anderson_h/the-git-recovery-guide-how-to-undo-anything-without-panic-547e",
+      "url": "https://dev.to/james_anderson_h/the-git-recovery-guide-how-to-undo-anything-without-panic-547e",
+      "title": "The Git Recovery Guide: How to Undo Anything (Without Panic)",
+      "description": "There's a specific feeling every developer knows. You run a git command, hit Enter, and half a second...",
+      "published_timestamp": "2026-09-22T06:36:57Z",
+      "published_at": "2026-09-22T06:36:57Z",
+      "edited_at": null,
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "git",
+        "programming",
+        "webdev",
+        "beginners"
+      ],
+      "user_name": "James Anderson",
+      "user_username": "james_anderson_h",
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4713279",
@@ -7029,8 +6985,8 @@
       "published_timestamp": "2026-09-22T07:22:16Z",
       "published_at": "2026-09-22T07:22:16Z",
       "edited_at": null,
-      "public_reactions_count": 95,
-      "positive_reactions_count": 95,
+      "public_reactions_count": 97,
+      "positive_reactions_count": 97,
       "tag_list": [
         "discuss",
         "career",
@@ -7039,7 +6995,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4716663",
@@ -7051,8 +7007,8 @@
       "published_timestamp": "2026-09-22T13:19:12Z",
       "published_at": "2026-09-22T13:19:12Z",
       "edited_at": null,
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
+      "public_reactions_count": 44,
+      "positive_reactions_count": 44,
       "tag_list": [
         "software",
         "career",
@@ -7061,7 +7017,7 @@
       ],
       "user_name": "Remo H. Jansen",
       "user_username": "remojansen",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4717653",
@@ -7083,7 +7039,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4720736",
@@ -7105,7 +7061,7 @@
       ],
       "user_name": "Robert Adamson",
       "user_username": "robertadam987_",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4721431",
@@ -7127,7 +7083,7 @@
       ],
       "user_name": "Info Inlet",
       "user_username": "infoinlet1",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4721820",
@@ -7139,8 +7095,8 @@
       "published_timestamp": "2026-09-23T06:26:56Z",
       "published_at": "2026-09-23T06:26:56Z",
       "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 32,
+      "positive_reactions_count": 32,
       "tag_list": [
         "career",
         "ai",
@@ -7149,7 +7105,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4724515",
@@ -7171,7 +7127,7 @@
       ],
       "user_name": "Mika Flowers",
       "user_username": "mikachu",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4726858",
@@ -7183,12 +7139,12 @@
       "published_timestamp": "2026-09-23T17:06:01Z",
       "published_at": "2026-09-23T17:06:01Z",
       "edited_at": null,
-      "public_reactions_count": 56,
-      "positive_reactions_count": 56,
+      "public_reactions_count": 61,
+      "positive_reactions_count": 61,
       "tag_list": [],
       "user_name": "Maame Afua A. P. Fordjour ",
       "user_username": "maame-codes",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4727280",
@@ -7210,7 +7166,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     },
     {
       "key": "4727332",
@@ -7244,8 +7200,8 @@
       "published_timestamp": "2026-09-23T22:42:13Z",
       "published_at": "2026-09-23T22:42:13Z",
       "edited_at": "2026-09-24T02:16:54Z",
-      "public_reactions_count": 50,
-      "positive_reactions_count": 50,
+      "public_reactions_count": 57,
+      "positive_reactions_count": 57,
       "tag_list": [
         "github",
         "webdev",
@@ -7254,7 +7210,29 @@
       ],
       "user_name": "Anna Villarreal",
       "user_username": "annavi11arrea1",
-      "last_seen": "2026-09-25T07:41:23.059151114+00:00"
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
+    },
+    {
+      "key": "4740322",
+      "id": 4740322,
+      "canonical_url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
+      "url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
+      "title": "Your API's newest users are agents...",
+      "description": "Who called your API last?  For us, the honest answer is more and more often an agent. Claude Code...",
+      "published_timestamp": "2026-09-25T08:14:55Z",
+      "published_at": "2026-09-25T08:14:55Z",
+      "edited_at": "2026-09-25T08:21:14Z",
+      "public_reactions_count": 54,
+      "positive_reactions_count": 54,
+      "tag_list": [
+        "ai",
+        "api",
+        "mcp",
+        "webdev"
+      ],
+      "user_name": "Nikolas Dimitroulakis",
+      "user_username": "nikolas_dimitroulakis_d23",
+      "last_seen": "2026-09-25T13:40:19.709338915+00:00"
     }
   ]
 }
