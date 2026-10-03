@@ -53,7 +53,7 @@
     <title>The Accidental Blogger: How I Ended Up on DEV</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/the-accidental-blogger-how-i-ended-up-on-dev-5a3f"/>
     <updated>2026-09-29T06:11:11+00:00</updated>
-    <summary type="html">Reactions: public 182 / positive 182&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-09-29T06:11:11Z&lt;br/&gt;Tags: mentalhealth, discuss&lt;br/&gt;Description: This is going to be a more personal post, exposing my entire personal branding strategy, or rather,...</summary>
+    <summary type="html">Reactions: public 183 / positive 183&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-09-29T06:11:11Z&lt;br/&gt;Tags: mentalhealth, discuss&lt;br/&gt;Description: This is going to be a more personal post, exposing my entire personal branding strategy, or rather,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4282824</id>
@@ -161,6 +161,13 @@
     <summary type="html">Reactions: public 134 / positive 134&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T18:07:10Z&lt;br/&gt;Tags: programming, discuss, documentation, coding&lt;br/&gt;Description: Table of Contents    A Line That Does Nothing... Except Keep Production Alive Some Code...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4781665</id>
+    <title>I Turned My GitHub Profile Into a Cyberpunk Console With a City Built From My Contributions</title>
+    <link rel="alternate" href="https://dev.to/georgekobaidze/i-turned-my-github-profile-into-a-cyberpunk-console-with-a-city-built-from-my-contributions-h4c"/>
+    <updated>2026-10-01T18:58:54+00:00</updated>
+    <summary type="html">Reactions: public 133 / positive 133&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-10-01T18:02:38Z&lt;br/&gt;Tags: python, showdev, github, design&lt;br/&gt;Description: I just wanted a custom profile. I completely overcooked it.  Don&apos;t feel like reading? Fair. But...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4754094</id>
     <title>Prompt Injection Is the New SQL Injection (and We&apos;re Not Ready)</title>
     <link rel="alternate" href="https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4"/>
@@ -201,13 +208,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/how-long-does-it-take-for-you-to-write-a-devto-article-49m1"/>
     <updated>2026-08-31T14:45:00+00:00</updated>
     <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T14:45:00Z&lt;br/&gt;Tags: discuss, community, writing, devto&lt;br/&gt;Description: It takes me 2 hours.    I am not joking. Usually, I don&apos;t have it &quot;planned&quot; before I started to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4781665</id>
-    <title>I Turned My GitHub Profile Into a Cyberpunk Console With a City Built From My Contributions</title>
-    <link rel="alternate" href="https://dev.to/georgekobaidze/i-turned-my-github-profile-into-a-cyberpunk-console-with-a-city-built-from-my-contributions-h4c"/>
-    <updated>2026-10-01T18:58:54+00:00</updated>
-    <summary type="html">Reactions: public 125 / positive 125&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-10-01T18:02:38Z&lt;br/&gt;Tags: python, showdev, github, design&lt;br/&gt;Description: I just wanted a custom profile. I completely overcooked it.  Don&apos;t feel like reading? Fair. But...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4382480</id>
@@ -525,18 +525,18 @@
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T13:04:47Z&lt;br/&gt;Tags: ai, programming, webdev, career&lt;br/&gt;Description: Can&apos;t believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4743843</id>
+    <title>TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧</title>
+    <link rel="alternate" href="https://is-kit.dev/guides/typescript-compiler-api"/>
+    <updated>2026-09-30T14:34:27+00:00</updated>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T14:34:27Z&lt;br/&gt;Tags: typescript, opensource, webdev, frontend&lt;br/&gt;Description: Hoi hoi! 👋  I&apos;m @nyaomaru, a frontend engineer exploring new possibilities with Jev 😸 (I&apos;m also...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4385699</id>
     <title>24 Cups, 36 Seats — The Bartender&apos;s Ledger</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj"/>
     <updated>2026-08-13T08:04:00+00:00</updated>
     <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-13T07:58:42Z&lt;br/&gt;Tags: career, discuss, ai, programming&lt;br/&gt;Description: 24 stories. 24 visits. One counter, same six faces.              The Third Cup   The AI wave hit, and...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4743843</id>
-    <title>TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧</title>
-    <link rel="alternate" href="https://is-kit.dev/guides/typescript-compiler-api"/>
-    <updated>2026-09-30T14:34:27+00:00</updated>
-    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T14:34:27Z&lt;br/&gt;Tags: typescript, opensource, webdev, frontend&lt;br/&gt;Description: Hoi hoi! 👋  I&apos;m @nyaomaru, a frontend engineer exploring new possibilities with Jev 😸 (I&apos;m also...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4724515</id>
@@ -775,6 +775,13 @@
     <link rel="alternate" href="https://blog.mlh.com/hey-everyone-im-sanidhya-from-mlh-25an"/>
     <updated>2026-09-04T03:04:42+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sanidhya_at_mlh&quot;&gt;Sanidhya Goel&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T03:04:14Z&lt;br/&gt;Tags: mlh, community, devrel, career&lt;br/&gt;Description: MLH AI Roadshow Bengaluru       Hey Everyone! I am Sanidhya Goel, a new MLH Hackathon Community...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4766339</id>
+    <title>What was your win this week?</title>
+    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4jli"/>
+    <updated>2026-10-02T13:00:00+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-10-02T13:00:00Z&lt;br/&gt;Tags: weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4589253</id>
@@ -1029,13 +1036,6 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T15:38:17Z&lt;br/&gt;Tags: hacktoberfest, opensource, ai, agents&lt;br/&gt;Description: We have some news we&apos;re excited to share today: Major League Hacking (MLH) and DEV are partnering...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4766339</id>
-    <title>What was your win this week?</title>
-    <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-4jli"/>
-    <updated>2026-10-02T13:00:00+00:00</updated>
-    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-10-02T13:00:00Z&lt;br/&gt;Tags: weeklyretro&lt;br/&gt;Description: 👋👋👋👋 Looking back on your week -- what was something you&apos;re proud of? All wins count -- big or small...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4762041</id>
     <title>The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them</title>
     <link rel="alternate" href="https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk"/>
@@ -1190,6 +1190,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/smtahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-10-01T10:45:35Z&lt;br/&gt;Tags: csharp, dotnet, programming, beginners&lt;br/&gt;Description: The biggest myth in C# is that structs live on the stack and classes live on the heap. Here is what the CLR actually does with your data.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4776315</id>
+    <title>1 in 5 Packages Your AI Suggests Don&apos;t Exist. Attackers Know Which Ones.</title>
+    <link rel="alternate" href="https://dev.to/james_anderson_h/slopsquatting-your-ai-invented-a-package-and-an-attacker-was-waiting-1g67"/>
+    <updated>2026-09-30T10:49:29+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T08:37:59Z&lt;br/&gt;Tags: security, ai, discuss, webdev&lt;br/&gt;Description: You ask your AI assistant how to do something. It gives you clean, confident code, with an install...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4761284</id>
     <title>Half the AI agents in production are if-statements with a GPU bill</title>
     <link rel="alternate" href="https://dev.to/cyclopt_dimitrisk/half-the-ai-agents-in-production-are-if-statements-with-a-gpu-bill-4934"/>
@@ -1225,13 +1232,6 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mikachu&quot;&gt;Mika Flowers&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T11:09:16Z&lt;br/&gt;Tags: beginners, career, learning, softwaredevelopment&lt;br/&gt;Description: When I think about what it means to be unconventional, to learn to figure things out on your own, I...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4776315</id>
-    <title>1 in 5 Packages Your AI Suggests Don&apos;t Exist. Attackers Know Which Ones.</title>
-    <link rel="alternate" href="https://dev.to/james_anderson_h/slopsquatting-your-ai-invented-a-package-and-an-attacker-was-waiting-1g67"/>
-    <updated>2026-09-30T10:49:29+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T08:37:59Z&lt;br/&gt;Tags: security, ai, discuss, webdev&lt;br/&gt;Description: You ask your AI assistant how to do something. It gives you clean, confident code, with an install...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4648231</id>
     <title>I Throttled My App to Slow 3G. Here&apos;s What My Tests Never Caught</title>
     <link rel="alternate" href="https://shubhra.dev/blog/slow-3g-bugs-tests-missed"/>
@@ -1244,6 +1244,13 @@
     <link rel="alternate" href="https://composio.dev/content/pi-agent-vs-claude-code"/>
     <updated>2026-08-11T13:36:48+00:00</updated>
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T13:36:48Z&lt;br/&gt;Tags: ai, productivity, opensource, architecture&lt;br/&gt;Description: While researching for this post, I found out something funny. Pi, the most interesting coding agent...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4788126</id>
+    <title>I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.</title>
+    <link rel="alternate" href="https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81"/>
+    <updated>2026-10-03T05:23:55+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/soumyadeepdey&quot;&gt;Soumyadeep Dey &lt;/a&gt;&lt;br/&gt;Published: 2026-10-02T15:34:23Z&lt;br/&gt;Tags: devchallenge, kagglechallenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Kaggle Benchmarking Challenge  I fed 15 AI models a growing pile of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4552700</id>
@@ -1370,13 +1377,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/how-i-made-javascript-execution-visual-and-rewindable-dsa-view-view--42k4"/>
     <updated>2026-07-29T10:42:13+00:00</updated>
     <summary type="html">Reactions: public 41 / positive 41&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-07-29T10:42:13Z&lt;br/&gt;Tags: javascript, typescript, webdev, opensource&lt;br/&gt;Description: Hoi hoi!  I&apos;m @nyaomaru, a frontend engineer who was recently knocked off my feet by how good the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4788126</id>
-    <title>I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.</title>
-    <link rel="alternate" href="https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81"/>
-    <updated>2026-10-03T05:23:55+00:00</updated>
-    <summary type="html">Reactions: public 40 / positive 40&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/soumyadeepdey&quot;&gt;Soumyadeep Dey &lt;/a&gt;&lt;br/&gt;Published: 2026-10-02T15:34:23Z&lt;br/&gt;Tags: devchallenge, kagglechallenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Kaggle Benchmarking Challenge  I fed 15 AI models a growing pile of...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4702311</id>
