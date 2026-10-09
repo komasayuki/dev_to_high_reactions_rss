@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-10-08T07:00:15+00:00</updated>
+  <updated>2026-10-09T01:33:28+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -46,7 +46,7 @@
     <title>Why you still need a Website Portfolio, even though everyone can Vibe Code it.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"/>
     <updated>2026-10-05T23:54:12+00:00</updated>
-    <summary type="html">Reactions: public 214 / positive 214&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T15:09:58Z&lt;br/&gt;Tags: discuss, community, showdev, a11y&lt;br/&gt;Description: If you have been following me for a long time, you already know that I have been holding off on my...</summary>
+    <summary type="html">Reactions: public 215 / positive 215&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T15:09:58Z&lt;br/&gt;Tags: discuss, community, showdev, a11y&lt;br/&gt;Description: If you have been following me for a long time, you already know that I have been holding off on my...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4296692</id>
@@ -742,6 +742,13 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T13:16:48Z&lt;br/&gt;Tags: typescript, opensource, webdev, frontend&lt;br/&gt;Description: Hoi hoi!  I&apos;m @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4810584</id>
+    <title>I Think We&apos;re Forgetting How to Be Bored</title>
+    <link rel="alternate" href="https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5"/>
+    <updated>2026-10-07T06:59:26+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T06:59:26Z&lt;br/&gt;Tags: discuss, mentalhealth, productivity, ai&lt;br/&gt;Description: You know the moment. You&apos;re waiting for the kettle, or the elevator, or a page to load, or a friend...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4521801</id>
     <title>Learn Number of Islands, Invert Binary Tree, and Course Schedule with Step-by-Step Visualization in DSA View View 👀👀</title>
     <link rel="alternate" href="https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947"/>
@@ -761,13 +768,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-24-leo-built-a-corridor-the-ai-thought-it-was-a-road-3blf"/>
     <updated>2026-08-10T10:18:13+00:00</updated>
     <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-10T09:54:57Z&lt;br/&gt;Tags: career, ai, discuss, programming&lt;br/&gt;Description: Between two great powers, when a neighbor presses you to follow, borrow its momentum. A cornered...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4810584</id>
-    <title>I Think We&apos;re Forgetting How to Be Bored</title>
-    <link rel="alternate" href="https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5"/>
-    <updated>2026-10-07T06:59:26+00:00</updated>
-    <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T06:59:26Z&lt;br/&gt;Tags: discuss, mentalhealth, productivity, ai&lt;br/&gt;Description: You know the moment. You&apos;re waiting for the kettle, or the elevator, or a page to load, or a friend...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4609906</id>
@@ -903,6 +903,13 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:21:53Z&lt;br/&gt;Tags: ai, programming, showdev, discuss&lt;br/&gt;Description: Your AI coding agent does exactly what you ask, which isn&apos;t always what you mean. NexPath catches vague prompts before they become bugs.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4792945</id>
+    <title>Migrating a Real TypeScript OSS Library from tsup to tsdown 🔧</title>
+    <link rel="alternate" href="https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80"/>
+    <updated>2026-10-09T01:33:28+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T15:59:28Z&lt;br/&gt;Tags: typescript, opensource, webdev, frontend&lt;br/&gt;Description: The config migration was small. Preserving the package contract was the interesting part.   Hoi hoi!...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4514731</id>
     <title>Amazon AI Blocked My Kindle Book. I Asked What Went Wrong. Then They Approved It.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi"/>
@@ -936,13 +943,6 @@
     <link rel="alternate" href="https://bestpractic.org/blog/broadcast-channel-cross-tab-messaging"/>
     <updated>2026-08-12T18:31:33+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/parsajiravand&quot;&gt;Parsa Jiravand&lt;/a&gt;&lt;br/&gt;Published: 2026-08-09T07:02:41Z&lt;br/&gt;Tags: javascript, webdev, frontend, api&lt;br/&gt;Description: When a user logs out in one tab, the other tabs should follow. When they update their cart, every...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4792945</id>
-    <title>Migrating a Real TypeScript OSS Library from tsup to tsdown</title>
-    <link rel="alternate" href="https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80"/>
-    <updated>2026-10-07T15:59:28+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T15:59:28Z&lt;br/&gt;Tags: typescript, opensource, webdev, frontend&lt;br/&gt;Description: The config migration was small. Preserving the package contract was the interesting part.   Hoi hoi!...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4796510</id>
@@ -1071,6 +1071,13 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mikachu&quot;&gt;Mika Flowers&lt;/a&gt;&lt;br/&gt;Published: 2026-10-07T13:27:39Z&lt;br/&gt;Tags: discuss, productivity, webdev, programming&lt;br/&gt;Description: I&apos;ve always loved the idea of reusing old hardware, especially when it&apos;s still more than capable of...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4799560</id>
+    <title>The Witness Was the Suspect: Why AI Audit Logs Can&apos;t Be Trusted</title>
+    <link rel="alternate" href="https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190"/>
+    <updated>2026-10-06T09:44:06+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T06:02:25Z&lt;br/&gt;Tags: ai, security, agents, discuss&lt;br/&gt;Description: An AI agent does something it shouldn&apos;t. It leaks data, or wipes the wrong database, or makes a call...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4762041</id>
     <title>The 7 Walls JavaScript Hits — and How WebAssembly Gets Past Them</title>
     <link rel="alternate" href="https://dev.to/james_anderson_h/the-7-walls-javascript-hits-and-how-webassembly-gets-past-them-3khk"/>
@@ -1097,13 +1104,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/is-learning-dsa-boring-lets-use-dsa-view-view-two-sum-binary-search-and-bubble-sort-374o"/>
     <updated>2026-08-19T15:34:37+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T14:43:44Z&lt;br/&gt;Tags: dsa, typescript, opensource, learning&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who dislikes crowded places, so I&apos;m planning to take a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4799560</id>
-    <title>The Witness Was the Suspect: Why AI Audit Logs Can&apos;t Be Trusted</title>
-    <link rel="alternate" href="https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190"/>
-    <updated>2026-10-06T09:44:06+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T06:02:25Z&lt;br/&gt;Tags: ai, security, agents, discuss&lt;br/&gt;Description: An AI agent does something it shouldn&apos;t. It leaks data, or wipes the wrong database, or makes a call...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4749245</id>
@@ -1260,6 +1260,13 @@
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kenwalger&quot;&gt;Ken W Alger&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T15:14:00Z&lt;br/&gt;Tags: career, discuss, humor, programming&lt;br/&gt;Description: Because &quot;we&apos;ll be in touch&quot; is not an observable state.  I submitted a job application recently.  It...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4776935</id>
+    <title>To Retry or Not to Retry? That Is the Question.</title>
+    <link rel="alternate" href="https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"/>
+    <updated>2026-10-08T07:00:15+00:00</updated>
+    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-08T07:00:15Z&lt;br/&gt;Tags: devchallenge, kagglechallenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4801797</id>
     <title>I Built My Friend a Mock Interviewer That Read His Rust Code</title>
     <link rel="alternate" href="https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif"/>
@@ -1321,13 +1328,6 @@
     <link rel="alternate" href="https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a"/>
     <updated>2026-08-15T09:39:22+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/varshithvhegde&quot;&gt;Varshith V Hegde&lt;/a&gt;&lt;br/&gt;Published: 2026-08-15T09:39:22Z&lt;br/&gt;Tags: devchallenge, weekendchallenge&lt;br/&gt;Description: This is a submission for Weekend Challenge: Dog Days Edition           What I Built   Remember Neko...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4776935</id>
-    <title>To Retry or Not to Retry? That Is the Question.</title>
-    <link rel="alternate" href="https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"/>
-    <updated>2026-10-08T07:00:15+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-08T07:00:15Z&lt;br/&gt;Tags: devchallenge, kagglechallenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4806121</id>
