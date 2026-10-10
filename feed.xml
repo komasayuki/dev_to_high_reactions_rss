@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-10-09T14:55:22+00:00</updated>
+  <updated>2026-10-09T19:32:27+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -25,7 +25,7 @@
     <title>Why you still need a Website Portfolio, even though everyone can Vibe Code it.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63"/>
     <updated>2026-10-05T23:54:12+00:00</updated>
-    <summary type="html">Reactions: public 238 / positive 238&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T15:09:58Z&lt;br/&gt;Tags: discuss, community, showdev, a11y&lt;br/&gt;Description: If you have been following me for a long time, you already know that I have been holding off on my...</summary>
+    <summary type="html">Reactions: public 243 / positive 243&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T15:09:58Z&lt;br/&gt;Tags: discuss, community, showdev, a11y&lt;br/&gt;Description: If you have been following me for a long time, you already know that I have been holding off on my...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4676493</id>
@@ -518,6 +518,13 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T17:06:01Z&lt;br/&gt;Tags: none&lt;br/&gt;Description: If you checked my profile recently, you probably noticed my page has been completely quiet since...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4823945</id>
+    <title>Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec"/>
+    <updated>2026-10-09T14:55:22+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T14:55:22Z&lt;br/&gt;Tags: discuss, community, resources, opportunities&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4679179</id>
     <title>Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"/>
@@ -649,13 +656,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09"/>
     <updated>2026-08-27T14:54:23+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T14:18:19Z&lt;br/&gt;Tags: typescript, algorithms, opensource, dsa&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4823945</id>
-    <title>Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec"/>
-    <updated>2026-10-09T14:55:22+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T14:55:22Z&lt;br/&gt;Tags: discuss, community, resources, opportunities&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4742153</id>
@@ -959,6 +959,13 @@
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/athulya_r&quot;&gt;Athulya R&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T06:50:28Z&lt;br/&gt;Tags: programming, webdev, javascript, productivity&lt;br/&gt;Description: Most enterprises already run their operations on ServiceNow. The question isn&apos;t &quot;should we use...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4776935</id>
+    <title>To Retry or Not to Retry? That Is the Question.</title>
+    <link rel="alternate" href="https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"/>
+    <updated>2026-10-08T07:00:15+00:00</updated>
+    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-08T07:00:15Z&lt;br/&gt;Tags: devchallenge, kagglechallenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4572132</id>
     <title>Stratagems #28: Mark Built a Ladder. The AI Climbed to the Top.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-28-mark-built-a-ladder-the-ai-climbed-to-the-top-1fm0"/>
@@ -971,13 +978,6 @@
     <link rel="alternate" href="https://dev.to/kenielzep97/tell-me-about-you-1hi4"/>
     <updated>2026-08-31T05:02:54+00:00</updated>
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kenielzep97&quot;&gt;Self-Correcting Systems&lt;/a&gt;&lt;br/&gt;Published: 2026-08-30T19:05:28Z&lt;br/&gt;Tags: watercooler, discuss, community, ai&lt;br/&gt;Description: After sixty-seven published posts here, the comments have become one of the best parts of the work....</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4776935</id>
-    <title>To Retry or Not to Retry? That Is the Question.</title>
-    <link rel="alternate" href="https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l"/>
-    <updated>2026-10-08T07:00:15+00:00</updated>
-    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-08T07:00:15Z&lt;br/&gt;Tags: devchallenge, kagglechallenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Kaggle Benchmarking Challenge  Those who read my articles know that a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4812559</id>
@@ -1302,6 +1302,13 @@
     <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shricodev&quot;&gt;Shrijal Acharya&lt;/a&gt;&lt;br/&gt;Published: 2026-08-11T13:36:48Z&lt;br/&gt;Tags: ai, productivity, opensource, architecture&lt;br/&gt;Description: While researching for this post, I found out something funny. Pi, the most interesting coding agent...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4825130</id>
+    <title>Congrats to the Hacktoberfest Weekend Challenge: Build for a Friend Winners!</title>
+    <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-hacktoberfest-weekend-challenge-build-for-a-friend-winners-pgc"/>
+    <updated>2026-10-09T19:32:27+00:00</updated>
+    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T19:32:27Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, hf26challenge&lt;br/&gt;Description: We are so excited to announce the winners of the Hacktoberfest Weekend Challenge: Build for a Friend,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4797493</id>
     <title>Gift Hunter: An AI Agent That Finds Gifts They’ll Actually Want</title>
     <link rel="alternate" href="https://dev.to/dj29/gift-hunter-an-ai-agent-that-finds-gifts-theyll-actually-want-3mkb"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn"/>
     <updated>2026-09-06T22:19:59+00:00</updated>
     <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dannwaneri&quot;&gt;Daniel Nwaneri&lt;/a&gt;&lt;br/&gt;Published: 2026-09-06T22:19:59Z&lt;br/&gt;Tags: weekendchallenge, devchallenge, solana, gemini&lt;br/&gt;Description: This is a submission for Weekend Challenge: Generosity Edition           What I Built   My late...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4485612</id>
-    <title>Your Job Ends at 5. Your Developer Brain Doesn&apos;t.</title>
-    <link rel="alternate" href="https://dev.to/harsh2644/your-job-ends-at-5-your-developer-brain-doesnt-26m8"/>
-    <updated>2026-08-25T13:10:21+00:00</updated>
-    <summary type="html">Reactions: public 42 / positive 42&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/harsh2644&quot;&gt;Harsh &lt;/a&gt;&lt;br/&gt;Published: 2026-08-25T13:10:21Z&lt;br/&gt;Tags: mentalhealth, career, productivity, discuss&lt;br/&gt;Description: 5:00 PM. Laptop closed. Slack closed. Workday over. Except my brain didn&apos;t get the memo.  I&apos;m making...</summary>
   </entry>
 </feed>
