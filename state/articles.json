@@ -189,28 +189,6 @@
       "last_seen": "2026-08-17T14:38:54.592753543+00:00"
     },
     {
-      "key": "4342741",
-      "id": 4342741,
-      "canonical_url": "https://christine-seeman.com/breadcrumbs-instead-of-notes/",
-      "url": "https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0",
-      "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
-      "description": "I read back six months of my own work journal and found three different note-taking systems, only one of which I remember deciding to build. This is what the volume of information actually did to my notes, what got better, what I lost, and how I capture things now.",
-      "published_timestamp": "2026-08-07T19:39:15Z",
-      "published_at": "2026-08-07T19:39:15Z",
-      "edited_at": null,
-      "public_reactions_count": 33,
-      "positive_reactions_count": 33,
-      "tag_list": [
-        "ai",
-        "productivity",
-        "notion",
-        "claudecode"
-      ],
-      "user_name": "christine",
-      "user_username": "cseeman",
-      "last_seen": "2026-08-14T19:09:17.096594627+00:00"
-    },
-    {
       "key": "4344653",
       "id": 4344653,
       "canonical_url": "https://dev.to/francistrdev/i-joined-devto-because-fl0",
@@ -771,28 +749,6 @@
       "user_name": "Ken W Alger",
       "user_username": "kenwalger",
       "last_seen": "2026-08-20T23:35:54.004124514+00:00"
-    },
-    {
-      "key": "4398453",
-      "id": 4398453,
-      "canonical_url": "https://dev.to/rmohitjoe/using-rlm-cuts-token-costs-by-96-for-llm-29j0",
-      "url": "https://dev.to/rmohitjoe/using-rlm-cuts-token-costs-by-96-for-llm-29j0",
-      "title": "Using RLM Cut's Token Costs by 96% for LLM",
-      "description": "As someone who is constantly exploring ways to make AI applications faster and cheaper, I found...",
-      "published_timestamp": "2026-08-14T17:31:53Z",
-      "published_at": "2026-08-14T17:31:53Z",
-      "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
-      "tag_list": [
-        "rust",
-        "ai",
-        "opensource",
-        "llm"
-      ],
-      "user_name": "R. Mohit joe",
-      "user_username": "rmohitjoe",
-      "last_seen": "2026-08-14T18:02:38.332466398+00:00"
     },
     {
       "key": "4398495",
@@ -5639,7 +5595,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "smtahosin",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4729395",
@@ -5683,7 +5639,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "smtahosin",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4731699",
@@ -6568,8 +6524,8 @@
       "published_timestamp": "2026-10-08T07:00:15Z",
       "published_at": "2026-10-08T07:00:15Z",
       "edited_at": null,
-      "public_reactions_count": 94,
-      "positive_reactions_count": 94,
+      "public_reactions_count": 95,
+      "positive_reactions_count": 95,
       "tag_list": [
         "devchallenge",
         "kagglechallenge",
@@ -6578,7 +6534,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4778910",
@@ -7070,8 +7026,8 @@
       "published_timestamp": "2026-10-07T15:59:28Z",
       "published_at": "2026-10-07T15:59:28Z",
       "edited_at": "2026-10-09T01:33:28Z",
-      "public_reactions_count": 74,
-      "positive_reactions_count": 74,
+      "public_reactions_count": 75,
+      "positive_reactions_count": 75,
       "tag_list": [
         "typescript",
         "opensource",
@@ -7080,7 +7036,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4793031",
@@ -7778,7 +7734,7 @@
       ],
       "user_name": "Info Inlet",
       "user_username": "infoinlet1",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4810584",
@@ -7790,8 +7746,8 @@
       "published_timestamp": "2026-10-07T06:59:26Z",
       "published_at": "2026-10-07T06:59:26Z",
       "edited_at": null,
-      "public_reactions_count": 85,
-      "positive_reactions_count": 85,
+      "public_reactions_count": 86,
+      "positive_reactions_count": 86,
       "tag_list": [
         "discuss",
         "mentalhealth",
@@ -7800,7 +7756,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4810870",
@@ -7822,7 +7778,7 @@
       ],
       "user_name": "Harun - solo dev ",
       "user_username": "koda2026",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4812559",
@@ -7844,7 +7800,7 @@
       ],
       "user_name": "Mika Flowers",
       "user_username": "mikachu",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4812597",
@@ -7866,7 +7822,7 @@
       ],
       "user_name": "DaC",
       "user_username": "danielecangi",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4813604",
@@ -7888,7 +7844,7 @@
       ],
       "user_name": "David",
       "user_username": "hubedav",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4816094",
@@ -7907,7 +7863,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4817363",
@@ -7929,7 +7885,7 @@
       ],
       "user_name": "Eyal Bukchin",
       "user_username": "eyalb",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4819209",
@@ -7963,8 +7919,8 @@
       "published_timestamp": "2026-10-10T15:49:58Z",
       "published_at": "2026-10-10T15:49:58Z",
       "edited_at": null,
-      "public_reactions_count": 94,
-      "positive_reactions_count": 94,
+      "public_reactions_count": 97,
+      "positive_reactions_count": 97,
       "tag_list": [
         "opensource",
         "githubactions",
@@ -7973,7 +7929,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4819543",
@@ -7995,7 +7951,7 @@
       ],
       "user_name": "Harsh Raval",
       "user_username": "devstackhub",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4819778",
@@ -8007,8 +7963,8 @@
       "published_timestamp": "2026-10-08T20:00:18Z",
       "published_at": "2026-10-08T20:00:18Z",
       "edited_at": "2026-10-08T20:08:11Z",
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
+      "public_reactions_count": 44,
+      "positive_reactions_count": 44,
       "tag_list": [
         "ai",
         "gemini",
@@ -8017,7 +7973,7 @@
       ],
       "user_name": "Swift",
       "user_username": "theycallmeswift",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4820943",
@@ -8039,7 +7995,7 @@
       ],
       "user_name": "Aman Maurya",
       "user_username": "amanmaurya92",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4821589",
@@ -8051,8 +8007,8 @@
       "published_timestamp": "2026-10-09T12:26:09Z",
       "published_at": "2026-10-09T12:26:09Z",
       "edited_at": "2026-10-10T03:56:36Z",
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
+      "public_reactions_count": 50,
+      "positive_reactions_count": 50,
       "tag_list": [
         "devchallenge",
         "kagglechallenge",
@@ -8061,7 +8017,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4821943",
@@ -8073,8 +8029,8 @@
       "published_timestamp": "2026-10-09T07:48:11Z",
       "published_at": "2026-10-09T07:48:11Z",
       "edited_at": null,
-      "public_reactions_count": 82,
-      "positive_reactions_count": 82,
+      "public_reactions_count": 86,
+      "positive_reactions_count": 86,
       "tag_list": [
         "ai",
         "programming",
@@ -8083,7 +8039,7 @@
       ],
       "user_name": "NorthernDev",
       "user_username": "the_nortern_dev",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4822941",
@@ -8105,7 +8061,7 @@
       ],
       "user_name": "Pranjal Manhgaye",
       "user_username": "pranjal_manhgaye_d94d7a8f",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4823945",
@@ -8117,8 +8073,8 @@
       "published_timestamp": "2026-10-09T14:55:22Z",
       "published_at": "2026-10-09T14:55:22Z",
       "edited_at": null,
-      "public_reactions_count": 103,
-      "positive_reactions_count": 103,
+      "public_reactions_count": 105,
+      "positive_reactions_count": 105,
       "tag_list": [
         "discuss",
         "community",
@@ -8127,7 +8083,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4824002",
@@ -8149,7 +8105,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4825130",
@@ -8182,8 +8138,8 @@
       "published_timestamp": "2026-10-12T18:18:49Z",
       "published_at": "2026-10-12T18:18:49Z",
       "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
       "tag_list": [
         "dart",
         "ai",
@@ -8192,7 +8148,29 @@
       ],
       "user_name": "Jhin Lee",
       "user_username": "leehack",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
+    },
+    {
+      "key": "4826108",
+      "id": 4826108,
+      "canonical_url": "https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9",
+      "url": "https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9",
+      "title": "AI Fatigue? Yea I know.",
+      "description": "I don't know how to start this off really haha. Though to be fair, everyone is talking about AI...",
+      "published_timestamp": "2026-10-13T14:57:34Z",
+      "published_at": "2026-10-13T14:57:34Z",
+      "edited_at": "2026-10-13T21:00:35Z",
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
+      "tag_list": [
+        "discuss",
+        "community",
+        "ai",
+        "writing"
+      ],
+      "user_name": "FrancisTRᴅᴇᴠ",
+      "user_username": "francistrdev",
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4826446",
@@ -8214,7 +8192,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4826975",
@@ -8236,7 +8214,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4827116",
@@ -8270,8 +8248,8 @@
       "published_timestamp": "2026-10-10T09:07:47Z",
       "published_at": "2026-10-10T09:07:47Z",
       "edited_at": null,
-      "public_reactions_count": 102,
-      "positive_reactions_count": 102,
+      "public_reactions_count": 104,
+      "positive_reactions_count": 104,
       "tag_list": [
         "discuss",
         "career",
@@ -8280,7 +8258,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4828206",
@@ -8302,7 +8280,7 @@
       ],
       "user_name": "S M Tahosin",
       "user_username": "smtahosin",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4828229",
@@ -8322,7 +8300,7 @@
       ],
       "user_name": "Kumuda Sri P",
       "user_username": "kumuda",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4828352",
@@ -8344,7 +8322,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4829872",
@@ -8366,7 +8344,7 @@
       ],
       "user_name": "Subarna Maity",
       "user_username": "dronzer2code",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4830955",
@@ -8378,15 +8356,15 @@
       "published_timestamp": "2026-10-11T02:25:47Z",
       "published_at": "2026-10-11T02:25:47Z",
       "edited_at": null,
-      "public_reactions_count": 45,
-      "positive_reactions_count": 45,
+      "public_reactions_count": 48,
+      "positive_reactions_count": 48,
       "tag_list": [
         "mentalhealth",
         "craft"
       ],
       "user_name": "Anna Villarreal",
       "user_username": "annavi11arrea1",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4831199",
@@ -8408,7 +8386,7 @@
       ],
       "user_name": "Harun - solo dev ",
       "user_username": "koda2026",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4831450",
@@ -8430,7 +8408,7 @@
       ],
       "user_name": "Ritik Ahirwar",
       "user_username": "ritik_ahirwar_8168",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4832569",
@@ -8442,8 +8420,8 @@
       "published_timestamp": "2026-10-11T12:54:29Z",
       "published_at": "2026-10-11T12:54:29Z",
       "edited_at": "2026-10-12T06:07:10Z",
-      "public_reactions_count": 45,
-      "positive_reactions_count": 45,
+      "public_reactions_count": 49,
+      "positive_reactions_count": 49,
       "tag_list": [
         "devchallenge",
         "hf26challenge",
@@ -8452,7 +8430,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4832839",
@@ -8474,7 +8452,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4832848",
@@ -8486,8 +8464,8 @@
       "published_timestamp": "2026-10-11T19:40:43Z",
       "published_at": "2026-10-11T19:40:43Z",
       "edited_at": null,
-      "public_reactions_count": 54,
-      "positive_reactions_count": 54,
+      "public_reactions_count": 58,
+      "positive_reactions_count": 58,
       "tag_list": [
         "devchallenge",
         "kagglechallenge",
@@ -8496,7 +8474,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4832992",
@@ -8518,7 +8496,29 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
+    },
+    {
+      "key": "4833419",
+      "id": 4833419,
+      "canonical_url": "https://dev.to/effessdev/i-was-chasing-the-job-market-one-comment-on-devto-made-me-rethink-everything-4h20",
+      "url": "https://dev.to/effessdev/i-was-chasing-the-job-market-one-comment-on-devto-made-me-rethink-everything-4h20",
+      "title": "I was chasing the job market. One comment on DEV.to made me rethink everything",
+      "description": "Let me ask you something. What are you supposed to learn when the CEOs of all AI companies keep...",
+      "published_timestamp": "2026-10-12T14:44:25Z",
+      "published_at": "2026-10-12T14:44:25Z",
+      "edited_at": "2026-10-13T02:14:41Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "ai",
+        "career",
+        "programming",
+        "discuss"
+      ],
+      "user_name": "EffessDev",
+      "user_username": "effessdev",
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4834012",
@@ -8540,7 +8540,7 @@
       ],
       "user_name": "Earl Grey",
       "user_username": "earlgreyhot1701d",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4837474",
@@ -8562,7 +8562,7 @@
       ],
       "user_name": "Akhouri Anmol Kumar",
       "user_username": "akhourianmolkumar",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     },
     {
       "key": "4838770",
@@ -8591,8 +8591,8 @@
       "published_timestamp": "2026-10-13T07:15:38Z",
       "published_at": "2026-10-13T07:15:38Z",
       "edited_at": null,
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
       "tag_list": [
         "ai",
         "opensource",
@@ -8601,7 +8601,29 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-10-13T15:53:50.659300824+00:00"
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
+    },
+    {
+      "key": "4844771",
+      "id": 4844771,
+      "canonical_url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k",
+      "url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k",
+      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
+      "description": "The Grace Hopper Celebration has been around since 1994, and for a lot of people, it's the event for...",
+      "published_timestamp": "2026-10-13T14:57:57Z",
+      "published_at": "2026-10-13T14:57:57Z",
+      "edited_at": null,
+      "public_reactions_count": 38,
+      "positive_reactions_count": 38,
+      "tag_list": [
+        "wecoded",
+        "news",
+        "dei",
+        "career"
+      ],
+      "user_name": "Jess Lee",
+      "user_username": "jess",
+      "last_seen": "2026-10-13T21:11:29.484637090+00:00"
     }
   ]
 }
