@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-10-13T09:40:47+00:00</updated>
+  <updated>2026-10-13T21:00:35+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -322,6 +322,13 @@
     <summary type="html">Reactions: public 106 / positive 106&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ale3oula&quot;&gt;Alexandra&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T16:38:09Z&lt;br/&gt;Tags: ai, productivity, discuss&lt;br/&gt;Description: My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4827496</id>
+    <title>What Do You Drink While You Work?</title>
+    <link rel="alternate" href="https://dev.to/xulingfeng/what-do-you-drink-while-you-work-17bm"/>
+    <updated>2026-10-10T09:07:47+00:00</updated>
+    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-10-10T09:07:47Z&lt;br/&gt;Tags: discuss, career, programming, webdev&lt;br/&gt;Description: I wrote a fiction series with six characters. Each one drinks a different coffee.  I didn&apos;t plan it...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4823945</id>
     <title>Dev Opportunity Radar #20: $2M AI Reasoning Challenge, PayPal AI Hackathon, and Coinbase Analytics Challenge</title>
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-20-2m-ai-reasoning-challenge-paypal-ai-hackathon-and-coinbase-analytics-1fec"/>
@@ -334,13 +341,6 @@
     <link rel="alternate" href="https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960"/>
     <updated>2026-09-08T06:12:03+00:00</updated>
     <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-09-08T06:12:03Z&lt;br/&gt;Tags: ai, softwareengineering, webdev, agents&lt;br/&gt;Description: I built an agent last year, and I was proud of it.  It had a planner. It had tools. It had a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4827496</id>
-    <title>What Do You Drink While You Work?</title>
-    <link rel="alternate" href="https://dev.to/xulingfeng/what-do-you-drink-while-you-work-17bm"/>
-    <updated>2026-10-10T09:07:47+00:00</updated>
-    <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-10-10T09:07:47Z&lt;br/&gt;Tags: discuss, career, programming, webdev&lt;br/&gt;Description: I wrote a fiction series with six characters. Each one drinks a different coffee.  I didn&apos;t plan it...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4497705</id>
@@ -466,7 +466,14 @@
     <title>🐾 DEV Pet Corner #1: Show Us Your Pets!</title>
     <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-pet-corner-1-show-us-your-pets-39n6"/>
     <updated>2026-10-11T13:52:25+00:00</updated>
-    <summary type="html">Reactions: public 88 / positive 88&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T13:52:25Z&lt;br/&gt;Tags: discuss, community, pets, watercooler&lt;br/&gt;Description: TL;DR  Welcome to DEV Pet Corner, a new weekly series where we take a little break from tech and...</summary>
+    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T13:52:25Z&lt;br/&gt;Tags: discuss, community, pets, watercooler&lt;br/&gt;Description: TL;DR  Welcome to DEV Pet Corner, a new weekly series where we take a little break from tech and...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4821943</id>
+    <title>AI Got Better While I Was Away. Software Didn&apos;t.</title>
+    <link rel="alternate" href="https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b"/>
+    <updated>2026-10-09T07:48:11+00:00</updated>
+    <summary type="html">Reactions: public 89 / positive 89&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T07:48:11Z&lt;br/&gt;Tags: ai, programming, webdev, softwareengineering&lt;br/&gt;Description: I haven&apos;t written here in a while.  Not because I ran out of opinions.  That would be concerning.  I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4743843</id>
@@ -502,13 +509,6 @@
     <link rel="alternate" href="https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei"/>
     <updated>2026-08-27T13:58:08+00:00</updated>
     <summary type="html">Reactions: public 87 / positive 87&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sirelves&quot;&gt;Elves Santos&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:58:08Z&lt;br/&gt;Tags: ai, braziliandevs, career, productivity&lt;br/&gt;Description: Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4821943</id>
-    <title>AI Got Better While I Was Away. Software Didn&apos;t.</title>
-    <link rel="alternate" href="https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b"/>
-    <updated>2026-10-09T07:48:11+00:00</updated>
-    <summary type="html">Reactions: public 86 / positive 86&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/the_nortern_dev&quot;&gt;NorthernDev&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T07:48:11Z&lt;br/&gt;Tags: ai, programming, webdev, softwareengineering&lt;br/&gt;Description: I haven&apos;t written here in a while.  Not because I ran out of opinions.  That would be concerning.  I...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4810584</id>
@@ -994,6 +994,13 @@
     <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kenielzep97&quot;&gt;Self-Correcting Systems&lt;/a&gt;&lt;br/&gt;Published: 2026-08-30T19:05:28Z&lt;br/&gt;Tags: watercooler, discuss, community, ai&lt;br/&gt;Description: After sixty-seven published posts here, the comments have become one of the best parts of the work....</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4826108</id>
+    <title>AI Fatigue? Yea I know.</title>
+    <link rel="alternate" href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"/>
+    <updated>2026-10-13T21:00:35+00:00</updated>
+    <summary type="html">Reactions: public 53 / positive 53&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-13T14:57:34Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I don&apos;t know how to start this off really haha. Though to be fair, everyone is talking about AI...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4271218</id>
     <title>What was your win this week?!</title>
     <link rel="alternate" href="https://dev.to/devteam/what-was-your-win-this-week-51oc"/>
@@ -1134,6 +1141,13 @@
     <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T12:54:29Z&lt;br/&gt;Tags: devchallenge, hf26challenge, gemma, showdev&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass  Coding is my...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4830955</id>
+    <title>💅 Keyboard Makeover</title>
+    <link rel="alternate" href="https://dev.to/annavi11arrea1/keyboard-makeover-i6a"/>
+    <updated>2026-10-11T02:25:47+00:00</updated>
+    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T02:25:47Z&lt;br/&gt;Tags: mentalhealth, craft&lt;br/&gt;Description: I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4749245</id>
     <title>I Built a Better Codex Pet Than OpenAI Did</title>
     <link rel="alternate" href="https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib"/>
@@ -1153,13 +1167,6 @@
     <link rel="alternate" href="https://dev.to/hadil/youre-a-real-python-developer-only-if-94e"/>
     <updated>2026-10-13T09:40:47+00:00</updated>
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-10-12T13:15:32Z&lt;br/&gt;Tags: python, programming, discuss, ruby&lt;br/&gt;Description: A few months ago, I published You&apos;re a Real JavaScript Developer Only If...  It was supposed to be a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4830955</id>
-    <title>💅 Keyboard Makeover</title>
-    <link rel="alternate" href="https://dev.to/annavi11arrea1/keyboard-makeover-i6a"/>
-    <updated>2026-10-11T02:25:47+00:00</updated>
-    <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T02:25:47Z&lt;br/&gt;Tags: mentalhealth, craft&lt;br/&gt;Description: I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:3652548</id>
@@ -1288,6 +1295,13 @@
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-08-08T17:16:03Z&lt;br/&gt;Tags: frontendchallenge, devchallenge, css&lt;br/&gt;Description: This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4844771</id>
+    <title>How I Feel about the Grace Hopper Celebration Getting Cancelled</title>
+    <link rel="alternate" href="https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k"/>
+    <updated>2026-10-13T14:57:57+00:00</updated>
+    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/jess&quot;&gt;Jess Lee&lt;/a&gt;&lt;br/&gt;Published: 2026-10-13T14:57:57Z&lt;br/&gt;Tags: wecoded, news, dei, career&lt;br/&gt;Description: The Grace Hopper Celebration has been around since 1994, and for a lot of people, it&apos;s the event for...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4801797</id>
     <title>I Built My Friend a Mock Interviewer That Read His Rust Code</title>
     <link rel="alternate" href="https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif"/>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/himanshu_748/suniye-let-my-parents-hear-the-message-themselves-41bh"/>
     <updated>2026-10-05T06:49:04+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/himanshu_748&quot;&gt;Himanshu Kumar&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T07:44:01Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, hf26challenge&lt;br/&gt;Description: Built for the Hacktoberfest Weekend Challenge: Build for a Friend.           What I Built   My mother...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4793045</id>
-    <title>I Made Spider-Man Swing Without Animating a Single Frame</title>
-    <link rel="alternate" href="https://dev.to/lovestaco/i-made-spider-man-swing-without-animating-a-single-frame-blender-rigging-and-mcp-14f7"/>
-    <updated>2026-10-03T18:05:39+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/lovestaco&quot;&gt;Athreya aka Maneshwar&lt;/a&gt;&lt;br/&gt;Published: 2026-10-03T18:05:25Z&lt;br/&gt;Tags: blender, mcp, ai, beginners&lt;br/&gt;Description: Hello, I&apos;m Maneshwar, and I&apos;m building LiveReview — a blast-radius aware AI code review built for...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4774772</id>
-    <title>💻 Show Me Your Machine — I’ll Rate It Out of 10</title>
-    <link rel="alternate" href="https://dev.to/akhourianmolkumar/show-me-your-machine-ill-rate-it-out-of-10-50ho"/>
-    <updated>2026-09-30T02:48:51+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/akhourianmolkumar&quot;&gt;Akhouri Anmol Kumar&lt;/a&gt;&lt;br/&gt;Published: 2026-09-30T02:48:51Z&lt;br/&gt;Tags: discuss, productivity, devdiscuss, coding&lt;br/&gt;Description: 💻 Show Me Your Machine — I’ll Rate It Out of 10   Okay developers, builders, founders,...</summary>
   </entry>
 </feed>
