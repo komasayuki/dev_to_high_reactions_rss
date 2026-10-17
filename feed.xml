@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-10-16T17:40:16+00:00</updated>
+  <updated>2026-10-16T20:26:14+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -81,7 +81,7 @@
     <title>Your Browser Can Do WHAT?! 5 AI Features That Actually Work</title>
     <link rel="alternate" href="https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb"/>
     <updated>2026-10-14T07:05:48+00:00</updated>
-    <summary type="html">Reactions: public 158 / positive 158&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T07:05:48Z&lt;br/&gt;Tags: ai, react, javascript, webdev&lt;br/&gt;Description: Are AI models running directly in the browser finally good enough to use in production? Let&apos;s find...</summary>
+    <summary type="html">Reactions: public 162 / positive 162&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T07:05:48Z&lt;br/&gt;Tags: ai, react, javascript, webdev&lt;br/&gt;Description: Are AI models running directly in the browser finally good enough to use in production? Let&apos;s find...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4710702</id>
@@ -109,7 +109,7 @@
     <title>AI Fatigue? Yea I know.</title>
     <link rel="alternate" href="https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"/>
     <updated>2026-10-13T21:00:35+00:00</updated>
-    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-13T14:57:34Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I don&apos;t know how to start this off really haha. Though to be fair, everyone is talking about AI...</summary>
+    <summary type="html">Reactions: public 146 / positive 146&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-13T14:57:34Z&lt;br/&gt;Tags: discuss, community, ai, writing&lt;br/&gt;Description: I don&apos;t know how to start this off really haha. Though to be fair, everyone is talking about AI...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4728082</id>
@@ -385,6 +385,13 @@
     <summary type="html">Reactions: public 98 / positive 98&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/pascal_cescato_692b7a8a20&quot;&gt;Pascal CESCATO&lt;/a&gt;&lt;br/&gt;Published: 2026-08-15T13:06:49Z&lt;br/&gt;Tags: ai, llm, writing, discuss&lt;br/&gt;Description: Anthropic signed the EU AI Act&apos;s Code of Practice on Transparency of AI-Generated Content, and...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4832992</id>
+    <title>🐾 DEV Pet Corner #1: Show Us Your Pets!</title>
+    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-pet-corner-1-show-us-your-pets-39n6"/>
+    <updated>2026-10-11T13:52:25+00:00</updated>
+    <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T13:52:25Z&lt;br/&gt;Tags: discuss, community, pets, watercooler&lt;br/&gt;Description: TL;DR  Welcome to DEV Pet Corner, a new weekly series where we take a little break from tech and...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4632958</id>
     <title>Dev Opportunity Radar #16: $15K AI Agent Hackathon, AI Education Fellowship, and AWS Student Rewards</title>
     <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-16-15k-ai-agent-hackathon-ai-education-fellowship-and-aws-student-rewards-4l2e"/>
@@ -404,13 +411,6 @@
     <link rel="alternate" href="https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b"/>
     <updated>2026-08-24T16:50:39+00:00</updated>
     <summary type="html">Reactions: public 97 / positive 97&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-08-24T09:09:25Z&lt;br/&gt;Tags: webdev, programming, react, nextjs&lt;br/&gt;Description: I went through the documentation and feature list of React DataGrid, and I wrote React DataGrid: A...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4832992</id>
-    <title>🐾 DEV Pet Corner #1: Show Us Your Pets!</title>
-    <link rel="alternate" href="https://dev.to/hemapriya_kanagala/dev-pet-corner-1-show-us-your-pets-39n6"/>
-    <updated>2026-10-11T13:52:25+00:00</updated>
-    <summary type="html">Reactions: public 96 / positive 96&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T13:52:25Z&lt;br/&gt;Tags: discuss, community, pets, watercooler&lt;br/&gt;Description: TL;DR  Welcome to DEV Pet Corner, a new weekly series where we take a little break from tech and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4821943</id>
@@ -658,6 +658,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T16:28:50Z&lt;br/&gt;Tags: ai, webdev, design, ux&lt;br/&gt;Description: Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn&apos;t fix — and the one instruction that did.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4863859</id>
+    <title>Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"/>
+    <updated>2026-10-16T17:40:16+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T17:40:16Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4832848</id>
     <title>Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn&apos;t Play by Anyone&apos;s Rules</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22"/>
@@ -698,13 +705,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09"/>
     <updated>2026-08-27T14:54:23+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T14:18:19Z&lt;br/&gt;Tags: typescript, algorithms, opensource, dsa&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4863859</id>
-    <title>Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"/>
-    <updated>2026-10-16T17:40:16+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T17:40:16Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4742153</id>
@@ -749,6 +749,13 @@
     <summary type="html">Reactions: public 67 / positive 67&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/itsugo&quot;&gt;Aryan Choudhary&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T13:44:05Z&lt;br/&gt;Tags: learning, career, discuss, softwareengineering&lt;br/&gt;Description: Well, first real job and I still haven&apos;t gotten used to waking up for a 6:30 AM shift... I&apos;ve been...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4839229</id>
+    <title>How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️</title>
+    <link rel="alternate" href="https://is-kit.dev/guides/validate-unknown-without-schema-library"/>
+    <updated>2026-10-14T15:35:25+00:00</updated>
+    <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T15:35:25Z&lt;br/&gt;Tags: typescript, opensource, webdev, programming&lt;br/&gt;Description: Hoi hoi! 👋  I&apos;m @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4812559</id>
     <title>I Write on a 2006 iMac and Code on a $200 Laptop</title>
     <link rel="alternate" href="https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4"/>
@@ -791,11 +798,11 @@
     <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-12T13:16:48Z&lt;br/&gt;Tags: typescript, opensource, webdev, frontend&lt;br/&gt;Description: Hoi hoi!  I&apos;m @nyaomaru, a frontend engineer who is trying to lose weight. 🐖🙀  I maintain a type...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4839229</id>
-    <title>How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️</title>
-    <link rel="alternate" href="https://is-kit.dev/guides/validate-unknown-without-schema-library"/>
-    <updated>2026-10-14T15:35:25+00:00</updated>
-    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T15:35:25Z&lt;br/&gt;Tags: typescript, opensource, webdev, programming&lt;br/&gt;Description: Hoi hoi! 👋  I&apos;m @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...</summary>
+    <id>tag:dev.to,2026:4840607</id>
+    <title>Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.</title>
+    <link rel="alternate" href="https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna"/>
+    <updated>2026-10-13T00:09:32+00:00</updated>
+    <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rudratosh&quot;&gt;Rudratosh Shastri&lt;/a&gt;&lt;br/&gt;Published: 2026-10-12T23:43:44Z&lt;br/&gt;Tags: ai, llm, coding, opensource&lt;br/&gt;Description: Every &quot;7 local models that replace Claude Code&quot; list opens the same way: a table of SWE-bench scores,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4793114</id>
@@ -861,11 +868,11 @@
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sanidhya_at_mlh&quot;&gt;Sanidhya Goel&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T03:04:14Z&lt;br/&gt;Tags: mlh, community, devrel, career&lt;br/&gt;Description: MLH AI Roadshow Bengaluru       Hey Everyone! I am Sanidhya Goel, a new MLH Hackathon Community...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4840607</id>
-    <title>Can a local LLM replace Claude Code? The benchmark everyone quotes is the wrong one.</title>
-    <link rel="alternate" href="https://dev.to/rudratosh/can-a-local-llm-replace-claude-code-the-benchmark-everyone-quotes-is-the-wrong-one-2kna"/>
-    <updated>2026-10-13T00:09:32+00:00</updated>
-    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/rudratosh&quot;&gt;Rudratosh Shastri&lt;/a&gt;&lt;br/&gt;Published: 2026-10-12T23:43:44Z&lt;br/&gt;Tags: ai, llm, coding, opensource&lt;br/&gt;Description: Every &quot;7 local models that replace Claude Code&quot; list opens the same way: a table of SWE-bench scores,...</summary>
+    <id>tag:dev.to,2026:4842489</id>
+    <title>People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?</title>
+    <link rel="alternate" href="https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak"/>
+    <updated>2026-10-13T07:15:38+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-13T07:15:38Z&lt;br/&gt;Tags: ai, opensource, career, discuss&lt;br/&gt;Description: Earlier this month, a developer in Atlanta got fed up with Adobe&apos;s cancellation fees. So he used...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4802507</id>
@@ -896,18 +903,18 @@
     <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T14:02:25Z&lt;br/&gt;Tags: discuss, csharp, devjournal, career&lt;br/&gt;Description: Nobody chooses .NET.  Not as a student, at least. You hear &quot;backend&quot; and the room splits into Spring...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4842489</id>
-    <title>People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?</title>
-    <link rel="alternate" href="https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak"/>
-    <updated>2026-10-13T07:15:38+00:00</updated>
-    <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-13T07:15:38Z&lt;br/&gt;Tags: ai, opensource, career, discuss&lt;br/&gt;Description: Earlier this month, a developer in Atlanta got fed up with Adobe&apos;s cancellation fees. So he used...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4607859</id>
     <title>Stratagems #30: Lena Signed the Client. The AI Didn&apos;t Know It Was Being Audited.</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985"/>
     <updated>2026-09-10T01:15:10+00:00</updated>
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T01:15:10Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Come to check the locks, and leave holding the keys. Slip in through the gap, take the host&apos;s seat,...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4808239</id>
+    <title>I Vibe-Coded My Way Out of Angular Upgrades</title>
+    <link rel="alternate" href="https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh"/>
+    <updated>2026-10-15T07:10:18+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-15T07:10:18Z&lt;br/&gt;Tags: ai, vibecoding, angular, showdev&lt;br/&gt;Description: Do you also hate upgrading Angular versions? Because I do. I maintain a few open-source projects, and...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4702313</id>
@@ -1071,11 +1078,11 @@
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T07:30:35Z&lt;br/&gt;Tags: react, javascript, webdev, programming&lt;br/&gt;Description: Three parts into this series, and if you&apos;d asked me to define the word sitting underneath every...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4808239</id>
-    <title>I Vibe-Coded My Way Out of Angular Upgrades</title>
-    <link rel="alternate" href="https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh"/>
-    <updated>2026-10-15T07:10:18+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-15T07:10:18Z&lt;br/&gt;Tags: ai, vibecoding, angular, showdev&lt;br/&gt;Description: Do you also hate upgrading Angular versions? Because I do. I maintain a few open-source projects, and...</summary>
+    <id>tag:dev.to,2026:4864468</id>
+    <title>What if the scoreboard had no delay?</title>
+    <link rel="alternate" href="https://dev.to/satviksingh192/what-if-the-scoreboard-had-no-delay-3gi2"/>
+    <updated>2026-10-16T20:26:14+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/satviksingh192&quot;&gt;Satvik Singh&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T20:26:14Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, python&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle.          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4821589</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-hacktoberfest-weekend-challenge-build-for-a-friend-winners-pgc"/>
     <updated>2026-10-09T19:32:27+00:00</updated>
     <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/heyitsjem&quot;&gt;Jem&lt;/a&gt;&lt;br/&gt;Published: 2026-10-09T19:32:27Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, hf26challenge&lt;br/&gt;Description: We are so excited to announce the winners of the Hacktoberfest Weekend Challenge: Build for a Friend,...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4797493</id>
-    <title>Gift Hunter: An AI Agent That Finds Gifts They’ll Actually Want</title>
-    <link rel="alternate" href="https://dev.to/dj29/gift-hunter-an-ai-agent-that-finds-gifts-theyll-actually-want-3mkb"/>
-    <updated>2026-10-04T20:24:19+00:00</updated>
-    <summary type="html">Reactions: public 43 / positive 43&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-04T20:24:19Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, hf26challenge, showdev&lt;br/&gt;Description: This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend           What I...</summary>
   </entry>
 </feed>
