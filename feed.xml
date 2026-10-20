@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-10-20T07:28:52+00:00</updated>
+  <updated>2026-10-20T18:34:59+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -284,7 +284,7 @@
     <title>What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?</title>
     <link rel="alternate" href="https://dev.to/xulingfeng/what-are-your-chances-of-surviving-resident-evil-based-on-your-tech-job-4b9o"/>
     <updated>2026-10-16T07:27:22+00:00</updated>
-    <summary type="html">Reactions: public 107 / positive 107&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T07:27:22Z&lt;br/&gt;Tags: discuss, career, jokes, programming&lt;br/&gt;Description: I recently watched the new Resident Evil movie. 🎬  Watching the main character stumble from one...</summary>
+    <summary type="html">Reactions: public 108 / positive 108&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T07:27:22Z&lt;br/&gt;Tags: discuss, career, jokes, programming&lt;br/&gt;Description: I recently watched the new Resident Evil movie. 🎬  Watching the main character stumble from one...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4819360</id>
@@ -613,7 +613,7 @@
     <title>10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)</title>
     <link rel="alternate" href="https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0"/>
     <updated>2026-10-19T15:31:42+00:00</updated>
-    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T03:39:20Z&lt;br/&gt;Tags: promptengineering, ai, discuss, beginners&lt;br/&gt;Description: You already use prompting every day.  You just don&apos;t know the names of what you&apos;re doing.  Every time...</summary>
+    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T03:39:20Z&lt;br/&gt;Tags: promptengineering, ai, discuss, beginners&lt;br/&gt;Description: You already use prompting every day.  You just don&apos;t know the names of what you&apos;re doing.  Every time...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4724515</id>
@@ -679,6 +679,13 @@
     <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/anchildress1&quot;&gt;Ashley Childress&lt;/a&gt;&lt;br/&gt;Published: 2026-08-29T16:28:50Z&lt;br/&gt;Tags: ai, webdev, design, ux&lt;br/&gt;Description: Every AI redesign of my portfolio looked different and was the same filing cabinet underneath. What a style guide couldn&apos;t fix — and the one instruction that did.</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4845404</id>
+    <title>Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget</title>
+    <link rel="alternate" href="https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"/>
+    <updated>2026-10-18T07:03:07+00:00</updated>
+    <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T07:03:07Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4832848</id>
     <title>Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn&apos;t Play by Anyone&apos;s Rules</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22"/>
@@ -705,13 +712,6 @@
     <link rel="alternate" href="https://dev.to/xulingfeng/back-from-wudang-mountain-the-book-is-under-review-2o3b"/>
     <updated>2026-08-26T09:08:26+00:00</updated>
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T08:00:04Z&lt;br/&gt;Tags: discuss, career, programming, community&lt;br/&gt;Description: I&apos;m back.😂  Wudang Mountain（武当山） wrecked me. Way harder than I expected. Way more worth it than I...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4845404</id>
-    <title>Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget</title>
-    <link rel="alternate" href="https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"/>
-    <updated>2026-10-18T07:03:07+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T07:03:07Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4839229</id>
@@ -943,6 +943,13 @@
     <link rel="alternate" href="https://dev.to/javz/23-rejections-multiple-offers-what-i-learned-from-my-2-month-swe-job-search-5hi4"/>
     <updated>2026-09-24T00:01:13+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T00:01:13Z&lt;br/&gt;Tags: career, softwaredevelopment, programming, learning&lt;br/&gt;Description: Feels like it&apos;s been more than a minute since my last post. A lot has happened in my life over the...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4884586</id>
+    <title>Building an Open-Source Support Tool That Turns Answers into Reusable Knowledge</title>
+    <link rel="alternate" href="https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604"/>
+    <updated>2026-10-20T18:34:59+00:00</updated>
+    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nathan_tarbert&quot;&gt;Nathan Tarbert&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T17:15:15Z&lt;br/&gt;Tags: ai, webdev, programming, showdev&lt;br/&gt;Description: I built a tool to help with community support. Then I kept building.   I spend a good part...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4859158</id>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://www.kenwalger.com/blog/career/hiring-process-http-status-codes/"/>
     <updated>2026-08-26T15:14:00+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kenwalger&quot;&gt;Ken W Alger&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T15:14:00Z&lt;br/&gt;Tags: career, discuss, humor, programming&lt;br/&gt;Description: Because &quot;we&apos;ll be in touch&quot; is not an observable state.  I submitted a job application recently.  It...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4729307</id>
-    <title>How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)</title>
-    <link rel="alternate" href="https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8"/>
-    <updated>2026-10-10T02:13:57+00:00</updated>
-    <summary type="html">Reactions: public 44 / positive 44&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/smtahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-10-08T08:28:30Z&lt;br/&gt;Tags: react, javascript, webdev, discuss&lt;br/&gt;Description: A visual, beginner-friendly guide to React internals. Learn what triggers re-renders, how the Virtual DOM diffs trees, what the Commit phase actually touches, and why state updates feel asynchronous.</summary>
   </entry>
 </feed>
