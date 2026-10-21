@@ -67,7 +67,7 @@
     <title>Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"/>
     <updated>2026-10-18T11:58:20+00:00</updated>
-    <summary type="html">Reactions: public 182 / positive 182&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T10:55:38Z&lt;br/&gt;Tags: community, discuss, showdev, writing&lt;br/&gt;Description: Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...</summary>
+    <summary type="html">Reactions: public 188 / positive 188&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T10:55:38Z&lt;br/&gt;Tags: community, discuss, showdev, writing&lt;br/&gt;Description: Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4702045</id>
@@ -588,6 +588,13 @@
     <summary type="html">Reactions: public 82 / positive 82&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T13:48:11Z&lt;br/&gt;Tags: discuss, community, watercooler, pets&lt;br/&gt;Description: TL;DR  DEV Pet Corner is back for another Sunday! It&apos;s a weekly series where we take a little break...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4627125</id>
+    <title>10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)</title>
+    <link rel="alternate" href="https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0"/>
+    <updated>2026-10-19T15:31:42+00:00</updated>
+    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T03:39:20Z&lt;br/&gt;Tags: promptengineering, ai, discuss, beginners&lt;br/&gt;Description: You already use prompting every day.  You just don&apos;t know the names of what you&apos;re doing.  Every time...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4679179</id>
     <title>Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!</title>
     <link rel="alternate" href="https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g"/>
@@ -609,11 +616,18 @@
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T13:04:47Z&lt;br/&gt;Tags: ai, programming, webdev, career&lt;br/&gt;Description: Can&apos;t believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4627125</id>
-    <title>10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)</title>
-    <link rel="alternate" href="https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0"/>
-    <updated>2026-10-19T15:31:42+00:00</updated>
-    <summary type="html">Reactions: public 78 / positive 78&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T03:39:20Z&lt;br/&gt;Tags: promptengineering, ai, discuss, beginners&lt;br/&gt;Description: You already use prompting every day.  You just don&apos;t know the names of what you&apos;re doing.  Every time...</summary>
+    <id>tag:dev.to,2026:4845404</id>
+    <title>Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget</title>
+    <link rel="alternate" href="https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"/>
+    <updated>2026-10-18T07:03:07+00:00</updated>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T07:03:07Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4839229</id>
+    <title>How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️</title>
+    <link rel="alternate" href="https://is-kit.dev/guides/validate-unknown-without-schema-library"/>
+    <updated>2026-10-14T15:35:25+00:00</updated>
+    <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T15:35:25Z&lt;br/&gt;Tags: typescript, opensource, webdev, programming&lt;br/&gt;Description: Hoi hoi! 👋  I&apos;m @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4724515</id>
@@ -637,6 +651,13 @@
     <summary type="html">Reactions: public 76 / positive 76&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ale3oula&quot;&gt;Alexandra&lt;/a&gt;&lt;br/&gt;Published: 2026-08-28T11:40:20Z&lt;br/&gt;Tags: discuss, interview, software&lt;br/&gt;Description: July wasn’t a particularly pleasant month for me. I was affected by the restructuring of the company...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4884586</id>
+    <title>Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge</title>
+    <link rel="alternate" href="https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604"/>
+    <updated>2026-10-21T02:31:28+00:00</updated>
+    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nathan_tarbert&quot;&gt;Nathan Tarbert&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T17:15:15Z&lt;br/&gt;Tags: ai, webdev, programming, showdev&lt;br/&gt;Description: I spend a good part of my day working with the community at CopilotKit, answering questions in...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4792945</id>
     <title>Migrating a Real TypeScript OSS Library from tsup to tsdown 🔧</title>
     <link rel="alternate" href="https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80"/>
@@ -656,13 +677,6 @@
     <link rel="alternate" href="https://dev.to/technogamerz/the-silent-mic-drop-1g0b"/>
     <updated>2026-09-17T15:50:16+00:00</updated>
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/technogamerz&quot;&gt;𝐓𝐡𝐞 𝐋𝐚𝐳𝐲 𝐆𝐢𝐫𝐥 &lt;/a&gt;&lt;br/&gt;Published: 2026-09-17T15:50:16Z&lt;br/&gt;Tags: discuss, community&lt;br/&gt;Description: So, back on the first day of 11th grade, I walked in with high hopes, new faces around, and big...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4845404</id>
-    <title>Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget</title>
-    <link rel="alternate" href="https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh"/>
-    <updated>2026-10-18T07:03:07+00:00</updated>
-    <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/gramli&quot;&gt;Daniel Balcarek&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T07:03:07Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, machinelearning&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4609597</id>
@@ -714,13 +728,6 @@
     <summary type="html">Reactions: public 72 / positive 72&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T08:00:04Z&lt;br/&gt;Tags: discuss, career, programming, community&lt;br/&gt;Description: I&apos;m back.😂  Wudang Mountain（武当山） wrecked me. Way harder than I expected. Way more worth it than I...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4839229</id>
-    <title>How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️</title>
-    <link rel="alternate" href="https://is-kit.dev/guides/validate-unknown-without-schema-library"/>
-    <updated>2026-10-14T15:35:25+00:00</updated>
-    <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-10-14T15:35:25Z&lt;br/&gt;Tags: typescript, opensource, webdev, programming&lt;br/&gt;Description: Hoi hoi! 👋  I&apos;m @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4846326</id>
     <title>&apos;Localhost&apos; is a Lie: Everything Uni Missed About Real-World Tech</title>
     <link rel="alternate" href="https://dev.to/maame-codes/localhost-is-a-lie-everything-uni-missed-about-real-world-tech-66n"/>
@@ -740,13 +747,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09"/>
     <updated>2026-08-27T14:54:23+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T14:18:19Z&lt;br/&gt;Tags: typescript, algorithms, opensource, dsa&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4884586</id>
-    <title>Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge</title>
-    <link rel="alternate" href="https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604"/>
-    <updated>2026-10-21T02:31:28+00:00</updated>
-    <summary type="html">Reactions: public 70 / positive 70&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nathan_tarbert&quot;&gt;Nathan Tarbert&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T17:15:15Z&lt;br/&gt;Tags: ai, webdev, programming, showdev&lt;br/&gt;Description: I spend a good part of my day working with the community at CopilotKit, answering questions in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4647583</id>
@@ -945,18 +945,18 @@
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T01:15:10Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Come to check the locks, and leave holding the keys. Slip in through the gap, take the host&apos;s seat,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4859158</id>
+    <title>What I Actually Learn When I Build With AI</title>
+    <link rel="alternate" href="https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074"/>
+    <updated>2026-10-16T01:06:09+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sizzlebop&quot;&gt;Jessica Doering&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T01:06:09Z&lt;br/&gt;Tags: ai, programming, learning, discuss&lt;br/&gt;Description: I&apos;ve spent entire nights building something with AI, gotten a bunch of features working, and then...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4702313</id>
     <title>23 Rejections, Multiple Offers: What I Learned From My 2-Month SWE Job Search</title>
     <link rel="alternate" href="https://dev.to/javz/23-rejections-multiple-offers-what-i-learned-from-my-2-month-swe-job-search-5hi4"/>
     <updated>2026-09-24T00:01:13+00:00</updated>
     <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/javz&quot;&gt;Julien Avezou&lt;/a&gt;&lt;br/&gt;Published: 2026-09-24T00:01:13Z&lt;br/&gt;Tags: career, softwaredevelopment, programming, learning&lt;br/&gt;Description: Feels like it&apos;s been more than a minute since my last post. A lot has happened in my life over the...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4859158</id>
-    <title>What I Actually Learn When I Build With AI</title>
-    <link rel="alternate" href="https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074"/>
-    <updated>2026-10-16T01:06:09+00:00</updated>
-    <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sizzlebop&quot;&gt;Jessica Doering&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T01:06:09Z&lt;br/&gt;Tags: ai, programming, learning, discuss&lt;br/&gt;Description: I&apos;ve spent entire nights building something with AI, gotten a bunch of features working, and then...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4783472</id>
@@ -992,6 +992,13 @@
     <link rel="alternate" href="https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n"/>
     <updated>2026-08-27T13:21:53+00:00</updated>
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:21:53Z&lt;br/&gt;Tags: ai, programming, showdev, discuss&lt;br/&gt;Description: Your AI coding agent does exactly what you ask, which isn&apos;t always what you mean. NexPath catches vague prompts before they become bugs.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4873193</id>
+    <title>I Built a New Tab Extension for DEV</title>
+    <link rel="alternate" href="https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm"/>
+    <updated>2026-10-18T17:13:41+00:00</updated>
+    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sizzlebop&quot;&gt;Jessica Doering&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T17:13:41Z&lt;br/&gt;Tags: showdev, webdev, opensource, javascript&lt;br/&gt;Description: I spend a lot of time on DEV these days. Reading posts, finding interesting projects, participating...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4832569</id>
@@ -1036,11 +1043,11 @@
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T06:52:21Z&lt;br/&gt;Tags: braziliandevs, opensource, github, beginners&lt;br/&gt;Description: Faz mais de 5 anos que eu não abria um PR ou issue técnica no Github, mas essa semana tenho aprendido...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4873193</id>
-    <title>I Built a New Tab Extension for DEV</title>
-    <link rel="alternate" href="https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm"/>
-    <updated>2026-10-18T17:13:41+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sizzlebop&quot;&gt;Jessica Doering&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T17:13:41Z&lt;br/&gt;Tags: showdev, webdev, opensource, javascript&lt;br/&gt;Description: I spend a lot of time on DEV these days. Reading posts, finding interesting projects, participating...</summary>
+    <id>tag:dev.to,2026:4874588</id>
+    <title>The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)</title>
+    <link rel="alternate" href="https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6"/>
+    <updated>2026-10-19T00:36:51+00:00</updated>
+    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sizzlebop&quot;&gt;Jessica Doering&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T00:36:51Z&lt;br/&gt;Tags: productivity, linux, beginners, terminal&lt;br/&gt;Description: When I first started using the terminal, sure, it was useful. I could navigate around directories,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4828352</id>
@@ -1055,13 +1062,6 @@
     <link rel="alternate" href="https://dev.to/mikachu/what-best-practice-did-you-quietly-stop-following-53ne"/>
     <updated>2026-10-05T19:29:26+00:00</updated>
     <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/mikachu&quot;&gt;Mika Flowers&lt;/a&gt;&lt;br/&gt;Published: 2026-10-05T19:29:26Z&lt;br/&gt;Tags: discuss, watercooler, programming, webdev&lt;br/&gt;Description: Every dev picks up a pile of rules early on. Write tests first. Never commit to main. Keep functions...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4874588</id>
-    <title>The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)</title>
-    <link rel="alternate" href="https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6"/>
-    <updated>2026-10-19T00:36:51+00:00</updated>
-    <summary type="html">Reactions: public 54 / positive 54&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sizzlebop&quot;&gt;Jessica Doering&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T00:36:51Z&lt;br/&gt;Tags: productivity, linux, beginners, terminal&lt;br/&gt;Description: When I first started using the terminal, sure, it was useful. I could navigate around directories,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4572132</id>
@@ -1111,6 +1111,13 @@
     <link rel="alternate" href="https://shubhra.dev/tutorials/react-19-actions"/>
     <updated>2026-09-01T07:30:35+00:00</updated>
     <summary type="html">Reactions: public 52 / positive 52&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-09-01T07:30:35Z&lt;br/&gt;Tags: react, javascript, webdev, programming&lt;br/&gt;Description: Three parts into this series, and if you&apos;d asked me to define the word sitting underneath every...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4857626</id>
+    <title>The Garden I Wait for Every Winter</title>
+    <link rel="alternate" href="https://shubhra.dev/blog/the-garden-i-wait-for-every-winter"/>
+    <updated>2026-10-18T12:22:39+00:00</updated>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T12:21:49Z&lt;br/&gt;Tags: watercooler, discuss, gardening, devlive&lt;br/&gt;Description: October always makes me look at my garden a little differently.  The monsoon is beginning to fade,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4864468</id>
@@ -1225,13 +1232,6 @@
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T14:43:44Z&lt;br/&gt;Tags: dsa, typescript, opensource, learning&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who dislikes crowded places, so I&apos;m planning to take a...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4857626</id>
-    <title>The Garden I Wait for Every Winter</title>
-    <link rel="alternate" href="https://shubhra.dev/blog/the-garden-i-wait-for-every-winter"/>
-    <updated>2026-10-18T12:22:39+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/shubhradev&quot;&gt;Shubhra Pokhariya&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T12:21:49Z&lt;br/&gt;Tags: watercooler, discuss, gardening, devlive&lt;br/&gt;Description: October always makes me look at my garden a little differently.  The monsoon is beginning to fade,...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4749245</id>
     <title>I Built a Better Codex Pet Than OpenAI Did</title>
     <link rel="alternate" href="https://dev.to/mikachu/i-built-a-better-codex-pet-than-openai-did-eib"/>
@@ -1267,6 +1267,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/devopsdaily&quot;&gt;DevOps Daily&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T10:01:00Z&lt;br/&gt;Tags: architecture, webhooks, kafka, backend&lt;br/&gt;Description: &quot;At-least-once delivery&quot; is four words that hide a dozen production incidents. So are &quot;consumer lag&quot;,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4879329</id>
+    <title>Hello world!!</title>
+    <link rel="alternate" href="https://dev.to/star123/hello-world-5425"/>
+    <updated>2026-10-19T19:09:31+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/star123&quot;&gt;Star&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T19:09:31Z&lt;br/&gt;Tags: python, discuss, beginners, programming&lt;br/&gt;Description: Hello everyone!  My name is Star, and I am 10 years old. I am learning Python, and today is my first...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4730140</id>
     <title>Bash Isn&apos;t a Programming Language. It&apos;s a Text Substitution Engine.</title>
     <link rel="alternate" href="https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml"/>
@@ -1300,6 +1307,13 @@
     <link rel="alternate" href="https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d"/>
     <updated>2026-08-22T05:22:29+00:00</updated>
     <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-08-22T05:19:16Z&lt;br/&gt;Tags: devchallenge, bugsmash, javascript, webdev&lt;br/&gt;Description: This is a submission for DEV&apos;s Summer Bug Smash: Smash Stories powered by Sentry.  When I was...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4883930</id>
+    <title>Introducing The Startup Café: A Community for People Building Startups ☕</title>
+    <link rel="alternate" href="https://dev.to/startupcafe/introducing-the-startup-cafe-a-community-for-people-building-startups-11n1"/>
+    <updated>2026-10-20T14:44:12+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hanzla&quot;&gt;Hanzla Baig&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T14:44:12Z&lt;br/&gt;Tags: startup, discuss, programming, productivity&lt;br/&gt;Description: I Started The Startup Café on DEV. Here&apos;s the Idea Behind It. I&apos;ve just started a new organization on...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4819543</id>
@@ -1391,19 +1405,5 @@
     <link rel="alternate" href="https://dev.to/tooljet/building-a-recall-response-console-with-tooljet-mcp-and-examining-tooljets-approach-to-ai-app-126"/>
     <updated>2026-09-14T20:18:25+00:00</updated>
     <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/karanrathod316&quot;&gt;Karan Rathod&lt;/a&gt;&lt;br/&gt;Published: 2026-09-14T20:14:59Z&lt;br/&gt;Tags: ai, mcp, programming, architecture&lt;br/&gt;Description: Building the first version of an internal application is only one part of the job. The more difficult...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4499807</id>
-    <title>I Spawned 1000000 Goroutines. Here&apos;s Where 13 GB of RAM Went.</title>
-    <link rel="alternate" href="https://dev.to/nazar-boyko/goroutines-are-cheap-their-stacks-arent-4ena"/>
-    <updated>2026-08-29T18:36:27+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T03:21:04Z&lt;br/&gt;Tags: go, performance, programming, webdev&lt;br/&gt;Description: Ask any Go developer what a goroutine costs and you&apos;ll get the same answer with the exact byte count:...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4398495</id>
-    <title>Your Hiring Process Needs HTTP Status Codes</title>
-    <link rel="alternate" href="https://www.kenwalger.com/blog/career/hiring-process-http-status-codes/"/>
-    <updated>2026-08-26T15:14:00+00:00</updated>
-    <summary type="html">Reactions: public 45 / positive 45&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kenwalger&quot;&gt;Ken W Alger&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T15:14:00Z&lt;br/&gt;Tags: career, discuss, humor, programming&lt;br/&gt;Description: Because &quot;we&apos;ll be in touch&quot; is not an observable state.  I submitted a job application recently.  It...</summary>
   </entry>
 </feed>
