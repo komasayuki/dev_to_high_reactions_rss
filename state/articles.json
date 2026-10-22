@@ -3130,7 +3130,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4628216",
@@ -5472,7 +5472,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4766672",
@@ -8043,7 +8043,7 @@
       ],
       "user_name": "Peter Vivo",
       "user_username": "pengeszikra",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4840607",
@@ -8121,8 +8121,8 @@
       "published_timestamp": "2026-10-18T07:03:07Z",
       "published_at": "2026-10-18T07:03:07Z",
       "edited_at": null,
-      "public_reactions_count": 88,
-      "positive_reactions_count": 88,
+      "public_reactions_count": 90,
+      "positive_reactions_count": 90,
       "tag_list": [
         "devchallenge",
         "hf26challenge",
@@ -8131,7 +8131,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4845471",
@@ -8416,7 +8416,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4858022",
@@ -8460,7 +8460,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4858196",
@@ -8504,7 +8504,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4860387",
@@ -8526,7 +8526,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4860786",
@@ -8548,7 +8548,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4862921",
@@ -8570,7 +8570,7 @@
       ],
       "user_name": "Advik Divekar",
       "user_username": "advikdivekar",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4863090",
@@ -8592,7 +8592,7 @@
       ],
       "user_name": "Ali Navidi",
       "user_username": "westernal",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4863390",
@@ -8612,7 +8612,7 @@
       ],
       "user_name": "vigneshwar",
       "user_username": "vignesh_one",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4863859",
@@ -8634,7 +8634,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4863964",
@@ -8681,6 +8681,28 @@
       "last_seen": "2026-10-17T17:04:15.903377637+00:00"
     },
     {
+      "key": "4865762",
+      "id": 4865762,
+      "canonical_url": "https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a",
+      "url": "https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a",
+      "title": "Docker Compose 5.6's jobs type only starts through docker compose run",
+      "description": "Docker Compose 5.6 added a jobs: section for one-off tasks. up, create and start all refuse to touch one, a scheduled trigger makes up fail outright, and only docker compose run actually starts a job, paying about 15% more when its dependency has to start cold.",
+      "published_timestamp": "2026-10-17T10:00:00Z",
+      "published_at": "2026-10-17T10:00:00Z",
+      "edited_at": null,
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "docker",
+        "devops",
+        "containers",
+        "performance"
+      ],
+      "user_name": "Alex Georgiev",
+      "user_username": "alexgeorgiev17",
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
+    },
+    {
       "key": "4867032",
       "id": 4867032,
       "canonical_url": "https://dev.to/deep_saha/hustleradar-live-resale-evidence-with-serpapi-and-gemma-2-1dg6",
@@ -8700,7 +8722,7 @@
       ],
       "user_name": "Deep Saha",
       "user_username": "deep_saha",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4868657",
@@ -8712,8 +8734,8 @@
       "published_timestamp": "2026-10-18T10:55:38Z",
       "published_at": "2026-10-18T10:55:38Z",
       "edited_at": "2026-10-18T11:58:20Z",
-      "public_reactions_count": 212,
-      "positive_reactions_count": 212,
+      "public_reactions_count": 213,
+      "positive_reactions_count": 213,
       "tag_list": [
         "community",
         "discuss",
@@ -8722,7 +8744,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4869128",
@@ -8744,7 +8766,7 @@
       ],
       "user_name": "Earl Grey",
       "user_username": "earlgreyhot1701d",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4869619",
@@ -8766,7 +8788,7 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4872187",
@@ -8778,8 +8800,8 @@
       "published_timestamp": "2026-10-18T13:48:11Z",
       "published_at": "2026-10-18T13:48:11Z",
       "edited_at": null,
-      "public_reactions_count": 83,
-      "positive_reactions_count": 83,
+      "public_reactions_count": 86,
+      "positive_reactions_count": 86,
       "tag_list": [
         "discuss",
         "community",
@@ -8788,7 +8810,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4873193",
@@ -8810,7 +8832,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4873311",
@@ -8854,7 +8876,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4874364",
@@ -8898,7 +8920,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4875645",
@@ -8920,7 +8942,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4875822",
@@ -8942,7 +8964,7 @@
       ],
       "user_name": "Dimitris Kyrkos ",
       "user_username": "cyclopt_dimitrisk",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4879329",
@@ -8964,7 +8986,7 @@
       ],
       "user_name": "Star",
       "user_username": "star123",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4879439",
@@ -9008,7 +9030,7 @@
       ],
       "user_name": "Maame Afua A. P. Fordjour ",
       "user_username": "maame-codes",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4881368",
@@ -9020,8 +9042,8 @@
       "published_timestamp": "2026-10-20T05:35:46Z",
       "published_at": "2026-10-20T05:35:46Z",
       "edited_at": null,
-      "public_reactions_count": 49,
-      "positive_reactions_count": 49,
+      "public_reactions_count": 50,
+      "positive_reactions_count": 50,
       "tag_list": [
         "career",
         "discuss",
@@ -9030,7 +9052,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4882857",
@@ -9052,7 +9074,7 @@
       ],
       "user_name": "Thomas Bonnet",
       "user_username": "thomasbnt",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4883453",
@@ -9074,7 +9096,7 @@
       ],
       "user_name": "EffessDev",
       "user_username": "effessdev",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4883684",
@@ -9096,7 +9118,7 @@
       ],
       "user_name": "Athreya aka Maneshwar",
       "user_username": "lovestaco",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4883930",
@@ -9130,8 +9152,8 @@
       "published_timestamp": "2026-10-20T17:15:15Z",
       "published_at": "2026-10-20T17:15:15Z",
       "edited_at": "2026-10-21T02:31:28Z",
-      "public_reactions_count": 134,
-      "positive_reactions_count": 134,
+      "public_reactions_count": 139,
+      "positive_reactions_count": 139,
       "tag_list": [
         "ai",
         "webdev",
@@ -9140,7 +9162,7 @@
       ],
       "user_name": "Nathan Tarbert",
       "user_username": "nathan_tarbert",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4885759",
@@ -9152,8 +9174,8 @@
       "published_timestamp": "2026-10-21T08:05:30Z",
       "published_at": "2026-10-21T08:05:30Z",
       "edited_at": null,
-      "public_reactions_count": 131,
-      "positive_reactions_count": 131,
+      "public_reactions_count": 133,
+      "positive_reactions_count": 133,
       "tag_list": [
         "career",
         "speaking",
@@ -9161,7 +9183,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4890341",
@@ -9183,7 +9205,7 @@
       ],
       "user_name": "MT Indie Dev",
       "user_username": "mt_indiedev",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4890855",
@@ -9195,8 +9217,8 @@
       "published_timestamp": "2026-10-21T16:59:00Z",
       "published_at": "2026-10-21T16:59:00Z",
       "edited_at": "2026-10-22T17:51:03Z",
-      "public_reactions_count": 53,
-      "positive_reactions_count": 53,
+      "public_reactions_count": 55,
+      "positive_reactions_count": 55,
       "tag_list": [
         "devchallenge",
         "hf26challenge",
@@ -9205,7 +9227,29 @@
       ],
       "user_name": "Paul Horton",
       "user_username": "pahorton",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
+    },
+    {
+      "key": "4891584",
+      "id": 4891584,
+      "canonical_url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
+      "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
+      "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
+      "description": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
+      "published_timestamp": "2026-10-21T19:42:55Z",
+      "published_at": "2026-10-21T19:42:55Z",
+      "edited_at": null,
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "ai",
+        "productivity",
+        "career",
+        "programming"
+      ],
+      "user_name": "Harsh ",
+      "user_username": "harsh2644",
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4891995",
@@ -9227,7 +9271,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4892006",
@@ -9249,7 +9293,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4893750",
@@ -9261,8 +9305,8 @@
       "published_timestamp": "2026-10-22T04:31:09Z",
       "published_at": "2026-10-22T04:31:09Z",
       "edited_at": null,
-      "public_reactions_count": 44,
-      "positive_reactions_count": 44,
+      "public_reactions_count": 48,
+      "positive_reactions_count": 48,
       "tag_list": [
         "ai",
         "discuss",
@@ -9271,7 +9315,7 @@
       ],
       "user_name": "Adam - The Developer ✨",
       "user_username": "adamthedeveloper",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     },
     {
       "key": "4894420",
@@ -9293,7 +9337,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-10-22T20:00:19.315211158+00:00"
+      "last_seen": "2026-10-22T23:16:43.462989354+00:00"
     }
   ]
 }
