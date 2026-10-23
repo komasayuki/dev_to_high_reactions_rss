@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-10-23T07:14:02+00:00</updated>
+  <updated>2026-10-23T12:23:41+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -46,7 +46,7 @@
     <title>Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)</title>
     <link rel="alternate" href="https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa"/>
     <updated>2026-10-18T11:58:20+00:00</updated>
-    <summary type="html">Reactions: public 223 / positive 223&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T10:55:38Z&lt;br/&gt;Tags: community, discuss, showdev, writing&lt;br/&gt;Description: Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...</summary>
+    <summary type="html">Reactions: public 224 / positive 224&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/georgekobaidze&quot;&gt;Giorgi Kobaidze&lt;/a&gt;&lt;br/&gt;Published: 2026-10-18T10:55:38Z&lt;br/&gt;Tags: community, discuss, showdev, writing&lt;br/&gt;Description: Status: Promise delivered ✅              The Doors Are Open   A little over a month ago, I published...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4559844</id>
@@ -98,6 +98,13 @@
     <summary type="html">Reactions: public 163 / positive 163&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-08-18T08:32:32Z&lt;br/&gt;Tags: productivity, mentalhealth, career&lt;br/&gt;Description: Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4885759</id>
+    <title>How to Become a Tech Conference Speaker (And Why You Might Regret It)</title>
+    <link rel="alternate" href="https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink"/>
+    <updated>2026-10-21T08:05:30+00:00</updated>
+    <summary type="html">Reactions: public 157 / positive 157&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T08:05:30Z&lt;br/&gt;Tags: career, speaking, techtalks&lt;br/&gt;Description: So you want to be a conference speaker? Are you sure?   Recently, a few people have asked me what...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4710702</id>
     <title>You&apos;re not an impostor, you just started from a different line</title>
     <link rel="alternate" href="https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph"/>
@@ -112,13 +119,6 @@
     <summary type="html">Reactions: public 156 / positive 156&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-10-08T06:52:08Z&lt;br/&gt;Tags: discuss&lt;br/&gt;Description: I got back from FrontKon in Prague today (well, technically yesterday, since I&apos;m publishing this...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4885759</id>
-    <title>How to Become a Tech Conference Speaker (And Why You Might Regret It)</title>
-    <link rel="alternate" href="https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink"/>
-    <updated>2026-10-21T08:05:30+00:00</updated>
-    <summary type="html">Reactions: public 151 / positive 151&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sylwia-lask&quot;&gt;Sylwia Laskowska&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T08:05:30Z&lt;br/&gt;Tags: career, speaking, techtalks&lt;br/&gt;Description: So you want to be a conference speaker? Are you sure?   Recently, a few people have asked me what...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4624955</id>
     <title>Paradox between Sharing your Accomplishments and Ego</title>
     <link rel="alternate" href="https://dev.to/francistrdev/paradox-between-sharing-your-accomplishments-and-ego-3p9k"/>
@@ -128,9 +128,9 @@
   <entry>
     <id>tag:dev.to,2026:4884586</id>
     <title>Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge</title>
-    <link rel="alternate" href="https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604"/>
-    <updated>2026-10-21T02:31:28+00:00</updated>
-    <summary type="html">Reactions: public 145 / positive 145&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nathan_tarbert&quot;&gt;Nathan Tarbert&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T17:15:15Z&lt;br/&gt;Tags: ai, webdev, programming, showdev&lt;br/&gt;Description: I spend a good part of my day working with the community at CopilotKit, answering questions in...</summary>
+    <link rel="alternate" href="https://answerloops.com/blog/turn-support-answers-into-reusable-knowledge"/>
+    <updated>2026-10-23T12:23:41+00:00</updated>
+    <summary type="html">Reactions: public 146 / positive 146&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nathan_tarbert&quot;&gt;Nathan Tarbert&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T17:15:15Z&lt;br/&gt;Tags: ai, webdev, programming, showdev&lt;br/&gt;Description: I spend a good part of my day working with the community at CopilotKit, answering questions in...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4728082</id>
@@ -222,13 +222,6 @@
     <link rel="alternate" href="https://dev.to/francistrdev/how-long-does-it-take-for-you-to-write-a-devto-article-49m1"/>
     <updated>2026-08-31T14:45:00+00:00</updated>
     <summary type="html">Reactions: public 126 / positive 126&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T14:45:00Z&lt;br/&gt;Tags: discuss, community, writing, devto&lt;br/&gt;Description: It takes me 2 hours.    I am not joking. Usually, I don&apos;t have it &quot;planned&quot; before I started to...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4382480</id>
-    <title>Git Gud!</title>
-    <link rel="alternate" href="https://dev.to/francistrdev/git-gud-4e6g"/>
-    <updated>2026-08-20T19:52:14+00:00</updated>
-    <summary type="html">Reactions: public 123 / positive 123&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/francistrdev&quot;&gt;FrancisTRᴅᴇᴠ (っ◔◡◔)っ&lt;/a&gt;&lt;br/&gt;Published: 2026-08-17T14:40:58Z&lt;br/&gt;Tags: discuss, community, git, productivity&lt;br/&gt;Description: You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4652133</id>
@@ -364,6 +357,13 @@
     <summary type="html">Reactions: public 106 / positive 106&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/ale3oula&quot;&gt;Alexandra&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T16:38:09Z&lt;br/&gt;Tags: ai, productivity, discuss&lt;br/&gt;Description: My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4863859</id>
+    <title>Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"/>
+    <updated>2026-10-16T17:40:16+00:00</updated>
+    <summary type="html">Reactions: public 105 / positive 105&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T17:40:16Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4603458</id>
     <title>Most &apos;AI Agents&apos; Are Just If-Statements in a Trench Coat</title>
     <link rel="alternate" href="https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960"/>
@@ -376,13 +376,6 @@
     <link rel="alternate" href="https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0"/>
     <updated>2026-10-19T15:31:42+00:00</updated>
     <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-17T03:39:20Z&lt;br/&gt;Tags: promptengineering, ai, discuss, beginners&lt;br/&gt;Description: You already use prompting every day.  You just don&apos;t know the names of what you&apos;re doing.  Every time...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4863859</id>
-    <title>Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8"/>
-    <updated>2026-10-16T17:40:16+00:00</updated>
-    <summary type="html">Reactions: public 104 / positive 104&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-16T17:40:16Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4497705</id>
@@ -896,13 +889,6 @@
     <summary type="html">Reactions: public 62 / positive 62&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/stherzada&quot;&gt;Sther&lt;/a&gt;&lt;br/&gt;Published: 2026-09-08T23:48:00Z&lt;br/&gt;Tags: ai, architecture, braziliandevs, software&lt;br/&gt;Description: Eu entrei na programação de cabeça no finalzinho de 2022. Não foi um caminho gradual, do tipo &quot;vou...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4884560</id>
-    <title>Where Do Your Users&apos; Passwords Actually Live? Self-Hosted vs Managed Keycloak</title>
-    <link rel="alternate" href="https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e"/>
-    <updated>2026-10-21T09:06:20+00:00</updated>
-    <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T09:06:20Z&lt;br/&gt;Tags: programming, development, authentication, keycloak&lt;br/&gt;Description: Choosing between self-hosted and managed Keycloak affects more than where your identity service runs....</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4799560</id>
     <title>The Witness Was the Suspect: Why AI Audit Logs Can&apos;t Be Trusted</title>
     <link rel="alternate" href="https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190"/>
@@ -922,6 +908,20 @@
     <link rel="alternate" href="https://blog.mlh.com/hey-everyone-im-sanidhya-from-mlh-25an"/>
     <updated>2026-09-04T03:04:42+00:00</updated>
     <summary type="html">Reactions: public 61 / positive 61&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sanidhya_at_mlh&quot;&gt;Sanidhya Goel&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T03:04:14Z&lt;br/&gt;Tags: mlh, community, devrel, career&lt;br/&gt;Description: MLH AI Roadshow Bengaluru       Hey Everyone! I am Sanidhya Goel, a new MLH Hackathon Community...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4893750</id>
+    <title>Don&apos;t Be a Proxy Between Me and Your AI</title>
+    <link rel="alternate" href="https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"/>
+    <updated>2026-10-22T04:31:09+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T04:31:09Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: I&apos;ve had this conversation more times than I&apos;d like to admit.  I raise a technical question in a...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4884560</id>
+    <title>Where Do Your Users&apos; Passwords Actually Live? Self-Hosted vs Managed Keycloak</title>
+    <link rel="alternate" href="https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e"/>
+    <updated>2026-10-21T09:06:20+00:00</updated>
+    <summary type="html">Reactions: public 60 / positive 60&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hadil&quot;&gt;Hadil Ben Abdallah&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T09:06:20Z&lt;br/&gt;Tags: programming, development, authentication, keycloak&lt;br/&gt;Description: Choosing between self-hosted and managed Keycloak affects more than where your identity service runs....</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4845896</id>
@@ -973,6 +973,13 @@
     <summary type="html">Reactions: public 59 / positive 59&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/xulingfeng&quot;&gt;xulingfeng&lt;/a&gt;&lt;br/&gt;Published: 2026-09-10T01:15:10Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: Come to check the locks, and leave holding the keys. Slip in through the gap, take the host&apos;s seat,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4881368</id>
+    <title>Somewhere, Coding Stopped Being Allowed to Be Fun</title>
+    <link rel="alternate" href="https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe"/>
+    <updated>2026-10-20T05:35:46+00:00</updated>
+    <summary type="html">Reactions: public 58 / positive 58&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T05:35:46Z&lt;br/&gt;Tags: career, discuss, ai, mentalhealth&lt;br/&gt;Description: Somewhere in the last couple of years, a strange feeling crept in, and I don&apos;t think I&apos;m the only one...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4873193</id>
     <title>I Built a New Tab Extension for DEV</title>
     <link rel="alternate" href="https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm"/>
@@ -1022,13 +1029,6 @@
     <summary type="html">Reactions: public 57 / positive 57&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/sarvar_04&quot;&gt;Sarvar Nadaf&lt;/a&gt;&lt;br/&gt;Published: 2026-08-27T13:21:53Z&lt;br/&gt;Tags: ai, programming, showdev, discuss&lt;br/&gt;Description: Your AI coding agent does exactly what you ask, which isn&apos;t always what you mean. NexPath catches vague prompts before they become bugs.</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4881368</id>
-    <title>Somewhere, Coding Stopped Being Allowed to Be Fun</title>
-    <link rel="alternate" href="https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe"/>
-    <updated>2026-10-20T05:35:46+00:00</updated>
-    <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T05:35:46Z&lt;br/&gt;Tags: career, discuss, ai, mentalhealth&lt;br/&gt;Description: Somewhere in the last couple of years, a strange feeling crept in, and I don&apos;t think I&apos;m the only one...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4832569</id>
     <title>I Built an AI Gardening App That Tells Me to Put the Laptop Down</title>
     <link rel="alternate" href="https://dev.to/shubhradev/i-built-an-ai-gardening-app-that-tells-me-to-put-the-laptop-down-1o93"/>
@@ -1069,13 +1069,6 @@
     <link rel="alternate" href="https://dev.to/he4rt/1a-vez-trabalhando-com-git-com-time-tudo-que-voce-precisa-saber-19il"/>
     <updated>2026-08-20T07:23:06+00:00</updated>
     <summary type="html">Reactions: public 56 / positive 56&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/vitoriazzp&quot;&gt;vitoriazzp&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T06:52:21Z&lt;br/&gt;Tags: braziliandevs, opensource, github, beginners&lt;br/&gt;Description: Faz mais de 5 anos que eu não abria um PR ou issue técnica no Github, mas essa semana tenho aprendido...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4893750</id>
-    <title>Don&apos;t Be a Proxy Between Me and Your AI</title>
-    <link rel="alternate" href="https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"/>
-    <updated>2026-10-22T04:31:09+00:00</updated>
-    <summary type="html">Reactions: public 55 / positive 55&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T04:31:09Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: I&apos;ve had this conversation more times than I&apos;d like to admit.  I raise a technical question in a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4890855</id>
@@ -1180,7 +1173,7 @@
     <title>Hello world!!</title>
     <link rel="alternate" href="https://dev.to/star123/hello-world-5425"/>
     <updated>2026-10-19T19:09:31+00:00</updated>
-    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/star123&quot;&gt;Sᴛᴀʀ&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T19:09:31Z&lt;br/&gt;Tags: python, discuss, beginners, programming&lt;br/&gt;Description: Hello everyone!  My name is Star, and I am 10 years old. I am learning Python, and today is my first...</summary>
+    <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/star123&quot;&gt;Sᴛᴀʀ⭐&lt;/a&gt;&lt;br/&gt;Published: 2026-10-19T19:09:31Z&lt;br/&gt;Tags: python, discuss, beginners, programming&lt;br/&gt;Description: Hello everyone!  My name is Star, and I am 10 years old. I am learning Python, and today is my first...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4864468</id>
@@ -1239,6 +1232,13 @@
     <summary type="html">Reactions: public 51 / positive 51&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kenwalger&quot;&gt;Ken W Alger&lt;/a&gt;&lt;br/&gt;Published: 2026-08-20T14:03:00Z&lt;br/&gt;Tags: ai, agents, llm, architecture&lt;br/&gt;Description: Part 4 of the Building the AI Memory Stack series  After finishing the previous article, I looked at...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4882857</id>
+    <title>Stuck in the same dev.to topics? An open model fixed it.</title>
+    <link rel="alternate" href="https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc"/>
+    <updated>2026-10-21T02:13:00+00:00</updated>
+    <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thomasbnt&quot;&gt;Thomas Bonnet&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T02:13:00Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, javascript&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4852411</id>
     <title>The Attention Trap: When Good Software Design Works Against the People Using It</title>
     <link rel="alternate" href="https://dev.to/khalisollis/the-attention-trap-when-good-software-design-works-against-the-people-using-it-kbk"/>
@@ -1293,13 +1293,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/is-learning-dsa-boring-lets-use-dsa-view-view-two-sum-binary-search-and-bubble-sort-374o"/>
     <updated>2026-08-19T15:34:37+00:00</updated>
     <summary type="html">Reactions: public 50 / positive 50&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T14:43:44Z&lt;br/&gt;Tags: dsa, typescript, opensource, learning&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who dislikes crowded places, so I&apos;m planning to take a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4882857</id>
-    <title>Stuck in the same dev.to topics? An open model fixed it.</title>
-    <link rel="alternate" href="https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc"/>
-    <updated>2026-10-21T02:13:00+00:00</updated>
-    <summary type="html">Reactions: public 49 / positive 49&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thomasbnt&quot;&gt;Thomas Bonnet&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T02:13:00Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, javascript&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4749245</id>
@@ -1405,5 +1398,12 @@
     <link rel="alternate" href="https://dev.to/smtahosin/structs-arent-on-the-stack-how-c-actually-manages-memory-128p"/>
     <updated>2026-10-01T10:45:35+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/smtahosin&quot;&gt;S M Tahosin&lt;/a&gt;&lt;br/&gt;Published: 2026-10-01T10:45:35Z&lt;br/&gt;Tags: csharp, dotnet, programming, beginners&lt;br/&gt;Description: The biggest myth in C# is that structs live on the stack and classes live on the heap. Here is what the CLR actually does with your data.</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4716663</id>
+    <title>Why the Best Software Advice Is the Hardest to Follow</title>
+    <link rel="alternate" href="https://dev.to/remojansen/why-the-best-software-advice-is-the-hardest-to-follow-4kg8"/>
+    <updated>2026-09-22T13:19:12+00:00</updated>
+    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/remojansen&quot;&gt;Remo H. Jansen&lt;/a&gt;&lt;br/&gt;Published: 2026-09-22T13:19:12Z&lt;br/&gt;Tags: software, career, learning, discuss&lt;br/&gt;Description: Not all software advice is created equal. Some advice is practical. It tells you exactly what to...</summary>
   </entry>
 </feed>
