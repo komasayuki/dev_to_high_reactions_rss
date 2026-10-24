@@ -623,6 +623,13 @@
     <summary type="html">Reactions: public 80 / positive 80&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-08-19T13:04:47Z&lt;br/&gt;Tags: ai, programming, webdev, career&lt;br/&gt;Description: Can&apos;t believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4893750</id>
+    <title>Don&apos;t Be a Proxy Between Me and Your AI</title>
+    <link rel="alternate" href="https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"/>
+    <updated>2026-10-22T04:31:09+00:00</updated>
+    <summary type="html">Reactions: public 77 / positive 77&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T04:31:09Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: I&apos;ve had this conversation more times than I&apos;d like to admit.  I raise a technical question in a...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4839229</id>
     <title>How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️</title>
     <link rel="alternate" href="https://is-kit.dev/guides/validate-unknown-without-schema-library"/>
@@ -658,13 +665,6 @@
     <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:29:07Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4893750</id>
-    <title>Don&apos;t Be a Proxy Between Me and Your AI</title>
-    <link rel="alternate" href="https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"/>
-    <updated>2026-10-22T04:31:09+00:00</updated>
-    <summary type="html">Reactions: public 75 / positive 75&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T04:31:09Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: I&apos;ve had this conversation more times than I&apos;d like to admit.  I raise a technical question in a...</summary>
-  </entry>
-  <entry>
     <id>tag:dev.to,2026:4792945</id>
     <title>Migrating a Real TypeScript OSS Library from tsup to tsdown 🔧</title>
     <link rel="alternate" href="https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80"/>
@@ -691,6 +691,13 @@
     <link rel="alternate" href="https://www.kenwalger.com/blog/ai/verification-bottleneck-ai-generated-software/"/>
     <updated>2026-09-09T14:32:00+00:00</updated>
     <summary type="html">Reactions: public 74 / positive 74&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/kenwalger&quot;&gt;Ken W Alger&lt;/a&gt;&lt;br/&gt;Published: 2026-09-09T14:32:00Z&lt;br/&gt;Tags: ai, testing, programming, devtools&lt;br/&gt;Description: AI can generate code faster than ever. That doesn&apos;t mean we&apos;re shipping correct software...</summary>
+  </entry>
+  <entry>
+    <id>tag:dev.to,2026:4892006</id>
+    <title>I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspace</title>
+    <link rel="alternate" href="https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7"/>
+    <updated>2026-10-24T13:52:39+00:00</updated>
+    <summary type="html">Reactions: public 73 / positive 73&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T21:51:28Z&lt;br/&gt;Tags: devchallenge, hf26challenge, opensource, gemma&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady         💡...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4582977</id>
@@ -754,13 +761,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09"/>
     <updated>2026-08-27T14:54:23+00:00</updated>
     <summary type="html">Reactions: public 71 / positive 71&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-08-26T14:18:19Z&lt;br/&gt;Tags: typescript, algorithms, opensource, dsa&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who struggles to make game sounds. 😿  Have you used DSA...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4892006</id>
-    <title>I Built slothd: A Local-First, Offline-Capable AI Daemon That Patiently Organizes Your Messy Workspace</title>
-    <link rel="alternate" href="https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7"/>
-    <updated>2026-10-24T13:52:39+00:00</updated>
-    <summary type="html">Reactions: public 69 / positive 69&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T21:51:28Z&lt;br/&gt;Tags: devchallenge, hf26challenge, opensource, gemma&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady         💡...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4875822</id>
@@ -833,6 +833,13 @@
     <summary type="html">Reactions: public 66 / positive 66&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T17:37:52Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar.  This is a weekly series where I share opportunities,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4882857</id>
+    <title>Stuck in the same dev.to topics? An open model fixed it.</title>
+    <link rel="alternate" href="https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc"/>
+    <updated>2026-10-21T02:13:00+00:00</updated>
+    <summary type="html">Reactions: public 65 / positive 65&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thomasbnt&quot;&gt;Thomas Bonnet&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T02:13:00Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, javascript&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4842489</id>
     <title>People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?</title>
     <link rel="alternate" href="https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak"/>
@@ -873,13 +880,6 @@
     <link rel="alternate" href="https://dev.to/nyaomaru/learn-number-of-islands-invert-binary-tree-and-course-schedule-with-step-by-step-visualization-in-5947"/>
     <updated>2026-09-02T14:54:12+00:00</updated>
     <summary type="html">Reactions: public 64 / positive 64&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nyaomaru&quot;&gt;nyaomaru&lt;/a&gt;&lt;br/&gt;Published: 2026-09-02T14:54:12Z&lt;br/&gt;Tags: typescript, dsa, opensource, webdev&lt;br/&gt;Description: Hoi hoi!  I’m @nyaomaru, a frontend engineer who is surprised by how cold it is in the Netherlands...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4882857</id>
-    <title>Stuck in the same dev.to topics? An open model fixed it.</title>
-    <link rel="alternate" href="https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc"/>
-    <updated>2026-10-21T02:13:00+00:00</updated>
-    <summary type="html">Reactions: public 63 / positive 63&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/thomasbnt&quot;&gt;Thomas Bonnet&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T02:13:00Z&lt;br/&gt;Tags: devchallenge, hf26challenge, ai, javascript&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4859158</id>
