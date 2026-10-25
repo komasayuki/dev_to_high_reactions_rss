@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml</id>
   <title>DEV Top filtered</title>
-  <updated>2026-10-24T13:52:39+00:00</updated>
+  <updated>2026-10-25T12:52:03+00:00</updated>
   <link rel="self" href="https://komasayuki.github.io/dev_to_high_reactions_rss/feed.xml"/>
   <link rel="alternate" href="https://komasayuki.github.io/dev_to_high_reactions_rss/index.html"/>
   <subtitle>DEV Top articles filtered by reactions threshold</subtitle>
@@ -508,7 +508,7 @@
     <title>Somewhere, Coding Stopped Being Allowed to Be Fun</title>
     <link rel="alternate" href="https://dev.to/james_anderson_h/somewhere-coding-stopped-being-allowed-to-be-fun-14pe"/>
     <updated>2026-10-20T05:35:46+00:00</updated>
-    <summary type="html">Reactions: public 90 / positive 90&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T05:35:46Z&lt;br/&gt;Tags: career, discuss, ai, mentalhealth&lt;br/&gt;Description: Somewhere in the last couple of years, a strange feeling crept in, and I don&apos;t think I&apos;m the only one...</summary>
+    <summary type="html">Reactions: public 91 / positive 91&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/james_anderson_h&quot;&gt;James Anderson&lt;/a&gt;&lt;br/&gt;Published: 2026-10-20T05:35:46Z&lt;br/&gt;Tags: career, discuss, ai, mentalhealth&lt;br/&gt;Description: Somewhere in the last couple of years, a strange feeling crept in, and I don&apos;t think I&apos;m the only one...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4808239</id>
@@ -588,6 +588,13 @@
     <summary type="html">Reactions: public 85 / positive 85&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/dj29&quot;&gt;Dhruv Jani&lt;/a&gt;&lt;br/&gt;Published: 2026-10-21T21:51:28Z&lt;br/&gt;Tags: devchallenge, hf26challenge, opensource, gemma&lt;br/&gt;Description: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady         💡...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4907044</id>
+    <title>Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon</title>
+    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806"/>
+    <updated>2026-10-23T18:59:48+00:00</updated>
+    <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:29:07Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4750132</id>
     <title>&apos;Someone Already Built That&apos; is the Favourite Excuse of Broke Developers</title>
     <link rel="alternate" href="https://dev.to/maame-codes/someone-already-built-that-is-the-favourite-excuse-of-broke-developers-44o6"/>
@@ -602,11 +609,11 @@
     <summary type="html">Reactions: public 84 / positive 84&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/maame-codes&quot;&gt;Maame Afua A. P. Fordjour &lt;/a&gt;&lt;br/&gt;Published: 2026-09-23T17:06:01Z&lt;br/&gt;Tags: none&lt;br/&gt;Description: If you checked my profile recently, you probably noticed my page has been completely quiet since...</summary>
   </entry>
   <entry>
-    <id>tag:dev.to,2026:4907044</id>
-    <title>Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon</title>
-    <link rel="alternate" href="https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806"/>
-    <updated>2026-10-23T18:59:48+00:00</updated>
-    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hemapriya_kanagala&quot;&gt;Hemapriya Kanagala&lt;/a&gt;&lt;br/&gt;Published: 2026-10-23T18:29:07Z&lt;br/&gt;Tags: discuss, community, opportunities, resources&lt;br/&gt;Description: TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...</summary>
+    <id>tag:dev.to,2026:4893750</id>
+    <title>Don&apos;t Be a Proxy Between Me and Your AI</title>
+    <link rel="alternate" href="https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"/>
+    <updated>2026-10-22T04:31:09+00:00</updated>
+    <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T04:31:09Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: I&apos;ve had this conversation more times than I&apos;d like to admit.  I raise a technical question in a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4830955</id>
@@ -614,13 +621,6 @@
     <link rel="alternate" href="https://dev.to/annavi11arrea1/keyboard-makeover-i6a"/>
     <updated>2026-10-16T13:34:12+00:00</updated>
     <summary type="html">Reactions: public 83 / positive 83&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/annavi11arrea1&quot;&gt;Anna Villarreal&lt;/a&gt;&lt;br/&gt;Published: 2026-10-11T02:25:47Z&lt;br/&gt;Tags: mentalhealth, craft&lt;br/&gt;Description: I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4893750</id>
-    <title>Don&apos;t Be a Proxy Between Me and Your AI</title>
-    <link rel="alternate" href="https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn"/>
-    <updated>2026-10-22T04:31:09+00:00</updated>
-    <summary type="html">Reactions: public 81 / positive 81&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/adamthedeveloper&quot;&gt;Adam - The Developer ✨&lt;/a&gt;&lt;br/&gt;Published: 2026-10-22T04:31:09Z&lt;br/&gt;Tags: ai, discuss, career, programming&lt;br/&gt;Description: I&apos;ve had this conversation more times than I&apos;d like to admit.  I raise a technical question in a...</summary>
   </entry>
   <entry>
     <id>tag:dev.to,2026:4679179</id>
@@ -1323,6 +1323,13 @@
     <summary type="html">Reactions: public 48 / positive 48&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/devopsdaily&quot;&gt;DevOps Daily&lt;/a&gt;&lt;br/&gt;Published: 2026-09-21T10:01:00Z&lt;br/&gt;Tags: architecture, webhooks, kafka, backend&lt;br/&gt;Description: &quot;At-least-once delivery&quot; is four words that hide a dozen production incidents. So are &quot;consumer lag&quot;,...</summary>
   </entry>
   <entry>
+    <id>tag:dev.to,2026:4915339</id>
+    <title>Should You Build an MVP Before Your First Customer?</title>
+    <link rel="alternate" href="https://dev.to/startupcafe/should-you-build-an-mvp-before-your-first-customer-4242"/>
+    <updated>2026-10-25T12:52:03+00:00</updated>
+    <summary type="html">Reactions: public 47 / positive 47&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/hanzla&quot;&gt;Hanzla Baig&lt;/a&gt;&lt;br/&gt;Published: 2026-10-25T12:52:03Z&lt;br/&gt;Tags: webdev, programming, startup, discuss&lt;br/&gt;Description: Some questions about a startup idea can be answered with a conversation or a cheap web page. Others...</summary>
+  </entry>
+  <entry>
     <id>tag:dev.to,2026:4730140</id>
     <title>Bash Isn&apos;t a Programming Language. It&apos;s a Text Substitution Engine.</title>
     <link rel="alternate" href="https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml"/>
@@ -1398,12 +1405,5 @@
     <link rel="alternate" href="https://dev.to/devstackhub/givetrack-a-personal-generosity-tracker-built-for-the-dev-weekend-challenge-5dlp"/>
     <updated>2026-09-05T06:57:23+00:00</updated>
     <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/devstackhub&quot;&gt;Harsh Raval&lt;/a&gt;&lt;br/&gt;Published: 2026-09-04T11:04:54Z&lt;br/&gt;Tags: devchallenge, weekendchallenge, react, ai&lt;br/&gt;Description: This is a submission for Weekend Challenge: Generosity Edition           What I Built   GiveTrack is...</summary>
-  </entry>
-  <entry>
-    <id>tag:dev.to,2026:4537398</id>
-    <title>Should You Still Learn to Code If AI Can Do It?</title>
-    <link rel="alternate" href="https://dev.to/nazar-boyko/should-you-still-learn-to-code-if-ai-can-do-it-31nh"/>
-    <updated>2026-08-31T13:31:51+00:00</updated>
-    <summary type="html">Reactions: public 46 / positive 46&lt;br/&gt;Author: &lt;a href=&quot;https://dev.to/nazar-boyko&quot;&gt;Nazar Boyko&lt;/a&gt;&lt;br/&gt;Published: 2026-08-31T13:31:51Z&lt;br/&gt;Tags: discuss, career, ai, learning&lt;br/&gt;Description: Every beginner is quietly asking the same thing in 2026: why learn to code when the AI model can...</summary>
   </entry>
 </feed>
