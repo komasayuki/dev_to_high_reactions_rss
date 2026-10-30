@@ -2806,6 +2806,28 @@
       "last_seen": "2026-09-21T00:11:17.336026963+00:00"
     },
     {
+      "key": "4646637",
+      "id": 4646637,
+      "canonical_url": "https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin",
+      "url": "https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin",
+      "title": "We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)",
+      "description": "Let me paint a picture I know you’ve experienced recently.  You’re trying to book a flight, buy...",
+      "published_timestamp": "2026-10-30T11:35:31Z",
+      "published_at": "2026-10-30T11:35:31Z",
+      "edited_at": null,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
+      "tag_list": [
+        "discuss",
+        "showdev",
+        "webdev",
+        "gemini"
+      ],
+      "user_name": "Dhruv Jani",
+      "user_username": "dj29",
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
+    },
+    {
       "key": "4646655",
       "id": 4646655,
       "canonical_url": "https://dev.to/nazar-boyko/laravel-is-not-as-heavy-as-you-think-571h",
@@ -5420,8 +5442,8 @@
       "published_timestamp": "2026-10-26T05:00:00Z",
       "published_at": "2026-10-26T05:00:00Z",
       "edited_at": "2026-10-25T20:32:05Z",
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
       "tag_list": [
         "discuss",
         "watercooler",
@@ -5430,7 +5452,7 @@
       ],
       "user_name": "Cesar Aguirre",
       "user_username": "canro91",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4784422",
@@ -7840,8 +7862,8 @@
       "published_timestamp": "2026-10-28T15:37:53Z",
       "published_at": "2026-10-28T15:37:53Z",
       "edited_at": null,
-      "public_reactions_count": 79,
-      "positive_reactions_count": 79,
+      "public_reactions_count": 88,
+      "positive_reactions_count": 88,
       "tag_list": [
         "typescript",
         "opensource",
@@ -7850,7 +7872,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4858022",
@@ -8445,6 +8467,28 @@
       "last_seen": "2026-10-26T06:03:21.882537268+00:00"
     },
     {
+      "key": "4878017",
+      "id": 4878017,
+      "canonical_url": "https://www.kenwalger.com/blog/ai-engineering/four-ways-a-test-can-lie/",
+      "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
+      "title": "Four Ways a Test Can Lie to You",
+      "description": "Green and worthless: what verifying one small application taught me, when an AI agent wrote most of...",
+      "published_timestamp": "2026-10-28T13:32:00Z",
+      "published_at": "2026-10-28T13:32:00Z",
+      "edited_at": "2026-10-22T16:04:46Z",
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
+      "tag_list": [
+        "testing",
+        "ai",
+        "programming",
+        "webdev"
+      ],
+      "user_name": "Ken W Alger",
+      "user_username": "kenwalger",
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
+    },
+    {
       "key": "4879329",
       "id": 4879329,
       "canonical_url": "https://dev.to/star123/hello-world-5425",
@@ -8674,8 +8718,8 @@
       "published_timestamp": "2026-10-26T12:52:18Z",
       "published_at": "2026-10-26T12:52:18Z",
       "edited_at": null,
-      "public_reactions_count": 67,
-      "positive_reactions_count": 67,
+      "public_reactions_count": 73,
+      "positive_reactions_count": 73,
       "tag_list": [
         "mcp",
         "aws",
@@ -8684,7 +8728,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4884560",
@@ -9091,8 +9135,8 @@
       "published_timestamp": "2026-10-25T23:38:36Z",
       "published_at": "2026-10-25T23:38:36Z",
       "edited_at": null,
-      "public_reactions_count": 31,
-      "positive_reactions_count": 31,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
       "tag_list": [
         "devchallenge",
         "hf26challenge",
@@ -9101,7 +9145,7 @@
       ],
       "user_name": "Julien Avezou",
       "user_username": "javz",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4902399",
@@ -9343,7 +9387,7 @@
       ],
       "user_name": "James Anderson",
       "user_username": "james_anderson_h",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4908918",
@@ -9365,7 +9409,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4911807",
@@ -9377,8 +9421,8 @@
       "published_timestamp": "2026-10-24T18:12:54Z",
       "published_at": "2026-10-24T18:12:54Z",
       "edited_at": null,
-      "public_reactions_count": 137,
-      "positive_reactions_count": 137,
+      "public_reactions_count": 139,
+      "positive_reactions_count": 139,
       "tag_list": [
         "opensource",
         "ruby",
@@ -9387,7 +9431,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4912012",
@@ -9421,15 +9465,15 @@
       "published_timestamp": "2026-10-25T06:44:20Z",
       "published_at": "2026-10-25T06:44:20Z",
       "edited_at": null,
-      "public_reactions_count": 141,
-      "positive_reactions_count": 141,
+      "public_reactions_count": 142,
+      "positive_reactions_count": 142,
       "tag_list": [
         "conference",
         "github"
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4914505",
@@ -9451,7 +9495,7 @@
       ],
       "user_name": "Alicia Marianne Gonçalves",
       "user_username": "m4rri4nne",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4915339",
@@ -9473,7 +9517,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4916139",
@@ -9485,8 +9529,8 @@
       "published_timestamp": "2026-10-26T16:46:19Z",
       "published_at": "2026-10-26T16:46:19Z",
       "edited_at": null,
-      "public_reactions_count": 134,
-      "positive_reactions_count": 134,
+      "public_reactions_count": 138,
+      "positive_reactions_count": 138,
       "tag_list": [
         "career",
         "community",
@@ -9495,7 +9539,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4916473",
@@ -9517,7 +9561,7 @@
       ],
       "user_name": "Advik Divekar",
       "user_username": "advikdivekar",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4917021",
@@ -9539,7 +9583,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4917658",
@@ -9551,8 +9595,8 @@
       "published_timestamp": "2026-10-25T22:10:22Z",
       "published_at": "2026-10-25T22:10:22Z",
       "edited_at": "2026-10-27T09:15:36Z",
-      "public_reactions_count": 44,
-      "positive_reactions_count": 44,
+      "public_reactions_count": 45,
+      "positive_reactions_count": 45,
       "tag_list": [
         "devchallenge",
         "hf26challenge",
@@ -9560,7 +9604,29 @@
       ],
       "user_name": "Peter Vivo",
       "user_username": "pengeszikra",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
+    },
+    {
+      "key": "4918252",
+      "id": 4918252,
+      "canonical_url": "https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4",
+      "url": "https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4",
+      "title": "My open source project is brand new and already has contributors. Here's what I did.",
+      "description": "In the spirit of Hacktoberfest, with it being the last day of October, I wanted to share my story...",
+      "published_timestamp": "2026-10-30T16:03:47Z",
+      "published_at": "2026-10-30T16:03:47Z",
+      "edited_at": "2026-10-30T16:41:06Z",
+      "public_reactions_count": 50,
+      "positive_reactions_count": 50,
+      "tag_list": [
+        "opensource",
+        "github",
+        "ai",
+        "webdev"
+      ],
+      "user_name": "Nathan Tarbert",
+      "user_username": "nathan_tarbert",
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4918379",
@@ -9582,7 +9648,7 @@
       ],
       "user_name": "abdullah haroon",
       "user_username": "abdullah_haroon_092cf10d3",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4919957",
@@ -9594,8 +9660,8 @@
       "published_timestamp": "2026-10-29T09:34:19Z",
       "published_at": "2026-10-29T09:34:19Z",
       "edited_at": null,
-      "public_reactions_count": 43,
-      "positive_reactions_count": 43,
+      "public_reactions_count": 45,
+      "positive_reactions_count": 45,
       "tag_list": [
         "ai",
         "programming",
@@ -9604,7 +9670,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4921112",
@@ -9626,7 +9692,7 @@
       ],
       "user_name": "Dimitris Kyrkos ",
       "user_username": "cyclopt_dimitrisk",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4921809",
@@ -9638,8 +9704,8 @@
       "published_timestamp": "2026-10-28T09:52:39Z",
       "published_at": "2026-10-28T09:52:39Z",
       "edited_at": null,
-      "public_reactions_count": 57,
-      "positive_reactions_count": 57,
+      "public_reactions_count": 67,
+      "positive_reactions_count": 67,
       "tag_list": [
         "authentication",
         "keycloak",
@@ -9648,7 +9714,7 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4922787",
@@ -9670,7 +9736,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4923164",
@@ -9682,8 +9748,8 @@
       "published_timestamp": "2026-10-26T17:10:15Z",
       "published_at": "2026-10-26T17:10:15Z",
       "edited_at": "2026-10-26T17:13:58Z",
-      "public_reactions_count": 55,
-      "positive_reactions_count": 55,
+      "public_reactions_count": 56,
+      "positive_reactions_count": 56,
       "tag_list": [
         "productivity",
         "programming",
@@ -9692,7 +9758,7 @@
       ],
       "user_name": "TheBitForge",
       "user_username": "thebitforge",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4923481",
@@ -9714,7 +9780,7 @@
       ],
       "user_name": "Dev Stack Hub",
       "user_username": "devstackhub",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4924826",
@@ -9735,7 +9801,7 @@
       ],
       "user_name": "Maame Afua A. P. Fordjour ",
       "user_username": "maame-codes",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4924912",
@@ -9779,7 +9845,7 @@
       ],
       "user_name": "Mark Fussell",
       "user_username": "mfussell",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4925970",
@@ -9791,8 +9857,8 @@
       "published_timestamp": "2026-10-27T05:56:07Z",
       "published_at": "2026-10-27T05:56:07Z",
       "edited_at": null,
-      "public_reactions_count": 48,
-      "positive_reactions_count": 48,
+      "public_reactions_count": 53,
+      "positive_reactions_count": 53,
       "tag_list": [
         "security",
         "webdev",
@@ -9801,7 +9867,7 @@
       ],
       "user_name": "Varshith V Hegde",
       "user_username": "varshithvhegde",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4929664",
@@ -9813,8 +9879,8 @@
       "published_timestamp": "2026-10-27T16:44:29Z",
       "published_at": "2026-10-27T16:44:29Z",
       "edited_at": "2026-10-27T16:56:14Z",
-      "public_reactions_count": 139,
-      "positive_reactions_count": 139,
+      "public_reactions_count": 145,
+      "positive_reactions_count": 145,
       "tag_list": [
         "devto",
         "showdev",
@@ -9823,7 +9889,7 @@
       ],
       "user_name": "Jess Lee",
       "user_username": "jess",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4929675",
@@ -9835,8 +9901,8 @@
       "published_timestamp": "2026-10-27T16:46:17Z",
       "published_at": "2026-10-27T16:46:17Z",
       "edited_at": null,
-      "public_reactions_count": 109,
-      "positive_reactions_count": 109,
+      "public_reactions_count": 110,
+      "positive_reactions_count": 110,
       "tag_list": [
         "ai",
         "discuss",
@@ -9845,7 +9911,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4929802",
@@ -9857,8 +9923,8 @@
       "published_timestamp": "2026-10-28T10:13:29Z",
       "published_at": "2026-10-28T10:13:29Z",
       "edited_at": null,
-      "public_reactions_count": 37,
-      "positive_reactions_count": 37,
+      "public_reactions_count": 39,
+      "positive_reactions_count": 39,
       "tag_list": [
         "python",
         "security",
@@ -9867,7 +9933,7 @@
       ],
       "user_name": "Akhouri Anmol Kumar",
       "user_username": "akhourianmolkumar",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4929852",
@@ -9879,8 +9945,8 @@
       "published_timestamp": "2026-10-29T07:02:39Z",
       "published_at": "2026-10-29T07:02:39Z",
       "edited_at": null,
-      "public_reactions_count": 53,
-      "positive_reactions_count": 53,
+      "public_reactions_count": 61,
+      "positive_reactions_count": 61,
       "tag_list": [
         "ai",
         "security",
@@ -9889,7 +9955,7 @@
       ],
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4929909",
@@ -9911,7 +9977,7 @@
       ],
       "user_name": "Alina Shah",
       "user_username": "alinashah",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4931849",
@@ -9923,8 +9989,8 @@
       "published_timestamp": "2026-10-28T04:35:13Z",
       "published_at": "2026-10-28T04:35:13Z",
       "edited_at": "2026-10-28T12:20:30Z",
-      "public_reactions_count": 35,
-      "positive_reactions_count": 35,
+      "public_reactions_count": 36,
+      "positive_reactions_count": 36,
       "tag_list": [
         "beginners",
         "webdev",
@@ -9932,7 +9998,29 @@
       ],
       "user_name": "Anna Villarreal",
       "user_username": "annavi11arrea1",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
+    },
+    {
+      "key": "4932169",
+      "id": 4932169,
+      "canonical_url": "https://dev.to/james_anderson_h/not-the-end-but-a-shift-how-ai-is-pushing-computer-science-toward-deeper-engineering-47mk",
+      "url": "https://dev.to/james_anderson_h/not-the-end-but-a-shift-how-ai-is-pushing-computer-science-toward-deeper-engineering-47mk",
+      "title": "Not the End, but a Shift: How AI Is Pushing Computer Science Toward Deeper Engineering",
+      "description": "If you're studying computer science right now, or you just graduated, you've probably heard some...",
+      "published_timestamp": "2026-10-28T05:13:04Z",
+      "published_at": "2026-10-28T05:13:04Z",
+      "edited_at": null,
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "career",
+        "ai",
+        "computerscience",
+        "software"
+      ],
+      "user_name": "James Anderson",
+      "user_username": "james_anderson_h",
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4933467",
@@ -9976,7 +10064,7 @@
       ],
       "user_name": "Puneet Kumar Mishra",
       "user_username": "puneetkumar2010",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4936019",
@@ -9998,7 +10086,7 @@
       ],
       "user_name": "Dev Stack Hub",
       "user_username": "devstackhub",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4938623",
@@ -10010,8 +10098,8 @@
       "published_timestamp": "2026-10-29T12:37:40Z",
       "published_at": "2026-10-29T12:37:40Z",
       "edited_at": null,
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
+      "public_reactions_count": 44,
+      "positive_reactions_count": 44,
       "tag_list": [
         "devchallenge",
         "hf26challenge",
@@ -10020,7 +10108,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4938850",
@@ -10032,8 +10120,8 @@
       "published_timestamp": "2026-10-29T06:23:46Z",
       "published_at": "2026-10-29T06:23:46Z",
       "edited_at": null,
-      "public_reactions_count": 47,
-      "positive_reactions_count": 47,
+      "public_reactions_count": 51,
+      "positive_reactions_count": 51,
       "tag_list": [
         "beginners",
         "developers",
@@ -10042,7 +10130,7 @@
       ],
       "user_name": "Omaima Ameen",
       "user_username": "heytechomaima",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4941101",
@@ -10064,7 +10152,7 @@
       ],
       "user_name": "chet100",
       "user_username": "chet103cc",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4942466",
@@ -10076,8 +10164,8 @@
       "published_timestamp": "2026-10-29T16:58:14Z",
       "published_at": "2026-10-29T16:58:14Z",
       "edited_at": null,
-      "public_reactions_count": 30,
-      "positive_reactions_count": 30,
+      "public_reactions_count": 40,
+      "positive_reactions_count": 40,
       "tag_list": [
         "discuss",
         "beginners",
@@ -10086,7 +10174,7 @@
       ],
       "user_name": "Jessica Doering",
       "user_username": "sizzlebop",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     },
     {
       "key": "4943245",
@@ -10098,8 +10186,8 @@
       "published_timestamp": "2026-10-29T20:08:53Z",
       "published_at": "2026-10-29T20:08:53Z",
       "edited_at": "2026-10-30T13:34:02Z",
-      "public_reactions_count": 65,
-      "positive_reactions_count": 65,
+      "public_reactions_count": 84,
+      "positive_reactions_count": 84,
       "tag_list": [
         "javascript",
         "webdev",
@@ -10108,7 +10196,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-10-30T14:01:49.874295839+00:00"
+      "last_seen": "2026-10-30T19:15:09.291508571+00:00"
     }
   ]
 }
