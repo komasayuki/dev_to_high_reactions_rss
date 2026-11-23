@@ -280,50 +280,6 @@
       "last_seen": "2026-10-21T10:02:49.506617511+00:00"
     },
     {
-      "key": "4676293",
-      "id": 4676293,
-      "canonical_url": "https://shubhra.dev/blog/the-code-i-couldnt-leave-alone",
-      "url": "https://dev.to/shubhradev/the-code-i-couldnt-leave-alone-33hf",
-      "title": "The Code I Couldn't Leave Alone",
-      "description": "The bug report was simple enough. On the reports dashboard, if you changed the date range while a...",
-      "published_timestamp": "2026-09-17T12:20:21Z",
-      "published_at": "2026-09-17T12:20:21Z",
-      "edited_at": "2026-09-17T16:03:53Z",
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
-      "tag_list": [
-        "react",
-        "nextjs",
-        "webdev",
-        "refactoring"
-      ],
-      "user_name": "Shubhra Pokhariya",
-      "user_username": "shubhradev",
-      "last_seen": "2026-09-24T09:55:40.102116670+00:00"
-    },
-    {
-      "key": "4676493",
-      "id": 4676493,
-      "canonical_url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
-      "url": "https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e",
-      "title": "How to Use Jev: A practical guide to TypeSafe's System One model",
-      "description": "Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...",
-      "published_timestamp": "2026-09-17T12:24:54Z",
-      "published_at": "2026-09-17T12:24:54Z",
-      "edited_at": null,
-      "public_reactions_count": 236,
-      "positive_reactions_count": 236,
-      "tag_list": [
-        "ai",
-        "llm",
-        "softwaredevelopment",
-        "tutorial"
-      ],
-      "user_name": "Prosper Otemuyiwa",
-      "user_username": "unicodeveloper",
-      "last_seen": "2026-09-24T09:55:40.102116670+00:00"
-    },
-    {
       "key": "4676985",
       "id": 4676985,
       "canonical_url": "https://dev.to/gramli/polly-introduces-an-open-source-maintenance-fee-f3e",
@@ -344,26 +300,6 @@
       "user_name": "Daniel Balcarek",
       "user_username": "gramli",
       "last_seen": "2026-10-01T05:42:31.587426980+00:00"
-    },
-    {
-      "key": "4678031",
-      "id": 4678031,
-      "canonical_url": "https://dev.to/technogamerz/the-silent-mic-drop-1g0b",
-      "url": "https://dev.to/technogamerz/the-silent-mic-drop-1g0b",
-      "title": "The Silent Mic-Drop",
-      "description": "So, back on the first day of 11th grade, I walked in with high hopes, new faces around, and big...",
-      "published_timestamp": "2026-09-17T15:50:16Z",
-      "published_at": "2026-09-17T15:50:16Z",
-      "edited_at": null,
-      "public_reactions_count": 75,
-      "positive_reactions_count": 75,
-      "tag_list": [
-        "discuss",
-        "community"
-      ],
-      "user_name": "𝐓𝐡𝐞 𝐋𝐚𝐳𝐲 𝐆𝐢𝐫𝐥 ",
-      "user_username": "technogamerz",
-      "last_seen": "2026-09-24T14:58:16.800237709+00:00"
     },
     {
       "key": "4678373",
@@ -408,28 +344,6 @@
       "user_name": "Ken W Alger",
       "user_username": "kenwalger",
       "last_seen": "2026-10-01T13:03:42.574317910+00:00"
-    },
-    {
-      "key": "4679179",
-      "id": 4679179,
-      "canonical_url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g",
-      "url": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g",
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "description": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while...",
-      "published_timestamp": "2026-09-17T20:22:43Z",
-      "published_at": "2026-09-17T20:22:43Z",
-      "edited_at": "2026-09-18T00:20:39Z",
-      "public_reactions_count": 81,
-      "positive_reactions_count": 81,
-      "tag_list": [
-        "devchallenge",
-        "weekendchallenge",
-        "hackathon",
-        "programming"
-      ],
-      "user_name": "Jem",
-      "user_username": "heyitsjem",
-      "last_seen": "2026-09-24T19:03:57.492117582+00:00"
     },
     {
       "key": "4680252",
@@ -9412,7 +9326,7 @@
       ],
       "user_name": "Heinrich Neb",
       "user_username": "heinrichneb",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5011153",
@@ -9467,8 +9381,8 @@
       "published_timestamp": "2026-11-17T14:18:20Z",
       "published_at": "2026-11-17T14:18:20Z",
       "edited_at": null,
-      "public_reactions_count": 98,
-      "positive_reactions_count": 98,
+      "public_reactions_count": 99,
+      "positive_reactions_count": 99,
       "tag_list": [
         "devengers",
         "newsletter",
@@ -9477,7 +9391,7 @@
       ],
       "user_name": "Dhruv Jani",
       "user_username": "dj29",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5012963",
@@ -9565,7 +9479,7 @@
       ],
       "user_name": "Daniel Nwaneri",
       "user_username": "dannwaneri",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5015985",
@@ -10068,7 +9982,7 @@
       ],
       "user_name": "Raju Dandigam",
       "user_username": "raju_dandigam",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5035228",
@@ -10124,8 +10038,8 @@
       "published_timestamp": "2026-11-21T18:23:38Z",
       "published_at": "2026-11-21T18:23:38Z",
       "edited_at": null,
-      "public_reactions_count": 46,
-      "positive_reactions_count": 46,
+      "public_reactions_count": 60,
+      "positive_reactions_count": 60,
       "tag_list": [
         "ai",
         "kiro",
@@ -10134,7 +10048,7 @@
       ],
       "user_name": "Earl Grey",
       "user_username": "earlgreyhot1701d",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5037164",
@@ -10432,8 +10346,8 @@
       "published_timestamp": "2026-11-18T17:27:52Z",
       "published_at": "2026-11-18T17:27:52Z",
       "edited_at": null,
-      "public_reactions_count": 127,
-      "positive_reactions_count": 127,
+      "public_reactions_count": 140,
+      "positive_reactions_count": 140,
       "tag_list": [
         "typescript",
         "rust",
@@ -10442,7 +10356,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5048085",
@@ -10573,7 +10487,7 @@
       ],
       "user_name": "Wageesha Tripathi",
       "user_username": "wst2002rk",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5049539",
@@ -10616,7 +10530,7 @@
       ],
       "user_name": "G-type",
       "user_username": "gtref",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5055580",
@@ -10638,7 +10552,7 @@
       ],
       "user_name": "TheWitcherish",
       "user_username": "thewitcherish",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5056089",
@@ -10658,7 +10572,7 @@
       ],
       "user_name": "Adam - The Developer ✨",
       "user_username": "adamthedeveloper",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5056698",
@@ -10669,18 +10583,18 @@
       "description": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
       "published_timestamp": "2026-11-20T16:28:49Z",
       "published_at": "2026-11-20T16:28:49Z",
-      "edited_at": null,
-      "public_reactions_count": 42,
-      "positive_reactions_count": 42,
+      "edited_at": "2026-11-23T14:49:25Z",
+      "public_reactions_count": 43,
+      "positive_reactions_count": 43,
       "tag_list": [
         "codenewbie",
         "ai",
         "beginners",
-        "podcast"
+        "codenewbiestory"
       ],
       "user_name": "Lauren Lee👩🏼‍💻",
       "user_username": "lolocoding",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5058027",
@@ -10702,7 +10616,7 @@
       ],
       "user_name": "𝗝𝗼𝗵𝗻",
       "user_username": "johnnylemonny",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5058147",
@@ -10724,7 +10638,7 @@
       ],
       "user_name": "𝗝𝗼𝗵𝗻",
       "user_username": "johnnylemonny",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5058432",
@@ -10746,7 +10660,7 @@
       ],
       "user_name": "Sarvar Nadaf",
       "user_username": "sarvar_04",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5059073",
@@ -10790,7 +10704,7 @@
       ],
       "user_name": "Lauren Lee👩🏼‍💻",
       "user_username": "lolocoding",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5060452",
@@ -10802,8 +10716,8 @@
       "published_timestamp": "2026-11-18T08:32:45Z",
       "published_at": "2026-11-18T08:32:45Z",
       "edited_at": null,
-      "public_reactions_count": 250,
-      "positive_reactions_count": 250,
+      "public_reactions_count": 254,
+      "positive_reactions_count": 254,
       "tag_list": [
         "ai",
         "programming",
@@ -10812,7 +10726,7 @@
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5062324",
@@ -10834,7 +10748,7 @@
       ],
       "user_name": "Shubhra Pokhariya",
       "user_username": "shubhradev",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5062863",
@@ -10856,7 +10770,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5065259",
@@ -10868,8 +10782,8 @@
       "published_timestamp": "2026-11-18T13:35:13Z",
       "published_at": "2026-11-18T13:35:13Z",
       "edited_at": null,
-      "public_reactions_count": 44,
-      "positive_reactions_count": 44,
+      "public_reactions_count": 45,
+      "positive_reactions_count": 45,
       "tag_list": [
         "vscode",
         "git",
@@ -10878,7 +10792,7 @@
       ],
       "user_name": "Emanuele Bartolesi",
       "user_username": "kasuken",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5065410",
@@ -10900,7 +10814,7 @@
       ],
       "user_name": "Harun - solo dev ",
       "user_username": "koda2026",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5066307",
@@ -10912,8 +10826,8 @@
       "published_timestamp": "2026-11-18T15:52:31Z",
       "published_at": "2026-11-18T15:52:31Z",
       "edited_at": "2026-11-18T18:14:11Z",
-      "public_reactions_count": 157,
-      "positive_reactions_count": 157,
+      "public_reactions_count": 158,
+      "positive_reactions_count": 158,
       "tag_list": [
         "discuss",
         "community",
@@ -10922,7 +10836,7 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5067167",
@@ -10934,8 +10848,8 @@
       "published_timestamp": "2026-11-19T21:20:16Z",
       "published_at": "2026-11-19T21:20:16Z",
       "edited_at": "2026-11-19T21:21:25Z",
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "dotnet",
         "csharp",
@@ -10944,7 +10858,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5067508",
@@ -10956,8 +10870,8 @@
       "published_timestamp": "2026-11-18T18:26:20Z",
       "published_at": "2026-11-18T18:26:20Z",
       "edited_at": "2026-11-20T17:50:49Z",
-      "public_reactions_count": 110,
-      "positive_reactions_count": 110,
+      "public_reactions_count": 120,
+      "positive_reactions_count": 120,
       "tag_list": [
         "webscraping",
         "api",
@@ -10966,7 +10880,7 @@
       ],
       "user_name": "Dev Stack Hub",
       "user_username": "devstackhub",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5068712",
@@ -10978,8 +10892,8 @@
       "published_timestamp": "2026-11-18T22:37:18Z",
       "published_at": "2026-11-18T22:37:18Z",
       "edited_at": "2026-11-18T23:10:00Z",
-      "public_reactions_count": 78,
-      "positive_reactions_count": 78,
+      "public_reactions_count": 79,
+      "positive_reactions_count": 79,
       "tag_list": [
         "beginners",
         "learning",
@@ -10988,7 +10902,7 @@
       ],
       "user_name": "Maame Afua A. P. Fordjour ",
       "user_username": "maame-codes",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5069884",
@@ -11000,8 +10914,8 @@
       "published_timestamp": "2026-11-19T03:35:10Z",
       "published_at": "2026-11-19T03:35:10Z",
       "edited_at": null,
-      "public_reactions_count": 117,
-      "positive_reactions_count": 117,
+      "public_reactions_count": 119,
+      "positive_reactions_count": 119,
       "tag_list": [
         "discuss",
         "ai",
@@ -11010,7 +10924,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5071647",
@@ -11032,7 +10946,29 @@
       ],
       "user_name": "Sᴛᴀʀ⭐",
       "user_username": "star123",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
+    },
+    {
+      "key": "5072558",
+      "id": 5072558,
+      "canonical_url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
+      "url": "https://dev.to/edbrdi/can-a-plain-table-hijack-an-ai-agent-2pde",
+      "title": "Can a plain table hijack an AI agent?",
+      "description": "Living repo: every case in this article is in agent-redteam...",
+      "published_timestamp": "2026-11-19T09:20:49Z",
+      "published_at": "2026-11-19T09:20:49Z",
+      "edited_at": "2026-11-19T23:25:32Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "ai",
+        "security",
+        "llm",
+        "agents"
+      ],
+      "user_name": "Eddy",
+      "user_username": "edbrdi",
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5074788",
@@ -11053,7 +10989,7 @@
       ],
       "user_name": "Lauren Lee👩🏼‍💻",
       "user_username": "lolocoding",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5076491",
@@ -11074,7 +11010,7 @@
       ],
       "user_name": "Peter Kim Frank",
       "user_username": "peter",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5079085",
@@ -11086,8 +11022,8 @@
       "published_timestamp": "2026-11-20T05:31:00Z",
       "published_at": "2026-11-20T05:31:00Z",
       "edited_at": "2026-11-20T15:40:43Z",
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
+      "public_reactions_count": 39,
+      "positive_reactions_count": 39,
       "tag_list": [
         "ai",
         "discuss",
@@ -11096,7 +11032,7 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5080715",
@@ -11108,8 +11044,8 @@
       "published_timestamp": "2026-11-21T11:24:29Z",
       "published_at": "2026-11-21T11:24:29Z",
       "edited_at": null,
-      "public_reactions_count": 103,
-      "positive_reactions_count": 103,
+      "public_reactions_count": 113,
+      "positive_reactions_count": 113,
       "tag_list": [
         "community",
         "discuss",
@@ -11118,7 +11054,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5081066",
@@ -11152,8 +11088,8 @@
       "published_timestamp": "2026-11-20T12:45:36Z",
       "published_at": "2026-11-20T12:45:36Z",
       "edited_at": null,
-      "public_reactions_count": 31,
-      "positive_reactions_count": 31,
+      "public_reactions_count": 32,
+      "positive_reactions_count": 32,
       "tag_list": [
         "ai",
         "antigravity",
@@ -11162,7 +11098,7 @@
       ],
       "user_name": "Remigiusz Samborski",
       "user_username": "rsamborski",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5082373",
@@ -11174,8 +11110,8 @@
       "published_timestamp": "2026-11-20T16:21:37Z",
       "published_at": "2026-11-20T16:21:37Z",
       "edited_at": "2026-11-21T06:20:38Z",
-      "public_reactions_count": 85,
-      "positive_reactions_count": 85,
+      "public_reactions_count": 87,
+      "positive_reactions_count": 87,
       "tag_list": [
         "rust",
         "learning",
@@ -11184,7 +11120,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5082880",
@@ -11206,7 +11142,7 @@
       ],
       "user_name": "EffessDev",
       "user_username": "effessdev",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5083703",
@@ -11249,7 +11185,7 @@
       ],
       "user_name": "Sᴛᴀʀ⭐",
       "user_username": "star123",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5083961",
@@ -11271,7 +11207,29 @@
       ],
       "user_name": "xbill",
       "user_username": "xbill",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
+    },
+    {
+      "key": "5085299",
+      "id": 5085299,
+      "canonical_url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
+      "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
+      "title": "What are you Grateful for this Thanksgiving?",
+      "description": "Thanksgiving is almost here (Just days away)..and I have no plans yet.    Don't worry, I will think...",
+      "published_timestamp": "2026-11-23T14:42:00Z",
+      "published_at": "2026-11-23T14:42:00Z",
+      "edited_at": null,
+      "public_reactions_count": 83,
+      "positive_reactions_count": 83,
+      "tag_list": [
+        "discuss",
+        "community",
+        "watercooler",
+        "gratitude"
+      ],
+      "user_name": "FrancisTRᴅᴇᴠ",
+      "user_username": "francistrdev",
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5088257",
@@ -11296,6 +11254,28 @@
       "last_seen": "2026-11-21T17:23:31.315936222+00:00"
     },
     {
+      "key": "5089186",
+      "id": 5089186,
+      "canonical_url": "https://dev.to/gde/beyond-aurora-sub-20ms-real-time-payment-fraud-vector-search-with-google-cloud-alloydb-scann-ani",
+      "url": "https://dev.to/gde/beyond-aurora-sub-20ms-real-time-payment-fraud-vector-search-with-google-cloud-alloydb-scann-ani",
+      "title": "Beyond Aurora: Sub-20ms Real-Time Payment Fraud & Vector Search with Google Cloud AlloyDB, SCaNN, and Gemini",
+      "description": "1. Starting from Zero: The 50-Millisecond Coffee Mystery   Imagine you are standing at a...",
+      "published_timestamp": "2026-11-21T16:15:54Z",
+      "published_at": "2026-11-21T16:15:54Z",
+      "edited_at": "2026-11-23T12:29:07Z",
+      "public_reactions_count": 30,
+      "positive_reactions_count": 30,
+      "tag_list": [
+        "googlecloud",
+        "ai",
+        "alloydbsprint",
+        "gemini"
+      ],
+      "user_name": "Carlos Barbero",
+      "user_username": "carlosrgomes",
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
+    },
+    {
       "key": "5089957",
       "id": 5089957,
       "canonical_url": "https://dev.to/necoz/necoz-is-building-a-new-house-all-cats-follow-me-530n",
@@ -11305,8 +11285,8 @@
       "published_timestamp": "2026-11-22T13:27:10Z",
       "published_at": "2026-11-22T13:27:10Z",
       "edited_at": null,
-      "public_reactions_count": 83,
-      "positive_reactions_count": 83,
+      "public_reactions_count": 88,
+      "positive_reactions_count": 88,
       "tag_list": [
         "necoz",
         "opensource",
@@ -11315,7 +11295,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5091872",
@@ -11326,9 +11306,9 @@
       "description": "A Little Chinese Philosophy Over Coffee              An Ordinary Afternoon   The afternoon was...",
       "published_timestamp": "2026-11-22T06:17:19Z",
       "published_at": "2026-11-22T06:17:19Z",
-      "edited_at": null,
-      "public_reactions_count": 84,
-      "positive_reactions_count": 84,
+      "edited_at": "2026-11-23T11:16:29Z",
+      "public_reactions_count": 88,
+      "positive_reactions_count": 88,
       "tag_list": [
         "discuss",
         "management",
@@ -11337,7 +11317,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5091929",
@@ -11349,8 +11329,8 @@
       "published_timestamp": "2026-11-22T05:23:14Z",
       "published_at": "2026-11-22T05:23:14Z",
       "edited_at": null,
-      "public_reactions_count": 36,
-      "positive_reactions_count": 36,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
       "tag_list": [
         "ai",
         "rag",
@@ -11359,7 +11339,7 @@
       ],
       "user_name": "Ayush Singh",
       "user_username": "ayush_singh_9b0d83152be5b",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5092956",
@@ -11371,12 +11351,12 @@
       "published_timestamp": "2026-11-22T09:49:08Z",
       "published_at": "2026-11-22T09:49:08Z",
       "edited_at": "2026-11-22T09:49:26Z",
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
       "tag_list": [],
       "user_name": "Shruti Shahi",
       "user_username": "mestonecold",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5093834",
@@ -11388,8 +11368,8 @@
       "published_timestamp": "2026-11-22T13:01:22Z",
       "published_at": "2026-11-22T13:01:22Z",
       "edited_at": "2026-11-22T13:11:31Z",
-      "public_reactions_count": 52,
-      "positive_reactions_count": 52,
+      "public_reactions_count": 53,
+      "positive_reactions_count": 53,
       "tag_list": [
         "discuss",
         "github",
@@ -11398,7 +11378,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5093874",
@@ -11420,7 +11400,7 @@
       ],
       "user_name": "Kanak Waradkar",
       "user_username": "kakeroth",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     },
     {
       "key": "5097388",
@@ -11431,9 +11411,9 @@
       "description": "An Ancient Idea in a Digital World     It's 1:30 a.m.  The café is still open, although only a few...",
       "published_timestamp": "2026-11-23T07:09:21Z",
       "published_at": "2026-11-23T07:09:21Z",
-      "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "edited_at": "2026-11-23T11:16:58Z",
+      "public_reactions_count": 94,
+      "positive_reactions_count": 94,
       "tag_list": [
         "discuss",
         "career",
@@ -11442,7 +11422,72 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-23T08:56:34.808811744+00:00"
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
+    },
+    {
+      "key": "5097671",
+      "id": 5097671,
+      "canonical_url": "https://dev.to/_yourbrainbuffer_/the-learners-point-01-pydantic-bringing-typescript-like-validation-to-python-458g",
+      "url": "https://dev.to/_yourbrainbuffer_/the-learners-point-01-pydantic-bringing-typescript-like-validation-to-python-458g",
+      "title": "The Learner’s Point #01: Pydantic — Bringing TypeScript-Like Validation to Python",
+      "description": "I am not a teacher or anything. Through this series, The Learner's Point, I am not here to teach you....",
+      "published_timestamp": "2026-11-23T05:29:59Z",
+      "published_at": "2026-11-23T05:29:59Z",
+      "edited_at": "2026-11-23T05:30:58Z",
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "python",
+        "tutorial",
+        "beginners",
+        "discuss"
+      ],
+      "user_name": "Prasoon  Jadon ",
+      "user_username": "pjdeveloper896",
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
+    },
+    {
+      "key": "5098053",
+      "id": 5098053,
+      "canonical_url": "https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32",
+      "url": "https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32",
+      "title": "C# 15 Unpacked: Practical Use Cases for Unions with Real Examples",
+      "description": "All the code in this series is available on GitHub. Clone it, run it, and try breaking it yourself....",
+      "published_timestamp": "2026-11-23T13:24:24Z",
+      "published_at": "2026-11-23T13:24:24Z",
+      "edited_at": null,
+      "public_reactions_count": 32,
+      "positive_reactions_count": 32,
+      "tag_list": [
+        "microsoft",
+        "dotnet",
+        "csharp",
+        "programming"
+      ],
+      "user_name": "Giorgi Kobaidze",
+      "user_username": "georgekobaidze",
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
+    },
+    {
+      "key": "5099751",
+      "id": 5099751,
+      "canonical_url": "https://dev.to/necoz/necoz-art-class-the-day-35-cats-painted-a-portrait-of-the-king-how-pixels-work-10en",
+      "url": "https://dev.to/necoz/necoz-art-class-the-day-35-cats-painted-a-portrait-of-the-king-how-pixels-work-10en",
+      "title": "🎨 NECOZ Art Class: The Day 35 Cats Painted a Portrait of the King 👑 | How Pixels Work",
+      "description": "It was 9 AM at NECOZ School. 🏫  Art Class had just begun when King Nyaomaru walked in wearing his...",
+      "published_timestamp": "2026-11-23T10:57:06Z",
+      "published_at": "2026-11-23T10:57:06Z",
+      "edited_at": null,
+      "public_reactions_count": 56,
+      "positive_reactions_count": 56,
+      "tag_list": [
+        "python",
+        "beginners",
+        "discuss"
+      ],
+      "user_name": "Akhouri Anmol Kumar",
+      "user_username": "akhourianmolkumar",
+      "last_seen": "2026-11-23T21:14:54.366965585+00:00"
     }
   ]
 }
