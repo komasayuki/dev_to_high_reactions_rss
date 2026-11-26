@@ -75,8 +75,8 @@
       "published_timestamp": "2026-11-25T14:05:36Z",
       "published_at": "2026-11-25T14:05:36Z",
       "edited_at": null,
-      "public_reactions_count": 50,
-      "positive_reactions_count": 50,
+      "public_reactions_count": 67,
+      "positive_reactions_count": 67,
       "tag_list": [
         "mentalhealth",
         "discuss",
@@ -84,7 +84,7 @@
       ],
       "user_name": "Klaudia Grzondziel",
       "user_username": "klaudiagrz",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "4516301",
@@ -304,28 +304,6 @@
       "last_seen": "2026-10-01T13:03:42.574317910+00:00"
     },
     {
-      "key": "4699313",
-      "id": 4699313,
-      "canonical_url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
-      "url": "https://dev.to/mikachu/i-built-a-green-blob-that-lives-on-my-desktop-and-now-it-has-feelings-4pjd",
-      "title": "i built a green blob that lives on my desktop. now it has feelings.",
-      "description": "A quick disclaimer before we dive in: when I say \"feelings,\" I mean state machines, bond...",
-      "published_timestamp": "2026-09-20T11:15:55Z",
-      "published_at": "2026-09-20T11:15:55Z",
-      "edited_at": "2026-09-20T14:22:30Z",
-      "public_reactions_count": 86,
-      "positive_reactions_count": 86,
-      "tag_list": [
-        "showdev",
-        "python",
-        "linux",
-        "opensource"
-      ],
-      "user_name": "Mika Flowers",
-      "user_username": "mikachu",
-      "last_seen": "2026-09-27T08:02:44.298621220+00:00"
-    },
-    {
       "key": "4699896",
       "id": 4699896,
       "canonical_url": "https://app.notion.com/p/Week-of-2026-09-14-14-repos-8-PRs-3e1293ab6e6281908a43c0a8f55c85cf",
@@ -346,28 +324,6 @@
       "user_name": "Yash Kumar Saini",
       "user_username": "yashksaini",
       "last_seen": "2026-09-28T00:36:57.442053470+00:00"
-    },
-    {
-      "key": "4700250",
-      "id": 4700250,
-      "canonical_url": "https://www.traversymedia.com/blog/traditional-coding-vs-agentic-coding-the-flow-state-problem",
-      "url": "https://dev.to/bradtraversy/traditional-coding-vs-agentic-coding-the-flow-state-problem-57p5",
-      "title": "Traditional Coding vs Agentic Coding: The Flow State Problem",
-      "description": "One of the things I've always enjoyed about coding is getting completely locked into a problem. You...",
-      "published_timestamp": "2026-09-20T14:19:20Z",
-      "published_at": "2026-09-20T14:19:20Z",
-      "edited_at": "2026-09-20T19:09:08Z",
-      "public_reactions_count": 34,
-      "positive_reactions_count": 34,
-      "tag_list": [
-        "ai",
-        "productivity",
-        "programming",
-        "discuss"
-      ],
-      "user_name": "Brad Traversy",
-      "user_username": "bradtraversy",
-      "last_seen": "2026-09-27T13:52:54.383757491+00:00"
     },
     {
       "key": "4701626",
@@ -9814,7 +9770,7 @@
       ],
       "user_name": "Raju Dandigam",
       "user_username": "raju_dandigam",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5031605",
@@ -9826,8 +9782,8 @@
       "published_timestamp": "2026-11-21T14:20:00Z",
       "published_at": "2026-11-21T14:20:00Z",
       "edited_at": null,
-      "public_reactions_count": 32,
-      "positive_reactions_count": 32,
+      "public_reactions_count": 33,
+      "positive_reactions_count": 33,
       "tag_list": [
         "typescript",
         "testing",
@@ -9836,7 +9792,7 @@
       ],
       "user_name": "Raju Dandigam",
       "user_username": "raju_dandigam",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5032798",
@@ -9848,8 +9804,8 @@
       "published_timestamp": "2026-11-23T15:10:00Z",
       "published_at": "2026-11-23T15:10:00Z",
       "edited_at": null,
-      "public_reactions_count": 42,
-      "positive_reactions_count": 42,
+      "public_reactions_count": 43,
+      "positive_reactions_count": 43,
       "tag_list": [
         "webdev",
         "ai",
@@ -9858,7 +9814,7 @@
       ],
       "user_name": "Raju Dandigam",
       "user_username": "raju_dandigam",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5035228",
@@ -9914,8 +9870,8 @@
       "published_timestamp": "2026-11-21T18:23:38Z",
       "published_at": "2026-11-21T18:23:38Z",
       "edited_at": null,
-      "public_reactions_count": 95,
-      "positive_reactions_count": 95,
+      "public_reactions_count": 100,
+      "positive_reactions_count": 100,
       "tag_list": [
         "ai",
         "kiro",
@@ -9924,7 +9880,7 @@
       ],
       "user_name": "Earl Grey",
       "user_username": "earlgreyhot1701d",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5037164",
@@ -10460,8 +10416,8 @@
       "published_timestamp": "2026-11-20T16:28:49Z",
       "published_at": "2026-11-20T16:28:49Z",
       "edited_at": "2026-11-24T16:36:03Z",
-      "public_reactions_count": 57,
-      "positive_reactions_count": 57,
+      "public_reactions_count": 58,
+      "positive_reactions_count": 58,
       "tag_list": [
         "codenewbie",
         "ai",
@@ -10470,7 +10426,7 @@
       ],
       "user_name": "Lauren Lee👩🏼‍💻",
       "user_username": "lolocoding",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5058027",
@@ -10514,7 +10470,7 @@
       ],
       "user_name": "𝗝𝗼𝗵𝗻",
       "user_username": "johnnylemonny",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5058432",
@@ -10734,7 +10690,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5067508",
@@ -10865,7 +10821,7 @@
       ],
       "user_name": "Lauren Lee👩🏼‍💻",
       "user_username": "lolocoding",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5076491",
@@ -10886,7 +10842,7 @@
       ],
       "user_name": "Peter Kim Frank",
       "user_username": "peter",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5079085",
@@ -10908,7 +10864,7 @@
       ],
       "user_name": "Self-Correcting Systems",
       "user_username": "kenielzep97",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5080715",
@@ -10930,7 +10886,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5081066",
@@ -10974,7 +10930,7 @@
       ],
       "user_name": "Remigiusz Samborski",
       "user_username": "rsamborski",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5082373",
@@ -10996,7 +10952,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5082880",
@@ -11008,8 +10964,8 @@
       "published_timestamp": "2026-11-21T11:49:40Z",
       "published_at": "2026-11-21T11:49:40Z",
       "edited_at": "2026-11-22T12:42:12Z",
-      "public_reactions_count": 52,
-      "positive_reactions_count": 52,
+      "public_reactions_count": 53,
+      "positive_reactions_count": 53,
       "tag_list": [
         "ai",
         "programming",
@@ -11018,7 +10974,7 @@
       ],
       "user_name": "EffessDev",
       "user_username": "effessdev",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5083703",
@@ -11061,7 +11017,7 @@
       ],
       "user_name": "Sᴛᴀʀ⭐",
       "user_username": "star123",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5083961",
@@ -11083,7 +11039,7 @@
       ],
       "user_name": "xbill",
       "user_username": "xbill",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5085299",
@@ -11095,8 +11051,8 @@
       "published_timestamp": "2026-11-23T14:42:00Z",
       "published_at": "2026-11-23T14:42:00Z",
       "edited_at": null,
-      "public_reactions_count": 152,
-      "positive_reactions_count": 152,
+      "public_reactions_count": 166,
+      "positive_reactions_count": 166,
       "tag_list": [
         "discuss",
         "community",
@@ -11105,7 +11061,7 @@
       ],
       "user_name": "FrancisTRᴅᴇᴠ",
       "user_username": "francistrdev",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5087305",
@@ -11127,7 +11083,7 @@
       ],
       "user_name": "Kiran Naragund",
       "user_username": "dev_kiran",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5088257",
@@ -11171,7 +11127,7 @@
       ],
       "user_name": "Carlos Barbero",
       "user_username": "carlosrgomes",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5089957",
@@ -11183,8 +11139,8 @@
       "published_timestamp": "2026-11-22T13:27:10Z",
       "published_at": "2026-11-22T13:27:10Z",
       "edited_at": null,
-      "public_reactions_count": 112,
-      "positive_reactions_count": 112,
+      "public_reactions_count": 111,
+      "positive_reactions_count": 111,
       "tag_list": [
         "necoz",
         "opensource",
@@ -11193,7 +11149,29 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
+      "key": "5090341",
+      "id": 5090341,
+      "canonical_url": "https://dev.to/antonioprosperi2svg/programming-at-53-code-has-no-age-3k5f",
+      "url": "https://dev.to/antonioprosperi2svg/programming-at-53-code-has-no-age-3k5f",
+      "title": "Programming at 53: Code Has No Age",
+      "description": "From 10 PRINT on the Commodore 64 to the modern web: why I started coding again at 53, in the evenings after the factory.",
+      "published_timestamp": "2026-11-21T20:31:32Z",
+      "published_at": "2026-11-21T20:31:32Z",
+      "edited_at": "2026-11-21T21:58:28Z",
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "programming",
+        "beginners",
+        "webdev",
+        "necoz"
+      ],
+      "user_name": "Antonio ",
+      "user_username": "antonioprosperi2svg",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5091872",
@@ -11215,7 +11193,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5091929",
@@ -11226,9 +11204,9 @@
       "description": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
       "published_timestamp": "2026-11-22T05:23:14Z",
       "published_at": "2026-11-22T05:23:14Z",
-      "edited_at": null,
-      "public_reactions_count": 68,
-      "positive_reactions_count": 68,
+      "edited_at": "2026-11-26T06:37:08Z",
+      "public_reactions_count": 74,
+      "positive_reactions_count": 74,
       "tag_list": [
         "ai",
         "rag",
@@ -11237,7 +11215,7 @@
       ],
       "user_name": "Ayush Singh",
       "user_username": "ayush_singh321",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5092956",
@@ -11254,7 +11232,7 @@
       "tag_list": [],
       "user_name": "Shruti Shahi",
       "user_username": "mestonecold",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5093834",
@@ -11266,8 +11244,8 @@
       "published_timestamp": "2026-11-22T13:01:22Z",
       "published_at": "2026-11-22T13:01:22Z",
       "edited_at": "2026-11-22T13:11:31Z",
-      "public_reactions_count": 78,
-      "positive_reactions_count": 78,
+      "public_reactions_count": 79,
+      "positive_reactions_count": 79,
       "tag_list": [
         "discuss",
         "github",
@@ -11276,7 +11254,7 @@
       ],
       "user_name": "Hanzla Baig",
       "user_username": "hanzla",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5093874",
@@ -11298,7 +11276,7 @@
       ],
       "user_name": "Kanak Waradkar",
       "user_username": "kakeroth",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5094625",
@@ -11310,8 +11288,8 @@
       "published_timestamp": "2026-11-23T13:19:07Z",
       "published_at": "2026-11-23T13:19:07Z",
       "edited_at": "2026-11-23T13:48:54Z",
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 41,
+      "positive_reactions_count": 41,
       "tag_list": [
         "ai",
         "programming",
@@ -11320,7 +11298,7 @@
       ],
       "user_name": "Varshith V Hegde",
       "user_username": "varshithvhegde",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5095297",
@@ -11332,8 +11310,8 @@
       "published_timestamp": "2026-11-25T17:15:25Z",
       "published_at": "2026-11-25T17:15:25Z",
       "edited_at": null,
-      "public_reactions_count": 59,
-      "positive_reactions_count": 59,
+      "public_reactions_count": 76,
+      "positive_reactions_count": 76,
       "tag_list": [
         "typescript",
         "frontend",
@@ -11342,7 +11320,7 @@
       ],
       "user_name": "nyaomaru",
       "user_username": "nyaomaru",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5096479",
@@ -11364,7 +11342,7 @@
       ],
       "user_name": "Nikita",
       "user_username": "busy_nikita",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5097388",
@@ -11386,7 +11364,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5097671",
@@ -11408,7 +11386,7 @@
       ],
       "user_name": "Prasoon  Jadon ",
       "user_username": "pjdeveloper896",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5098053",
@@ -11420,8 +11398,8 @@
       "published_timestamp": "2026-11-23T13:24:24Z",
       "published_at": "2026-11-23T13:24:24Z",
       "edited_at": null,
-      "public_reactions_count": 40,
-      "positive_reactions_count": 40,
+      "public_reactions_count": 42,
+      "positive_reactions_count": 42,
       "tag_list": [
         "microsoft",
         "dotnet",
@@ -11430,7 +11408,7 @@
       ],
       "user_name": "Giorgi Kobaidze",
       "user_username": "georgekobaidze",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5098575",
@@ -11442,8 +11420,8 @@
       "published_timestamp": "2026-11-23T08:04:27Z",
       "published_at": "2026-11-23T08:04:27Z",
       "edited_at": null,
-      "public_reactions_count": 47,
-      "positive_reactions_count": 47,
+      "public_reactions_count": 49,
+      "positive_reactions_count": 49,
       "tag_list": [
         "ai",
         "security",
@@ -11452,7 +11430,7 @@
       ],
       "user_name": "Dimitris Kyrkos ",
       "user_username": "cyclopt_dimitrisk",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5099751",
@@ -11473,7 +11451,7 @@
       ],
       "user_name": "Akhouri Anmol Kumar",
       "user_username": "akhourianmolkumar",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5100086",
@@ -11495,7 +11473,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5101676",
@@ -11507,8 +11485,8 @@
       "published_timestamp": "2026-11-24T04:00:44Z",
       "published_at": "2026-11-24T04:00:44Z",
       "edited_at": null,
-      "public_reactions_count": 71,
-      "positive_reactions_count": 71,
+      "public_reactions_count": 77,
+      "positive_reactions_count": 77,
       "tag_list": [
         "discuss",
         "career",
@@ -11517,7 +11495,7 @@
       ],
       "user_name": "Akhouri Anmol Kumar",
       "user_username": "akhourianmolkumar",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5101842",
@@ -11540,6 +11518,28 @@
       "last_seen": "2026-11-24T17:32:11.083257799+00:00"
     },
     {
+      "key": "5102018",
+      "id": 5102018,
+      "canonical_url": "https://dev.to/therealmrmumba/we-automated-the-software-factory-why-am-i-still-clicking-approve-on-typo-fixes-1fc1",
+      "url": "https://dev.to/therealmrmumba/we-automated-the-software-factory-why-am-i-still-clicking-approve-on-typo-fixes-1fc1",
+      "title": "We Automated the Software Factory. Why Am I Still Clicking Approve on Typo Fixes?",
+      "description": "Coding agents can now take a ticket, write the code, and open the pull request on their own. That...",
+      "published_timestamp": "2026-11-23T17:21:51Z",
+      "published_at": "2026-11-23T17:21:51Z",
+      "edited_at": "2026-11-23T17:27:14Z",
+      "public_reactions_count": 34,
+      "positive_reactions_count": 34,
+      "tag_list": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "user_name": "Emmanuel Mumba",
+      "user_username": "therealmrmumba",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
       "key": "5103385",
       "id": 5103385,
       "canonical_url": "https://dev.to/necoz/three-hours-one-small-extension-and-firefox-add-ons-27d4",
@@ -11559,7 +11559,7 @@
       ],
       "user_name": "Antonio ",
       "user_username": "antonioprosperi2svg",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5103474",
@@ -11571,8 +11571,8 @@
       "published_timestamp": "2026-11-24T16:30:00Z",
       "published_at": "2026-11-24T16:30:00Z",
       "edited_at": null,
-      "public_reactions_count": 58,
-      "positive_reactions_count": 58,
+      "public_reactions_count": 59,
+      "positive_reactions_count": 59,
       "tag_list": [
         "ai",
         "devops",
@@ -11581,7 +11581,7 @@
       ],
       "user_name": "𝗝𝗼𝗵𝗻",
       "user_username": "johnnylemonny",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5105045",
@@ -11593,15 +11593,37 @@
       "published_timestamp": "2026-11-24T11:27:12Z",
       "published_at": "2026-11-24T11:27:12Z",
       "edited_at": "2026-11-24T12:06:56Z",
-      "public_reactions_count": 55,
-      "positive_reactions_count": 55,
+      "public_reactions_count": 60,
+      "positive_reactions_count": 60,
       "tag_list": [
         "music",
         "necoz"
       ],
       "user_name": "Sᴛᴀʀ⭐",
       "user_username": "star123",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
+      "key": "5105841",
+      "id": 5105841,
+      "canonical_url": "https://dev.to/startupcafe/how-one-blind-reply-on-x-took-me-to-deepminds-london-hq-twice-31ff",
+      "url": "https://dev.to/startupcafe/how-one-blind-reply-on-x-took-me-to-deepminds-london-hq-twice-31ff",
+      "title": "How One Blind Reply on X Took Me to DeepMind's London HQ Twice",
+      "description": "Why I Stopped Overthinking Replies (and Deployments)   For the first time, I'm not writing...",
+      "published_timestamp": "2026-11-24T07:16:26Z",
+      "published_at": "2026-11-24T07:16:26Z",
+      "edited_at": null,
+      "public_reactions_count": 37,
+      "positive_reactions_count": 37,
+      "tag_list": [
+        "ai",
+        "career",
+        "discuss",
+        "startup"
+      ],
+      "user_name": "Ananya Soni",
+      "user_username": "aisovereign",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5106419",
@@ -11622,7 +11644,7 @@
       ],
       "user_name": "csm",
       "user_username": "csm18",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5106902",
@@ -11634,8 +11656,8 @@
       "published_timestamp": "2026-11-25T09:53:39Z",
       "published_at": "2026-11-25T09:53:39Z",
       "edited_at": null,
-      "public_reactions_count": 38,
-      "positive_reactions_count": 38,
+      "public_reactions_count": 49,
+      "positive_reactions_count": 49,
       "tag_list": [
         "keycloak",
         "security",
@@ -11644,7 +11666,51 @@
       ],
       "user_name": "Hadil Ben Abdallah",
       "user_username": "hadil",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
+      "key": "5108945",
+      "id": 5108945,
+      "canonical_url": "https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33",
+      "url": "https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33",
+      "title": "Nostalgia and the AI Productivity Paradox",
+      "description": "There is something strangely nostalgic about November 2026.  GTA VI has finally arrived after 13...",
+      "published_timestamp": "2026-11-26T08:03:09Z",
+      "published_at": "2026-11-26T08:03:09Z",
+      "edited_at": null,
+      "public_reactions_count": 56,
+      "positive_reactions_count": 56,
+      "tag_list": [
+        "ai",
+        "productivity",
+        "watercooler",
+        "discuss"
+      ],
+      "user_name": "Daniel Balcarek",
+      "user_username": "gramli",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
+      "key": "5110658",
+      "id": 5110658,
+      "canonical_url": "https://devers.hashnode.dev/prompt-engineering-tools",
+      "url": "https://dev.to/devstackhub/10-prompt-engineering-tools-i-think-every-developer-should-know-1lia",
+      "title": "10 Prompt Engineering Tools I Think Every Developer Should Know",
+      "description": "A prompt that works perfectly in a quick test can completely change its behavior when you add more...",
+      "published_timestamp": "2026-11-24T18:30:15Z",
+      "published_at": "2026-11-24T18:30:15Z",
+      "edited_at": null,
+      "public_reactions_count": 52,
+      "positive_reactions_count": 52,
+      "tag_list": [
+        "ai",
+        "llm",
+        "promptengineering",
+        "discuss"
+      ],
+      "user_name": "Dev Stack Hub",
+      "user_username": "devstackhub",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5111464",
@@ -11656,15 +11722,15 @@
       "published_timestamp": "2026-11-25T08:29:06Z",
       "published_at": "2026-11-25T08:29:06Z",
       "edited_at": null,
-      "public_reactions_count": 96,
-      "positive_reactions_count": 96,
+      "public_reactions_count": 121,
+      "positive_reactions_count": 121,
       "tag_list": [
         "discuss",
         "mentalhealth"
       ],
       "user_name": "Sylwia Laskowska",
       "user_username": "sylwia-lask",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5112564",
@@ -11686,7 +11752,7 @@
       ],
       "user_name": "xulingfeng",
       "user_username": "xulingfeng",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5112596",
@@ -11708,7 +11774,7 @@
       ],
       "user_name": "RH Shourav",
       "user_username": "rhshourav",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5112821",
@@ -11720,8 +11786,8 @@
       "published_timestamp": "2026-11-25T04:03:43Z",
       "published_at": "2026-11-25T04:03:43Z",
       "edited_at": "2026-11-26T00:44:58Z",
-      "public_reactions_count": 66,
-      "positive_reactions_count": 66,
+      "public_reactions_count": 73,
+      "positive_reactions_count": 73,
       "tag_list": [
         "ai",
         "webdev",
@@ -11730,7 +11796,7 @@
       ],
       "user_name": "Earl Grey",
       "user_username": "earlgreyhot1701d",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5113587",
@@ -11755,6 +11821,28 @@
       "last_seen": "2026-11-25T12:40:43.555622136+00:00"
     },
     {
+      "key": "5113714",
+      "id": 5113714,
+      "canonical_url": "https://dev.to/necoz/why-cant-we-just-include-functionsc-in-mainc-1a73",
+      "url": "https://dev.to/necoz/why-cant-we-just-include-functionsc-in-mainc-1a73",
+      "title": "Why Can't We Just #include \"functions.c\" in \"main.c\"? 🤔",
+      "description": "Suppose we have two files.  functions.c:    #include &lt;stdio.h&gt;  void greet(void) {  ...",
+      "published_timestamp": "2026-11-26T12:21:47Z",
+      "published_at": "2026-11-26T12:21:47Z",
+      "edited_at": null,
+      "public_reactions_count": 39,
+      "positive_reactions_count": 39,
+      "tag_list": [
+        "programming",
+        "tutorial",
+        "beginners",
+        "c"
+      ],
+      "user_name": "EffessDev",
+      "user_username": "effessdev",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
       "key": "5115486",
       "id": 5115486,
       "canonical_url": "https://dev.to/thethirdcup/home-office-nightmare-2ja0",
@@ -11764,8 +11852,8 @@
       "published_timestamp": "2026-11-25T13:47:19Z",
       "published_at": "2026-11-25T13:47:19Z",
       "edited_at": "2026-11-25T20:47:25Z",
-      "public_reactions_count": 49,
-      "positive_reactions_count": 49,
+      "public_reactions_count": 55,
+      "positive_reactions_count": 55,
       "tag_list": [
         "discuss",
         "mentalhealth",
@@ -11773,7 +11861,29 @@
       ],
       "user_name": "Peter Vivo",
       "user_username": "pengeszikra",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
+      "key": "5115821",
+      "id": 5115821,
+      "canonical_url": "https://shubhra.dev/blog/nodejs-graceful-shutdown",
+      "url": "https://dev.to/shubhradev/what-serverclose-misses-in-nodejs-graceful-shutdown-4ech",
+      "title": "What server.close() Misses in Node.js Graceful Shutdown",
+      "description": "My default Node.js graceful shutdown was short. Listen for SIGTERM, call server.close(), wait for the...",
+      "published_timestamp": "2026-11-25T15:19:41Z",
+      "published_at": "2026-11-25T15:19:41Z",
+      "edited_at": null,
+      "public_reactions_count": 31,
+      "positive_reactions_count": 31,
+      "tag_list": [
+        "node",
+        "sigterm",
+        "fastify",
+        "express"
+      ],
+      "user_name": "Shubhra Pokhariya",
+      "user_username": "shubhradev",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     },
     {
       "key": "5117518",
@@ -11785,8 +11895,8 @@
       "published_timestamp": "2026-11-25T15:26:38Z",
       "published_at": "2026-11-25T15:26:38Z",
       "edited_at": null,
-      "public_reactions_count": 82,
-      "positive_reactions_count": 82,
+      "public_reactions_count": 100,
+      "positive_reactions_count": 100,
       "tag_list": [
         "discuss",
         "aws",
@@ -11795,7 +11905,51 @@
       ],
       "user_name": "Hemapriya Kanagala",
       "user_username": "hemapriya_kanagala",
-      "last_seen": "2026-11-26T04:57:29.648055759+00:00"
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
+      "key": "5120802",
+      "id": 5120802,
+      "canonical_url": "https://dev.to/thethirdcup/i-built-ai-test-automation-today-i-went-back-to-manual-testing-mlh",
+      "url": "https://dev.to/thethirdcup/i-built-ai-test-automation-today-i-went-back-to-manual-testing-mlh",
+      "title": "I Built AI Test Automation. Today, I Went Back to Manual Testing.",
+      "description": "Today, I manually tested a project.  It doesn't sound like anything special.  After all, I've been...",
+      "published_timestamp": "2026-11-26T08:16:05Z",
+      "published_at": "2026-11-26T08:16:05Z",
+      "edited_at": null,
+      "public_reactions_count": 74,
+      "positive_reactions_count": 74,
+      "tag_list": [
+        "discuss",
+        "testing",
+        "ai",
+        "watercooler"
+      ],
+      "user_name": "xulingfeng",
+      "user_username": "xulingfeng",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
+    },
+    {
+      "key": "5124086",
+      "id": 5124086,
+      "canonical_url": "https://dev.to/zayd_ahmed/a-hacker-attacked-wealtii-for-nearly-7-hours-and-stole-0-the-crypto-security-features-we-added-582e",
+      "url": "https://dev.to/zayd_ahmed/a-hacker-attacked-wealtii-for-nearly-7-hours-and-stole-0-the-crypto-security-features-we-added-582e",
+      "title": "A Hacker Attacked Wealtii for Nearly 7 Hours and Stole $0: The Crypto Security Features We Added",
+      "description": "A hacker spent nearly 7 hours trying to break into Wealtii, a crypto investing platform, and stole...",
+      "published_timestamp": "2026-11-26T11:09:18Z",
+      "published_at": "2026-11-26T11:09:18Z",
+      "edited_at": "2026-11-26T11:14:13Z",
+      "public_reactions_count": 35,
+      "positive_reactions_count": 35,
+      "tag_list": [
+        "crypto",
+        "cybersecurity",
+        "security",
+        "web3"
+      ],
+      "user_name": "zayd ahmed",
+      "user_username": "zayd_ahmed",
+      "last_seen": "2026-11-26T15:01:38.181881684+00:00"
     }
   ]
 }
